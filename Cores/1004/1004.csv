@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1004,973,"Hansen Marsh",2891,"Core top",-15,1,-15,5,10,0
+"2",1004,973,"Hansen Marsh",2893,"Radiocarbon",10735,91.5,10630,10840,105,1
+"3",1004,973,"Hansen Marsh",2894,"Deglaciation",14000,760,13500,14500,500,0

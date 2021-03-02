@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3837,2849,"Weber Lake",8454,"Core top",10,0,-10,30,20,0
+"2",3837,2849,"Weber Lake",8456,"Other dating methods",7300,370,7000,7600,300,0
+"3",3837,2849,"Weber Lake",8457,"Other dating methods",9150,535,8850,9450,300,0
+"4",3837,2849,"Weber Lake",8458,"Other dating methods",10180,715,9780,10580,400,0
+"5",3837,2849,"Weber Lake",8459,"Other dating methods",10550,715,10150,10950,400,0
+"6",3837,2849,"Weber Lake",8460,"Other dating methods",14690,800,14190,15190,500,0
+"7",3837,2849,"Weber Lake",8461,"Core bottom",15000,860,14500,15500,500,0

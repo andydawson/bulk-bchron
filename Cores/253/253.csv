@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",253,248,"Bell's Lake",506,"Core top",0,0,-40,40,40,0
+"2",253,248,"Bell's Lake",507,"Radiocarbon",2340,108,2220,2460,120,1
+"3",253,248,"Bell's Lake",508,"Radiocarbon",4430,240,4290,4570,140,1
+"4",253,248,"Bell's Lake",509,"Radiocarbon",5600,319,5460,5740,140,1
+"5",253,248,"Bell's Lake",510,"Radiocarbon",8740,395,8580,8900,160,1
+"6",253,248,"Bell's Lake",511,"Radiocarbon",10230,406,9930,10530,300,1

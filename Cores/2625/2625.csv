@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2625,2535,"Tangle Lakes",6937,"Core top",-28,0,-8,-28,10,0
+"2",2625,2535,"Tangle Lakes",6938,"Radiocarbon",2880,235,2740,3020,140,1
+"3",2625,2535,"Tangle Lakes",6939,"Radiocarbon",4560,520.5,4220,4900,340,1

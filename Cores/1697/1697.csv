@@ -1,0 +1,9 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1697,1642,"Mangrove Lake",4527,"Radiocarbon",970,255,830,1110,140,1
+"2",1697,1642,"Mangrove Lake",4528,"Radiocarbon",2690,455,2550,2830,140,1
+"3",1697,1642,"Mangrove Lake",4529,"Radiocarbon",3170,655,3030,3310,140,1
+"4",1697,1642,"Mangrove Lake",4530,"Radiocarbon",4240,855,4100,4380,140,1
+"5",1697,1642,"Mangrove Lake",4531,"Radiocarbon",4940,1055,4780,5100,160,1
+"6",1697,1642,"Mangrove Lake",4532,"Radiocarbon",6020,1255,5860,6180,160,1
+"7",1697,1642,"Mangrove Lake",4533,"Radiocarbon",7310,1455,7150,7470,160,1
+"8",1697,1642,"Mangrove Lake",4534,"Radiocarbon",9260,1614.5,9080,9440,180,1

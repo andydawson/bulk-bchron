@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2630,2540,"Taylor Creek Site 2",6960,"Core top",-45,0,-45,-45,0,0
+"2",2630,2540,"Taylor Creek Site 2",6961,"Lead-210",-10,5.5,-15,-5,5,0
+"3",2630,2540,"Taylor Creek Site 2",6962,"Lead-210",50,17.5,45,55,5,0
+"4",2630,2540,"Taylor Creek Site 2",6963,"Radiocarbon",230,22,190,270,40,1
+"5",2630,2540,"Taylor Creek Site 2",6964,"Radiocarbon",1610,75.5,1550,1670,60,1

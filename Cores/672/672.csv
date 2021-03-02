@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",672,656,"Decoy Lake",1801,"Core top",0,20,-35,35,35,0
+"2",672,656,"Decoy Lake",1803,"Radiocarbon",2620,94,2540,2700,80,1
+"3",672,656,"Decoy Lake",1804,"Radiocarbon",6320,135,6200,6440,120,1
+"4",672,656,"Decoy Lake",1805,"Radiocarbon",8600,250,8440,8760,160,1
+"5",672,656,"Decoy Lake",1806,"Radiocarbon",10160,418,10000,10320,160,1
+"6",672,656,"Decoy Lake",1807,"Radiocarbon",11770,497,11590,11950,180,1

@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1701,1646,"Maplehurst Lake",4560,"Core top",0,0,-20,20,20,0
+"2",1701,1646,"Maplehurst Lake",4562,"Radiocarbon",5330,455,5110,5550,220,1
+"3",1701,1646,"Maplehurst Lake",4563,"Radiocarbon",7690,600,7520,7860,170,1
+"4",1701,1646,"Maplehurst Lake",4564,"Radiocarbon",9650,720,9540,9760,110,1
+"5",1701,1646,"Maplehurst Lake",4565,"Radiocarbon",12500,762,12320,12680,180,1

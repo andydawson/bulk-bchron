@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2619,2529,"Swamp Lake",6893,"Core top",-30,0,-30,-10,10,0
+"2",2619,2529,"Swamp Lake",6894,"Radiocarbon, average of two or more dates",1978,101,1848,2108,130,1
+"3",2619,2529,"Swamp Lake",6894,"Radiocarbon, average of two or more dates",1978,101,1848,2108,130,1
+"4",2619,2529,"Swamp Lake",6895,"Radiocarbon",3920,256,3730,4110,190,1
+"5",2619,2529,"Swamp Lake",6896,"Tephra",7015,429,6925,7105,90,0
+"6",2619,2529,"Swamp Lake",6897,"Radiocarbon",10420,605,10220,10620,200,1
+"7",2619,2529,"Swamp Lake",6898,"Radiocarbon",13690,711,13010,14370,680,1

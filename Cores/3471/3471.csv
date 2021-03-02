@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3471,257,"Lake BI2",7936,"Core top",0,0,-40,40,40,0
+"2",3471,257,"Lake BI2",7937,"Radiocarbon",2270,40,2150,2390,120,1
+"3",3471,257,"Lake BI2",7938,"Radiocarbon",4080,75,3840,4320,240,1
+"4",3471,257,"Lake BI2",7939,"Radiocarbon",4340,100,4160,4520,180,1
+"5",3471,257,"Lake BI2",7940,"Radiocarbon",7010,142,6770,7250,240,1

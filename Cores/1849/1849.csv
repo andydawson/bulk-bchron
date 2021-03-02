@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1849,1790,"Paradise Lake",5234,"Core top",0,205,-50,50,50,0
+"2",1849,1790,"Paradise Lake",5235,"Radiocarbon, average of two or more dates",6050,335,5990,6110,60,1
+"3",1849,1790,"Paradise Lake",5235,"Radiocarbon, average of two or more dates",6050,335,5990,6110,60,1
+"4",1849,1790,"Paradise Lake",5236,"Radiocarbon",9810,458,9690,9930,120,1

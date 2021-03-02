@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",860,833,"Gass Lake",2443,"Core top",0,5,-30,30,30,0
+"2",860,833,"Gass Lake",2445,"Radiocarbon",840,63,715,965,125,1
+"3",860,833,"Gass Lake",2446,"Radiocarbon",3155,315,2990,3320,165,1
+"4",860,833,"Gass Lake",2447,"Radiocarbon",4885,521,4740,5030,145,1
+"5",860,833,"Gass Lake",2448,"Radiocarbon",6320,549,6200,6440,120,1
+"6",860,833,"Gass Lake",2449,"Radiocarbon",9785,614,9550,10020,235,1
+"7",860,833,"Gass Lake",2450,"Radiocarbon",11760,675,11380,12140,380,1

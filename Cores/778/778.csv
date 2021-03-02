@@ -1,0 +1,9 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",778,759,"Eaglenest Lake",2039,"Core top",-32,0,-32,0,16,0
+"2",778,759,"Eaglenest Lake",2040,"Radiocarbon, reservoir correction",280,7.25,0,600,300,1
+"3",778,759,"Eaglenest Lake",2041,"Radiocarbon, reservoir correction",6240,265,6080,6400,160,1
+"4",778,759,"Eaglenest Lake",2042,"Radiocarbon, reservoir correction",7339,275,6699,7979,640,1
+"5",778,759,"Eaglenest Lake",2043,"Radiocarbon, reservoir correction",9740,475,9440,10040,300,1
+"6",778,759,"Eaglenest Lake",2044,"Radiocarbon, reservoir correction",9085,480,8595,9575,490,1
+"7",778,759,"Eaglenest Lake",2045,"Radiocarbon, reservoir correction",10280,495,9730,10830,550,1
+"8",778,759,"Eaglenest Lake",2046,"Other dating methods",11000,700,10000,12000,1000,0

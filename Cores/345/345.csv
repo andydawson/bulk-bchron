@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",345,337,"Carter Site",1037,"Radiocarbon",11720,10.5,11380,12060,340,1
+"2",345,337,"Carter Site",1038,"Radiocarbon",12590,93.5,11650,13470,910,1
+"3",345,337,"Carter Site",1039,"Radiocarbon",13000,223,12200,13800,800,1
+"4",345,337,"Carter Site",1040,"Radiocarbon",14810,410,14470,15150,340,1

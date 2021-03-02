@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1651,1600,"Little Lake",4274,"Radiocarbon",10580,752,10420,10740,160,1
+"2",1651,1600,"Little Lake",4275,"Radiocarbon",11820,780,11640,12000,180,1
+"3",1651,1600,"Little Lake",4276,"Deglaciation",13500,941,13000,14000,500,0

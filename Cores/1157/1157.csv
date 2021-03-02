@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1157,1123,"Jack Lake",3261,"Core top",0,0,-20,20,20,0
+"2",1157,1123,"Jack Lake",3262,"Radiocarbon",3450,165.5,3330,3570,120,1
+"3",1157,1123,"Jack Lake",3263,"Radiocarbon",7490,325,7310,7670,180,1
+"4",1157,1123,"Jack Lake",3264,"Radiocarbon",9270,377.5,9070,9470,200,1

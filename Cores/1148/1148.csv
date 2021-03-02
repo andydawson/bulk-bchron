@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1148,1114,"Indian Prairie Fen",3186,"Core top",0,0,-40,40,40,0
+"2",1148,1114,"Indian Prairie Fen",3187,"Radiocarbon",2880,181,2760,3000,120,1
+"3",1148,1114,"Indian Prairie Fen",3188,"Radiocarbon",4950,235,4830,5070,120,1
+"4",1148,1114,"Indian Prairie Fen",3189,"Tephra",6850,333,6700,7000,150,0
+"5",1148,1114,"Indian Prairie Fen",3190,"Radiocarbon",8770,505,8610,8930,160,1
+"6",1148,1114,"Indian Prairie Fen",3191,"Radiocarbon",9830,595,9690,9970,140,1
+"7",1148,1114,"Indian Prairie Fen",3192,"Radiocarbon",12300,720,12080,12520,220,1

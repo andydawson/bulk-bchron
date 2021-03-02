@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2289,2212,"Rose Lake",6053,"Core top",0,0,-20,20,20,0
+"2",2289,2212,"Rose Lake",6055,"Radiocarbon",2525,240,2305,2745,220,1
+"3",2289,2212,"Rose Lake",6057,"Radiocarbon",14175,1285,13975,14375,200,1

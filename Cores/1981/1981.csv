@@ -1,0 +1,25 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1981,1915,"Point Escuminac",5604,"Core top",0,0,0,0,0,0
+"2",1981,1915,"Point Escuminac",5606,"Radiocarbon",470,29.5,250,690,220,1
+"3",1981,1915,"Point Escuminac",5607,"Radiocarbon",1100,50,920,1280,180,1
+"4",1981,1915,"Point Escuminac",5608,"Radiocarbon",1150,69.5,910,1390,240,1
+"5",1981,1915,"Point Escuminac",5609,"Radiocarbon",1830,95,1650,2010,180,1
+"6",1981,1915,"Point Escuminac",5610,"Radiocarbon",1630,119.5,1450,1810,180,1
+"7",1981,1915,"Point Escuminac",5611,"Radiocarbon",2260,145,2100,2420,160,1
+"8",1981,1915,"Point Escuminac",5612,"Radiocarbon",2230,169.5,1970,2490,260,1
+"9",1981,1915,"Point Escuminac",5613,"Radiocarbon",2850,183.5,2590,3110,260,1
+"10",1981,1915,"Point Escuminac",5614,"Radiocarbon",2950,197.5,2790,3110,160,1
+"11",1981,1915,"Point Escuminac",5615,"Radiocarbon",3340,217.5,3100,3580,240,1
+"12",1981,1915,"Point Escuminac",5616,"Radiocarbon",4320,250.25,4140,4500,180,1
+"13",1981,1915,"Point Escuminac",5617,"Radiocarbon",4300,269.5,4080,4520,220,1
+"14",1981,1915,"Point Escuminac",5618,"Radiocarbon",4670,321.5,4390,4950,280,1
+"15",1981,1915,"Point Escuminac",5619,"Radiocarbon",5140,331.5,4920,5360,220,1
+"16",1981,1915,"Point Escuminac",5620,"Radiocarbon",6460,377,6240,6680,220,1
+"17",1981,1915,"Point Escuminac",5621,"Radiocarbon",7250,396,6990,7510,260,1
+"18",1981,1915,"Point Escuminac",5622,"Radiocarbon",9110,432,8890,9330,220,1
+"19",1981,1915,"Point Escuminac",5623,"Radiocarbon",8970,448.5,8650,9290,320,1
+"20",1981,1915,"Point Escuminac",5624,"Radiocarbon",9460,481,9100,9820,360,1
+"21",1981,1915,"Point Escuminac",5625,"Radiocarbon",10080,486.75,9800,10360,280,1
+"22",1981,1915,"Point Escuminac",5626,"Radiocarbon",10210,488,9850,10570,360,1
+"23",1981,1915,"Point Escuminac",5627,"Radiocarbon, average of two or more dates",10760,514.25,10560,10960,200,1
+"24",1981,1915,"Point Escuminac",5627,"Radiocarbon, average of two or more dates",10760,514.25,10560,10960,200,1

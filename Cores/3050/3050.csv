@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3050,2951,"Zuehl Farm Site",7648,"Core top",0,0,-50,50,50,0
+"2",3050,2951,"Zuehl Farm Site",7649,"Radiocarbon",2320,33,2260,2380,60,1
+"3",3050,2951,"Zuehl Farm Site",7650,"Radiocarbon",4790,97.5,4710,4870,80,1
+"4",3050,2951,"Zuehl Farm Site",7651,"Radiocarbon",10250,157,10100,10400,150,1
+"5",3050,2951,"Zuehl Farm Site",7652,"Radiocarbon",12430,199.5,12270,12590,160,1
+"6",3050,2951,"Zuehl Farm Site",7653,"Other dating methods",13000,290,12500,13500,500,0

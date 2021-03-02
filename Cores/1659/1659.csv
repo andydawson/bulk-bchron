@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1659,1608,"Long Lake (CA:Nunavut)",4316,"Core top",-18,0,-18,2,10,0
+"2",1659,1608,"Long Lake (CA:Nunavut)",4317,"Radiocarbon",3745,37,3625,3865,120,1
+"3",1659,1608,"Long Lake (CA:Nunavut)",4318,"Radiocarbon",5550,97,5400,5700,150,1

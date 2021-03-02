@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1902,1838,"Pinecrest Lake",5398,"Core top",0,0,-20,20,20,0
+"2",1902,1838,"Pinecrest Lake",5399,"Tephra",6850,387,6700,7000,150,0
+"3",1902,1838,"Pinecrest Lake",5400,"Radiocarbon",11000,455,10660,11340,340,1

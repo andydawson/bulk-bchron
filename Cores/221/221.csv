@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",221,219,"Axe Lake",243,"Core top",-30,0,-30,-10,10,0
+"2",221,219,"Axe Lake",244,"Radiocarbon",4770,372.5,4530,5010,240,1
+"3",221,219,"Axe Lake",245,"Radiocarbon",7200,505,6900,7500,300,1
+"4",221,219,"Axe Lake",246,"Radiocarbon",8830,635,8390,9270,440,1

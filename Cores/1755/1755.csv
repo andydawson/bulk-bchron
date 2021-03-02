@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1755,1699,"Minakokosa Lake",4748,"Core top",0,0,-35,500,267.5,0
+"2",1755,1699,"Minakokosa Lake",4749,"Radiocarbon",4520,95,4430,4610,90,1
+"3",1755,1699,"Minakokosa Lake",4750,"Radiocarbon",8580,315,8460,8700,120,1
+"4",1755,1699,"Minakokosa Lake",4751,"Radiocarbon",9770,355,9610,9930,160,1
+"5",1755,1699,"Minakokosa Lake",4752,"Radiocarbon",15190,505,14970,15410,220,1

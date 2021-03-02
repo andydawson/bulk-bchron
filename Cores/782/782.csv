@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",782,763,"East Baltic Bog",2057,"Core top",-20,0,-40,-20,10,0
+"2",782,763,"East Baltic Bog",2059,"Radiocarbon, reservoir correction",4020,337.5,3900,4140,120,1
+"3",782,763,"East Baltic Bog",2060,"Radiocarbon, reservoir correction",7000,497.5,6860,7140,140,1
+"4",782,763,"East Baltic Bog",2061,"Radiocarbon",8430,576,8130,8730,300,1

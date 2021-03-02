@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",232,229,"Barchampe Lake",308,"Core top",-36,450,-36,-20,8,0
+"2",232,229,"Barchampe Lake",310,"Radiocarbon",1040,553,880,1200,160,1
+"3",232,229,"Barchampe Lake",311,"Radiocarbon",7290,893.5,7130,7450,160,1

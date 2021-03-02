@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",517,504,"Crane Lake",1539,"Core top",-39,0,-39,11,25,0
+"2",517,504,"Crane Lake",1540,"Radiocarbon",2850,52.5,2670,3030,180,1
+"3",517,504,"Crane Lake",1541,"Radiocarbon",4240,100,4060,4420,180,1
+"4",517,504,"Crane Lake",1542,"Radiocarbon",11200,400,10720,11680,480,1

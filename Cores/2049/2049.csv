@@ -1,0 +1,11 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2049,1976,"Redrock Lake",5846,"Radiocarbon",1590,37.5,1400,1780,190,1
+"2",2049,1976,"Redrock Lake",5847,"Radiocarbon",2450,57.5,2250,2650,200,1
+"3",2049,1976,"Redrock Lake",5848,"Radiocarbon",3970,69,3770,4170,200,1
+"4",2049,1976,"Redrock Lake",5849,"Radiocarbon",4290,81.5,4080,4500,210,1
+"5",2049,1976,"Redrock Lake",5850,"Radiocarbon",4830,94,4630,5030,200,1
+"6",2049,1976,"Redrock Lake",5851,"Radiocarbon",5150,106.5,4940,5360,210,1
+"7",2049,1976,"Redrock Lake",5852,"Radiocarbon",5260,118.5,5050,5470,210,1
+"8",2049,1976,"Redrock Lake",5853,"Radiocarbon",6870,131.5,6640,7100,230,1
+"9",2049,1976,"Redrock Lake",5854,"Radiocarbon",8460,152.5,8210,8710,250,1
+"10",2049,1976,"Redrock Lake",5855,"Radiocarbon",9490,167.5,9190,9790,300,1

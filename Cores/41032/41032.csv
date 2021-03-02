@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",41032,23716,"Henrys Fork (lower exposure)",87440,"Radiocarbon",9370,0,9230,9510,140,1
+"2",41032,23716,"Henrys Fork (lower exposure)",87441,"Radiocarbon",5085,-200,4965,5205,120,1
+"3",41032,23716,"Henrys Fork (lower exposure)",87442,"Radiocarbon",8430,-62.5,8230,8630,200,1
+"4",41032,23716,"Henrys Fork (lower exposure)",87443,"Radiocarbon",8570,-25,8410,8730,160,1

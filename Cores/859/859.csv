@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",859,832,"Gardiner's Hole",2440,"Core top",0,0,-30,30,30,0
+"2",859,832,"Gardiner's Hole",2441,"Tephra",6850,212,6700,7000,150,0
+"3",859,832,"Gardiner's Hole",2442,"Radiocarbon",13530,410.5,13270,13790,260,1

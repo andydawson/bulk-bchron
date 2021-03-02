@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2598,2512,"Stages Pond",6793,"Core top",-38,0,-38,-28,5,0
+"2",2598,2512,"Stages Pond",6795,"Radiocarbon, reservoir correction",1660,395,1520,1800,140,1
+"3",2598,2512,"Stages Pond",6796,"Radiocarbon, reservoir correction",3570,960,3310,3830,260,1

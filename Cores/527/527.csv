@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",527,513,"Crowsnest Lake",1596,"Core top",0,0,-32,500,266,0
+"2",527,513,"Crowsnest Lake",1597,"Radiocarbon",6330,257,5920,6740,410,1
+"3",527,513,"Crowsnest Lake",1598,"Radiocarbon",9040,505,8930,9150,110,1
+"4",527,513,"Crowsnest Lake",1599,"Radiocarbon",10570,627.5,10370,10770,200,1

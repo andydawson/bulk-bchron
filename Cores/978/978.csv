@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",978,948,"Gravel Ridge",2705,"Core top",0,710,-100,100,100,0
+"2",978,948,"Gravel Ridge",2706,"Radiocarbon",1930,807.5,1790,2070,140,1
+"3",978,948,"Gravel Ridge",2707,"Radiocarbon",4020,922.5,3910,4130,110,1
+"4",978,948,"Gravel Ridge",2708,"Radiocarbon",5525,1007.5,5345,5705,180,1
+"5",978,948,"Gravel Ridge",2709,"Radiocarbon",6470,1075.5,6170,6770,300,1

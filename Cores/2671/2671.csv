@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2671,2577,"Lac Turcotte",7178,"Core top",0,0,0,0,0,0
+"2",2671,2577,"Lac Turcotte",7179,"Radiocarbon",4730,164,4660,4800,70,1
+"3",2671,2577,"Lac Turcotte",7180,"Radiocarbon",7230,267,7080,7380,150,1
+"4",2671,2577,"Lac Turcotte",7181,"Radiocarbon",9010,295,8940,9080,70,1
+"5",2671,2577,"Lac Turcotte",7182,"Radiocarbon",10360,340,10190,10530,170,1
+"6",2671,2577,"Lac Turcotte",7183,"Core bottom",11000,428,10500,12000,750,0

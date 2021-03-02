@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",381,370,"Lac Ciel Blanc",1234,"Core top",-33,0,-33,0,16.5,0
+"2",381,370,"Lac Ciel Blanc",1235,"Radiocarbon",4090,98,3990,4190,100,1
+"3",381,370,"Lac Ciel Blanc",1236,"Radiocarbon",7400,250,7280,7520,120,1
+"4",381,370,"Lac Ciel Blanc",1237,"Radiocarbon",8750,300,8630,8870,120,1
+"5",381,370,"Lac Ciel Blanc",1238,"Radiocarbon",9350,348,9200,9500,150,1
+"6",381,370,"Lac Ciel Blanc",1239,"Radiocarbon",9910,371.5,9790,10030,120,1

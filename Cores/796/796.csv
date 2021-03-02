@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",796,776,"Emerald Lake",2158,"Core top",0,0,-30,30,30,0
+"2",796,776,"Emerald Lake",2159,"Radiocarbon",4990,217.5,4850,5130,140,1
+"3",796,776,"Emerald Lake",2160,"Tephra",6850,330.5,6700,7000,150,0
+"4",796,776,"Emerald Lake",2161,"Radiocarbon",10260,415,10040,10480,220,1
+"5",796,776,"Emerald Lake",2162,"Radiocarbon",10700,455,10480,10920,220,1
+"6",796,776,"Emerald Lake",2163,"Tephra",12100,520.5,11900,12300,200,0

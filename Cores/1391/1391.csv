@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1391,1356,"Joes Pond",3358,"Core top",-30,0,-30,-10,10,0
+"2",1391,1356,"Joes Pond",3359,"Radiocarbon",3300,290,2830,3770,470,1
+"3",1391,1356,"Joes Pond",3360,"Radiocarbon",9445,423.5,8685,10205,760,1
+"4",1391,1356,"Joes Pond",3361,"Radiocarbon",10950,451,10790,11110,160,1

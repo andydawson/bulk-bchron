@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",776,757,"Eagle Lake Bog",2026,"Core top",0,0,-20,20,20,0
+"2",776,757,"Eagle Lake Bog",2028,"Radiocarbon",2760,66,2615,2905,145,1
+"3",776,757,"Eagle Lake Bog",2030,"Radiocarbon",7800,302,7610,7990,190,1
+"4",776,757,"Eagle Lake Bog",2031,"Radiocarbon",9155,402,9010,9300,145,1

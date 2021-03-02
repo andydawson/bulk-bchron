@@ -1,0 +1,12 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",513,500,"Cottonwood Lake",1495,"Core top",-34,316,-34,0,17,0
+"2",513,500,"Cottonwood Lake",1497,"Radiocarbon",240,387.5,100,380,140,1
+"3",513,500,"Cottonwood Lake",1498,"Radiocarbon",2800,486.5,2520,3080,280,1
+"4",513,500,"Cottonwood Lake",1500,"Radiocarbon",8090,571,7950,8230,140,1
+"5",513,500,"Cottonwood Lake",1501,"Radiocarbon",8110,571,7930,8290,180,1
+"6",513,500,"Cottonwood Lake",1502,"Radiocarbon",8020,608,7889,8160,135.5,1
+"7",513,500,"Cottonwood Lake",1503,"Radiocarbon",9540,729,9360,9720,180,1
+"8",513,500,"Cottonwood Lake",1504,"Radiocarbon",10080,794,9920,10240,160,1
+"9",513,500,"Cottonwood Lake",1505,"Radiocarbon",9770,870,9590,9950,180,1
+"10",513,500,"Cottonwood Lake",1506,"Radiocarbon",10300,917.5,10140,10460,160,1
+"11",513,500,"Cottonwood Lake",1507,"Radiocarbon",11690,972.5,11330,12050,360,1

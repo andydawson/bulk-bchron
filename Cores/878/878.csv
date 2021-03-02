@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",878,849,"Jones Lake [Glenboro site]",2561,"Core top",0,0,-30,30,30,0
+"2",878,849,"Jones Lake [Glenboro site]",2563,"Radiocarbon",2430,210,2300,2560,130,1
+"3",878,849,"Jones Lake [Glenboro site]",2564,"Radiocarbon",3220,315,2980,3460,240,1
+"4",878,849,"Jones Lake [Glenboro site]",2565,"Radiocarbon",4500,450,4250,4750,250,1
+"5",878,849,"Jones Lake [Glenboro site]",2566,"Radiocarbon",5220,570,4670,5770,550,1
+"6",878,849,"Jones Lake [Glenboro site]",2568,"Radiocarbon, reservoir correction",11800,985,11300,12300,500,1

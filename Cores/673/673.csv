@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",673,657,"Deer Lake Bog",1808,"Core top",0,0,-20,20,20,0
+"2",673,657,"Deer Lake Bog",1810,"Radiocarbon",1485,124,1410,1560,75,1
+"3",673,657,"Deer Lake Bog",1811,"Radiocarbon",2790,185.5,2660,2920,130,1
+"4",673,657,"Deer Lake Bog",1813,"Radiocarbon",6465,262.5,6260,6670,205,1
+"5",673,657,"Deer Lake Bog",1814,"Radiocarbon",8620,389.5,8405,8835,215,1
+"6",673,657,"Deer Lake Bog",1815,"Radiocarbon",10960,430,10850,11070,110,1
+"7",673,657,"Deer Lake Bog",1816,"Radiocarbon",13000,475.5,12600,13400,400,1

@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2588,2504,"Splains Lake",6734,"Core top",-30,0,-25,-35,5,0
+"2",2588,2504,"Splains Lake",6735,"Radiocarbon",3880,50,3710,4050,170,1
+"3",2588,2504,"Splains Lake",6736,"Radiocarbon",5040,95,4900,5180,140,1
+"4",2588,2504,"Splains Lake",6737,"Radiocarbon",8750,195,8530,8970,220,1
+"5",2588,2504,"Splains Lake",6738,"Radiocarbon",11040,276,10980,11280,150,1
+"6",2588,2504,"Splains Lake",6739,"Radiocarbon",12020,291.5,11490,12550,530,1
+"7",2588,2504,"Splains Lake",6740,"Deglaciation",15000,490,14500,15500,500,0

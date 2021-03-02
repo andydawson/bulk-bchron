@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1604,1560,"Lake PWWL",3929,"Core top",-45,0,-45,0,22.5,0
+"2",1604,1560,"Lake PWWL",3930,"Radiocarbon",1560,13.5,1470,1650,90,1
+"3",1604,1560,"Lake PWWL",3931,"Radiocarbon",2600,41.5,2520,2680,80,1
+"4",1604,1560,"Lake PWWL",3932,"Radiocarbon",4140,74,4060,4220,80,1
+"5",1604,1560,"Lake PWWL",3933,"Radiocarbon",6480,91.5,6340,6620,140,1
+"6",1604,1560,"Lake PWWL",3934,"Other dating methods",9000,160,8000,10000,1000,0

@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2352,2271,"Seagull Lake",6395,"Core top",0,0,-32,500,266,0
+"2",2352,2271,"Seagull Lake",6396,"Radiocarbon",2260,55,2190,2330,70,1
+"3",2352,2271,"Seagull Lake",6397,"Radiocarbon",5780,155,5700,5860,80,1
+"4",2352,2271,"Seagull Lake",6398,"Radiocarbon",9230,185,9130,9330,100,1

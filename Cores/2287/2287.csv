@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2287,2210,"Rose Swamp",6046,"Core top",-32,0,-32,-12,10,0
+"2",2287,2210,"Rose Swamp",6048,"Radiocarbon",7160,105,6960,7360,200,1
+"3",2287,2210,"Rose Swamp",6049,"Radiocarbon",10070,219,9510,10630,560,1

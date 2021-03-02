@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1606,1561,"Lake QC",3941,"Core top",0,1,-30,30,30,0
+"2",1606,1561,"Lake QC",3942,"Radiocarbon",2940,150,2820,3060,120,1
+"3",1606,1561,"Lake QC",3943,"Radiocarbon",6530,370,6390,6670,140,1
+"4",1606,1561,"Lake QC",3944,"Radiocarbon",8600,450,8320,8880,280,1

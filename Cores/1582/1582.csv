@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1582,1542,"Lake 31",3816,"Radiocarbon",960,6.5,880,1040,80,1
+"2",1582,1542,"Lake 31",3817,"Radiocarbon",2590,39.5,2510,2670,80,1
+"3",1582,1542,"Lake 31",3818,"Radiocarbon",3950,65.5,3850,4050,100,1
+"4",1582,1542,"Lake 31",3819,"Radiocarbon",5030,91.5,4910,5150,120,1

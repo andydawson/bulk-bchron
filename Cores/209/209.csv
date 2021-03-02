@@ -1,0 +1,9 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",209,208,"Lac à l'Ange",193,"Core top",0,0,0,0,0,0
+"2",209,208,"Lac à l'Ange",194,"Radiocarbon",885,95,725,1045,160,1
+"3",209,208,"Lac à l'Ange",195,"Radiocarbon",2575,195,2410,2740,165,1
+"4",209,208,"Lac à l'Ange",196,"Radiocarbon",4365,295,4195,4535,170,1
+"5",209,208,"Lac à l'Ange",197,"Radiocarbon",6410,395,6195,6625,215,1
+"6",209,208,"Lac à l'Ange",198,"Radiocarbon",9560,495.5,9315,9805,245,1
+"7",209,208,"Lac à l'Ange",199,"Radiocarbon",10710,503,10495,10925,215,1
+"8",209,208,"Lac à l'Ange",200,"Deglaciation",11000,565,10500,11500,500,0

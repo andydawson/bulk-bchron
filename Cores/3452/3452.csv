@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3452,1410,"Kellys Hollow",7914,"Core top",-29,0,-29,-9,10,0
+"2",3452,1410,"Kellys Hollow",7915,"Radiocarbon",2920,121.5,2770,3070,150,1
+"3",3452,1410,"Kellys Hollow",7916,"Radiocarbon",6580,419,6400,6760,180,1

@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3081,680,"Disterhaft Farm Bog",7743,"Radiocarbon",2850,205,2785,2915,65,1
+"2",3081,680,"Disterhaft Farm Bog",7744,"Radiocarbon",5370,393.5,5300,5440,70,1
+"3",3081,680,"Disterhaft Farm Bog",7745,"Radiocarbon",8480,525,8395,8565,85,1
+"4",3081,680,"Disterhaft Farm Bog",7747,"Radiocarbon",12520,775,12405,12635,115,1
+"5",3081,680,"Disterhaft Farm Bog",7748,"Other dating methods",14000,873,13000,15000,1000,0

@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",501,489,"Compass Pond",1362,"Core top",-34,0,-34,0,17,0
+"2",501,489,"Compass Pond",1363,"Radiocarbon",2050,97.5,1870,2230,180,1
+"3",501,489,"Compass Pond",1364,"Radiocarbon",3050,197.5,2770,3330,280,1
+"4",501,489,"Compass Pond",1365,"Radiocarbon",4690,297.5,4370,5010,320,1
+"5",501,489,"Compass Pond",1366,"Radiocarbon",6280,397.5,6040,6520,240,1
+"6",501,489,"Compass Pond",1367,"Radiocarbon",8310,437.5,8030,8590,280,1
+"7",501,489,"Compass Pond",1368,"Radiocarbon",9950,497.5,9650,10250,300,1

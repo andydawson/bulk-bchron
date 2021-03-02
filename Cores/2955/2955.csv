@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2955,2858,"Wilcox Pass",7455,"Core top",-30,0,-30,0,15,0
+"2",2955,2858,"Wilcox Pass",7456,"Radiocarbon",540,20,440,640,100,1
+"3",2955,2858,"Wilcox Pass",7457,"Tephra",6850,174,6700,7000,150,0

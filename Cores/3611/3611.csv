@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3611,2260,"San Agustin Plains",8335,"Core top",0,0,-30,30,30,0
+"2",3611,2260,"San Agustin Plains",8336,"Radiocarbon",11445,130,10985,11905,460,1
+"3",3611,2260,"San Agustin Plains",8337,"Radiocarbon",12130,255,11550,12710,580,1
+"4",3611,2260,"San Agustin Plains",8338,"Radiocarbon",16885,375,16185,17585,700,1
+"5",3611,2260,"San Agustin Plains",8339,"Radiocarbon",23070,585,21770,24370,1300,1

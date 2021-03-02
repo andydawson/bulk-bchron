@@ -1,0 +1,3 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1570,1532,"Lac Hamard",3764,"Core top",0,0,-100,100,100,0
+"2",1570,1532,"Lac Hamard",3765,"Radiocarbon",2840,27.5,2630,3050,210,1

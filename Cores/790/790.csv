@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",790,771,"Eldora Fen",2092,"Core top",-17,0,-17,180,98.5,0
+"2",790,771,"Eldora Fen",2093,"Radiocarbon",1420,51.2,1350,1590,120,1
+"3",790,771,"Eldora Fen",2094,"Radiocarbon",2235,60.5,2165,2405,120,1
+"4",790,771,"Eldora Fen",2095,"Radiocarbon",3635,95.2,3445,3825,190,1
+"5",790,771,"Eldora Fen",2096,"Radiocarbon",5285,113.5,5065,5505,220,1
+"6",790,771,"Eldora Fen",2097,"Radiocarbon",7645,154.5,5035,5535,250,1
+"7",790,771,"Eldora Fen",2098,"Radiocarbon",7815,160.2,7565,8065,250,1

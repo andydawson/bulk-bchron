@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2016,1947,"Tourbière de la Rivière-aux-Feuilles",5737,"Core top",0,0,0,0,0,0
+"2",2016,1947,"Tourbière de la Rivière-aux-Feuilles",5738,"Other dating methods",2890,10.5,2890,3040,75,0
+"3",2016,1947,"Tourbière de la Rivière-aux-Feuilles",5739,"Other dating methods",3625,35.5,3625,4255,315,0
+"4",2016,1947,"Tourbière de la Rivière-aux-Feuilles",5740,"Radiocarbon",3765,80.5,3610,3920,155,1
+"5",2016,1947,"Tourbière de la Rivière-aux-Feuilles",5741,"Radiocarbon",4960,125.5,4870,5050,90,1

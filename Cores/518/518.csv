@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",518,505,"Cranberry Glades",1543,"Core top",20,0,0,40,20,0
+"2",518,505,"Cranberry Glades",1545,"Radiocarbon",4900,253,4835,4965,65,1
+"3",518,505,"Cranberry Glades",1546,"Radiocarbon",7325,327,7245,7405,80,1
+"4",518,505,"Cranberry Glades",1547,"Radiocarbon",12185,362,12045,12325,140,1

@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2948,2851,"Wentzel's Pond",7405,"Core top",-30,0,-30,0,15,0
+"2",2948,2851,"Wentzel's Pond",7406,"Radiocarbon, reservoir correction",155,50.5,85,225,70,1
+"3",2948,2851,"Wentzel's Pond",7407,"Radiocarbon, reservoir correction",365,75,205,525,160,1
+"4",2948,2851,"Wentzel's Pond",7408,"Radiocarbon, reservoir correction",2425,185,2265,2585,160,1

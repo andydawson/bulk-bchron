@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",828,804,"Ferndale Bog",2297,"Core top",-29,0,-29,-9,10,0
+"2",828,804,"Ferndale Bog",2298,"Radiocarbon",2580,70.5,2420,2740,160,1
+"3",828,804,"Ferndale Bog",2299,"Radiocarbon, average of two or more dates",4320,130,4192,4448,128,1
+"4",828,804,"Ferndale Bog",2299,"Radiocarbon, average of two or more dates",4320,130,4192,4448,128,1

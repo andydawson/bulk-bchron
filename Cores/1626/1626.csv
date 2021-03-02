@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1626,1579,"Lac à Léonard",4025,"Core top",0,0,0,0,0,0
+"2",1626,1579,"Lac à Léonard",4026,"Radiocarbon",3190,95,3130,3250,60,1
+"3",1626,1579,"Lac à Léonard",4027,"Radiocarbon",4920,192.5,4860,4980,60,1
+"4",1626,1579,"Lac à Léonard",4028,"Radiocarbon",7210,395,7100,7320,110,1
+"5",1626,1579,"Lac à Léonard",4029,"Radiocarbon",7910,445,7790,8030,120,1
+"6",1626,1579,"Lac à Léonard",4030,"Radiocarbon",9040,492.5,8900,9180,140,1

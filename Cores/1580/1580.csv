@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1580,1540,"Lake Sixteen",3806,"Core top",0,0,-50,50,50,0
+"2",1580,1540,"Lake Sixteen",3807,"Radiocarbon",3030,92.5,2890,3170,140,1
+"3",1580,1540,"Lake Sixteen",3808,"Radiocarbon",3780,129.5,3400,4160,380,1
+"4",1580,1540,"Lake Sixteen",3809,"Radiocarbon",5805,157.5,5475,6135,330,1
+"5",1580,1540,"Lake Sixteen",3810,"Radiocarbon",7630,194,7550,7710,80,1
+"6",1580,1540,"Lake Sixteen",3811,"Radiocarbon",10690,228,10590,10790,100,1

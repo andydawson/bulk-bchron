@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1571,1533,"Lac Louis",3768,"Core top",20,0,-30,70,50,0
+"2",1571,1533,"Lac Louis",3770,"Radiocarbon",4260,237,4020,4500,240,1
+"3",1571,1533,"Lac Louis",3771,"Radiocarbon",7280,412,7030,7530,250,1
+"4",1571,1533,"Lac Louis",3772,"Radiocarbon",9090,535,8850,9330,240,1

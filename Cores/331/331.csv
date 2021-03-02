@@ -1,0 +1,9 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",331,324,"Camel Lake",917,"Core top",0,441,-36,100,68,0
+"2",331,324,"Camel Lake",918,"Radiocarbon",7760,472.5,7560,7960,200,1
+"3",331,324,"Camel Lake",921,"Radiocarbon",10020,477.5,9800,10240,220,1
+"4",331,324,"Camel Lake",922,"Radiocarbon",10980,505,10780,11180,200,1
+"5",331,324,"Camel Lake",923,"Radiocarbon",12610,615,12340,12880,270,1
+"6",331,324,"Camel Lake",924,"Radiocarbon",14330,635,13780,14880,550,1
+"7",331,324,"Camel Lake",925,"Radiocarbon",29350,817.5,28150,30550,1200,1
+"8",331,324,"Camel Lake",926,"Radiocarbon",31610,980,30650,32570,960,1

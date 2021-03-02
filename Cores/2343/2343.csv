@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2343,2263,"Lac aux Quenouilles",6368,"Core top",0,0,0,0,0,0
+"2",2343,2263,"Lac aux Quenouilles",6369,"Radiocarbon",8340,830,8250,8430,90,1
+"3",2343,2263,"Lac aux Quenouilles",6370,"Radiocarbon",10630,890,10325,10935,305,1
+"4",2343,2263,"Lac aux Quenouilles",6371,"Radiocarbon",10820,913,10660,10980,160,1

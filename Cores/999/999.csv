@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",999,968,"Hack Pond",2809,"Core top",0,30,-50,50,50,0
+"2",999,968,"Hack Pond",2810,"Radiocarbon",9520,138,9320,9720,200,1
+"3",999,968,"Hack Pond",2811,"Radiocarbon",12720,165,12520,12920,200,1

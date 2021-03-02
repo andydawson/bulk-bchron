@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1541,1503,"Kollioksak",3638,"Core top",0,0,-35,500,267.5,0
+"2",1541,1503,"Kollioksak",3639,"Radiocarbon",2540,30,2480,2600,60,1
+"3",1541,1503,"Kollioksak",3640,"Radiocarbon",6620,280,6530,6710,90,1
+"4",1541,1503,"Kollioksak",3641,"Radiocarbon",9350,405,9260,9440,90,1
+"5",1541,1503,"Kollioksak",3642,"Radiocarbon",14140,445,13700,14580,440,1

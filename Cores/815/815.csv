@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",815,793,"Excelsior Basin",2261,"Core top",0,0,0,0,0,0
+"2",815,793,"Excelsior Basin",2262,"Tephra",6730,68,6680,6780,50,0
+"3",815,793,"Excelsior Basin",2263,"Radiocarbon",8450,104,8110,8790,340,1

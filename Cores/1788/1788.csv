@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1788,1731,"Natla Bog",4938,"Tephra",1250,10,1200,1300,50,0
+"2",1788,1731,"Natla Bog",4939,"Radiocarbon",2980,30,2880,3080,100,1
+"3",1788,1731,"Natla Bog",4940,"Radiocarbon",5450,90,5310,5590,140,1
+"4",1788,1731,"Natla Bog",4941,"Radiocarbon",7720,150,7540,7900,180,1
+"5",1788,1731,"Natla Bog",4942,"Radiocarbon",9400,200,9140,9660,260,1
+"6",1788,1731,"Natla Bog",4943,"Radiocarbon",8400,220,8240,8560,160,1
+"7",1788,1731,"Natla Bog",4944,"Radiocarbon",8630,230,8310,8950,320,1

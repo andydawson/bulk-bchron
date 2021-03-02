@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2615,2526,"Surprise Lake",6871,"Core top",-23,0,2,-23,12.5,0
+"2",2615,2526,"Surprise Lake",6872,"Radiocarbon",1555,60,1295,1815,260,1
+"3",2615,2526,"Surprise Lake",6873,"Radiocarbon",4715,135,4515,4915,200,1
+"4",2615,2526,"Surprise Lake",6874,"Tephra",6730,245,6630,6830,100,0
+"5",2615,2526,"Surprise Lake",6875,"Radiocarbon",8275,310,8005,8545,270,1
+"6",2615,2526,"Surprise Lake",6876,"Radiocarbon",10340,460,10030,10650,310,1
+"7",2615,2526,"Surprise Lake",6877,"Radiocarbon",11230,517.5,10770,11690,460,1

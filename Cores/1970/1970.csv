@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1970,1905,"Posy Lake",5520,"Core top",-39,0,-39,0,19.5,0
+"2",1970,1905,"Posy Lake",5521,"Radiocarbon",2420,80,2260,2580,160,1
+"3",1970,1905,"Posy Lake",5522,"Radiocarbon",3810,137.5,3670,3950,140,1
+"4",1970,1905,"Posy Lake",5523,"Radiocarbon",4740,350,4520,4960,220,1
+"5",1970,1905,"Posy Lake",5524,"Radiocarbon",7330,513,7010,7650,320,1

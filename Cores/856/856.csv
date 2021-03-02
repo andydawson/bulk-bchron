@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",856,829,"Furnival Lake",2412,"Core top",-30,0,-30,-10,10,0
+"2",856,829,"Furnival Lake",2414,"Radiocarbon",5940,350,5820,6060,120,1
+"3",856,829,"Furnival Lake",2415,"Radiocarbon",7260,530,7120,7400,140,1

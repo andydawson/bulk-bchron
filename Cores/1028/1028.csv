@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1028,996,"Hebron Lake",2985,"Core top",0,250,-100,100,100,0
+"2",1028,996,"Hebron Lake",2986,"Radiocarbon",5600,335,5506,5708,101,1
+"3",1028,996,"Hebron Lake",2987,"Radiocarbon",7290,360,7190,7394,102,1
+"4",1028,996,"Hebron Lake",2988,"Radiocarbon",8350,387.5,8180,8520,170,1

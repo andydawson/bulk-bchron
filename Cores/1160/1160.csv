@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1160,1125,"Jackson Pond",3270,"Core top",-33,93,-33,-33,0,0
+"2",1160,1125,"Jackson Pond",3271,"Radiocarbon",120,133,70,170,50,1
+"3",1160,1125,"Jackson Pond",3272,"Radiocarbon",940,160.5,860,1020,80,1
+"4",1160,1125,"Jackson Pond",3273,"Radiocarbon",10040,220.5,9850,10230,190,1
+"5",1160,1125,"Jackson Pond",3274,"Radiocarbon",11860,270,11610,12110,250,1
+"6",1160,1125,"Jackson Pond",3275,"Radiocarbon",17750,510,17480,18020,270,1
+"7",1160,1125,"Jackson Pond",3276,"Radiocarbon",20330,705,19700,20960,630,1

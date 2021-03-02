@@ -1,0 +1,12 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",324,317,"Burden Lake",866,"Radiocarbon",1600,52.5,1460,1740,140,1
+"2",324,317,"Burden Lake",867,"Radiocarbon",2500,152.5,2360,2640,140,1
+"3",324,317,"Burden Lake",868,"Radiocarbon",2870,253,2730,3010,140,1
+"4",324,317,"Burden Lake",869,"Radiocarbon",4000,422.5,3860,4140,140,1
+"5",324,317,"Burden Lake",870,"Radiocarbon",4630,523,4490,4770,140,1
+"6",324,317,"Burden Lake",871,"Radiocarbon",4820,582.5,4680,4960,140,1
+"7",324,317,"Burden Lake",872,"Radiocarbon",5510,652.5,5350,5670,160,1
+"8",324,317,"Burden Lake",873,"Radiocarbon",6700,753,6540,6860,160,1
+"9",324,317,"Burden Lake",874,"Radiocarbon",7340,822.5,7180,7500,160,1
+"10",324,317,"Burden Lake",875,"Radiocarbon",8250,942.5,8070,8430,180,1
+"11",324,317,"Burden Lake",876,"Radiocarbon",8730,983,8550,8910,180,1

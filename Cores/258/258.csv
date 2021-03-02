@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",258,252,"Bereziuk",531,"Core top",0,0,0,0,0,0
+"2",258,252,"Bereziuk",532,"Radiocarbon",3230,192.5,3050,3410,180,1
+"3",258,252,"Bereziuk",533,"Radiocarbon",4160,317.5,4005,4315,155,1
+"4",258,252,"Bereziuk",534,"Radiocarbon",6630,430,6460,6800,170,1
+"5",258,252,"Bereziuk",535,"Deglaciation",7700,500,7200,8200,500,0

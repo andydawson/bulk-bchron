@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",966,937,"Gold Lake Bog",2579,"Core top",0,0,-40,40,40,0
+"2",966,937,"Gold Lake Bog",2580,"Radiocarbon",3970,135,3790,4150,180,1
+"3",966,937,"Gold Lake Bog",2581,"Radiocarbon",4870,190,4690,5050,180,1
+"4",966,937,"Gold Lake Bog",2582,"Tephra",6850,252,6700,7000,150,0
+"5",966,937,"Gold Lake Bog",2583,"Tephra",6850,292,6700,7000,150,0
+"6",966,937,"Gold Lake Bog",2584,"Radiocarbon",8500,392.5,8340,8660,160,1
+"7",966,937,"Gold Lake Bog",2585,"Radiocarbon",9300,489,9160,9440,140,1

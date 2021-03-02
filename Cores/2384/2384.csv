@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2384,2302,"Silver Lake",6569,"Core top",0,0,0,0,0,0
+"2",2384,2302,"Silver Lake",6571,"Radiocarbon",4540,250,4400,4680,140,1
+"3",2384,2302,"Silver Lake",6572,"Radiocarbon",7140,360,7000,7280,140,1
+"4",2384,2302,"Silver Lake",6573,"Radiocarbon",9650,460,9500,9800,150,1

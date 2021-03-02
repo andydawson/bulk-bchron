@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",4557,3529,"Aino Pond",11299,"Core top",-43,0,-43,-43,0,0
+"2",4557,3529,"Aino Pond",11301,"Radiocarbon",740,78,660,820,80,1
+"3",4557,3529,"Aino Pond",11302,"Radiocarbon",940,90,860,1020,80,1
+"4",4557,3529,"Aino Pond",11303,"Radiocarbon",1200,110,1140,1260,60,1
+"5",4557,3529,"Aino Pond",11304,"Radiocarbon",1455,118.5,1355,1555,100,1

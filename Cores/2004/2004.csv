@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2004,1937,"Queens Lake",5678,"Core top",0,0,-35,100,67.5,0
+"2",2004,1937,"Queens Lake",5679,"Radiocarbon",3820,17.5,3700,3940,120,1
+"3",2004,1937,"Queens Lake",5680,"Radiocarbon",5600,47.5,5480,5720,120,1
+"4",2004,1937,"Queens Lake",5681,"Radiocarbon",6150,62.5,6030,6270,120,1
+"5",2004,1937,"Queens Lake",5682,"Radiocarbon",7150,102.5,7010,7290,140,1
+"6",2004,1937,"Queens Lake",5683,"Radiocarbon",7470,105,7310,7630,160,1

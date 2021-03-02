@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1254,1219,"Saint-Jean Ile d'Orléans",3309,"Core top",0,0,0,0,0,0
+"2",1254,1219,"Saint-Jean Ile d'Orléans",3310,"Radiocarbon",1180,77.5,1080,1280,100,1
+"3",1254,1219,"Saint-Jean Ile d'Orléans",3311,"Radiocarbon",3800,277.5,3660,3940,140,1
+"4",1254,1219,"Saint-Jean Ile d'Orléans",3312,"Radiocarbon",6100,327.5,5940,6260,160,1

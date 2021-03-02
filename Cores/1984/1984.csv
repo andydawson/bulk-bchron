@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1984,1918,"Chesapeake Bay, Patuxent River (2-P-5)",105835,"Radiocarbon",750,301,690,810,60,1
+"2",1984,1918,"Chesapeake Bay, Patuxent River (2-P-5)",105836,"Radiocarbon",1030,390,980,1080,50,1
+"3",1984,1918,"Chesapeake Bay, Patuxent River (2-P-5)",105837,"Core top",-48,0,-49,-47,1,0

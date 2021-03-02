@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3054,2955,"Head Lake",7656,"Core top",-39,0,-39,-19,10,0
+"2",3054,2955,"Head Lake",7657,"Radiocarbon, reservoir correction",150,12.5,-39,450,244.5,1
+"3",3054,2955,"Head Lake",7658,"Radiocarbon, reservoir correction",3730,25,3350,4110,380,1
+"4",3054,2955,"Head Lake",7659,"Radiocarbon, reservoir correction",8990,37.5,8410,9570,580,1
+"5",3054,2955,"Head Lake",7660,"Radiocarbon, reservoir correction",9560,47.5,9240,9880,320,1

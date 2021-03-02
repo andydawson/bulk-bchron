@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2332,2253,"Lac à Sam",6296,"Core top",0,0,0,0,0,0
+"2",2332,2253,"Lac à Sam",6297,"Radiocarbon",2015,55,1930,2100,85,1
+"3",2332,2253,"Lac à Sam",6298,"Radiocarbon",3815,155,3720,3910,95,1
+"4",2332,2253,"Lac à Sam",6299,"Radiocarbon",5550,265,5440,5660,110,1
+"5",2332,2253,"Lac à Sam",6300,"Radiocarbon",8550,355,8410,8690,140,1
+"6",2332,2253,"Lac à Sam",6301,"Radiocarbon",9330,395,9175,9485,155,1
+"7",2332,2253,"Lac à Sam",6302,"Radiocarbon",9350,412.5,9190,9510,160,1

@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",524,511,"Cristal Lake",1570,"Core top",0,260,-40,40,40,0
+"2",524,511,"Cristal Lake",1571,"Radiocarbon",6370,762.5,6230,6510,140,1
+"3",524,511,"Cristal Lake",1572,"Radiocarbon",6720,788.5,6560,6880,160,1

@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",208,207,"Angal Lake",170,"Core top",0,0,-28,500,264,0
+"2",208,207,"Angal Lake",171,"Radiocarbon",6540,100,6250,6830,290,1
+"3",208,207,"Angal Lake",172,"Radiocarbon",8080,127,7850,8310,230,1
+"4",208,207,"Angal Lake",173,"Radiocarbon",13735,193,13490,13980,245,1

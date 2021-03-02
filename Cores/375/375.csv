@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",375,364,"Chatsworth Bog",1214,"Radiocarbon",3370,107.5,3220,3445,112.5,1
+"2",375,364,"Chatsworth Bog",1215,"Radiocarbon",4155,206.5,3975,4335,180,1
+"3",375,364,"Chatsworth Bog",1216,"Radiocarbon",5330,427.5,5130,5530,200,1
+"4",375,364,"Chatsworth Bog",1217,"Radiocarbon",7680,727.5,7480,7880,200,1
+"5",375,364,"Chatsworth Bog",1218,"Radiocarbon",8300,965,8100,8500,200,1
+"6",375,364,"Chatsworth Bog",1219,"Radiocarbon",10855,1115,10705,11005,150,1
+"7",375,364,"Chatsworth Bog",1220,"Radiocarbon",11280,1155,11060,11500,220,1

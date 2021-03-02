@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1445,1408,"Keele Lake",3528,"Core top",0,0,-40,40,40,0
+"2",1445,1408,"Keele Lake",3529,"Radiocarbon",2610,50,2450,2770,160,1
+"3",1445,1408,"Keele Lake",3530,"Radiocarbon",3290,80,3150,3430,140,1
+"4",1445,1408,"Keele Lake",3531,"Radiocarbon",6460,141.5,6280,6640,180,1
+"5",1445,1408,"Keele Lake",3532,"Radiocarbon",6120,142,5980,6260,140,1
+"6",1445,1408,"Keele Lake",3533,"Radiocarbon",9560,195,9420,9700,140,1
+"7",1445,1408,"Keele Lake",3534,"Radiocarbon",11990,260,11830,12150,160,1

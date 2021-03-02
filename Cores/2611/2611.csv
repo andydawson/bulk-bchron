@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2611,2522,"Sulphur Lake",6846,"Core top",-45,0,-45,0,22.5,0
+"2",2611,2522,"Sulphur Lake",6847,"Tephra",1300,88,1210,1390,90,0
+"3",2611,2522,"Sulphur Lake",6848,"Radiocarbon",6240,321,6140,6340,100,1
+"4",2611,2522,"Sulphur Lake",6849,"Radiocarbon, reservoir correction",7440,369,7140,7540,200,1
+"5",2611,2522,"Sulphur Lake",6850,"Radiocarbon, reservoir correction",8730,411.5,8410,8850,220,1
+"6",2611,2522,"Sulphur Lake",6851,"Radiocarbon, reservoir correction",10020,455.5,9840,10200,180,1

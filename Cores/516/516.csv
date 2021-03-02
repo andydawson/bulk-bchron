@@ -1,0 +1,9 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",516,503,"Cranberry Lake",1531,"Core top",-30,0,-30,-10,10,0
+"2",516,503,"Cranberry Lake",1532,"Radiocarbon",961,206,831,1091,130,1
+"3",516,503,"Cranberry Lake",1533,"Radiocarbon",2361,410,2227,2495,134,1
+"4",516,503,"Cranberry Lake",1534,"Radiocarbon",4903,650,4673,5133,230,1
+"5",516,503,"Cranberry Lake",1535,"Radiocarbon",6322,710,6142,6502,180,1
+"6",516,503,"Cranberry Lake",1536,"Radiocarbon",9934,825,9640,10228,294,1
+"7",516,503,"Cranberry Lake",1537,"Radiocarbon",12237,839,11701,12773,536,1
+"8",516,503,"Cranberry Lake",1538,"Core bottom",13000,980,12500,13500,500,0

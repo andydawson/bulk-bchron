@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",835,811,"Floating Island Lake",2333,"Core top",0,5,-24,100,62,0
+"2",835,811,"Floating Island Lake",2334,"Radiocarbon",3070,385,2940,3200,130,1
+"3",835,811,"Floating Island Lake",2335,"Radiocarbon",7400,820,7230,7570,170,1
+"4",835,811,"Floating Island Lake",2336,"Radiocarbon",9090,950,8910,9270,180,1
+"5",835,811,"Floating Island Lake",2337,"Radiocarbon",10115,980,9925,10305,190,1
+"6",835,811,"Floating Island Lake",2338,"Radiocarbon",9225,987,9045,9405,180,1

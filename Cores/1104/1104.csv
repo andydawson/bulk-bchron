@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1104,1071,"Hidden Lake",3017,"Core top",0,0,50,0,25,0
+"2",1104,1071,"Hidden Lake",3018,"Radiocarbon",2730,76.5,2650,2810,80,1
+"3",1104,1071,"Hidden Lake",3019,"Radiocarbon",6040,126,5560,6520,480,1
+"4",1104,1071,"Hidden Lake",3020,"Radiocarbon",10380,210,10220,10540,160,1
+"5",1104,1071,"Hidden Lake",3021,"Radiocarbon",12820,235,12560,13080,260,1
+"6",1104,1071,"Hidden Lake",3022,"Radiocarbon",13730,255,13510,13950,220,1

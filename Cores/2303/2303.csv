@@ -1,0 +1,9 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2303,2225,"Lake RS36",6090,"Core top",0,0,-40,40,40,0
+"2",2303,2225,"Lake RS36",6091,"Radiocarbon",2730,7,2650,2810,80,1
+"3",2303,2225,"Lake RS36",6092,"Radiocarbon",4260,28.5,4140,4380,120,1
+"4",2303,2225,"Lake RS36",6093,"Radiocarbon",5130,51,4970,5290,160,1
+"5",2303,2225,"Lake RS36",6094,"Radiocarbon",5570,70,5430,5710,140,1
+"6",2303,2225,"Lake RS36",6095,"Radiocarbon",5200,71,5080,5320,120,1
+"7",2303,2225,"Lake RS36",6096,"Radiocarbon",6070,101,5750,6390,320,1
+"8",2303,2225,"Lake RS36",6097,"Radiocarbon",7580,111.5,7420,7740,160,1

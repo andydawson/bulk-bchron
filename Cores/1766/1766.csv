@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1766,1710,"Montezuma Well",4793,"Core top",0,0,0,0,0,0
+"2",1766,1710,"Montezuma Well",4794,"Radiocarbon",1525,225,1425,1625,100,1
+"3",1766,1710,"Montezuma Well",4795,"Radiocarbon",2885,330,2765,3005,120,1
+"4",1766,1710,"Montezuma Well",4796,"Radiocarbon",5540,395,5420,5660,120,1
+"5",1766,1710,"Montezuma Well",4797,"Radiocarbon",8000,465,7860,8140,140,1
+"6",1766,1710,"Montezuma Well",4798,"Radiocarbon",9520,887,9120,9920,400,1
+"7",1766,1710,"Montezuma Well",4799,"Radiocarbon",10975,1015,10785,11165,190,1

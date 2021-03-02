@@ -1,0 +1,9 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1105,1072,"High Lake",3031,"Core top",0,715,0,0,0,0
+"2",1105,1072,"High Lake",3032,"Radiocarbon",1485,830,1395,1575,90,1
+"3",1105,1072,"High Lake",3033,"Radiocarbon",2725,940,2635,2815,90,1
+"4",1105,1072,"High Lake",3034,"Radiocarbon",4060,1060,3970,4150,90,1
+"5",1105,1072,"High Lake",3035,"Radiocarbon",5200,1130,5100,5300,100,1
+"6",1105,1072,"High Lake",3036,"Radiocarbon",6865,1190,6765,6965,100,1
+"7",1105,1072,"High Lake",3037,"Radiocarbon",8435,1260,8335,8535,100,1
+"8",1105,1072,"High Lake",3038,"Radiocarbon",9415,1330,9315,9515,100,1

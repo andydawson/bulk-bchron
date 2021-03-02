@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",497,485,"Colo Marsh",1351,"Core top",0,0,-50,50,50,0
+"2",497,485,"Colo Marsh",1352,"Radiocarbon",4490,97.5,4410,4570,80,1
+"3",497,485,"Colo Marsh",1353,"Radiocarbon",6190,152.5,6100,6280,90,1
+"4",497,485,"Colo Marsh",1354,"Radiocarbon",8300,197.5,8200,8400,100,1
+"5",497,485,"Colo Marsh",1355,"Radiocarbon",9420,204.5,9270,9570,150,1
+"6",497,485,"Colo Marsh",1356,"Radiocarbon",11570,247.5,11430,11710,140,1
+"7",497,485,"Colo Marsh",1357,"Other dating methods",13500,313,13000,14000,500,0

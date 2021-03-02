@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3484,1617,"Lake Louise",8078,"Core top",0,580,-50,50,50,0
+"2",3484,1617,"Lake Louise",8080,"Radiocarbon",6710,1007,6570,6850,140,1
+"3",3484,1617,"Lake Louise",8081,"Radiocarbon",8510,1155,8410,8610,100,1

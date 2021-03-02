@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1864,1802,"Lac Patricia",5282,"Core top",-30,0,-30,-10,10,0
+"2",1864,1802,"Lac Patricia",5283,"Radiocarbon",3050,115,2770,3330,280,1
+"3",1864,1802,"Lac Patricia",5284,"Radiocarbon",4855,175,4465,5245,390,1

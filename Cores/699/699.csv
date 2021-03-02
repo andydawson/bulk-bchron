@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",699,679,"Dismal Swamp (91)",1937,"Core top",0,0,-30,30,30,0
+"2",699,679,"Dismal Swamp (91)",1939,"Radiocarbon",3580,70,3480,3680,100,1
+"3",699,679,"Dismal Swamp (91)",1940,"Radiocarbon",8900,212,8740,9060,160,1

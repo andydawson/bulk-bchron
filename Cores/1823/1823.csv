@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1823,1765,"Lake O'Hara",5110,"Core top",0,0,-35,35,35,0
+"2",1823,1765,"Lake O'Hara",5111,"Tephra",2350,42.75,2300,2400,50,0
+"3",1823,1765,"Lake O'Hara",5112,"Tephra",6850,109.75,6700,7000,150,0
+"4",1823,1765,"Lake O'Hara",5113,"Radiocarbon",10060,142,9740,10380,320,1

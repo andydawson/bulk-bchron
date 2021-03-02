@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",976,946,"Lac Gras",2676,"Core top",-31,795,-31,-31,0,0
+"2",976,946,"Lac Gras",2677,"Radiocarbon",690,831,620,760,70,1
+"3",976,946,"Lac Gras",2678,"Radiocarbon",1730,869,1660,1800,70,1
+"4",976,946,"Lac Gras",2679,"Radiocarbon",2450,903,2380,2520,70,1
+"5",976,946,"Lac Gras",2680,"Radiocarbon",3830,944,3760,3900,70,1
+"6",976,946,"Lac Gras",2681,"Radiocarbon",6510,972,6400,6620,110,1
+"7",976,946,"Lac Gras",2683,"Deglaciation",6900,1038,6700,7100,200,0

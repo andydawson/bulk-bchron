@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1650,1599,"Lake Hope Simpson",4265,"Core top",0,0,-50,50,50,0
+"2",1650,1599,"Lake Hope Simpson",4266,"Radiocarbon",3110,30,3040,3180,70,1
+"3",1650,1599,"Lake Hope Simpson",4267,"Radiocarbon",4820,65,4740,4900,80,1
+"4",1650,1599,"Lake Hope Simpson",4268,"Radiocarbon",7040,115,6960,7120,80,1
+"5",1650,1599,"Lake Hope Simpson",4269,"Radiocarbon",8680,150,8530,8830,150,1
+"6",1650,1599,"Lake Hope Simpson",4270,"Radiocarbon",9000,175,8870,9130,130,1
+"7",1650,1599,"Lake Hope Simpson",4271,"Radiocarbon",10400,198.5,10260,10540,140,1

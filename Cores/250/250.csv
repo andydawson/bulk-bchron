@@ -1,0 +1,10 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",250,246,"Beef Pasture",456,"Core top",0,0,0,0,0,0
+"2",250,246,"Beef Pasture",458,"Radiocarbon",780,52.5,600,960,180,1
+"3",250,246,"Beef Pasture",459,"Radiocarbon",1540,122.5,1380,1700,160,1
+"4",250,246,"Beef Pasture",460,"Radiocarbon",2680,202.5,2660,2840,90,1
+"5",250,246,"Beef Pasture",461,"Radiocarbon",2825,237.5,2695,2955,130,1
+"6",250,246,"Beef Pasture",462,"Radiocarbon",3635,277.5,3475,3795,160,1
+"7",250,246,"Beef Pasture",463,"Radiocarbon",4150,301.5,3950,4350,200,1
+"8",250,246,"Beef Pasture",464,"Radiocarbon",4645,346.5,4455,4835,190,1
+"9",250,246,"Beef Pasture",465,"Radiocarbon",5010,370.5,4790,5230,220,1

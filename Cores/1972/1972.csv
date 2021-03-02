@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1972,1907,"Potts Mountain Pond",5531,"Core top",-21,0,-21,-1,10,0
+"2",1972,1907,"Potts Mountain Pond",5535,"Radiocarbon",9140,68,8960,9320,180,1
+"3",1972,1907,"Potts Mountain Pond",5536,"Radiocarbon",11140,167.5,10960,11320,180,1

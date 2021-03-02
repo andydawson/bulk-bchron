@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1432,1396,"Kaiyak Lake",3385,"Core top",0,0,-29,500,264.5,0
+"2",1432,1396,"Kaiyak Lake",3386,"Radiocarbon",3140,15,3070,3210,70,1
+"3",1432,1396,"Kaiyak Lake",3387,"Radiocarbon",7960,70,7870,8050,90,1
+"4",1432,1396,"Kaiyak Lake",3388,"Radiocarbon",8940,103,8810,9070,130,1
+"5",1432,1396,"Kaiyak Lake",3389,"Radiocarbon",14300,140,14160,14440,140,1
+"6",1432,1396,"Kaiyak Lake",3390,"Radiocarbon",21690,350,21360,22020,330,1
+"7",1432,1396,"Kaiyak Lake",3391,"Radiocarbon",37000,510,36000,38000,1000,1

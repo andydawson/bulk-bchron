@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1136,1103,"Humber Pond 5",3141,"Core top",-30,0,-30,0,15,0
+"2",1136,1103,"Humber Pond 5",3142,"Radiocarbon",1790,394.5,1630,1950,160,1
+"3",1136,1103,"Humber Pond 5",3143,"Radiocarbon",3248,799,3088,3408,160,1
+"4",1136,1103,"Humber Pond 5",3144,"Radiocarbon",3880,1096,3760,4000,120,1

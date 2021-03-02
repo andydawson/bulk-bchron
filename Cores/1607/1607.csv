@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1607,1562,"Lake Six",3945,"Core top",0,0,-20,20,20,0
+"2",1607,1562,"Lake Six",3946,"Radiocarbon",3190,139,3070,3310,120,1
+"3",1607,1562,"Lake Six",3947,"Radiocarbon",5040,220.5,4900,5180,140,1
+"4",1607,1562,"Lake Six",3948,"Radiocarbon",6970,294,6770,7170,200,1

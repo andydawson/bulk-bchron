@@ -1,0 +1,6 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2637,2547,"Ten Mile Lake",7013,"Core top",0,0,-40,500,270,0
+"2",2637,2547,"Ten Mile Lake",7014,"Radiocarbon",3270,70,3180,3360,90,1
+"3",2637,2547,"Ten Mile Lake",7015,"Radiocarbon",7330,175,7220,7440,110,1
+"4",2637,2547,"Ten Mile Lake",7016,"Radiocarbon",9140,211,9060,9220,80,1
+"5",2637,2547,"Ten Mile Lake",7017,"Radiocarbon",11540,274,11420,11660,120,1

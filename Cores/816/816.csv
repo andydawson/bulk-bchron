@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",816,794,"Exchequer Meadow",2264,"Core top",0,0,0,0,0,0
+"2",816,794,"Exchequer Meadow",2265,"Radiocarbon",1870,60,1750,1990,120,1
+"3",816,794,"Exchequer Meadow",2266,"Radiocarbon",2980,95,2820,3140,160,1
+"4",816,794,"Exchequer Meadow",2267,"Radiocarbon",4540,176,4360,4720,180,1
+"5",816,794,"Exchequer Meadow",2268,"Radiocarbon",7070,217.5,6930,7210,140,1
+"6",816,794,"Exchequer Meadow",2269,"Radiocarbon",11490,287.5,10950,12030,540,1
+"7",816,794,"Exchequer Meadow",2270,"Radiocarbon",10330,338.5,9570,11090,760,1

@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1754,1698,"Lac Mimi",4741,"Core top",0,0,0,0,0,0
+"2",1754,1698,"Lac Mimi",4742,"Radiocarbon",7700,405,7570,7830,130,1
+"3",1754,1698,"Lac Mimi",4743,"Radiocarbon",9460,430,9180,9740,280,1
+"4",1754,1698,"Lac Mimi",4744,"Radiocarbon",9770,475,9510,10030,260,1
+"5",1754,1698,"Lac Mimi",4745,"Radiocarbon",9945,485,9720,10170,225,1
+"6",1754,1698,"Lac Mimi",4746,"Radiocarbon",11050,507.5,10590,11510,460,1
+"7",1754,1698,"Lac Mimi",4747,"Deglaciation",11500,530,11000,12000,500,0

@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1114,1081,"Howes Prairie Marsh",3120,"Core top",0,0,-40,40,40,0
+"2",1114,1081,"Howes Prairie Marsh",3122,"Radiocarbon, reservoir correction",720,11.5,510,930,210,1
+"3",1114,1081,"Howes Prairie Marsh",3123,"Radiocarbon, reservoir correction",2300,20.5,2000,2600,300,1

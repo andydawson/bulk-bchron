@@ -1,0 +1,8 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",973,943,"Graham Lake",2663,"Core top",0,868,0,0,0,0
+"2",973,943,"Graham Lake",2664,"Radiocarbon",1750,940,1670,1830,80,1
+"3",973,943,"Graham Lake",2665,"Radiocarbon",3205,1000,3115,3295,90,1
+"4",973,943,"Graham Lake",2666,"Radiocarbon",4760,1066,4670,4850,90,1
+"5",973,943,"Graham Lake",2667,"Radiocarbon",6650,1118,6550,6750,100,1
+"6",973,943,"Graham Lake",2668,"Radiocarbon",8260,1160,8140,8380,120,1
+"7",973,943,"Graham Lake",2669,"Radiocarbon",10105,1222,9935,10275,170,1

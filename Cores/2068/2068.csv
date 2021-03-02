@@ -1,0 +1,4 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2068,1993,"R Lake",5937,"Core top",0,0,-20,20,20,0
+"2",2068,1993,"R Lake",5939,"Radiocarbon",2870,175,2780,2960,90,1
+"3",2068,1993,"R Lake",5940,"Radiocarbon",6490,330,6350,6630,140,1

@@ -1,0 +1,9 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3558,1814,"Pogonia Bog Pond",8209,"Core top",-24,240,-24,-4,10,0
+"2",3558,1814,"Pogonia Bog Pond",8210,"Radiocarbon, reservoir correction",100,314.5,30,170,70,1
+"3",3558,1814,"Pogonia Bog Pond",8211,"Radiocarbon, reservoir correction",260,400,190,330,70,1
+"4",3558,1814,"Pogonia Bog Pond",8212,"Radiocarbon, reservoir correction",2550,935,2470,2630,80,1
+"5",3558,1814,"Pogonia Bog Pond",8213,"Radiocarbon, reservoir correction",3620,1305,3540,3700,80,1
+"6",3558,1814,"Pogonia Bog Pond",8214,"Radiocarbon, reservoir correction",6250,1570,6180,6320,70,1
+"7",3558,1814,"Pogonia Bog Pond",8215,"Radiocarbon, reservoir correction",10330,1795,10220,10440,110,1
+"8",3558,1814,"Pogonia Bog Pond",8216,"Radiocarbon",11190,1877.5,10970,11410,220,1

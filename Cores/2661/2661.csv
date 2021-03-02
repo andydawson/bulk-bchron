@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2661,2569,"Tuktoyaktuk 5",7142,"Core top",-18,0,2,-18,10,0
+"2",2661,2569,"Tuktoyaktuk 5",7143,"Radiocarbon",3630,68,3350,3910,280,1
+"3",2661,2569,"Tuktoyaktuk 5",7144,"Radiocarbon",5440,127,5160,5720,280,1
+"4",2661,2569,"Tuktoyaktuk 5",7145,"Radiocarbon",8690,177,8330,9050,360,1
+"5",2661,2569,"Tuktoyaktuk 5",7146,"Radiocarbon",11500,199,11060,11940,440,1
+"6",2661,2569,"Tuktoyaktuk 5",7147,"Radiocarbon",12900,229,12560,13240,340,1

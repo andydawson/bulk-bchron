@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1716,1660,"Sud du Lac du Noyer",4646,"Core top",0,0,0,0,0,0
+"2",1716,1660,"Sud du Lac du Noyer",4647,"Radiocarbon",5145,227.5,4990,5300,155,1
+"3",1716,1660,"Sud du Lac du Noyer",4648,"Radiocarbon",5745,322.5,5510,5980,235,1
+"4",1716,1660,"Sud du Lac du Noyer",4649,"Radiocarbon",8230,427.5,7960,8500,270,1
+"5",1716,1660,"Sud du Lac du Noyer",4650,"Radiocarbon",9205,442.5,8820,9590,385,1
+"6",1716,1660,"Sud du Lac du Noyer",4651,"Radiocarbon",9670,451.5,9480,9860,190,1

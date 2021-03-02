@@ -1,0 +1,10 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2061,1987,"Chesapeake Bay, Rhode River",5884,"Core top",-49,0,-49,-49,0,0
+"2",2061,1987,"Chesapeake Bay, Rhode River",5885,"Radiocarbon",610,296,580,640,30,1
+"3",2061,1987,"Chesapeake Bay, Rhode River",5886,"Radiocarbon",745,369,710,780,35,1
+"4",2061,1987,"Chesapeake Bay, Rhode River",5887,"Radiocarbon",1150,455,110,1190,540,1
+"5",2061,1987,"Chesapeake Bay, Rhode River",5888,"Radiocarbon",1240,485,1210,1270,30,1
+"6",2061,1987,"Chesapeake Bay, Rhode River",5889,"Radiocarbon",1600,576,1565,1635,35,1
+"7",2061,1987,"Chesapeake Bay, Rhode River",5890,"Radiocarbon",2050,665,2010,2090,40,1
+"8",2061,1987,"Chesapeake Bay, Rhode River",5891,"Radiocarbon",2210,733,2175,2245,35,1
+"9",2061,1987,"Chesapeake Bay, Rhode River",5892,"Radiocarbon",2500,780,2465,2535,35,1

@@ -1,0 +1,11 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",2961,2864,"Wintergreen Lake",7478,"Core top",-20,0,-40,0,20,0
+"2",2961,2864,"Wintergreen Lake",7479,"Other dating methods",24,25,4,44,20,0
+"3",2961,2864,"Wintergreen Lake",7481,"Radiocarbon",2450,196,2315,2585,135,1
+"4",2961,2864,"Wintergreen Lake",7482,"Radiocarbon",3375,233.5,3315,3435,60,1
+"5",2961,2864,"Wintergreen Lake",7483,"Radiocarbon",5500,366,5325,5675,175,1
+"6",2961,2864,"Wintergreen Lake",7484,"Radiocarbon",8945,503.5,8855,9035,90,1
+"7",2961,2864,"Wintergreen Lake",7485,"Radiocarbon",9740,538,9140,10340,600,1
+"8",2961,2864,"Wintergreen Lake",7486,"Radiocarbon",11425,613.5,11315,11535,110,1
+"9",2961,2864,"Wintergreen Lake",7487,"Radiocarbon",11920,651,11150,12690,770,1
+"10",2961,2864,"Wintergreen Lake",7488,"Radiocarbon",13195,676,13070,13320,125,1

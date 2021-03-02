@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1030,997,"Hedrick Pond",2989,"Core top",0,0,-30,30,30,0
+"2",1030,997,"Hedrick Pond",2990,"Radiocarbon",2190,155,2070,2310,120,1
+"3",1030,997,"Hedrick Pond",2991,"Radiocarbon",4210,335,4050,4370,160,1
+"4",1030,997,"Hedrick Pond",2992,"Radiocarbon",11340,545,11140,11540,200,1
+"5",1030,997,"Hedrick Pond",2993,"Radiocarbon",14580,596,14280,14880,300,1
+"6",1030,997,"Hedrick Pond",2994,"Radiocarbon",17160,663.5,16740,17580,420,1

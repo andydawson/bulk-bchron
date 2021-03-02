@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1703,1647,"Lac Marcotte",4579,"Core top",0,0,0,0,0,0
+"2",1703,1647,"Lac Marcotte",4580,"Radiocarbon",4040,95,3960,4120,80,1
+"3",1703,1647,"Lac Marcotte",4581,"Radiocarbon",6920,190,6835,7005,85,1
+"4",1703,1647,"Lac Marcotte",4582,"Radiocarbon",8940,275,8850,9030,90,1
+"5",1703,1647,"Lac Marcotte",4583,"Radiocarbon",9885,300.5,9655,10115,230,1
+"6",1703,1647,"Lac Marcotte",4584,"Deglaciation",11000,372,10500,11500,500,0

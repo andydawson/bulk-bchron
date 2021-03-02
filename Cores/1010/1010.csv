@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1010,979,"Hawke Hills Kettle",2945,"Core top",-27,0,-27,0,13.5,0
+"2",1010,979,"Hawke Hills Kettle",2946,"Radiocarbon",3160,73,3075,3245,85,1
+"3",1010,979,"Hawke Hills Kettle",2947,"Radiocarbon",4660,173,4575,4745,85,1
+"4",1010,979,"Hawke Hills Kettle",2948,"Radiocarbon",7290,240,7140,7440,150,1

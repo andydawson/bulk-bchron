@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",688,669,"Diana 375",1906,"Core top",0,0,0,0,0,0
+"2",688,669,"Diana 375",1907,"Radiocarbon",3730,40,3585,3875,145,1
+"3",688,669,"Diana 375",1908,"Radiocarbon",6010,90,5835,6185,175,1
+"4",688,669,"Diana 375",1909,"Radiocarbon",6820,140,6665,6975,155,1

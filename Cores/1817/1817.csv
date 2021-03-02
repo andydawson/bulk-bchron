@@ -1,0 +1,15 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1817,1759,"North Pond",5069,"Core top",20,0,-30,70,50,0
+"2",1817,1759,"North Pond",5071,"Radiocarbon",1760,22.5,1595,1925,165,1
+"3",1817,1759,"North Pond",5072,"Radiocarbon, average of two or more dates",3725,76.5,3425,4025,300,1
+"4",1817,1759,"North Pond",5072,"Radiocarbon, average of two or more dates",3725,76.5,3425,4025,300,1
+"5",1817,1759,"North Pond",5073,"Radiocarbon, average of two or more dates",4440,121.5,4140,4740,300,1
+"6",1817,1759,"North Pond",5073,"Radiocarbon, average of two or more dates",4440,121.5,4140,4740,300,1
+"7",1817,1759,"North Pond",5074,"Radiocarbon, average of two or more dates",7615,228,7315,7915,300,1
+"8",1817,1759,"North Pond",5074,"Radiocarbon, average of two or more dates",7615,228,7315,7915,300,1
+"9",1817,1759,"North Pond",5075,"Radiocarbon, average of two or more dates",8340,280.5,8040,8640,300,1
+"10",1817,1759,"North Pond",5075,"Radiocarbon, average of two or more dates",8340,280.5,8040,8640,300,1
+"11",1817,1759,"North Pond",5076,"Radiocarbon, average of two or more dates",9360,369,9060,9660,300,1
+"12",1817,1759,"North Pond",5076,"Radiocarbon, average of two or more dates",9360,369,9060,9660,300,1
+"13",1817,1759,"North Pond",5077,"Radiocarbon",10510,465,10270,10750,240,1
+"14",1817,1759,"North Pond",5078,"Radiocarbon",11600,485,11320,11880,280,1

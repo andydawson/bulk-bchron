@@ -1,0 +1,7 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",3149,814,"John Klondike Bog",7902,"Core top",-21,0,-21,-21,0,0
+"2",3149,814,"John Klondike Bog",7903,"Radiocarbon",930,45,860,1000,70,1
+"3",3149,814,"John Klondike Bog",7904,"Radiocarbon",4320,255,4190,4450,130,1
+"4",3149,814,"John Klondike Bog",7905,"Radiocarbon",6660,340,6370,6950,290,1
+"5",3149,814,"John Klondike Bog",7906,"Radiocarbon",8700,392.5,8350,9050,350,1
+"6",3149,814,"John Klondike Bog",7907,"Radiocarbon",9590,467.5,9270,9910,320,1

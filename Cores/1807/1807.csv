@@ -1,0 +1,5 @@
+"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
+"1",1807,1749,"Nina Lake",5018,"Core top",0,0,-20,20,20,0
+"2",1807,1749,"Nina Lake",5019,"Radiocarbon",3960,225,3780,4140,180,1
+"3",1807,1749,"Nina Lake",5020,"Radiocarbon",7380,386,7180,7580,200,1
+"4",1807,1749,"Nina Lake",5021,"Radiocarbon",9510,529,9310,9710,200,1
