@@ -12,7 +12,7 @@ library(parallel)
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
-version='1.0'
+version='2.0'
 
 get_sitename <- function(core.id) {
   geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE))
