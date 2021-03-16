@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",312,305,"Brophy Ditch",760,"Core top",-30,0,-30,-10,10,0
-"2",312,305,"Brophy Ditch",762,"Radiocarbon",4570,120,4380,4760,190,1
-"3",312,305,"Brophy Ditch",763,"Radiocarbon",5080,130,4580,5580,500,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+312,305,"Brophy Ditch",760,"Core top",-30,0,NA,NA,-30,-10,10,0
+312,305,"Brophy Ditch",762,"Radiocarbon",4570,120,NA,NA,4380,4760,190,1
+312,305,"Brophy Ditch",763,"Radiocarbon",5080,130,NA,NA,4580,5580,500,1

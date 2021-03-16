@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3500,1803,"Patschke Bog",8170,"Core top",-37,0,-37,0,18.5,0
-"2",3500,1803,"Patschke Bog",8171,"Radiocarbon",1590,35,1470,1710,120,1
-"3",3500,1803,"Patschke Bog",8172,"Radiocarbon",10090,190,9830,10350,260,1
-"4",3500,1803,"Patschke Bog",8173,"Radiocarbon",13470,274.5,13130,13810,340,1
-"5",3500,1803,"Patschke Bog",8174,"Radiocarbon",17280,462,16740,17820,540,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3500,1803,"Patschke Bog",8170,"Core top",-37,0,17360,190,-37,0,18.5,0
+3500,1803,"Patschke Bog",8171,"Radiocarbon",1590,35,17360,190,1470,1710,120,1
+3500,1803,"Patschke Bog",8172,"Radiocarbon",10090,190,17360,190,9830,10350,260,1
+3500,1803,"Patschke Bog",8173,"Radiocarbon",13470,274.5,17360,190,13130,13810,340,1
+3500,1803,"Patschke Bog",8174,"Radiocarbon",17280,462,17360,190,16740,17820,540,1

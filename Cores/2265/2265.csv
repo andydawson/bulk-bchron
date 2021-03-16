@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2265,2189,"Lac à Robin",5977,"Core top",0,0,0,0,0,0
-"2",2265,2189,"Lac à Robin",5978,"Radiocarbon",3310,70,3230,3390,80,1
-"3",2265,2189,"Lac à Robin",5979,"Radiocarbon",5300,120,5220,5380,80,1
-"4",2265,2189,"Lac à Robin",5980,"Radiocarbon",7500,175,7390,7610,110,1
-"5",2265,2189,"Lac à Robin",5981,"Radiocarbon",9800,216.5,9720,9880,80,1
-"6",2265,2189,"Lac à Robin",5982,"Deglaciation",13000,300,12500,13500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2265,2189,"Lac à Robin",5977,"Core top",0,0,9440,470,0,0,0,0
+2265,2189,"Lac à Robin",5978,"Radiocarbon",3310,70,9440,470,3230,3390,80,1
+2265,2189,"Lac à Robin",5979,"Radiocarbon",5300,120,9440,470,5220,5380,80,1
+2265,2189,"Lac à Robin",5980,"Radiocarbon",7500,175,9440,470,7390,7610,110,1
+2265,2189,"Lac à Robin",5981,"Radiocarbon",9800,216.5,9440,470,9720,9880,80,1
+2265,2189,"Lac à Robin",5982,"Deglaciation",13000,300,9440,470,12500,13500,500,0

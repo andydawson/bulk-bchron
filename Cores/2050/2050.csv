@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2050,1977,"Redstone Lake",5856,"Core top",0,0,-29,500,264.5,0
-"2",2050,1977,"Redstone Lake",5857,"Radiocarbon",6310,85,6135,6485,175,1
-"3",2050,1977,"Redstone Lake",5858,"Radiocarbon",7850,155,7185,8515,665,1
-"4",2050,1977,"Redstone Lake",5859,"Radiocarbon",11795,628,11320,12270,475,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2050,1977,"Redstone Lake",5856,"Core top",0,0,14060,0,-29,500,264.5,0
+2050,1977,"Redstone Lake",5857,"Radiocarbon",6310,85,14060,0,6135,6485,175,1
+2050,1977,"Redstone Lake",5858,"Radiocarbon",7850,155,14060,0,7185,8515,665,1
+2050,1977,"Redstone Lake",5859,"Radiocarbon",11795,628,14060,0,11320,12270,475,1

@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1133,1100,"Hudson Lake",3125,"Core top",0,0,-20,20,20,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1133,1100,"Hudson Lake",3125,"Core top",0,0,13000,0,-20,20,20,0

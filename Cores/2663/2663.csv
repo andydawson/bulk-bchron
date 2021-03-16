@@ -1,18 +1,18 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2663,2570,"Lake Tulane",7148,"Core top",-34,2267,-34,-34,0,0
-"2",2663,2570,"Lake Tulane",7149,"Radiocarbon",1670,2380,1610,1730,60,1
-"3",2663,2570,"Lake Tulane",7150,"Radiocarbon",3440,2498,3360,3520,80,1
-"4",2663,2570,"Lake Tulane",7151,"Radiocarbon",4650,2597,4580,4720,70,1
-"5",2663,2570,"Lake Tulane",7152,"Radiocarbon",7330,2697,7240,7420,90,1
-"6",2663,2570,"Lake Tulane",7153,"Radiocarbon",9810,2803,9720,9900,90,1
-"7",2663,2570,"Lake Tulane",7154,"Radiocarbon",10940,2897,10820,11060,120,1
-"8",2663,2570,"Lake Tulane",7155,"Radiocarbon",13730,3057,13600,13860,130,1
-"9",2663,2570,"Lake Tulane",7156,"Radiocarbon",17170,3157,16960,17380,210,1
-"10",2663,2570,"Lake Tulane",7157,"Radiocarbon",20380,3257,20150,20610,230,1
-"11",2663,2570,"Lake Tulane",7158,"Radiocarbon",24240,3357,23840,24640,400,1
-"12",2663,2570,"Lake Tulane",7159,"Radiocarbon",26120,3457,25680,26560,440,1
-"13",2663,2570,"Lake Tulane",7160,"Radiocarbon",32300,3522,31850,32750,450,1
-"14",2663,2570,"Lake Tulane",7161,"Radiocarbon",35700,3602,35050,36350,650,1
-"15",2663,2570,"Lake Tulane",7162,"Radiocarbon",35600,3667,35200,36000,400,1
-"16",2663,2570,"Lake Tulane",7163,"Radiocarbon",39600,3881,39100,40100,500,1
-"17",2663,2570,"Lake Tulane",7164,"Radiocarbon",46000,3997,45500,46500,500,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2663,2570,"Lake Tulane",7148,"Core top",-34,2267,51980,-40,-34,-34,0,0
+2663,2570,"Lake Tulane",7149,"Radiocarbon",1670,2380,51980,-40,1610,1730,60,1
+2663,2570,"Lake Tulane",7150,"Radiocarbon",3440,2498,51980,-40,3360,3520,80,1
+2663,2570,"Lake Tulane",7151,"Radiocarbon",4650,2597,51980,-40,4580,4720,70,1
+2663,2570,"Lake Tulane",7152,"Radiocarbon",7330,2697,51980,-40,7240,7420,90,1
+2663,2570,"Lake Tulane",7153,"Radiocarbon",9810,2803,51980,-40,9720,9900,90,1
+2663,2570,"Lake Tulane",7154,"Radiocarbon",10940,2897,51980,-40,10820,11060,120,1
+2663,2570,"Lake Tulane",7155,"Radiocarbon",13730,3057,51980,-40,13600,13860,130,1
+2663,2570,"Lake Tulane",7156,"Radiocarbon",17170,3157,51980,-40,16960,17380,210,1
+2663,2570,"Lake Tulane",7157,"Radiocarbon",20380,3257,51980,-40,20150,20610,230,1
+2663,2570,"Lake Tulane",7158,"Radiocarbon",24240,3357,51980,-40,23840,24640,400,1
+2663,2570,"Lake Tulane",7159,"Radiocarbon",26120,3457,51980,-40,25680,26560,440,1
+2663,2570,"Lake Tulane",7160,"Radiocarbon",32300,3522,51980,-40,31850,32750,450,1
+2663,2570,"Lake Tulane",7161,"Radiocarbon",35700,3602,51980,-40,35050,36350,650,1
+2663,2570,"Lake Tulane",7162,"Radiocarbon",35600,3667,51980,-40,35200,36000,400,1
+2663,2570,"Lake Tulane",7163,"Radiocarbon",39600,3881,51980,-40,39100,40100,500,1
+2663,2570,"Lake Tulane",7164,"Radiocarbon",46000,3997,51980,-40,45500,46500,500,1

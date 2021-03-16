@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",245,242,"Bear Bog",422,"Core top",-40,0,-40,0,20,0
-"2",245,242,"Bear Bog",423,"Radiocarbon",5500,307.5,5260,5740,240,1
-"3",245,242,"Bear Bog",424,"Radiocarbon",8720,427.5,8360,9080,360,1
-"4",245,242,"Bear Bog",425,"Deglaciation",10000,460,9500,10500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+245,242,"Bear Bog",422,"Core top",-40,0,10000,3560,-40,0,20,0
+245,242,"Bear Bog",423,"Radiocarbon",5500,307.5,10000,3560,5260,5740,240,1
+245,242,"Bear Bog",424,"Radiocarbon",8720,427.5,10000,3560,8360,9080,360,1
+245,242,"Bear Bog",425,"Deglaciation",10000,460,10000,3560,9500,10500,500,0

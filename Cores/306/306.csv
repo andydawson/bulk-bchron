@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",306,300,"Lac Boucané",733,"Core top",0,0,0,0,0,0
-"2",306,300,"Lac Boucané",734,"Radiocarbon",4670,107.5,4540,4800,130,1
-"3",306,300,"Lac Boucané",735,"Radiocarbon",7170,189.5,7050,7290,120,1
-"4",306,300,"Lac Boucané",736,"Radiocarbon",9140,253.5,9020,9260,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+306,300,"Lac Boucané",733,"Core top",0,0,9040,430,0,0,0,0
+306,300,"Lac Boucané",734,"Radiocarbon",4670,107.5,9040,430,4540,4800,130,1
+306,300,"Lac Boucané",735,"Radiocarbon",7170,189.5,9040,430,7050,7290,120,1
+306,300,"Lac Boucané",736,"Radiocarbon",9140,253.5,9040,430,9020,9260,120,1

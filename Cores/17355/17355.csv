@@ -1,3 +1,3 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",17355,11587,"Circle Lake",37284,"Core top",-35,0,NA,NA,1,0
-"2",17355,11587,"Circle Lake",37285,"Tephra",3650,127,3550,3750,100,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+17355,11587,"Circle Lake",37284,"Core top",-35,0,3740,-10,NA,NA,NA,0
+17355,11587,"Circle Lake",37285,"Tephra",3650,127,3740,-10,3550,3750,100,0

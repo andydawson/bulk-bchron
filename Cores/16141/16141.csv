@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",16141,10509,"Awl Site midden",35491,"Radiocarbon",17870,0,17750,17990,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+16141,10509,"Awl Site midden",35491,"Radiocarbon",17870,0,17990,17750,17750,17990,120,1

@@ -1,11 +1,11 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",203,203,"Anderson Pond",140,"Core top",-26,25,-46,-6,20,0
-"2",203,203,"Anderson Pond",142,"Radiocarbon",5610,106,5500,5720,110,1
-"3",203,203,"Anderson Pond",143,"Radiocarbon",8930,126,8770,9090,160,1
-"4",203,203,"Anderson Pond",144,"Radiocarbon",12540,150,12360,12720,180,1
-"5",203,203,"Anderson Pond",145,"Radiocarbon",12750,210,12530,12970,220,1
-"6",203,203,"Anderson Pond",146,"Radiocarbon",15310,314.5,14890,15730,420,1
-"7",203,203,"Anderson Pond",147,"Radiocarbon",16230,428,15930,16530,300,1
-"8",203,203,"Anderson Pond",148,"Radiocarbon",18300,601,17000,19600,1300,1
-"9",203,203,"Anderson Pond",149,"Radiocarbon",18760,693.5,18440,19080,320,1
-"10",203,203,"Anderson Pond",150,"Radiocarbon",25000,973.5,22000,28000,3000,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+203,203,"Anderson Pond",140,"Core top",-26,25,24000,0,-46,-6,20,0
+203,203,"Anderson Pond",142,"Radiocarbon",5610,106,24000,0,5500,5720,110,1
+203,203,"Anderson Pond",143,"Radiocarbon",8930,126,24000,0,8770,9090,160,1
+203,203,"Anderson Pond",144,"Radiocarbon",12540,150,24000,0,12360,12720,180,1
+203,203,"Anderson Pond",145,"Radiocarbon",12750,210,24000,0,12530,12970,220,1
+203,203,"Anderson Pond",146,"Radiocarbon",15310,314.5,24000,0,14890,15730,420,1
+203,203,"Anderson Pond",147,"Radiocarbon",16230,428,24000,0,15930,16530,300,1
+203,203,"Anderson Pond",148,"Radiocarbon",18300,601,24000,0,17000,19600,1300,1
+203,203,"Anderson Pond",149,"Radiocarbon",18760,693.5,24000,0,18440,19080,320,1
+203,203,"Anderson Pond",150,"Radiocarbon",25000,973.5,24000,0,22000,28000,3000,1

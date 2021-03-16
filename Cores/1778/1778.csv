@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1778,1721,"Mud Lake",4879,"Core top",-30,0,-30,0,15,0
-"2",1778,1721,"Mud Lake",4880,"Radiocarbon, reservoir correction",90,43.5,20,160,70,1
-"3",1778,1721,"Mud Lake",4881,"Radiocarbon, reservoir correction",2250,335,2090,2410,160,1
-"4",1778,1721,"Mud Lake",4882,"Radiocarbon, reservoir correction",2870,445,2710,3030,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1778,1721,"Mud Lake",4879,"Core top",-30,0,3640,-30,-30,0,15,0
+1778,1721,"Mud Lake",4880,"Radiocarbon, reservoir correction",90,43.5,3640,-30,20,160,70,1
+1778,1721,"Mud Lake",4881,"Radiocarbon, reservoir correction",2250,335,3640,-30,2090,2410,160,1
+1778,1721,"Mud Lake",4882,"Radiocarbon, reservoir correction",2870,445,3640,-30,2710,3030,160,1

@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1783,1726,"Muskox Lake",4902,"Core top",-50,0,-50,-50,0,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1783,1726,"Muskox Lake",4902,"Core top",-50,0,9000,-50,-50,-50,0,0

@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1523,1485,"Kirk Lake",3622,"Core top",0,0,20,0,10,0
-"2",1523,1485,"Kirk Lake",3623,"Tephra",6730,773,6630,6830,100,0
-"3",1523,1485,"Kirk Lake",3624,"Radiocarbon",8600,867.5,8520,8680,80,1
-"4",1523,1485,"Kirk Lake",3625,"Radiocarbon",9580,962.5,9460,9700,120,1
-"5",1523,1485,"Kirk Lake",3626,"Radiocarbon",10510,1062.5,10390,10630,120,1
-"6",1523,1485,"Kirk Lake",3627,"Radiocarbon",11180,1107.5,11260,11300,20,1
-"7",1523,1485,"Kirk Lake",3628,"Radiocarbon",11500,1127.5,11180,11820,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1523,1485,"Kirk Lake",3622,"Core top",0,0,11860,0,20,0,10,0
+1523,1485,"Kirk Lake",3623,"Tephra",6730,773,11860,0,6630,6830,100,0
+1523,1485,"Kirk Lake",3624,"Radiocarbon",8600,867.5,11860,0,8520,8680,80,1
+1523,1485,"Kirk Lake",3625,"Radiocarbon",9580,962.5,11860,0,9460,9700,120,1
+1523,1485,"Kirk Lake",3626,"Radiocarbon",10510,1062.5,11860,0,10390,10630,120,1
+1523,1485,"Kirk Lake",3627,"Radiocarbon",11180,1107.5,11860,0,11260,11300,20,1
+1523,1485,"Kirk Lake",3628,"Radiocarbon",11500,1127.5,11860,0,11180,11820,320,1

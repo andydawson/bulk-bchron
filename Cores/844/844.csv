@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",844,818,"Forest Lake",2349,"Core top",-27,0,0,-27,13.5,0
-"2",844,818,"Forest Lake",2350,"Tephra",6850,80.5,6700,7000,150,0
-"3",844,818,"Forest Lake",2351,"Tephra",11200,147,11150,11450,150,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+844,818,"Forest Lake",2349,"Core top",-27,0,12050,-30,0,-27,13.5,0
+844,818,"Forest Lake",2350,"Tephra",6850,80.5,12050,-30,6700,7000,150,0
+844,818,"Forest Lake",2351,"Tephra",11200,147,12050,-30,11150,11450,150,0

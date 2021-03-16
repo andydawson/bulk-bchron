@@ -1,11 +1,11 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",489,478,"Clear Lake",1246,"Core top",-30,0,-30,0,15,0
-"2",489,478,"Clear Lake",1248,"Radiocarbon",1390,94.5,1230,1550,160,1
-"3",489,478,"Clear Lake",1249,"Radiocarbon",2170,194.5,1970,2370,200,1
-"4",489,478,"Clear Lake",1250,"Radiocarbon",3090,295,2870,3310,220,1
-"5",489,478,"Clear Lake",1251,"Radiocarbon",3820,395,3640,4000,180,1
-"6",489,478,"Clear Lake",1252,"Radiocarbon",4900,495,4660,5140,240,1
-"7",489,478,"Clear Lake",1253,"Radiocarbon",6480,592,6180,6780,300,1
-"8",489,478,"Clear Lake",1254,"Radiocarbon",7430,695,7210,7650,220,1
-"9",489,478,"Clear Lake",1255,"Radiocarbon",8310,787,8030,8590,280,1
-"10",489,478,"Clear Lake",1256,"Radiocarbon",10370,884,10090,10650,280,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+489,478,"Clear Lake",1246,"Core top",-30,0,13050,-30,-30,0,15,0
+489,478,"Clear Lake",1248,"Radiocarbon",1390,94.5,13050,-30,1230,1550,160,1
+489,478,"Clear Lake",1249,"Radiocarbon",2170,194.5,13050,-30,1970,2370,200,1
+489,478,"Clear Lake",1250,"Radiocarbon",3090,295,13050,-30,2870,3310,220,1
+489,478,"Clear Lake",1251,"Radiocarbon",3820,395,13050,-30,3640,4000,180,1
+489,478,"Clear Lake",1252,"Radiocarbon",4900,495,13050,-30,4660,5140,240,1
+489,478,"Clear Lake",1253,"Radiocarbon",6480,592,13050,-30,6180,6780,300,1
+489,478,"Clear Lake",1254,"Radiocarbon",7430,695,13050,-30,7210,7650,220,1
+489,478,"Clear Lake",1255,"Radiocarbon",8310,787,13050,-30,8030,8590,280,1
+489,478,"Clear Lake",1256,"Radiocarbon",10370,884,13050,-30,10090,10650,280,1

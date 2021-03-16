@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",996,965,"Water Conservation Area 3B, Gumbo Limbo Wet Head",2786,"Core top",-48,0,-48,-48,0,0
-"2",996,965,"Water Conservation Area 3B, Gumbo Limbo Wet Head",2788,"Radiocarbon",107,31,106,108,1,1
-"3",996,965,"Water Conservation Area 3B, Gumbo Limbo Wet Head",2789,"Radiocarbon",3220,41,3140,3300,80,1
-"4",996,965,"Water Conservation Area 3B, Gumbo Limbo Wet Head",2790,"Radiocarbon",3810,71.5,3750,3870,60,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+996,965,"Water Conservation Area 3B, Gumbo Limbo Wet Head",2786,"Core top",-48,0,3800,-50,-48,-48,0,0
+996,965,"Water Conservation Area 3B, Gumbo Limbo Wet Head",2788,"Radiocarbon",107,31,3800,-50,106,108,1,1
+996,965,"Water Conservation Area 3B, Gumbo Limbo Wet Head",2789,"Radiocarbon",3220,41,3800,-50,3140,3300,80,1
+996,965,"Water Conservation Area 3B, Gumbo Limbo Wet Head",2790,"Radiocarbon",3810,71.5,3800,-50,3750,3870,60,1

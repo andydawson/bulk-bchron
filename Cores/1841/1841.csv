@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1841,1782,"Lac Ouellet",5190,"Core top",0,0,0,0,0,0
-"2",1841,1782,"Lac Ouellet",5191,"Radiocarbon",4750,185,4620,4880,130,1
-"3",1841,1782,"Lac Ouellet",5192,"Radiocarbon",7280,295,7180,7420,120,1
-"4",1841,1782,"Lac Ouellet",5193,"Radiocarbon",10610,396,10445,10770,162.5,1
-"5",1841,1782,"Lac Ouellet",5194,"Deglaciation",12000,540,11500,12500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1841,1782,"Lac Ouellet",5190,"Core top",0,0,10540,100,0,0,0,0
+1841,1782,"Lac Ouellet",5191,"Radiocarbon",4750,185,10540,100,4620,4880,130,1
+1841,1782,"Lac Ouellet",5192,"Radiocarbon",7280,295,10540,100,7180,7420,120,1
+1841,1782,"Lac Ouellet",5193,"Radiocarbon",10610,396,10540,100,10445,10770,162.5,1
+1841,1782,"Lac Ouellet",5194,"Deglaciation",12000,540,10540,100,11500,12500,500,0

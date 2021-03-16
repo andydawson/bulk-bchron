@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1622,1576,"Leading Tickles",4003,"Core top",-32,0,-32,0,16,0
-"2",1622,1576,"Leading Tickles",4004,"Radiocarbon",4200,212.5,3980,4420,220,1
-"3",1622,1576,"Leading Tickles",4005,"Radiocarbon",5960,267.5,5720,6200,240,1
-"4",1622,1576,"Leading Tickles",4006,"Radiocarbon",9600,382.5,9140,10060,460,1
-"5",1622,1576,"Leading Tickles",4007,"Radiocarbon",10500,410,10220,10780,280,1
-"6",1622,1576,"Leading Tickles",4008,"Radiocarbon",13200,438,12600,13800,600,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1622,1576,"Leading Tickles",4003,"Core top",-32,0,12670,-40,-32,0,16,0
+1622,1576,"Leading Tickles",4004,"Radiocarbon",4200,212.5,12670,-40,3980,4420,220,1
+1622,1576,"Leading Tickles",4005,"Radiocarbon",5960,267.5,12670,-40,5720,6200,240,1
+1622,1576,"Leading Tickles",4006,"Radiocarbon",9600,382.5,12670,-40,9140,10060,460,1
+1622,1576,"Leading Tickles",4007,"Radiocarbon",10500,410,12670,-40,10220,10780,280,1
+1622,1576,"Leading Tickles",4008,"Radiocarbon",13200,438,12670,-40,12600,13800,600,1

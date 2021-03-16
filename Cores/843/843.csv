@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",843,817,"Forest Pond 2",2344,"Core top",0,0,0,0,0,0
-"2",843,817,"Forest Pond 2",2345,"Radiocarbon",4970,30,4830,5110,140,1
-"3",843,817,"Forest Pond 2",2346,"Radiocarbon",6630,36,6510,6750,120,1
-"4",843,817,"Forest Pond 2",2347,"Radiocarbon",8470,54,8300,8640,170,1
-"5",843,817,"Forest Pond 2",2348,"Radiocarbon",9630,70,9410,9850,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+843,817,"Forest Pond 2",2344,"Core top",0,0,8690,0,0,0,0,0
+843,817,"Forest Pond 2",2345,"Radiocarbon",4970,30,8690,0,4830,5110,140,1
+843,817,"Forest Pond 2",2346,"Radiocarbon",6630,36,8690,0,6510,6750,120,1
+843,817,"Forest Pond 2",2347,"Radiocarbon",8470,54,8690,0,8300,8640,170,1
+843,817,"Forest Pond 2",2348,"Radiocarbon",9630,70,8690,0,9410,9850,220,1

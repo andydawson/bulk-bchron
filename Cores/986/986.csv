@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",986,956,"Grenadier Pond",2724,"Core top",-30,0,-35,0,17.5,0
-"2",986,956,"Grenadier Pond",2727,"Radiocarbon",1010,108,710,1310,300,1
-"3",986,956,"Grenadier Pond",2728,"Radiocarbon, average of two or more dates",2340,296,2230,2450,110,1
-"4",986,956,"Grenadier Pond",2728,"Radiocarbon, average of two or more dates",2340,296,2230,2450,110,1
-"5",986,956,"Grenadier Pond",2729,"Radiocarbon",3110,480,2950,3270,160,1
-"6",986,956,"Grenadier Pond",2730,"Radiocarbon",4094,780,3974,4214,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+986,956,"Grenadier Pond",2724,"Core top",-30,0,4090,-30,-35,0,17.5,0
+986,956,"Grenadier Pond",2727,"Radiocarbon",1010,108,4090,-30,710,1310,300,1
+986,956,"Grenadier Pond",2728,"Radiocarbon, average of two or more dates",2340,296,4090,-30,2230,2450,110,1
+986,956,"Grenadier Pond",2728,"Radiocarbon, average of two or more dates",2340,296,4090,-30,2230,2450,110,1
+986,956,"Grenadier Pond",2729,"Radiocarbon",3110,480,4090,-30,2950,3270,160,1
+986,956,"Grenadier Pond",2730,"Radiocarbon",4094,780,4090,-30,3974,4214,120,1

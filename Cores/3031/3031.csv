@@ -1,12 +1,12 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3031,2933,"Wolsfeld Lake",7519,"Core top",-25,650,-25,-25,0,0
-"2",3031,2933,"Wolsfeld Lake",7526,"Radiocarbon, reservoir correction",270,750,210,330,60,1
-"3",3031,2933,"Wolsfeld Lake",7527,"Radiocarbon, reservoir correction",390,785,330,450,60,1
-"4",3031,2933,"Wolsfeld Lake",7528,"Radiocarbon, reservoir correction",2260,975,2195,2325,65,1
-"5",3031,2933,"Wolsfeld Lake",7529,"Radiocarbon, reservoir correction",3175,1065,3115,3235,60,1
-"6",3031,2933,"Wolsfeld Lake",7530,"Radiocarbon, reservoir correction",3500,1135,3425,3575,75,1
-"7",3031,2933,"Wolsfeld Lake",7531,"Radiocarbon, reservoir correction",5110,1345,5040,5180,70,1
-"8",3031,2933,"Wolsfeld Lake",7532,"Radiocarbon, reservoir correction",6050,1415,5970,6130,80,1
-"9",3031,2933,"Wolsfeld Lake",7533,"Radiocarbon, reservoir correction",7460,1520,7350,7570,110,1
-"10",3031,2933,"Wolsfeld Lake",7534,"Radiocarbon, reservoir correction",10070,1640,9960,10180,110,1
-"11",3031,2933,"Wolsfeld Lake",7535,"Radiocarbon",12000,1725,11875,12125,125,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3031,2933,"Wolsfeld Lake",7519,"Core top",-25,650,12000,-20,-25,-25,0,0
+3031,2933,"Wolsfeld Lake",7526,"Radiocarbon, reservoir correction",270,750,12000,-20,210,330,60,1
+3031,2933,"Wolsfeld Lake",7527,"Radiocarbon, reservoir correction",390,785,12000,-20,330,450,60,1
+3031,2933,"Wolsfeld Lake",7528,"Radiocarbon, reservoir correction",2260,975,12000,-20,2195,2325,65,1
+3031,2933,"Wolsfeld Lake",7529,"Radiocarbon, reservoir correction",3175,1065,12000,-20,3115,3235,60,1
+3031,2933,"Wolsfeld Lake",7530,"Radiocarbon, reservoir correction",3500,1135,12000,-20,3425,3575,75,1
+3031,2933,"Wolsfeld Lake",7531,"Radiocarbon, reservoir correction",5110,1345,12000,-20,5040,5180,70,1
+3031,2933,"Wolsfeld Lake",7532,"Radiocarbon, reservoir correction",6050,1415,12000,-20,5970,6130,80,1
+3031,2933,"Wolsfeld Lake",7533,"Radiocarbon, reservoir correction",7460,1520,12000,-20,7350,7570,110,1
+3031,2933,"Wolsfeld Lake",7534,"Radiocarbon, reservoir correction",10070,1640,12000,-20,9960,10180,110,1
+3031,2933,"Wolsfeld Lake",7535,"Radiocarbon",12000,1725,12000,-20,11875,12125,125,1

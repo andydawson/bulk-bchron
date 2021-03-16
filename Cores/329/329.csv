@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",329,322,"Saint-Calixte",910,"Core top",0,0,0,0,0,0
-"2",329,322,"Saint-Calixte",911,"Radiocarbon",6135,375,6060,6210,75,1
-"3",329,322,"Saint-Calixte",912,"Radiocarbon",8565,495,8475,8655,90,1
-"4",329,322,"Saint-Calixte",913,"Radiocarbon",9755,575,9655,9855,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+329,322,"Saint-Calixte",910,"Core top",0,0,10560,80,0,0,0,0
+329,322,"Saint-Calixte",911,"Radiocarbon",6135,375,10560,80,6060,6210,75,1
+329,322,"Saint-Calixte",912,"Radiocarbon",8565,495,10560,80,8475,8655,90,1
+329,322,"Saint-Calixte",913,"Radiocarbon",9755,575,10560,80,9655,9855,100,1

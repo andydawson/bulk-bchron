@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",874,845,"Upper Gillies Lake",2543,"Core top",0,0,-30,30,30,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+874,845,"Upper Gillies Lake",2543,"Core top",0,0,10500,0,-30,30,30,0

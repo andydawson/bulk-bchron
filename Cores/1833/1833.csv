@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1833,1774,"Lake Ontario, Rochester Basin",5152,"Core top",0,0,-20,20,20,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1833,1774,"Lake Ontario, Rochester Basin",5152,"Core top",0,0,12000,10,-20,20,20,0

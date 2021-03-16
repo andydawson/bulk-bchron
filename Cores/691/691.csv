@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",691,671,"Lac du Diable",1916,"Core top",0,0,0,0,0,0
-"2",691,671,"Lac du Diable",1917,"Radiocarbon",2530,30,2440,2620,90,1
-"3",691,671,"Lac du Diable",1918,"Radiocarbon",6950,75,6800,7100,150,1
-"4",691,671,"Lac du Diable",1920,"Radiocarbon",9950,105,9800,10100,150,1
-"5",691,671,"Lac du Diable",1921,"Radiocarbon",10660,125,10500,10820,160,1
-"6",691,671,"Lac du Diable",1922,"Deglaciation",12000,230,11500,12500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+691,671,"Lac du Diable",1916,"Core top",0,0,10660,0,0,0,0,0
+691,671,"Lac du Diable",1917,"Radiocarbon",2530,30,10660,0,2440,2620,90,1
+691,671,"Lac du Diable",1918,"Radiocarbon",6950,75,10660,0,6800,7100,150,1
+691,671,"Lac du Diable",1920,"Radiocarbon",9950,105,10660,0,9800,10100,150,1
+691,671,"Lac du Diable",1921,"Radiocarbon",10660,125,10660,0,10500,10820,160,1
+691,671,"Lac du Diable",1922,"Deglaciation",12000,230,10660,0,11500,12500,500,0

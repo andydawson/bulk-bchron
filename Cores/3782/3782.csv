@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3782,2540,"Taylor Creek Site 2",8410,"Core top",-45,0,-45,-45,0,0
-"2",3782,2540,"Taylor Creek Site 2",8411,"Lead-210",-10,5.5,-15,-5,5,0
-"3",3782,2540,"Taylor Creek Site 2",8412,"Lead-210",50,17.5,45,55,5,0
-"4",3782,2540,"Taylor Creek Site 2",8413,"Radiocarbon",230,22,190,270,40,1
-"5",3782,2540,"Taylor Creek Site 2",8414,"Radiocarbon",1610,75.5,1550,1670,60,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3782,2540,"Taylor Creek Site 2",8410,"Core top",-45,0,2090,-30,-45,-45,0,0
+3782,2540,"Taylor Creek Site 2",8411,"Lead-210",-10,5.5,2090,-30,-15,-5,5,0
+3782,2540,"Taylor Creek Site 2",8412,"Lead-210",50,17.5,2090,-30,45,55,5,0
+3782,2540,"Taylor Creek Site 2",8413,"Radiocarbon",230,22,2090,-30,190,270,40,1
+3782,2540,"Taylor Creek Site 2",8414,"Radiocarbon",1610,75.5,2090,-30,1550,1670,60,1

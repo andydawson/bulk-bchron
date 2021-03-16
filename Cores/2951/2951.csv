@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2951,2854,"Whitney's Gulch",7422,"Core top",-26,400,-26,-6,10,0
-"2",2951,2854,"Whitney's Gulch",7423,"Radiocarbon",2320,470,2180,2460,140,1
-"3",2951,2854,"Whitney's Gulch",7424,"Radiocarbon",3765,550,3575,3955,190,1
-"4",2951,2854,"Whitney's Gulch",7425,"Radiocarbon",4910,600,4800,5020,110,1
-"5",2951,2854,"Whitney's Gulch",7426,"Radiocarbon",6275,615,6015,6535,260,1
-"6",2951,2854,"Whitney's Gulch",7427,"Radiocarbon",8965,670,8665,9265,300,1
-"7",2951,2854,"Whitney's Gulch",7428,"Radiocarbon",9820,750,9600,10040,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2951,2854,"Whitney's Gulch",7422,"Core top",-26,400,10360,-30,-26,-6,10,0
+2951,2854,"Whitney's Gulch",7423,"Radiocarbon",2320,470,10360,-30,2180,2460,140,1
+2951,2854,"Whitney's Gulch",7424,"Radiocarbon",3765,550,10360,-30,3575,3955,190,1
+2951,2854,"Whitney's Gulch",7425,"Radiocarbon",4910,600,10360,-30,4800,5020,110,1
+2951,2854,"Whitney's Gulch",7426,"Radiocarbon",6275,615,10360,-30,6015,6535,260,1
+2951,2854,"Whitney's Gulch",7427,"Radiocarbon",8965,670,10360,-30,8665,9265,300,1
+2951,2854,"Whitney's Gulch",7428,"Radiocarbon",9820,750,10360,-30,9600,10040,220,1

@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",17345,11583,"North Killeak Lake",37244,"Core top",NA,0,-50,NA,1,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+17345,11583,"North Killeak Lake",37244,"Core top",NA,0,14060,200,-50,NA,NA,0

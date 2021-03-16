@@ -1,19 +1,19 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",550,534,"Davis Lake",1780,"Core top",-28,0,-28,0,14,0
-"2",550,534,"Davis Lake",1781,"Radiocarbon",110,9,50,170,60,1
-"3",550,534,"Davis Lake",1782,"Radiocarbon",790,29,710,870,80,1
-"4",550,534,"Davis Lake",1783,"Radiocarbon",780,49,700,860,80,1
-"5",550,534,"Davis Lake",1784,"Radiocarbon",2580,325,2480,2680,100,1
-"6",550,534,"Davis Lake",1785,"Radiocarbon",2610,330,2530,2690,80,1
-"7",550,534,"Davis Lake",1786,"Radiocarbon",2560,366.5,2480,2640,80,1
-"8",550,534,"Davis Lake",1787,"Radiocarbon",2633,374,2553,2713,80,1
-"9",550,534,"Davis Lake",1788,"Radiocarbon",3350,475,3270,3430,80,1
-"10",550,534,"Davis Lake",1789,"Radiocarbon",4000,524,3900,4100,100,1
-"11",550,534,"Davis Lake",1790,"Radiocarbon",6420,715,6200,6640,220,1
-"12",550,534,"Davis Lake",1791,"Tephra",6850,724,6700,7000,150,0
-"13",550,534,"Davis Lake",1792,"Radiocarbon",7460,733.5,7220,7700,240,1
-"14",550,534,"Davis Lake",1793,"Radiocarbon",13800,1117.5,13380,14220,420,1
-"15",550,534,"Davis Lake",1794,"Radiocarbon",15700,1171.5,15180,16220,520,1
-"16",550,534,"Davis Lake",1795,"Radiocarbon",21400,1527.5,20400,22400,1000,1
-"17",550,534,"Davis Lake",1796,"Radiocarbon",20500,1736.5,19700,21300,800,1
-"18",550,534,"Davis Lake",1797,"Radiocarbon",26100,2011.5,23700,28500,2400,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+550,534,"Davis Lake",1780,"Core top",-28,0,25640,-10,-28,0,14,0
+550,534,"Davis Lake",1781,"Radiocarbon",110,9,25640,-10,50,170,60,1
+550,534,"Davis Lake",1782,"Radiocarbon",790,29,25640,-10,710,870,80,1
+550,534,"Davis Lake",1783,"Radiocarbon",780,49,25640,-10,700,860,80,1
+550,534,"Davis Lake",1784,"Radiocarbon",2580,325,25640,-10,2480,2680,100,1
+550,534,"Davis Lake",1785,"Radiocarbon",2610,330,25640,-10,2530,2690,80,1
+550,534,"Davis Lake",1786,"Radiocarbon",2560,366.5,25640,-10,2480,2640,80,1
+550,534,"Davis Lake",1787,"Radiocarbon",2633,374,25640,-10,2553,2713,80,1
+550,534,"Davis Lake",1788,"Radiocarbon",3350,475,25640,-10,3270,3430,80,1
+550,534,"Davis Lake",1789,"Radiocarbon",4000,524,25640,-10,3900,4100,100,1
+550,534,"Davis Lake",1790,"Radiocarbon",6420,715,25640,-10,6200,6640,220,1
+550,534,"Davis Lake",1791,"Tephra",6850,724,25640,-10,6700,7000,150,0
+550,534,"Davis Lake",1792,"Radiocarbon",7460,733.5,25640,-10,7220,7700,240,1
+550,534,"Davis Lake",1793,"Radiocarbon",13800,1117.5,25640,-10,13380,14220,420,1
+550,534,"Davis Lake",1794,"Radiocarbon",15700,1171.5,25640,-10,15180,16220,520,1
+550,534,"Davis Lake",1795,"Radiocarbon",21400,1527.5,25640,-10,20400,22400,1000,1
+550,534,"Davis Lake",1796,"Radiocarbon",20500,1736.5,25640,-10,19700,21300,800,1
+550,534,"Davis Lake",1797,"Radiocarbon",26100,2011.5,25640,-10,23700,28500,2400,1

@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1655,1604,"Lockport Gulf Section",4281,"Radiocarbon",9145,257,8925,9365,220,1
-"2",1655,1604,"Lockport Gulf Section",4282,"Radiocarbon",9520,307,9300,9740,220,1
-"3",1655,1604,"Lockport Gulf Section",4283,"Radiocarbon",10290,377,9890,10690,400,1
-"4",1655,1604,"Lockport Gulf Section",4284,"Radiocarbon",10920,427,10600,11240,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1655,1604,"Lockport Gulf Section",4281,"Radiocarbon",9145,257,11080,8340,8925,9365,220,1
+1655,1604,"Lockport Gulf Section",4282,"Radiocarbon",9520,307,11080,8340,9300,9740,220,1
+1655,1604,"Lockport Gulf Section",4283,"Radiocarbon",10290,377,11080,8340,9890,10690,400,1
+1655,1604,"Lockport Gulf Section",4284,"Radiocarbon",10920,427,11080,8340,10600,11240,320,1

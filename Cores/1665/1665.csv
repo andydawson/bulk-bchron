@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1665,1613,"Lost Lake",4356,"Core top",0,0,-30,30,30,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1665,1613,"Lost Lake",4356,"Core top",0,0,9500,0,-30,30,30,0

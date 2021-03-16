@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",721,701,"Donut Pond Bog",1973,"Core top",-30,0,-38,0,19,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+721,701,"Donut Pond Bog",1973,"Core top",-30,0,500,-30,-38,0,19,0

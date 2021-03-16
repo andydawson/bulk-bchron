@@ -1,16 +1,16 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1632,1585,"Lily Lake",4086,"Core top",0,0,0,0,0,0
-"2",1632,1585,"Lily Lake",4087,"Radiocarbon",1480,27.5,1300,1660,180,1
-"3",1632,1585,"Lily Lake",4088,"Radiocarbon",2100,57.5,1900,2300,200,1
-"4",1632,1585,"Lily Lake",4089,"Radiocarbon",2770,97.5,2590,2950,180,1
-"5",1632,1585,"Lily Lake",4090,"Radiocarbon",3710,127.5,3530,3890,180,1
-"6",1632,1585,"Lily Lake",4091,"Radiocarbon",4370,142.5,4170,4570,200,1
-"7",1632,1585,"Lily Lake",4092,"Radiocarbon",6000,162.5,5800,6200,200,1
-"8",1632,1585,"Lily Lake",4093,"Radiocarbon",7000,192.5,6720,7280,280,1
-"9",1632,1585,"Lily Lake",4094,"Radiocarbon",7870,237.5,7610,8130,260,1
-"10",1632,1585,"Lily Lake",4095,"Radiocarbon",8300,255,8040,8560,260,1
-"11",1632,1585,"Lily Lake",4096,"Radiocarbon, average of two or more dates",9123,282.5,8947,9299,176,1
-"12",1632,1585,"Lily Lake",4096,"Radiocarbon, average of two or more dates",9123,282.5,8947,9299,176,1
-"13",1632,1585,"Lily Lake",4097,"Radiocarbon",9300,316.5,9000,9600,300,1
-"14",1632,1585,"Lily Lake",4098,"Radiocarbon",10070,342.5,9810,10330,260,1
-"15",1632,1585,"Lily Lake",4099,"Radiocarbon",10690,374,10270,11110,420,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1632,1585,"Lily Lake",4086,"Core top",0,0,10710,50,0,0,0,0
+1632,1585,"Lily Lake",4087,"Radiocarbon",1480,27.5,10710,50,1300,1660,180,1
+1632,1585,"Lily Lake",4088,"Radiocarbon",2100,57.5,10710,50,1900,2300,200,1
+1632,1585,"Lily Lake",4089,"Radiocarbon",2770,97.5,10710,50,2590,2950,180,1
+1632,1585,"Lily Lake",4090,"Radiocarbon",3710,127.5,10710,50,3530,3890,180,1
+1632,1585,"Lily Lake",4091,"Radiocarbon",4370,142.5,10710,50,4170,4570,200,1
+1632,1585,"Lily Lake",4092,"Radiocarbon",6000,162.5,10710,50,5800,6200,200,1
+1632,1585,"Lily Lake",4093,"Radiocarbon",7000,192.5,10710,50,6720,7280,280,1
+1632,1585,"Lily Lake",4094,"Radiocarbon",7870,237.5,10710,50,7610,8130,260,1
+1632,1585,"Lily Lake",4095,"Radiocarbon",8300,255,10710,50,8040,8560,260,1
+1632,1585,"Lily Lake",4096,"Radiocarbon, average of two or more dates",9123,282.5,10710,50,8947,9299,176,1
+1632,1585,"Lily Lake",4096,"Radiocarbon, average of two or more dates",9123,282.5,10710,50,8947,9299,176,1
+1632,1585,"Lily Lake",4097,"Radiocarbon",9300,316.5,10710,50,9000,9600,300,1
+1632,1585,"Lily Lake",4098,"Radiocarbon",10070,342.5,10710,50,9810,10330,260,1
+1632,1585,"Lily Lake",4099,"Radiocarbon",10690,374,10710,50,10270,11110,420,1

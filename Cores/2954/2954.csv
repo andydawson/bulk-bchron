@@ -1,10 +1,10 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2954,2857,"Wien Lake",7441,"Core top",0,0,-40,500,270,0
-"2",2954,2857,"Wien Lake",7442,"Radiocarbon",3390,25,3300,3480,90,1
-"3",2954,2857,"Wien Lake",7443,"Radiocarbon",4550,50,4450,4650,100,1
-"4",2954,2857,"Wien Lake",7444,"Radiocarbon",6000,90,5890,6110,110,1
-"5",2954,2857,"Wien Lake",7445,"Radiocarbon",8080,115,7950,8210,130,1
-"6",2954,2857,"Wien Lake",7446,"Radiocarbon",8140,145,8030,8250,110,1
-"7",2954,2857,"Wien Lake",7447,"Radiocarbon",9705,177.5,9615,9795,90,1
-"8",2954,2857,"Wien Lake",7448,"Radiocarbon",10450,200,10350,10550,100,1
-"9",2954,2857,"Wien Lake",7449,"Radiocarbon",12150,250,12040,12260,110,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2954,2857,"Wien Lake",7441,"Core top",0,0,12150,0,-40,500,270,0
+2954,2857,"Wien Lake",7442,"Radiocarbon",3390,25,12150,0,3300,3480,90,1
+2954,2857,"Wien Lake",7443,"Radiocarbon",4550,50,12150,0,4450,4650,100,1
+2954,2857,"Wien Lake",7444,"Radiocarbon",6000,90,12150,0,5890,6110,110,1
+2954,2857,"Wien Lake",7445,"Radiocarbon",8080,115,12150,0,7950,8210,130,1
+2954,2857,"Wien Lake",7446,"Radiocarbon",8140,145,12150,0,8030,8250,110,1
+2954,2857,"Wien Lake",7447,"Radiocarbon",9705,177.5,12150,0,9615,9795,90,1
+2954,2857,"Wien Lake",7448,"Radiocarbon",10450,200,12150,0,10350,10550,100,1
+2954,2857,"Wien Lake",7449,"Radiocarbon",12150,250,12150,0,12040,12260,110,1

@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",875,846,"Glacial Lake",2548,"Core top",1000,0,500,1500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+875,846,"Glacial Lake",2548,"Core top",1000,0,15050,1000,500,1500,500,0

@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3469,1544,"Lake Ann",7934,"Core top",-30,512,-30,-10,10,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3469,1544,"Lake Ann",7934,"Core top",-30,512,NA,NA,-30,-10,10,0

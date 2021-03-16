@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3772,18,"South Soefje Bog",8365,"Core top",20,0,20,0,10,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3772,18,"South Soefje Bog",8365,"Core top",20,0,7910,110,20,0,10,0

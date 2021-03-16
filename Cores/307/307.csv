@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",307,301,"Boundary Lake",737,"Radiocarbon",2080,10,2000,2160,80,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+307,301,"Boundary Lake",737,"Radiocarbon",2080,10,6500,2000,2000,2160,80,1

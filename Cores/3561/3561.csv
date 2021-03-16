@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3561,1906,"Potato Lake",8233,"Radiocarbon",1430,27.5,1270,1590,160,1
-"2",3561,1906,"Potato Lake",8234,"Radiocarbon",1860,53.75,1680,2040,180,1
-"3",3561,1906,"Potato Lake",8235,"Radiocarbon",2890,73.75,2750,3030,140,1
-"4",3561,1906,"Potato Lake",8236,"Radiocarbon",9890,92.5,9410,10370,480,1
-"5",3561,1906,"Potato Lake",8238,"Radiocarbon, average of two or more dates",22300,540,21980,22620,320,1
-"6",3561,1906,"Potato Lake",8238,"Radiocarbon, average of two or more dates",22300,540,21980,22620,320,1
-"7",3561,1906,"Potato Lake",8239,"Radiocarbon",34850,912.5,33050,36750,1850,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3561,1906,"Potato Lake",8233,"Radiocarbon",1430,27.5,35280,1380,1270,1590,160,1
+3561,1906,"Potato Lake",8234,"Radiocarbon",1860,53.75,35280,1380,1680,2040,180,1
+3561,1906,"Potato Lake",8235,"Radiocarbon",2890,73.75,35280,1380,2750,3030,140,1
+3561,1906,"Potato Lake",8236,"Radiocarbon",9890,92.5,35280,1380,9410,10370,480,1
+3561,1906,"Potato Lake",8238,"Radiocarbon, average of two or more dates",22300,540,35280,1380,21980,22620,320,1
+3561,1906,"Potato Lake",8238,"Radiocarbon, average of two or more dates",22300,540,35280,1380,21980,22620,320,1
+3561,1906,"Potato Lake",8239,"Radiocarbon",34850,912.5,35280,1380,33050,36750,1850,1

@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2263,2188,"Roberts Creek 01",5948,"Core top",-35,1,-35,0,17.5,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2263,2188,"Roberts Creek 01",5948,"Core top",-35,1,0,-35,-35,0,17.5,0

@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",821,798,"Tourbière de Farnham",2284,"Core top",0,0,0,0,0,0
-"2",821,798,"Tourbière de Farnham",2285,"Radiocarbon",5145,79.5,4945,5345,200,1
-"3",821,798,"Tourbière de Farnham",2286,"Radiocarbon",6545,104.5,6435,6655,110,1
-"4",821,798,"Tourbière de Farnham",2287,"Radiocarbon",7260,127.5,7100,7420,160,1
-"5",821,798,"Tourbière de Farnham",2288,"Radiocarbon",8150,175.5,8000,8300,150,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+821,798,"Tourbière de Farnham",2284,"Core top",0,0,8350,0,0,0,0,0
+821,798,"Tourbière de Farnham",2285,"Radiocarbon",5145,79.5,8350,0,4945,5345,200,1
+821,798,"Tourbière de Farnham",2286,"Radiocarbon",6545,104.5,8350,0,6435,6655,110,1
+821,798,"Tourbière de Farnham",2287,"Radiocarbon",7260,127.5,8350,0,7100,7420,160,1
+821,798,"Tourbière de Farnham",2288,"Radiocarbon",8150,175.5,8350,0,8000,8300,150,1

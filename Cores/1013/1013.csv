@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1013,982,"Hay Lake",2954,"Core top",0,0,-35,35,35,0
-"2",1013,982,"Hay Lake",2955,"Radiocarbon",4070,50.5,4010,4130,60,1
-"3",1013,982,"Hay Lake",2956,"Radiocarbon",12060,103.5,11000,13120,1060,1
-"4",1013,982,"Hay Lake",2957,"Radiocarbon",13710,161,13070,14350,640,1
-"5",1013,982,"Hay Lake",2958,"Radiocarbon",24550,212,22710,26390,1840,1
-"6",1013,982,"Hay Lake",2959,"Radiocarbon",25920,249.5,19920,31920,6000,1
-"7",1013,982,"Hay Lake",2960,"Radiocarbon",37000,341,32000,42000,5000,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1013,982,"Hay Lake",2954,"Core top",0,0,44700,100,-35,35,35,0
+1013,982,"Hay Lake",2955,"Radiocarbon",4070,50.5,44700,100,4010,4130,60,1
+1013,982,"Hay Lake",2956,"Radiocarbon",12060,103.5,44700,100,11000,13120,1060,1
+1013,982,"Hay Lake",2957,"Radiocarbon",13710,161,44700,100,13070,14350,640,1
+1013,982,"Hay Lake",2958,"Radiocarbon",24550,212,44700,100,22710,26390,1840,1
+1013,982,"Hay Lake",2959,"Radiocarbon",25920,249.5,44700,100,19920,31920,6000,1
+1013,982,"Hay Lake",2960,"Radiocarbon",37000,341,44700,100,32000,42000,5000,1

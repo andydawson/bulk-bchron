@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1524,1486,"Kitchner Lake",3629,"Core top",-30,1,-30,-30,0,0
-"2",1524,1486,"Kitchner Lake",3631,"Radiocarbon, reservoir correction",3615,310,3325,3905,290,1
-"3",1524,1486,"Kitchner Lake",3632,"Radiocarbon, reservoir correction",5210,400,4850,5570,360,1
-"4",1524,1486,"Kitchner Lake",3633,"Radiocarbon, reservoir correction",9470,620,8910,10030,560,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1524,1486,"Kitchner Lake",3629,"Core top",-30,1,9470,-30,-30,-30,0,0
+1524,1486,"Kitchner Lake",3631,"Radiocarbon, reservoir correction",3615,310,9470,-30,3325,3905,290,1
+1524,1486,"Kitchner Lake",3632,"Radiocarbon, reservoir correction",5210,400,9470,-30,4850,5570,360,1
+1524,1486,"Kitchner Lake",3633,"Radiocarbon, reservoir correction",9470,620,9470,-30,8910,10030,560,1

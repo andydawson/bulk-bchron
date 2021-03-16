@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1724,1668,"McMaster Lake",4673,"Core top",0,0,-35,35,35,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1724,1668,"McMaster Lake",4673,"Core top",0,0,8190,0,-35,35,35,0

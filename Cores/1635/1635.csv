@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1635,1587,"Lily Lake",4123,"Core top",0,0,-30,30,30,0
-"2",1635,1587,"Lily Lake",4124,"Radiocarbon",2720,266,2580,2860,140,1
-"3",1635,1587,"Lily Lake",4125,"Tephra",6850,492.5,6700,7000,150,0
-"4",1635,1587,"Lily Lake",4126,"Radiocarbon",7070,528.5,6970,7170,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1635,1587,"Lily Lake",4123,"Core top",0,0,7510,0,-30,30,30,0
+1635,1587,"Lily Lake",4124,"Radiocarbon",2720,266,7510,0,2580,2860,140,1
+1635,1587,"Lily Lake",4125,"Tephra",6850,492.5,7510,0,6700,7000,150,0
+1635,1587,"Lily Lake",4126,"Radiocarbon",7070,528.5,7510,0,6970,7170,100,1

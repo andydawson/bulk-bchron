@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",339,332,"Lac Caribou",995,"Core top",0,0,0,0,0,0
-"2",339,332,"Lac Caribou",996,"Radiocarbon",4010,121.5,3900,4120,110,1
-"3",339,332,"Lac Caribou",997,"Radiocarbon",6100,204,5930,6270,170,1
-"4",339,332,"Lac Caribou",998,"Radiocarbon",8250,268.5,8140,8360,110,1
-"5",339,332,"Lac Caribou",999,"Radiocarbon",8850,305,8590,9110,260,1
-"6",339,332,"Lac Caribou",1000,"Radiocarbon",10000,320.5,9600,10400,400,1
-"7",339,332,"Lac Caribou",1001,"Deglaciation",13000,385,12500,13500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+339,332,"Lac Caribou",995,"Core top",0,0,9590,80,0,0,0,0
+339,332,"Lac Caribou",996,"Radiocarbon",4010,121.5,9590,80,3900,4120,110,1
+339,332,"Lac Caribou",997,"Radiocarbon",6100,204,9590,80,5930,6270,170,1
+339,332,"Lac Caribou",998,"Radiocarbon",8250,268.5,9590,80,8140,8360,110,1
+339,332,"Lac Caribou",999,"Radiocarbon",8850,305,9590,80,8590,9110,260,1
+339,332,"Lac Caribou",1000,"Radiocarbon",10000,320.5,9590,80,9600,10400,400,1
+339,332,"Lac Caribou",1001,"Deglaciation",13000,385,9590,80,12500,13500,500,0

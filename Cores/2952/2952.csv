@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2952,2855,"White Lily Lake",7429,"Core top",-15,0,-15,0,7.5,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2952,2855,"White Lily Lake",7429,"Core top",-15,0,360,-10,-15,0,7.5,0

@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3042,2944,"Wylde Lake",7615,"Core top",-30,0,-30,-10,10,0
-"2",3042,2944,"Wylde Lake",7617,"Radiocarbon",4540,150,4380,4700,160,1
-"3",3042,2944,"Wylde Lake",7618,"Radiocarbon",7140,335,6940,7340,200,1
-"4",3042,2944,"Wylde Lake",7619,"Radiocarbon",10800,490,10440,11160,360,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3042,2944,"Wylde Lake",7615,"Core top",-30,0,12460,-30,-30,-10,10,0
+3042,2944,"Wylde Lake",7617,"Radiocarbon",4540,150,12460,-30,4380,4700,160,1
+3042,2944,"Wylde Lake",7618,"Radiocarbon",7140,335,12460,-30,6940,7340,200,1
+3042,2944,"Wylde Lake",7619,"Radiocarbon",10800,490,12460,-30,10440,11160,360,1

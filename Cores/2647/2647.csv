@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2647,2556,"Toboggan Lake",7074,"Core top",-35,0,-35,0,17.5,0
-"2",2647,2556,"Toboggan Lake",7075,"Radiocarbon",3830,190,3770,3890,60,1
-"3",2647,2556,"Toboggan Lake",7076,"Radiocarbon",5960,290,5900,6020,60,1
-"4",2647,2556,"Toboggan Lake",7077,"Radiocarbon",7850,430,7780,7920,70,1
-"5",2647,2556,"Toboggan Lake",7078,"Radiocarbon",8810,510,8740,8880,70,1
-"6",2647,2556,"Toboggan Lake",7079,"Radiocarbon",10400,585,10330,10470,70,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2647,2556,"Toboggan Lake",7074,"Core top",-35,0,9870,-40,-35,0,17.5,0
+2647,2556,"Toboggan Lake",7075,"Radiocarbon",3830,190,9870,-40,3770,3890,60,1
+2647,2556,"Toboggan Lake",7076,"Radiocarbon",5960,290,9870,-40,5900,6020,60,1
+2647,2556,"Toboggan Lake",7077,"Radiocarbon",7850,430,9870,-40,7780,7920,70,1
+2647,2556,"Toboggan Lake",7078,"Radiocarbon",8810,510,9870,-40,8740,8880,70,1
+2647,2556,"Toboggan Lake",7079,"Radiocarbon",10400,585,9870,-40,10330,10470,70,1

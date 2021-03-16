@@ -1,9 +1,9 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3790,562,"Tom Swamp",8434,"Radiocarbon",4850,206.5,4780,4920,70,1
-"2",3790,562,"Tom Swamp",8435,"Radiocarbon",6080,338,6000,6160,80,1
-"3",3790,562,"Tom Swamp",8436,"Radiocarbon",6920,467,6840,7000,80,1
-"4",3790,562,"Tom Swamp",8437,"Radiocarbon",7280,567,7200,7360,80,1
-"5",3790,562,"Tom Swamp",8438,"Radiocarbon",9280,670,9180,9380,100,1
-"6",3790,562,"Tom Swamp",8439,"Radiocarbon",10080,770,9980,10180,100,1
-"7",3790,562,"Tom Swamp",8440,"Radiocarbon",11580,870,11470,11690,110,1
-"8",3790,562,"Tom Swamp",8441,"Radiocarbon",12830,960,12710,12950,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3790,562,"Tom Swamp",8434,"Radiocarbon",4850,206.5,13850,200,4780,4920,70,1
+3790,562,"Tom Swamp",8435,"Radiocarbon",6080,338,13850,200,6000,6160,80,1
+3790,562,"Tom Swamp",8436,"Radiocarbon",6920,467,13850,200,6840,7000,80,1
+3790,562,"Tom Swamp",8437,"Radiocarbon",7280,567,13850,200,7200,7360,80,1
+3790,562,"Tom Swamp",8438,"Radiocarbon",9280,670,13850,200,9180,9380,100,1
+3790,562,"Tom Swamp",8439,"Radiocarbon",10080,770,13850,200,9980,10180,100,1
+3790,562,"Tom Swamp",8440,"Radiocarbon",11580,870,13850,200,11470,11690,110,1
+3790,562,"Tom Swamp",8441,"Radiocarbon",12830,960,13850,200,12710,12950,120,1

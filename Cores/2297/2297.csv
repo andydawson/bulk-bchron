@@ -1,9 +1,9 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2297,2219,"Lake RS29",6072,"Core top",0,0,-40,40,40,0
-"2",2297,2219,"Lake RS29",6073,"Radiocarbon",1020,13.5,900,1140,120,1
-"3",2297,2219,"Lake RS29",6074,"Radiocarbon",2490,26,2370,2610,120,1
-"4",2297,2219,"Lake RS29",6075,"Radiocarbon",4410,29,4170,4650,240,1
-"5",2297,2219,"Lake RS29",6076,"Radiocarbon",5510,58.5,5370,5650,140,1
-"6",2297,2219,"Lake RS29",6077,"Radiocarbon",5380,84,5260,5500,120,1
-"7",2297,2219,"Lake RS29",6078,"Radiocarbon",6490,118.5,6350,6630,140,1
-"8",2297,2219,"Lake RS29",6079,"Radiocarbon",9870,148.5,9370,10370,500,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2297,2219,"Lake RS29",6072,"Core top",0,0,9990,250,-40,40,40,0
+2297,2219,"Lake RS29",6073,"Radiocarbon",1020,13.5,9990,250,900,1140,120,1
+2297,2219,"Lake RS29",6074,"Radiocarbon",2490,26,9990,250,2370,2610,120,1
+2297,2219,"Lake RS29",6075,"Radiocarbon",4410,29,9990,250,4170,4650,240,1
+2297,2219,"Lake RS29",6076,"Radiocarbon",5510,58.5,9990,250,5370,5650,140,1
+2297,2219,"Lake RS29",6077,"Radiocarbon",5380,84,9990,250,5260,5500,120,1
+2297,2219,"Lake RS29",6078,"Radiocarbon",6490,118.5,9990,250,6350,6630,140,1
+2297,2219,"Lake RS29",6079,"Radiocarbon",9870,148.5,9990,250,9370,10370,500,1

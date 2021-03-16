@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1617,1571,"Lateral Pond",3984,"Core top",-27,0,-27,20,23.5,0
-"2",1617,1571,"Lateral Pond",3985,"Radiocarbon",6800,110.5,6640,6960,160,1
-"3",1617,1571,"Lateral Pond",3986,"Radiocarbon",7510,139,7170,7850,340,1
-"4",1617,1571,"Lateral Pond",3988,"Deglaciation",14000,300,13500,14500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1617,1571,"Lateral Pond",3984,"Core top",-27,0,14000,-30,-27,20,23.5,0
+1617,1571,"Lateral Pond",3985,"Radiocarbon",6800,110.5,14000,-30,6640,6960,160,1
+1617,1571,"Lateral Pond",3986,"Radiocarbon",7510,139,14000,-30,7170,7850,340,1
+1617,1571,"Lateral Pond",3988,"Deglaciation",14000,300,14000,-30,13500,14500,500,0

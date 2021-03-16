@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",823,800,"Fawn Lake (CA:Ontario)",2291,"Core top",-30,0,-30,-10,10,0
-"2",823,800,"Fawn Lake (CA:Ontario)",2292,"Radiocarbon",4340,230,4100,4580,240,1
-"3",823,800,"Fawn Lake (CA:Ontario)",2293,"Radiocarbon",7075,334,6815,7335,260,1
-"4",823,800,"Fawn Lake (CA:Ontario)",2294,"Radiocarbon",9800,502.5,9400,10200,400,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+823,800,"Fawn Lake (CA:Ontario)",2291,"Core top",-30,0,10730,-30,-30,-10,10,0
+823,800,"Fawn Lake (CA:Ontario)",2292,"Radiocarbon",4340,230,10730,-30,4100,4580,240,1
+823,800,"Fawn Lake (CA:Ontario)",2293,"Radiocarbon",7075,334,10730,-30,6815,7335,260,1
+823,800,"Fawn Lake (CA:Ontario)",2294,"Radiocarbon",9800,502.5,10730,-30,9400,10200,400,1

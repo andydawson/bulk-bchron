@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",496,484,"Coghill Lake",1332,"Core top",-31,565,-31,-31,0,0
-"2",496,484,"Coghill Lake",1333,"Radiocarbon",3350,686.5,3280,3420,70,1
-"3",496,484,"Coghill Lake",1334,"Radiocarbon",4100,724,4030,4170,70,1
-"4",496,484,"Coghill Lake",1335,"Radiocarbon",5400,758.5,5310,5490,90,1
-"5",496,484,"Coghill Lake",1337,"Deglaciation",6300,789,6100,6500,200,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+496,484,"Coghill Lake",1332,"Core top",-31,565,6300,-40,-31,-31,0,0
+496,484,"Coghill Lake",1333,"Radiocarbon",3350,686.5,6300,-40,3280,3420,70,1
+496,484,"Coghill Lake",1334,"Radiocarbon",4100,724,6300,-40,4030,4170,70,1
+496,484,"Coghill Lake",1335,"Radiocarbon",5400,758.5,6300,-40,5310,5490,90,1
+496,484,"Coghill Lake",1337,"Deglaciation",6300,789,6300,-40,6100,6500,200,0

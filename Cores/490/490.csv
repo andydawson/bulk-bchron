@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",490,479,"Clear Lake",1257,"Core top",0,0,-20,20,20,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+490,479,"Clear Lake",1257,"Core top",0,0,12000,0,-20,20,20,0

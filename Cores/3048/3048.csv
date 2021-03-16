@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3048,2949,"Yesterday Lake",7643,"Core top",-32,0,-32,0,16,0
-"2",3048,2949,"Yesterday Lake",7644,"Radiocarbon",6370,62.5,6190,6550,180,1
-"3",3048,2949,"Yesterday Lake",7645,"Radiocarbon",9260,107,9100,9620,260,1
-"4",3048,2949,"Yesterday Lake",7646,"Radiocarbon",10000,153.5,9700,10300,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3048,2949,"Yesterday Lake",7643,"Core top",-32,0,10270,-30,-32,0,16,0
+3048,2949,"Yesterday Lake",7644,"Radiocarbon",6370,62.5,10270,-30,6190,6550,180,1
+3048,2949,"Yesterday Lake",7645,"Radiocarbon",9260,107,10270,-30,9100,9620,260,1
+3048,2949,"Yesterday Lake",7646,"Radiocarbon",10000,153.5,10270,-30,9700,10300,300,1

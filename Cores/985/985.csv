@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",985,955,"Greenwater Pond",2722,"Core top",0,0,-20,20,20,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+985,955,"Greenwater Pond",2722,"Core top",0,0,420,0,-20,20,20,0

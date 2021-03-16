@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2620,2530,"Swan Lake",6908,"Core top",-27,140,-27,-7,10,0
-"2",2620,2530,"Swan Lake",6910,"Radiocarbon",3680,810,3540,3820,140,1
-"3",2620,2530,"Swan Lake",6911,"Radiocarbon",8950,1477,8630,9270,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2620,2530,"Swan Lake",6908,"Core top",-27,140,9370,30,-27,-7,10,0
+2620,2530,"Swan Lake",6910,"Radiocarbon",3680,810,9370,30,3540,3820,140,1
+2620,2530,"Swan Lake",6911,"Radiocarbon",8950,1477,9370,30,8630,9270,320,1

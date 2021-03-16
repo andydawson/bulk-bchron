@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1033,1000,"Tourbière de Lanoraie HENRI",3012,"Core top",0,0,0,0,0,0
-"2",1033,1000,"Tourbière de Lanoraie HENRI",3013,"Radiocarbon",700,50,600,800,100,1
-"3",1033,1000,"Tourbière de Lanoraie HENRI",3014,"Radiocarbon",2930,130,2790,3070,140,1
-"4",1033,1000,"Tourbière de Lanoraie HENRI",3015,"Radiocarbon",3360,210,3230,3490,130,1
-"5",1033,1000,"Tourbière de Lanoraie HENRI",3016,"Radiocarbon",5960,477.5,5830,6090,130,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1033,1000,"Tourbière de Lanoraie HENRI",3012,"Core top",0,0,5700,280,0,0,0,0
+1033,1000,"Tourbière de Lanoraie HENRI",3013,"Radiocarbon",700,50,5700,280,600,800,100,1
+1033,1000,"Tourbière de Lanoraie HENRI",3014,"Radiocarbon",2930,130,5700,280,2790,3070,140,1
+1033,1000,"Tourbière de Lanoraie HENRI",3015,"Radiocarbon",3360,210,5700,280,3230,3490,130,1
+1033,1000,"Tourbière de Lanoraie HENRI",3016,"Radiocarbon",5960,477.5,5700,280,5830,6090,130,1

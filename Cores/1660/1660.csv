@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1660,1609,"Long Lake",4319,"Core top",0,0,0,0,0,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1660,1609,"Long Lake",4319,"Core top",0,0,NA,NA,0,0,0,0

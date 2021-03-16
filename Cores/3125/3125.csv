@@ -1,10 +1,10 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3125,770,"E Lake",7758,"Core top",-18,0,-18,0,9,0
-"2",3125,770,"E Lake",7759,"Radiocarbon",775,17.5,665,885,110,1
-"3",3125,770,"E Lake",7760,"Radiocarbon",1170,42.5,1060,1280,110,1
-"4",3125,770,"E Lake",7761,"Radiocarbon",1780,72.5,1650,1910,130,1
-"5",3125,770,"E Lake",7762,"Radiocarbon",5025,192.5,4905,5145,120,1
-"6",3125,770,"E Lake",7763,"Radiocarbon",6130,232.5,6000,6260,130,1
-"7",3125,770,"E Lake",7764,"Radiocarbon",7280,272.5,7150,7410,130,1
-"8",3125,770,"E Lake",7765,"Radiocarbon",7750,342.5,7620,7880,130,1
-"9",3125,770,"E Lake",7766,"Radiocarbon",11140,432.5,10940,11340,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3125,770,"E Lake",7758,"Core top",-18,0,11430,-20,-18,0,9,0
+3125,770,"E Lake",7759,"Radiocarbon",775,17.5,11430,-20,665,885,110,1
+3125,770,"E Lake",7760,"Radiocarbon",1170,42.5,11430,-20,1060,1280,110,1
+3125,770,"E Lake",7761,"Radiocarbon",1780,72.5,11430,-20,1650,1910,130,1
+3125,770,"E Lake",7762,"Radiocarbon",5025,192.5,11430,-20,4905,5145,120,1
+3125,770,"E Lake",7763,"Radiocarbon",6130,232.5,11430,-20,6000,6260,130,1
+3125,770,"E Lake",7764,"Radiocarbon",7280,272.5,11430,-20,7150,7410,130,1
+3125,770,"E Lake",7765,"Radiocarbon",7750,342.5,11430,-20,7620,7880,130,1
+3125,770,"E Lake",7766,"Radiocarbon",11140,432.5,11430,-20,10940,11340,200,1

@@ -1,9 +1,9 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3130,728,"Heart Lake",7795,"Core top",0,0,-20,20,20,0
-"2",3130,728,"Heart Lake",7797,"Radiocarbon",1670,115.5,1520,1820,150,1
-"3",3130,728,"Heart Lake",7798,"Radiocarbon",1850,208.5,1730,1970,120,1
-"4",3130,728,"Heart Lake",7799,"Radiocarbon",3440,285.5,3275,3605,165,1
-"5",3130,728,"Heart Lake",7800,"Radiocarbon",3935,390.5,3770,4100,165,1
-"6",3130,728,"Heart Lake",7801,"Radiocarbon",5175,405.5,4960,5390,215,1
-"7",3130,728,"Heart Lake",7802,"Radiocarbon",7695,545.5,7500,7890,195,1
-"8",3130,728,"Heart Lake",7803,"Radiocarbon",10475,629.5,10245,10705,230,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3130,728,"Heart Lake",7795,"Core top",0,0,12000,0,-20,20,20,0
+3130,728,"Heart Lake",7797,"Radiocarbon",1670,115.5,12000,0,1520,1820,150,1
+3130,728,"Heart Lake",7798,"Radiocarbon",1850,208.5,12000,0,1730,1970,120,1
+3130,728,"Heart Lake",7799,"Radiocarbon",3440,285.5,12000,0,3275,3605,165,1
+3130,728,"Heart Lake",7800,"Radiocarbon",3935,390.5,12000,0,3770,4100,165,1
+3130,728,"Heart Lake",7801,"Radiocarbon",5175,405.5,12000,0,4960,5390,215,1
+3130,728,"Heart Lake",7802,"Radiocarbon",7695,545.5,12000,0,7500,7890,195,1
+3130,728,"Heart Lake",7803,"Radiocarbon",10475,629.5,12000,0,10245,10705,230,1

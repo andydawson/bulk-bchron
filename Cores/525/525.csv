@@ -1,14 +1,14 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",525,512,"Crowfoot Lake",1573,"Core top",1,1,1,1,0,0
-"2",525,512,"Crowfoot Lake",1574,"Radiocarbon, average of two or more dates",525,41.5,400,660,130,1
-"3",525,512,"Crowfoot Lake",1574,"Radiocarbon, average of two or more dates",525,41.5,400,660,130,1
-"4",525,512,"Crowfoot Lake",1575,"Radiocarbon",1120,67.5,1020,1220,100,1
-"5",525,512,"Crowfoot Lake",1576,"Tephra",2360,106,2160,2560,200,0
-"6",525,512,"Crowfoot Lake",1577,"Tephra",3400,127,3200,3600,200,0
-"7",525,512,"Crowfoot Lake",1578,"Radiocarbon",3950,134,3880,4020,70,1
-"8",525,512,"Crowfoot Lake",1579,"Radiocarbon",5550,160,5460,5640,90,1
-"9",525,512,"Crowfoot Lake",1580,"Tephra",6845,187,3700,7000,1650,0
-"10",525,512,"Crowfoot Lake",1581,"Radiocarbon",9060,206.5,8690,9430,370,1
-"11",525,512,"Crowfoot Lake",1582,"Radiocarbon",9470,218,9400,9540,70,1
-"12",525,512,"Crowfoot Lake",1583,"Radiocarbon",10020,226.5,9950,10090,70,1
-"13",525,512,"Crowfoot Lake",1584,"Radiocarbon",11330,236.5,11110,11550,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+525,512,"Crowfoot Lake",1573,"Core top",1,1,11960,0,1,1,0,0
+525,512,"Crowfoot Lake",1574,"Radiocarbon, average of two or more dates",525,41.5,11960,0,400,660,130,1
+525,512,"Crowfoot Lake",1574,"Radiocarbon, average of two or more dates",525,41.5,11960,0,400,660,130,1
+525,512,"Crowfoot Lake",1575,"Radiocarbon",1120,67.5,11960,0,1020,1220,100,1
+525,512,"Crowfoot Lake",1576,"Tephra",2360,106,11960,0,2160,2560,200,0
+525,512,"Crowfoot Lake",1577,"Tephra",3400,127,11960,0,3200,3600,200,0
+525,512,"Crowfoot Lake",1578,"Radiocarbon",3950,134,11960,0,3880,4020,70,1
+525,512,"Crowfoot Lake",1579,"Radiocarbon",5550,160,11960,0,5460,5640,90,1
+525,512,"Crowfoot Lake",1580,"Tephra",6845,187,11960,0,3700,7000,1650,0
+525,512,"Crowfoot Lake",1581,"Radiocarbon",9060,206.5,11960,0,8690,9430,370,1
+525,512,"Crowfoot Lake",1582,"Radiocarbon",9470,218,11960,0,9400,9540,70,1
+525,512,"Crowfoot Lake",1583,"Radiocarbon",10020,226.5,11960,0,9950,10090,70,1
+525,512,"Crowfoot Lake",1584,"Radiocarbon",11330,236.5,11960,0,11110,11550,220,1

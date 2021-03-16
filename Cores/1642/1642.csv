@@ -1,14 +1,14 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1642,1592,"Little Lake",4155,"Core top",0,0,-40,40,40,0
-"2",1642,1592,"Little Lake",4156,"Radiocarbon",2840,350,2700,2980,140,1
-"3",1642,1592,"Little Lake",4157,"Radiocarbon",4260,550,4120,4400,140,1
-"4",1642,1592,"Little Lake",4158,"Tephra",6850,774.5,6700,7000,150,0
-"5",1642,1592,"Little Lake",4159,"Radiocarbon",8270,880,8110,8430,160,1
-"6",1642,1592,"Little Lake",4160,"Radiocarbon",10790,1040,10630,10950,160,1
-"7",1642,1592,"Little Lake",4161,"Radiocarbon",12720,1170,12440,13000,280,1
-"8",1642,1592,"Little Lake",4162,"Radiocarbon",13640,1240,12860,14420,780,1
-"9",1642,1592,"Little Lake",4163,"Radiocarbon",15920,1330,15460,16380,460,1
-"10",1642,1592,"Little Lake",4164,"Radiocarbon",18750,1430,18190,19310,560,1
-"11",1642,1592,"Little Lake",4165,"Radiocarbon",22280,1540,21000,23560,1280,1
-"12",1642,1592,"Little Lake",4166,"Radiocarbon",28090,1645,27150,29030,940,1
-"13",1642,1592,"Little Lake",4167,"Radiocarbon",36300,1747,34800,37800,1500,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1642,1592,"Little Lake",4155,"Core top",0,0,40570,240,-40,40,40,0
+1642,1592,"Little Lake",4156,"Radiocarbon",2840,350,40570,240,2700,2980,140,1
+1642,1592,"Little Lake",4157,"Radiocarbon",4260,550,40570,240,4120,4400,140,1
+1642,1592,"Little Lake",4158,"Tephra",6850,774.5,40570,240,6700,7000,150,0
+1642,1592,"Little Lake",4159,"Radiocarbon",8270,880,40570,240,8110,8430,160,1
+1642,1592,"Little Lake",4160,"Radiocarbon",10790,1040,40570,240,10630,10950,160,1
+1642,1592,"Little Lake",4161,"Radiocarbon",12720,1170,40570,240,12440,13000,280,1
+1642,1592,"Little Lake",4162,"Radiocarbon",13640,1240,40570,240,12860,14420,780,1
+1642,1592,"Little Lake",4163,"Radiocarbon",15920,1330,40570,240,15460,16380,460,1
+1642,1592,"Little Lake",4164,"Radiocarbon",18750,1430,40570,240,18190,19310,560,1
+1642,1592,"Little Lake",4165,"Radiocarbon",22280,1540,40570,240,21000,23560,1280,1
+1642,1592,"Little Lake",4166,"Radiocarbon",28090,1645,40570,240,27150,29030,940,1
+1642,1592,"Little Lake",4167,"Radiocarbon",36300,1747,40570,240,34800,37800,1500,1

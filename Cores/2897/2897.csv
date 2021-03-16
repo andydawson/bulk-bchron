@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2897,2800,"Utricularia Lake",7269,"Core top",0,0,0,0,0,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2897,2800,"Utricularia Lake",7269,"Core top",0,0,NA,NA,0,0,0,0

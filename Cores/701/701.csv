@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",701,681,"Divide Lake",1945,"Core top",0,0,-30,30,30,0
-"2",701,681,"Divide Lake",1946,"Radiocarbon",3970,97.5,3810,4130,160,1
-"3",701,681,"Divide Lake",1947,"Radiocarbon",9800,255,9620,9980,180,1
-"4",701,681,"Divide Lake",1948,"Radiocarbon",11840,285,11620,12060,220,1
-"5",701,681,"Divide Lake",1949,"Tephra",12100,305.5,11900,12300,200,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+701,681,"Divide Lake",1945,"Core top",0,0,12400,0,-30,30,30,0
+701,681,"Divide Lake",1946,"Radiocarbon",3970,97.5,12400,0,3810,4130,160,1
+701,681,"Divide Lake",1947,"Radiocarbon",9800,255,12400,0,9620,9980,180,1
+701,681,"Divide Lake",1948,"Radiocarbon",11840,285,12400,0,11620,12060,220,1
+701,681,"Divide Lake",1949,"Tephra",12100,305.5,12400,0,11900,12300,200,0

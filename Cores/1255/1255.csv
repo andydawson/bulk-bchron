@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1255,1220,"Jewell Site",3321,"Core top",0,0,-30,100,65,0
-"2",1255,1220,"Jewell Site",3322,"Radiocarbon",5860,183,5680,6040,180,1
-"3",1255,1220,"Jewell Site",3323,"Radiocarbon",7690,324.5,7490,7890,200,1
-"4",1255,1220,"Jewell Site",3324,"Radiocarbon",8290,491,8110,8470,180,1
-"5",1255,1220,"Jewell Site",3325,"Radiocarbon",8720,617,8440,9000,280,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1255,1220,"Jewell Site",3321,"Core top",0,0,12000,1050,-30,100,65,0
+1255,1220,"Jewell Site",3322,"Radiocarbon",5860,183,12000,1050,5680,6040,180,1
+1255,1220,"Jewell Site",3323,"Radiocarbon",7690,324.5,12000,1050,7490,7890,200,1
+1255,1220,"Jewell Site",3324,"Radiocarbon",8290,491,12000,1050,8110,8470,180,1
+1255,1220,"Jewell Site",3325,"Radiocarbon",8720,617,12000,1050,8440,9000,280,1

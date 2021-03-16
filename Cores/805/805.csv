@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",805,785,"Lake Erie",2211,"Core top",-19,0,-19,-9,5,0
-"2",805,785,"Lake Erie",2213,"Radiocarbon",5750,157.5,5390,6110,360,1
-"3",805,785,"Lake Erie",2214,"Radiocarbon",11140,335,10820,11460,320,1
-"4",805,785,"Lake Erie",2215,"Radiocarbon",12650,355,12310,12990,340,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+805,785,"Lake Erie",2211,"Core top",-19,0,13030,-20,-19,-9,5,0
+805,785,"Lake Erie",2213,"Radiocarbon",5750,157.5,13030,-20,5390,6110,360,1
+805,785,"Lake Erie",2214,"Radiocarbon",11140,335,13030,-20,10820,11460,320,1
+805,785,"Lake Erie",2215,"Radiocarbon",12650,355,13030,-20,12310,12990,340,1

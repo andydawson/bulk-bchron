@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",16151,10510,"Nelson Basin midden",35496,"Radiocarbon",1470,0,1410,1530,60,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+16151,10510,"Nelson Basin midden",35496,"Radiocarbon",1470,0,1530,1410,1410,1530,60,1

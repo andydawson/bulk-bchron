@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1006,975,"Harding Lake",2912,"Core top",-25,0,-5,-25,10,0
-"2",1006,975,"Harding Lake",2913,"Radiocarbon",8680,170,8460,8900,220,1
-"3",1006,975,"Harding Lake",2914,"Radiocarbon",9860,210,9620,10100,240,1
-"4",1006,975,"Harding Lake",2915,"Radiocarbon",11300,275,11000,11600,300,1
-"5",1006,975,"Harding Lake",2916,"Radiocarbon",13690,407.5,12690,14690,1000,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1006,975,"Harding Lake",2912,"Core top",-25,0,13900,20,-5,-25,10,0
+1006,975,"Harding Lake",2913,"Radiocarbon",8680,170,13900,20,8460,8900,220,1
+1006,975,"Harding Lake",2914,"Radiocarbon",9860,210,13900,20,9620,10100,240,1
+1006,975,"Harding Lake",2915,"Radiocarbon",11300,275,13900,20,11000,11600,300,1
+1006,975,"Harding Lake",2916,"Radiocarbon",13690,407.5,13900,20,12690,14690,1000,1

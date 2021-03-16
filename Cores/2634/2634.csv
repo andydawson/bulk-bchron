@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2634,2544,"Telegraph Creek",7004,"Core top",-27,0,0,-27,13.5,0
-"2",2634,2544,"Telegraph Creek",7005,"Tephra",6850,198,6700,7000,150,0
-"3",2634,2544,"Telegraph Creek",7006,"Tephra",11200,506,11150,11450,150,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2634,2544,"Telegraph Creek",7004,"Core top",-27,0,11320,-30,0,-27,13.5,0
+2634,2544,"Telegraph Creek",7005,"Tephra",6850,198,11320,-30,6700,7000,150,0
+2634,2544,"Telegraph Creek",7006,"Tephra",11200,506,11320,-30,11150,11450,150,0

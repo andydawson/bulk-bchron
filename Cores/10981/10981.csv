@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",10981,6519,"Little Dyke Lake",16349,"Core top",-40,0,-40,-40,0,0
-"2",10981,6519,"Little Dyke Lake",16350,"Radiocarbon",10320,635.5,10160,10480,160,1
-"3",10981,6519,"Little Dyke Lake",16351,"Radiocarbon",10930,661.5,10710,11150,220,1
-"4",10981,6519,"Little Dyke Lake",16352,"Radiocarbon",11560,670,11380,11740,180,1
-"5",10981,6519,"Little Dyke Lake",16353,"Core bottom",12000,690.5,11500,12500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+10981,6519,"Little Dyke Lake",16349,"Core top",-40,0,11600,9680,-40,-40,0,0
+10981,6519,"Little Dyke Lake",16350,"Radiocarbon",10320,635.5,11600,9680,10160,10480,160,1
+10981,6519,"Little Dyke Lake",16351,"Radiocarbon",10930,661.5,11600,9680,10710,11150,220,1
+10981,6519,"Little Dyke Lake",16352,"Radiocarbon",11560,670,11600,9680,11380,11740,180,1
+10981,6519,"Little Dyke Lake",16353,"Core bottom",12000,690.5,11600,9680,11500,12500,500,0

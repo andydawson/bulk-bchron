@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1693,1638,"Maligne Lake",4491,"Core top",0,0,0,0,0,0
-"2",1693,1638,"Maligne Lake",4492,"Tephra",3400,138,3350,3450,50,0
-"3",1693,1638,"Maligne Lake",4493,"Radiocarbon",7560,338.5,6680,8440,880,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1693,1638,"Maligne Lake",4491,"Core top",0,0,9110,0,0,0,0,0
+1693,1638,"Maligne Lake",4492,"Tephra",3400,138,9110,0,3350,3450,50,0
+1693,1638,"Maligne Lake",4493,"Radiocarbon",7560,338.5,9110,0,6680,8440,880,1

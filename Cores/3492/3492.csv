@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3492,1701,"Lake Minnie",8116,"Core top",0,0,-20,0,10,0
-"2",3492,1701,"Lake Minnie",8118,"Radiocarbon",3400,405,3180,3620,220,1
-"3",3492,1701,"Lake Minnie",8119,"Radiocarbon",8140,715,7860,8420,280,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3492,1701,"Lake Minnie",8116,"Core top",0,0,11580,0,-20,0,10,0
+3492,1701,"Lake Minnie",8118,"Radiocarbon",3400,405,11580,0,3180,3620,220,1
+3492,1701,"Lake Minnie",8119,"Radiocarbon",8140,715,11580,0,7860,8420,280,1

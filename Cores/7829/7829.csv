@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",7829,4607,"Natural Bridges National Monument",20657,"Radiocarbon",26470,NA,24990,27950,1480,1
-"2",7829,4607,"Natural Bridges National Monument",24005,"Radiocarbon",39800,NA,NA,NA,30,1
-"3",7829,4607,"Natural Bridges National Monument",24006,"Radiocarbon",23350,NA,19870,26830,3480,1
-"4",7829,4607,"Natural Bridges National Monument",24007,"Radiocarbon",21330,NA,20850,21810,480,1
-"5",7829,4607,"Natural Bridges National Monument",24008,"Radiocarbon",9660,NA,9340,9980,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+7829,4607,"Natural Bridges National Monument",20657,"Radiocarbon",26470,NA,110000,10600,24990,27950,1480,1
+7829,4607,"Natural Bridges National Monument",24005,"Radiocarbon",39800,NA,110000,10600,NA,NA,NA,1
+7829,4607,"Natural Bridges National Monument",24006,"Radiocarbon",23350,NA,110000,10600,19870,26830,3480,1
+7829,4607,"Natural Bridges National Monument",24007,"Radiocarbon",21330,NA,110000,10600,20850,21810,480,1
+7829,4607,"Natural Bridges National Monument",24008,"Radiocarbon",9660,NA,110000,10600,9340,9980,320,1

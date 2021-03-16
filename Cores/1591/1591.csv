@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1591,1550,"Lake EC1",3862,"Core top",0,0,-37,50,43.5,0
-"2",1591,1550,"Lake EC1",3863,"Radiocarbon",2560,17.5,2160,2960,400,1
-"3",1591,1550,"Lake EC1",3864,"Radiocarbon",2760,27.5,2540,2980,220,1
-"4",1591,1550,"Lake EC1",3865,"Radiocarbon",3780,52.5,3340,4220,440,1
-"5",1591,1550,"Lake EC1",3866,"Radiocarbon",5790,100,5530,6050,260,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1591,1550,"Lake EC1",3862,"Core top",0,0,6720,0,-37,50,43.5,0
+1591,1550,"Lake EC1",3863,"Radiocarbon",2560,17.5,6720,0,2160,2960,400,1
+1591,1550,"Lake EC1",3864,"Radiocarbon",2760,27.5,6720,0,2540,2980,220,1
+1591,1550,"Lake EC1",3865,"Radiocarbon",3780,52.5,6720,0,3340,4220,440,1
+1591,1550,"Lake EC1",3866,"Radiocarbon",5790,100,6720,0,5530,6050,260,1

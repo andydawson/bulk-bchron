@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3076,655,"Toadlena Lake [Dead Man Lake]",7717,"Radiocarbon",19400,170,15800,23000,3600,1
-"2",3076,655,"Toadlena Lake [Dead Man Lake]",7718,"Radiocarbon",24700,315,16900,32500,7800,1
-"3",3076,655,"Toadlena Lake [Dead Man Lake]",7719,"Radiocarbon",27800,510,26200,29400,1600,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3076,655,"Toadlena Lake [Dead Man Lake]",7717,"Radiocarbon",19400,170,NA,NA,15800,23000,3600,1
+3076,655,"Toadlena Lake [Dead Man Lake]",7718,"Radiocarbon",24700,315,NA,NA,16900,32500,7800,1
+3076,655,"Toadlena Lake [Dead Man Lake]",7719,"Radiocarbon",27800,510,NA,NA,26200,29400,1600,1

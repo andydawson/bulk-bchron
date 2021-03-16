@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",16171,10513,"No Name West midden",35506,"Radiocarbon",9910,0,9820,10000,90,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+16171,10513,"No Name West midden",35506,"Radiocarbon",9910,0,10000,9820,9820,10000,90,1

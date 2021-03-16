@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1685,1630,"Lake Mabel",4460,"Core top",-15,0,-15,0,7.5,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1685,1630,"Lake Mabel",4460,"Core top",-15,0,70,-10,-15,0,7.5,0

@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",269,263,"Banks Island 74MS15",570,"Core top",-50,0,-50,-50,0,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+269,263,"Banks Island 74MS15",570,"Core top",-50,0,9000,10,-50,-50,0,0

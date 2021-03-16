@@ -1,11 +1,11 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2593,2508,"Spruce Pond",6773,"Core top",0,0,0,-20,10,0
-"2",2593,2508,"Spruce Pond",6774,"Radiocarbon",2100,175,1960,2240,140,1
-"3",2593,2508,"Spruce Pond",6775,"Radiocarbon",3540,290,3400,3680,140,1
-"4",2593,2508,"Spruce Pond",6776,"Radiocarbon",5270,380,5190,5350,80,1
-"5",2593,2508,"Spruce Pond",6777,"Radiocarbon",6230,480,6110,6350,120,1
-"6",2593,2508,"Spruce Pond",6778,"Radiocarbon",7860,640,7740,7980,120,1
-"7",2593,2508,"Spruce Pond",6779,"Radiocarbon",9750,785,9630,9870,120,1
-"8",2593,2508,"Spruce Pond",6780,"Radiocarbon",10230,805,10110,10350,120,1
-"9",2593,2508,"Spruce Pond",6781,"Radiocarbon",10720,830,10540,10880,170,1
-"10",2593,2508,"Spruce Pond",6782,"Radiocarbon",12410,850,12270,12550,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2593,2508,"Spruce Pond",6773,"Core top",0,0,12410,120,0,-20,10,0
+2593,2508,"Spruce Pond",6774,"Radiocarbon",2100,175,12410,120,1960,2240,140,1
+2593,2508,"Spruce Pond",6775,"Radiocarbon",3540,290,12410,120,3400,3680,140,1
+2593,2508,"Spruce Pond",6776,"Radiocarbon",5270,380,12410,120,5190,5350,80,1
+2593,2508,"Spruce Pond",6777,"Radiocarbon",6230,480,12410,120,6110,6350,120,1
+2593,2508,"Spruce Pond",6778,"Radiocarbon",7860,640,12410,120,7740,7980,120,1
+2593,2508,"Spruce Pond",6779,"Radiocarbon",9750,785,12410,120,9630,9870,120,1
+2593,2508,"Spruce Pond",6780,"Radiocarbon",10230,805,12410,120,10110,10350,120,1
+2593,2508,"Spruce Pond",6781,"Radiocarbon",10720,830,12410,120,10540,10880,170,1
+2593,2508,"Spruce Pond",6782,"Radiocarbon",12410,850,12410,120,12270,12550,140,1

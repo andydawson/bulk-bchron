@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2651,2560,"Tonawa Lake",7097,"Core top",-30,1,-30,0,15,0
-"2",2651,2560,"Tonawa Lake",7100,"Radiocarbon",10030,990,9730,10330,300,1
-"3",2651,2560,"Tonawa Lake",7101,"Deglaciation",12000,1140,11500,12500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2651,2560,"Tonawa Lake",7097,"Core top",-30,1,12000,-30,-30,0,15,0
+2651,2560,"Tonawa Lake",7100,"Radiocarbon",10030,990,12000,-30,9730,10330,300,1
+2651,2560,"Tonawa Lake",7101,"Deglaciation",12000,1140,12000,-30,11500,12500,500,0

@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2338,2258,"San Joaquin Marsh",6331,"Core top",-39,0,-39,0,19.5,0
-"2",2338,2258,"San Joaquin Marsh",6332,"Other dating methods",0,30,-10,10,10,0
-"3",2338,2258,"San Joaquin Marsh",6334,"Radiocarbon",390,126.5,230,550,160,1
-"4",2338,2258,"San Joaquin Marsh",6335,"Radiocarbon",2010,228.5,1870,2150,140,1
-"5",2338,2258,"San Joaquin Marsh",6336,"Radiocarbon",4710,307,4510,4910,200,1
-"6",2338,2258,"San Joaquin Marsh",6337,"Radiocarbon",5140,432,4940,5340,200,1
-"7",2338,2258,"San Joaquin Marsh",6338,"Radiocarbon",6070,531,5670,6470,400,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2338,2258,"San Joaquin Marsh",6331,"Core top",-39,0,6870,-40,-39,0,19.5,0
+2338,2258,"San Joaquin Marsh",6332,"Other dating methods",0,30,6870,-40,-10,10,10,0
+2338,2258,"San Joaquin Marsh",6334,"Radiocarbon",390,126.5,6870,-40,230,550,160,1
+2338,2258,"San Joaquin Marsh",6335,"Radiocarbon",2010,228.5,6870,-40,1870,2150,140,1
+2338,2258,"San Joaquin Marsh",6336,"Radiocarbon",4710,307,6870,-40,4510,4910,200,1
+2338,2258,"San Joaquin Marsh",6337,"Radiocarbon",5140,432,6870,-40,4940,5340,200,1
+2338,2258,"San Joaquin Marsh",6338,"Radiocarbon",6070,531,6870,-40,5670,6470,400,1

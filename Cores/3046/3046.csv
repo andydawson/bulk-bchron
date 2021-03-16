@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3046,2947,"Lac Yelle",7623,"Core top",0,0,0,0,0,0
-"2",3046,2947,"Lac Yelle",7624,"Radiocarbon",3350,195,3280,3420,70,1
-"3",3046,2947,"Lac Yelle",7625,"Radiocarbon",5625,295,5550,5700,75,1
-"4",3046,2947,"Lac Yelle",7626,"Radiocarbon",8900,380,8810,8990,90,1
-"5",3046,2947,"Lac Yelle",7627,"Deglaciation",9200,500,8700,9700,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3046,2947,"Lac Yelle",7623,"Core top",0,0,8900,0,0,0,0,0
+3046,2947,"Lac Yelle",7624,"Radiocarbon",3350,195,8900,0,3280,3420,70,1
+3046,2947,"Lac Yelle",7625,"Radiocarbon",5625,295,8900,0,5550,5700,75,1
+3046,2947,"Lac Yelle",7626,"Radiocarbon",8900,380,8900,0,8810,8990,90,1
+3046,2947,"Lac Yelle",7627,"Deglaciation",9200,500,8900,0,8700,9700,500,0

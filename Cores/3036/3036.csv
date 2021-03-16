@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3036,2938,"Woodworth Pond",7568,"Core top",0,0,-15,100,57.5,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3036,2938,"Woodworth Pond",7568,"Core top",0,0,11000,8000,-15,100,57.5,0

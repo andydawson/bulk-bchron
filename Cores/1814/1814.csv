@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1814,1756,"No Bottom Pond",5055,"Core top",-35,0,-35,0,17.5,0
-"2",1814,1756,"No Bottom Pond",5057,"Radiocarbon",3180,255,3020,3340,160,1
-"3",1814,1756,"No Bottom Pond",5058,"Radiocarbon",4860,360,4720,5000,140,1
-"4",1814,1756,"No Bottom Pond",5059,"Radiocarbon",5520,385.5,5320,5720,200,1
-"5",1814,1756,"No Bottom Pond",5060,"Radiocarbon",9950,517.5,9690,10210,260,1
-"6",1814,1756,"No Bottom Pond",5061,"Radiocarbon",13790,547,13470,14110,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1814,1756,"No Bottom Pond",5055,"Core top",-35,0,14440,-40,-35,0,17.5,0
+1814,1756,"No Bottom Pond",5057,"Radiocarbon",3180,255,14440,-40,3020,3340,160,1
+1814,1756,"No Bottom Pond",5058,"Radiocarbon",4860,360,14440,-40,4720,5000,140,1
+1814,1756,"No Bottom Pond",5059,"Radiocarbon",5520,385.5,14440,-40,5320,5720,200,1
+1814,1756,"No Bottom Pond",5060,"Radiocarbon",9950,517.5,14440,-40,9690,10210,260,1
+1814,1756,"No Bottom Pond",5061,"Radiocarbon",13790,547,14440,-40,13470,14110,320,1

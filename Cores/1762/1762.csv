@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1762,1706,"Molas Pass Bog",4772,"Core top",-11,0,-11,9,10,0
-"2",1762,1706,"Molas Pass Bog",4773,"Radiocarbon",4940,65,4340,5540,600,1
-"3",1762,1706,"Molas Pass Bog",4774,"Radiocarbon",8890,127,8710,9070,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1762,1706,"Molas Pass Bog",4772,"Core top",-11,0,9720,60,-11,9,10,0
+1762,1706,"Molas Pass Bog",4773,"Radiocarbon",4940,65,9720,60,4340,5540,600,1
+1762,1706,"Molas Pass Bog",4774,"Radiocarbon",8890,127,9720,60,8710,9070,180,1

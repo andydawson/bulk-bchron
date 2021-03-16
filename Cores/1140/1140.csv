@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1140,1107,"Icehouse Bottom [40MR23]",3162,"Radiocarbon",9380,695,8950,9810,430,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1140,1107,"Icehouse Bottom [40MR23]",3162,"Radiocarbon",9380,695,9390,9370,8950,9810,430,1

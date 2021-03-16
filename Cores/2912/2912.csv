@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2912,2815,"Baie du Diana",7320,"Core top",0,0,0,0,0,0
-"2",2912,2815,"Baie du Diana",7321,"Radiocarbon",6460,127.5,6300,6620,160,1
-"3",2912,2815,"Baie du Diana",7322,"Deglaciation",7500,200,7000,8000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2912,2815,"Baie du Diana",7320,"Core top",0,0,6330,250,0,0,0,0
+2912,2815,"Baie du Diana",7321,"Radiocarbon",6460,127.5,6330,250,6300,6620,160,1
+2912,2815,"Baie du Diana",7322,"Deglaciation",7500,200,6330,250,7000,8000,500,0

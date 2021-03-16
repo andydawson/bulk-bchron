@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1857,1795,"Parkhill Creek",5250,"Core top",-40,110,-40,-10,15,0
-"2",1857,1795,"Parkhill Creek",5252,"Radiocarbon",5410,415,5210,5610,200,1
-"3",1857,1795,"Parkhill Creek",5254,"Radiocarbon",10870,775,10690,11050,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1857,1795,"Parkhill Creek",5250,"Core top",-40,110,NA,NA,-40,-10,15,0
+1857,1795,"Parkhill Creek",5252,"Radiocarbon",5410,415,NA,NA,5210,5610,200,1
+1857,1795,"Parkhill Creek",5254,"Radiocarbon",10870,775,NA,NA,10690,11050,180,1

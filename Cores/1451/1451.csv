@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1451,1414,"Lac Kénogami",3566,"Core top",0,0,0,0,0,0
-"2",1451,1414,"Lac Kénogami",3567,"Radiocarbon",4600,365,4505,4695,95,1
-"3",1451,1414,"Lac Kénogami",3568,"Radiocarbon",7630,695,7510,7750,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1451,1414,"Lac Kénogami",3566,"Core top",0,0,7450,130,0,0,0,0
+1451,1414,"Lac Kénogami",3567,"Radiocarbon",4600,365,7450,130,4505,4695,95,1
+1451,1414,"Lac Kénogami",3568,"Radiocarbon",7630,695,7450,130,7510,7750,120,1

@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2590,2506,"Spring Lake",6750,"Core top",-28,0,-28,-28,0,0
-"2",2590,2506,"Spring Lake",6751,"Radiocarbon",2400,92.5,2200,2600,200,1
-"3",2590,2506,"Spring Lake",6752,"Radiocarbon",5700,207,5430,5970,270,1
-"4",2590,2506,"Spring Lake",6753,"Radiocarbon",10800,377,10620,10980,180,1
-"5",2590,2506,"Spring Lake",6754,"Radiocarbon",11200,438,10800,11600,400,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2590,2506,"Spring Lake",6750,"Core top",-28,0,11220,-10,-28,-28,0,0
+2590,2506,"Spring Lake",6751,"Radiocarbon",2400,92.5,11220,-10,2200,2600,200,1
+2590,2506,"Spring Lake",6752,"Radiocarbon",5700,207,11220,-10,5430,5970,270,1
+2590,2506,"Spring Lake",6753,"Radiocarbon",10800,377,11220,-10,10620,10980,180,1
+2590,2506,"Spring Lake",6754,"Radiocarbon",11200,438,11220,-10,10800,11600,400,1

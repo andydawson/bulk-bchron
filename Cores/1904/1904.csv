@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1904,1840,"Pink Lake",5406,"Core top",-30,0,-30,-10,10,0
-"2",1904,1840,"Pink Lake",5408,"Radiocarbon",3270,134,2750,3790,520,1
-"3",1904,1840,"Pink Lake",5410,"Radiocarbon",10600,297.5,10300,10900,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1904,1840,"Pink Lake",5406,"Core top",-30,0,11760,-30,-30,-10,10,0
+1904,1840,"Pink Lake",5408,"Radiocarbon",3270,134,11760,-30,2750,3790,520,1
+1904,1840,"Pink Lake",5410,"Radiocarbon",10600,297.5,11760,-30,10300,10900,300,1

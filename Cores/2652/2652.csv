@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2652,2561,"Tonquin Creek",7102,"Core top",0,0,0,0,0,0
-"2",2652,2561,"Tonquin Creek",7103,"Tephra",3400,15,3350,3450,50,0
-"3",2652,2561,"Tonquin Creek",7104,"Tephra",6730,27,6680,6780,50,0
-"4",2652,2561,"Tonquin Creek",7105,"Radiocarbon",8040,51,7780,8300,260,1
-"5",2652,2561,"Tonquin Creek",7106,"Radiocarbon",9660,73.5,9100,10220,560,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2652,2561,"Tonquin Creek",7102,"Core top",0,0,9770,340,0,0,0,0
+2652,2561,"Tonquin Creek",7103,"Tephra",3400,15,9770,340,3350,3450,50,0
+2652,2561,"Tonquin Creek",7104,"Tephra",6730,27,9770,340,6680,6780,50,0
+2652,2561,"Tonquin Creek",7105,"Radiocarbon",8040,51,9770,340,7780,8300,260,1
+2652,2561,"Tonquin Creek",7106,"Radiocarbon",9660,73.5,9770,340,9100,10220,560,1

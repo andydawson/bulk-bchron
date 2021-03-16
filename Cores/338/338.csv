@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",338,331,"Carbuncle Pond",986,"Core top",-20,0,-30,-10,10,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+338,331,"Carbuncle Pond",986,"Core top",-20,0,1000,0,-30,-10,10,0

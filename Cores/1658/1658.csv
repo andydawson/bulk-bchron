@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1658,1607,"Lonesome Lake",4306,"Core top",0,0,0,0,0,0
-"2",1658,1607,"Lonesome Lake",4307,"Radiocarbon",1960,79,1710,2210,250,1
-"3",1658,1607,"Lonesome Lake",4308,"Radiocarbon",4250,178.5,3920,4580,330,1
-"4",1658,1607,"Lonesome Lake",4310,"Radiocarbon",9415,332,8965,9865,450,1
-"5",1658,1607,"Lonesome Lake",4311,"Radiocarbon",10610,355,9990,11230,620,1
-"6",1658,1607,"Lonesome Lake",4312,"Radiocarbon",10535,386.5,9545,11525,990,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1658,1607,"Lonesome Lake",4306,"Core top",0,0,10530,430,0,0,0,0
+1658,1607,"Lonesome Lake",4307,"Radiocarbon",1960,79,10530,430,1710,2210,250,1
+1658,1607,"Lonesome Lake",4308,"Radiocarbon",4250,178.5,10530,430,3920,4580,330,1
+1658,1607,"Lonesome Lake",4310,"Radiocarbon",9415,332,10530,430,8965,9865,450,1
+1658,1607,"Lonesome Lake",4311,"Radiocarbon",10610,355,10530,430,9990,11230,620,1
+1658,1607,"Lonesome Lake",4312,"Radiocarbon",10535,386.5,10530,430,9545,11525,990,1

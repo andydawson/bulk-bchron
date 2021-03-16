@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",773,754,"Lac Dufresne",2003,"Core top",50,0,0,100,50,0
-"2",773,754,"Lac Dufresne",2005,"Radiocarbon",1610,43,1520,1700,90,1
-"3",773,754,"Lac Dufresne",2006,"Radiocarbon",2930,111,2840,3020,90,1
-"4",773,754,"Lac Dufresne",2007,"Radiocarbon",5030,217,4900,5160,130,1
-"5",773,754,"Lac Dufresne",2008,"Radiocarbon",8480,283,8320,8640,160,1
-"6",773,754,"Lac Dufresne",2009,"Radiocarbon",9660,347,9520,9800,140,1
-"7",773,754,"Lac Dufresne",2010,"Radiocarbon",11200,360,11040,11360,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+773,754,"Lac Dufresne",2003,"Core top",50,0,11000,0,0,100,50,0
+773,754,"Lac Dufresne",2005,"Radiocarbon",1610,43,11000,0,1520,1700,90,1
+773,754,"Lac Dufresne",2006,"Radiocarbon",2930,111,11000,0,2840,3020,90,1
+773,754,"Lac Dufresne",2007,"Radiocarbon",5030,217,11000,0,4900,5160,130,1
+773,754,"Lac Dufresne",2008,"Radiocarbon",8480,283,11000,0,8320,8640,160,1
+773,754,"Lac Dufresne",2009,"Radiocarbon",9660,347,11000,0,9520,9800,140,1
+773,754,"Lac Dufresne",2010,"Radiocarbon",11200,360,11000,0,11040,11360,160,1

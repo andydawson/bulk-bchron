@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2644,2553,"Tioga Pass Pond",7051,"Core top",0,0,-30,30,30,0
-"2",2644,2553,"Tioga Pass Pond",7052,"Radiocarbon",1910,53,1750,2070,160,1
-"3",2644,2553,"Tioga Pass Pond",7053,"Radiocarbon",4060,153,3740,4380,320,1
-"4",2644,2553,"Tioga Pass Pond",7054,"Radiocarbon",6100,238.5,5820,6380,280,1
-"5",2644,2553,"Tioga Pass Pond",7055,"Radiocarbon",8760,298,8280,9240,480,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2644,2553,"Tioga Pass Pond",7051,"Core top",0,0,9920,20,-30,30,30,0
+2644,2553,"Tioga Pass Pond",7052,"Radiocarbon",1910,53,9920,20,1750,2070,160,1
+2644,2553,"Tioga Pass Pond",7053,"Radiocarbon",4060,153,9920,20,3740,4380,320,1
+2644,2553,"Tioga Pass Pond",7054,"Radiocarbon",6100,238.5,9920,20,5820,6380,280,1
+2644,2553,"Tioga Pass Pond",7055,"Radiocarbon",8760,298,9920,20,8280,9240,480,1

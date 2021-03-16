@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3840,2839,"White Pond",8466,"Core top",0,170,-30,30,30,0
-"2",3840,2839,"White Pond",8468,"Radiocarbon",9550,404,9510,9590,40,1
-"3",3840,2839,"White Pond",8469,"Radiocarbon",12810,441,12620,13000,190,1
-"4",3840,2839,"White Pond",8470,"Radiocarbon",19110,555,19030,19190,80,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3840,2839,"White Pond",8466,"Core top",0,170,19000,0,-30,30,30,0
+3840,2839,"White Pond",8468,"Radiocarbon",9550,404,19000,0,9510,9590,40,1
+3840,2839,"White Pond",8469,"Radiocarbon",12810,441,19000,0,12620,13000,190,1
+3840,2839,"White Pond",8470,"Radiocarbon",19110,555,19000,0,19030,19190,80,1

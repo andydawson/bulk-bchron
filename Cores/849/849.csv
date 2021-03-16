@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",849,823,"Hayes Lake",2374,"Core top",0,1,-30,30,30,0
-"2",849,823,"Hayes Lake",2376,"Radiocarbon",4685,215,4555,4815,130,1
-"3",849,823,"Hayes Lake",2377,"Radiocarbon",6970,415,6855,7085,115,1
-"4",849,823,"Hayes Lake",2378,"Radiocarbon, reservoir correction",9800,565,9500,10100,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+849,823,"Hayes Lake",2374,"Core top",0,1,10000,100,-30,30,30,0
+849,823,"Hayes Lake",2376,"Radiocarbon",4685,215,10000,100,4555,4815,130,1
+849,823,"Hayes Lake",2377,"Radiocarbon",6970,415,10000,100,6855,7085,115,1
+849,823,"Hayes Lake",2378,"Radiocarbon, reservoir correction",9800,565,10000,100,9500,10100,300,1

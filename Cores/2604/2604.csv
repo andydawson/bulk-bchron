@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2604,2517,"Stockbridge Bowl",6808,"Core top",0,0,-20,20,20,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2604,2517,"Stockbridge Bowl",6808,"Core top",0,0,240,0,-20,20,20,0

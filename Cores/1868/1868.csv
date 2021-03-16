@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1868,1806,"Paynter Marsh",5304,"Core top",0,0,0,0,0,0
-"2",1868,1806,"Paynter Marsh",5306,"Radiocarbon, calibrated",3890,126.5,3690,4090,200,0
-"3",1868,1806,"Paynter Marsh",5307,"Radiocarbon, calibrated",5590,144.5,5390,5790,200,0
-"4",1868,1806,"Paynter Marsh",5308,"Radiocarbon, calibrated",7460,187.5,7260,7660,200,0
-"5",1868,1806,"Paynter Marsh",5309,"Radiocarbon, calibrated",9880,367.5,9660,10000,170,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1868,1806,"Paynter Marsh",5304,"Core top",0,0,11270,0,0,0,0,0
+1868,1806,"Paynter Marsh",5306,"Radiocarbon, calibrated",3890,126.5,11270,0,3690,4090,200,0
+1868,1806,"Paynter Marsh",5307,"Radiocarbon, calibrated",5590,144.5,11270,0,5390,5790,200,0
+1868,1806,"Paynter Marsh",5308,"Radiocarbon, calibrated",7460,187.5,11270,0,7260,7660,200,0
+1868,1806,"Paynter Marsh",5309,"Radiocarbon, calibrated",9880,367.5,11270,0,9660,10000,170,0

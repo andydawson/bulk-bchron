@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1111,1078,"Hostage Lake",3110,"Core top",-30,0,-30,0,15,0
-"2",1111,1078,"Hostage Lake",3112,"Radiocarbon, reservoir correction",1595,220,1435,1755,160,1
-"3",1111,1078,"Hostage Lake",3113,"Radiocarbon, reservoir correction",3485,385,3325,3645,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1111,1078,"Hostage Lake",3110,"Core top",-30,0,4640,-30,-30,0,15,0
+1111,1078,"Hostage Lake",3112,"Radiocarbon, reservoir correction",1595,220,4640,-30,1435,1755,160,1
+1111,1078,"Hostage Lake",3113,"Radiocarbon, reservoir correction",3485,385,4640,-30,3325,3645,160,1

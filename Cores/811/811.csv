@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",811,790,"Etivlik Lake",2234,"Core top",0,0,-34,500,267,0
-"2",811,790,"Etivlik Lake",2235,"Radiocarbon",4140,35,4040,4540,250,1
-"3",811,790,"Etivlik Lake",2236,"Radiocarbon",8160,80,7940,8380,220,1
-"4",811,790,"Etivlik Lake",2237,"Radiocarbon",13790,225,13510,14070,280,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+811,790,"Etivlik Lake",2234,"Core top",0,0,13990,110,-34,500,267,0
+811,790,"Etivlik Lake",2235,"Radiocarbon",4140,35,13990,110,4040,4540,250,1
+811,790,"Etivlik Lake",2236,"Radiocarbon",8160,80,13990,110,7940,8380,220,1
+811,790,"Etivlik Lake",2237,"Radiocarbon",13790,225,13990,110,13510,14070,280,1

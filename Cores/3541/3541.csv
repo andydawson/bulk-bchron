@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3541,1814,"Pogonia Bog Pond",8180,"Core top",-24,0,-24,-4,10,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3541,1814,"Pogonia Bog Pond",8180,"Core top",-24,0,170,-30,-24,-4,10,0

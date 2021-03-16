@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1163,1128,"Jacobson Lake",3292,"Radiocarbon",10400,740,9800,11000,600,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1163,1128,"Jacobson Lake",3292,"Radiocarbon",10400,740,10400,6160,9800,11000,600,1

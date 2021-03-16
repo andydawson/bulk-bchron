@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2054,1980,"Reindeer Lake",5878,"Core top",0,0,-30,30,30,0
-"2",2054,1980,"Reindeer Lake",5879,"Radiocarbon",3020,55,2900,3140,120,1
-"3",2054,1980,"Reindeer Lake",5880,"Radiocarbon",5670,97,5530,5810,140,1
-"4",2054,1980,"Reindeer Lake",5881,"Radiocarbon",6570,126,6430,6710,140,1
-"5",2054,1980,"Reindeer Lake",5882,"Radiocarbon",13500,195,13120,13880,380,1
-"6",2054,1980,"Reindeer Lake",5883,"Radiocarbon",14600,231,14200,15000,400,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2054,1980,"Reindeer Lake",5878,"Core top",0,0,14270,0,-30,30,30,0
+2054,1980,"Reindeer Lake",5879,"Radiocarbon",3020,55,14270,0,2900,3140,120,1
+2054,1980,"Reindeer Lake",5880,"Radiocarbon",5670,97,14270,0,5530,5810,140,1
+2054,1980,"Reindeer Lake",5881,"Radiocarbon",6570,126,14270,0,6430,6710,140,1
+2054,1980,"Reindeer Lake",5882,"Radiocarbon",13500,195,14270,0,13120,13880,380,1
+2054,1980,"Reindeer Lake",5883,"Radiocarbon",14600,231,14270,0,14200,15000,400,1

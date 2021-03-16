@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",249,245,"Beckman Lake",441,"Core top",0,53,-25,25,25,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+249,245,"Beckman Lake",441,"Core top",0,53,10420,0,-25,25,25,0

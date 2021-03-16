@@ -1,3 +1,3 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1847,1788,"Palace Pier Section",5224,"Radiocarbon",650,1,330,970,320,1
-"2",1847,1788,"Palace Pier Section",5225,"Radiocarbon",1100,50,920,1280,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1847,1788,"Palace Pier Section",5224,"Radiocarbon",650,1,1100,650,330,970,320,1
+1847,1788,"Palace Pier Section",5225,"Radiocarbon",1100,50,1100,650,920,1280,180,1

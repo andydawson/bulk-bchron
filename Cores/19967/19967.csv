@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",19967,13362,"Mary Lake",39935,"Core top",0,970,0,0,0,0
-"2",19967,13362,"Mary Lake",39936,"Radiocarbon",2560,1666,2500,2620,60,1
-"3",19967,13362,"Mary Lake",39937,"Radiocarbon",3210,1728,3140,3280,70,1
-"4",19967,13362,"Mary Lake",39939,"Radiocarbon",9020,1890,8920,9120,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+19967,13362,"Mary Lake",39935,"Core top",0,970,9020,0,0,0,0,0
+19967,13362,"Mary Lake",39936,"Radiocarbon",2560,1666,9020,0,2500,2620,60,1
+19967,13362,"Mary Lake",39937,"Radiocarbon",3210,1728,9020,0,3140,3280,70,1
+19967,13362,"Mary Lake",39939,"Radiocarbon",9020,1890,9020,0,8920,9120,100,1

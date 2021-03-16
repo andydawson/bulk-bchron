@@ -1,13 +1,13 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",343,336,"Carp Lake",1026,"Core top",0,0,-30,50,40,0
-"2",343,336,"Carp Lake",1027,"Tephra",3450,104,3000,3900,450,0
-"3",343,336,"Carp Lake",1028,"Radiocarbon",5820,185,5770,5870,50,1
-"4",343,336,"Carp Lake",1029,"Tephra",6850,241.5,6700,7000,150,0
-"5",343,336,"Carp Lake",1030,"Radiocarbon",8280,304,8160,8400,120,1
-"6",343,336,"Carp Lake",1031,"Radiocarbon",9730,321,9330,10130,400,1
-"7",343,336,"Carp Lake",1032,"Radiocarbon",16050,435.5,15650,16450,400,1
-"8",343,336,"Carp Lake",1033,"Radiocarbon",18190,485,18090,18290,100,1
-"9",343,336,"Carp Lake",1034,"Radiocarbon, average of two or more dates",21070,580.5,20640,21500,430,1
-"10",343,336,"Carp Lake",1034,"Radiocarbon, average of two or more dates",21070,580.5,20640,21500,430,1
-"11",343,336,"Carp Lake",1035,"Radiocarbon",26200,705,26000,26400,200,1
-"12",343,336,"Carp Lake",1036,"Radiocarbon",32700,775,32250,33150,450,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+343,336,"Carp Lake",1026,"Core top",0,0,32050,0,-30,50,40,0
+343,336,"Carp Lake",1027,"Tephra",3450,104,32050,0,3000,3900,450,0
+343,336,"Carp Lake",1028,"Radiocarbon",5820,185,32050,0,5770,5870,50,1
+343,336,"Carp Lake",1029,"Tephra",6850,241.5,32050,0,6700,7000,150,0
+343,336,"Carp Lake",1030,"Radiocarbon",8280,304,32050,0,8160,8400,120,1
+343,336,"Carp Lake",1031,"Radiocarbon",9730,321,32050,0,9330,10130,400,1
+343,336,"Carp Lake",1032,"Radiocarbon",16050,435.5,32050,0,15650,16450,400,1
+343,336,"Carp Lake",1033,"Radiocarbon",18190,485,32050,0,18090,18290,100,1
+343,336,"Carp Lake",1034,"Radiocarbon, average of two or more dates",21070,580.5,32050,0,20640,21500,430,1
+343,336,"Carp Lake",1034,"Radiocarbon, average of two or more dates",21070,580.5,32050,0,20640,21500,430,1
+343,336,"Carp Lake",1035,"Radiocarbon",26200,705,32050,0,26000,26400,200,1
+343,336,"Carp Lake",1036,"Radiocarbon",32700,775,32050,0,32250,33150,450,1

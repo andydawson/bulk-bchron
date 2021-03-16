@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1883,1819,"Peggy Lake",5330,"Core top",-30,0,-30,-10,10,0
-"2",1883,1819,"Peggy Lake",5331,"Radiocarbon",5560,410,5400,5720,160,1
-"3",1883,1819,"Peggy Lake",5332,"Radiocarbon",7200,535,7040,7360,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1883,1819,"Peggy Lake",5330,"Core top",-30,0,8840,-20,-30,-10,10,0
+1883,1819,"Peggy Lake",5331,"Radiocarbon",5560,410,8840,-20,5400,5720,160,1
+1883,1819,"Peggy Lake",5332,"Radiocarbon",7200,535,8840,-20,7040,7360,160,1

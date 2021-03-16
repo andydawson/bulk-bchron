@@ -1,17 +1,17 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3563,2954,"Pretty Lake",8255,"Core top",0,0,-50,50,50,0
-"2",3563,2954,"Pretty Lake",8257,"Radiocarbon, reservoir correction",720,53.5,390,1050,330,1
-"3",3563,2954,"Pretty Lake",8258,"Radiocarbon, reservoir correction",1830,104,1290,2370,540,1
-"4",3563,2954,"Pretty Lake",8259,"Radiocarbon, reservoir correction",2695,127.5,2055,3335,640,1
-"5",3563,2954,"Pretty Lake",8260,"Radiocarbon, reservoir correction",3585,147.5,3005,4165,580,1
-"6",3563,2954,"Pretty Lake",8261,"Radiocarbon, average of two or more dates",3838,193.5,3372,4309,468.5,1
-"7",3563,2954,"Pretty Lake",8261,"Radiocarbon, average of two or more dates",3838,193.5,3372,4309,468.5,1
-"8",3563,2954,"Pretty Lake",8262,"Radiocarbon, reservoir correction",4340,253.5,3730,4950,610,1
-"9",3563,2954,"Pretty Lake",8263,"Radiocarbon, reservoir correction",5885,303.5,5205,6565,680,1
-"10",3563,2954,"Pretty Lake",8264,"Radiocarbon, reservoir correction",7495,353.5,7085,7905,410,1
-"11",3563,2954,"Pretty Lake",8265,"Radiocarbon, reservoir correction",9295,383.5,8605,9985,690,1
-"12",3563,2954,"Pretty Lake",8266,"Radiocarbon, reservoir correction",10195,403.5,9775,10615,420,1
-"13",3563,2954,"Pretty Lake",8267,"Radiocarbon, reservoir correction",10860,427.5,10360,11360,500,1
-"14",3563,2954,"Pretty Lake",8268,"Radiocarbon, reservoir correction",11750,453.5,11210,12290,540,1
-"15",3563,2954,"Pretty Lake",8269,"Radiocarbon, average of two or more dates",13701,513,12901,14501,800,1
-"16",3563,2954,"Pretty Lake",8269,"Radiocarbon, average of two or more dates",13701,513,12901,14501,800,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3563,2954,"Pretty Lake",8255,"Core top",0,0,13940,0,-50,50,50,0
+3563,2954,"Pretty Lake",8257,"Radiocarbon, reservoir correction",720,53.5,13940,0,390,1050,330,1
+3563,2954,"Pretty Lake",8258,"Radiocarbon, reservoir correction",1830,104,13940,0,1290,2370,540,1
+3563,2954,"Pretty Lake",8259,"Radiocarbon, reservoir correction",2695,127.5,13940,0,2055,3335,640,1
+3563,2954,"Pretty Lake",8260,"Radiocarbon, reservoir correction",3585,147.5,13940,0,3005,4165,580,1
+3563,2954,"Pretty Lake",8261,"Radiocarbon, average of two or more dates",3838,193.5,13940,0,3372,4309,468.5,1
+3563,2954,"Pretty Lake",8261,"Radiocarbon, average of two or more dates",3838,193.5,13940,0,3372,4309,468.5,1
+3563,2954,"Pretty Lake",8262,"Radiocarbon, reservoir correction",4340,253.5,13940,0,3730,4950,610,1
+3563,2954,"Pretty Lake",8263,"Radiocarbon, reservoir correction",5885,303.5,13940,0,5205,6565,680,1
+3563,2954,"Pretty Lake",8264,"Radiocarbon, reservoir correction",7495,353.5,13940,0,7085,7905,410,1
+3563,2954,"Pretty Lake",8265,"Radiocarbon, reservoir correction",9295,383.5,13940,0,8605,9985,690,1
+3563,2954,"Pretty Lake",8266,"Radiocarbon, reservoir correction",10195,403.5,13940,0,9775,10615,420,1
+3563,2954,"Pretty Lake",8267,"Radiocarbon, reservoir correction",10860,427.5,13940,0,10360,11360,500,1
+3563,2954,"Pretty Lake",8268,"Radiocarbon, reservoir correction",11750,453.5,13940,0,11210,12290,540,1
+3563,2954,"Pretty Lake",8269,"Radiocarbon, average of two or more dates",13701,513,13940,0,12901,14501,800,1
+3563,2954,"Pretty Lake",8269,"Radiocarbon, average of two or more dates",13701,513,13940,0,12901,14501,800,1

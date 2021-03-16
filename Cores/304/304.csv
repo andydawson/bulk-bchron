@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",304,298,"Boriack Bog",721,"Core top",0,5,-50,50,50,0
-"2",304,298,"Boriack Bog",722,"Radiocarbon",3700,45,3520,3880,180,1
-"3",304,298,"Boriack Bog",723,"Radiocarbon",9580,245,9260,9900,320,1
-"4",304,298,"Boriack Bog",724,"Radiocarbon",13810,445,13390,14230,420,1
-"5",304,298,"Boriack Bog",725,"Radiocarbon",15460,513.5,14960,15960,500,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+304,298,"Boriack Bog",721,"Core top",0,5,16210,0,-50,50,50,0
+304,298,"Boriack Bog",722,"Radiocarbon",3700,45,16210,0,3520,3880,180,1
+304,298,"Boriack Bog",723,"Radiocarbon",9580,245,16210,0,9260,9900,320,1
+304,298,"Boriack Bog",724,"Radiocarbon",13810,445,16210,0,13390,14230,420,1
+304,298,"Boriack Bog",725,"Radiocarbon",15460,513.5,16210,0,14960,15960,500,1

@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2673,2578,"Tuskegee Pond",7184,"Core top",0,53,-20,20,20,0
-"2",2673,2578,"Tuskegee Pond",7185,"Radiocarbon",200,133,60,340,140,1
-"3",2673,2578,"Tuskegee Pond",7186,"Radiocarbon",250,172.5,110,390,140,1
-"4",2673,2578,"Tuskegee Pond",7187,"Radiocarbon",1630,203.5,1470,1790,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2673,2578,"Tuskegee Pond",7184,"Core top",0,53,NA,NA,-20,20,20,0
+2673,2578,"Tuskegee Pond",7185,"Radiocarbon",200,133,NA,NA,60,340,140,1
+2673,2578,"Tuskegee Pond",7186,"Radiocarbon",250,172.5,NA,NA,110,390,140,1
+2673,2578,"Tuskegee Pond",7187,"Radiocarbon",1630,203.5,NA,NA,1470,1790,160,1

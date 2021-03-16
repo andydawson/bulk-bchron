@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2642,2551,"Tiinkdhul Lake",7039,"Core top",0,0,-34,500,267,0
-"2",2642,2551,"Tiinkdhul Lake",7040,"Radiocarbon",2380,100,2310,2450,70,1
-"3",2642,2551,"Tiinkdhul Lake",7041,"Radiocarbon",7770,224,7670,7870,100,1
-"4",2642,2551,"Tiinkdhul Lake",7042,"Radiocarbon",9510,355,9410,9610,100,1
-"5",2642,2551,"Tiinkdhul Lake",7043,"Radiocarbon",12300,420,11900,12700,400,1
-"6",2642,2551,"Tiinkdhul Lake",7044,"Radiocarbon",13930,445,13720,14140,210,1
-"7",2642,2551,"Tiinkdhul Lake",7045,"Radiocarbon",17280,490,16930,17630,350,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2642,2551,"Tiinkdhul Lake",7039,"Core top",0,0,19510,50,-34,500,267,0
+2642,2551,"Tiinkdhul Lake",7040,"Radiocarbon",2380,100,19510,50,2310,2450,70,1
+2642,2551,"Tiinkdhul Lake",7041,"Radiocarbon",7770,224,19510,50,7670,7870,100,1
+2642,2551,"Tiinkdhul Lake",7042,"Radiocarbon",9510,355,19510,50,9410,9610,100,1
+2642,2551,"Tiinkdhul Lake",7043,"Radiocarbon",12300,420,19510,50,11900,12700,400,1
+2642,2551,"Tiinkdhul Lake",7044,"Radiocarbon",13930,445,19510,50,13720,14140,210,1
+2642,2551,"Tiinkdhul Lake",7045,"Radiocarbon",17280,490,19510,50,16930,17630,350,1

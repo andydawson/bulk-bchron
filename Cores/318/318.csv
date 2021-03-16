@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",318,311,"Buckbean Fen",823,"Core top",0,0,-15,0,7.5,0
-"2",318,311,"Buckbean Fen",824,"Radiocarbon",2470,250,2220,2720,250,1
-"3",318,311,"Buckbean Fen",825,"Radiocarbon",5390,450,5140,5640,250,1
-"4",318,311,"Buckbean Fen",828,"Radiocarbon, reservoir correction",7240,520,6940,7540,300,1
-"5",318,311,"Buckbean Fen",829,"Radiocarbon, reservoir correction",9550,712,9200,9900,350,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+318,311,"Buckbean Fen",823,"Core top",0,0,11500,0,-15,0,7.5,0
+318,311,"Buckbean Fen",824,"Radiocarbon",2470,250,11500,0,2220,2720,250,1
+318,311,"Buckbean Fen",825,"Radiocarbon",5390,450,11500,0,5140,5640,250,1
+318,311,"Buckbean Fen",828,"Radiocarbon, reservoir correction",7240,520,11500,0,6940,7540,300,1
+318,311,"Buckbean Fen",829,"Radiocarbon, reservoir correction",9550,712,11500,0,9200,9900,350,1

@@ -1,9 +1,9 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3126,804,"Ferndale Bog",7782,"Core top",0,0,-20,20,20,0
-"2",3126,804,"Ferndale Bog",7783,"Radiocarbon, average of two or more dates",551,42.5,431,671,120,1
-"3",3126,804,"Ferndale Bog",7783,"Radiocarbon, average of two or more dates",551,42.5,431,671,120,1
-"4",3126,804,"Ferndale Bog",7784,"Radiocarbon, average of two or more dates",1678,67.5,1554,1840,143,1
-"5",3126,804,"Ferndale Bog",7784,"Radiocarbon, average of two or more dates",1678,67.5,1554,1840,143,1
-"6",3126,804,"Ferndale Bog",7785,"Radiocarbon, average of two or more dates",2680,108.5,2552,2808,128,1
-"7",3126,804,"Ferndale Bog",7785,"Radiocarbon, average of two or more dates",2680,108.5,2552,2808,128,1
-"8",3126,804,"Ferndale Bog",7786,"Radiocarbon",5170,147.5,5010,5330,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3126,804,"Ferndale Bog",7782,"Core top",0,0,NA,NA,-20,20,20,0
+3126,804,"Ferndale Bog",7783,"Radiocarbon, average of two or more dates",551,42.5,NA,NA,431,671,120,1
+3126,804,"Ferndale Bog",7783,"Radiocarbon, average of two or more dates",551,42.5,NA,NA,431,671,120,1
+3126,804,"Ferndale Bog",7784,"Radiocarbon, average of two or more dates",1678,67.5,NA,NA,1554,1840,143,1
+3126,804,"Ferndale Bog",7784,"Radiocarbon, average of two or more dates",1678,67.5,NA,NA,1554,1840,143,1
+3126,804,"Ferndale Bog",7785,"Radiocarbon, average of two or more dates",2680,108.5,NA,NA,2552,2808,128,1
+3126,804,"Ferndale Bog",7785,"Radiocarbon, average of two or more dates",2680,108.5,NA,NA,2552,2808,128,1
+3126,804,"Ferndale Bog",7786,"Radiocarbon",5170,147.5,NA,NA,5010,5330,160,1

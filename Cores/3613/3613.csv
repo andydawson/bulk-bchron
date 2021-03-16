@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3613,2265,"Sierra Bacha 1",8342,"Radiocarbon",9270,9270,8950,9590,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3613,2265,"Sierra Bacha 1",8342,"Radiocarbon",9270,9270,9280,9260,8950,9590,320,1

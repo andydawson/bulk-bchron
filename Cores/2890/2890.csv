@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2890,2793,"Upper Mallot Lake",7246,"Core top",0,1,-30,30,30,0
-"2",2890,2793,"Upper Mallot Lake",7248,"Radiocarbon",4660,195,4520,4800,140,1
-"3",2890,2793,"Upper Mallot Lake",7249,"Radiocarbon",6940,285,6760,7120,180,1
-"4",2890,2793,"Upper Mallot Lake",7250,"Radiocarbon",9835,345,9635,10035,200,1
-"5",2890,2793,"Upper Mallot Lake",7251,"Deglaciation",10500,375,10000,11000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2890,2793,"Upper Mallot Lake",7246,"Core top",0,1,10500,0,-30,30,30,0
+2890,2793,"Upper Mallot Lake",7248,"Radiocarbon",4660,195,10500,0,4520,4800,140,1
+2890,2793,"Upper Mallot Lake",7249,"Radiocarbon",6940,285,10500,0,6760,7120,180,1
+2890,2793,"Upper Mallot Lake",7250,"Radiocarbon",9835,345,10500,0,9635,10035,200,1
+2890,2793,"Upper Mallot Lake",7251,"Deglaciation",10500,375,10500,0,10000,11000,500,0

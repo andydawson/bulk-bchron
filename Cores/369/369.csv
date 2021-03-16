@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",369,360,"Chippewa Bog",1175,"Radiocarbon",1200,226.5,1130,1270,70,1
-"2",369,360,"Chippewa Bog",1176,"Radiocarbon",4130,481.5,4060,4200,70,1
-"3",369,360,"Chippewa Bog",1177,"Radiocarbon",8410,746.5,8330,8490,80,1
-"4",369,360,"Chippewa Bog",1178,"Radiocarbon",9540,858.5,9440,9640,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+369,360,"Chippewa Bog",1175,"Radiocarbon",1200,226.5,9500,1000,1130,1270,70,1
+369,360,"Chippewa Bog",1176,"Radiocarbon",4130,481.5,9500,1000,4060,4200,70,1
+369,360,"Chippewa Bog",1177,"Radiocarbon",8410,746.5,9500,1000,8330,8490,80,1
+369,360,"Chippewa Bog",1178,"Radiocarbon",9540,858.5,9500,1000,9440,9640,100,1

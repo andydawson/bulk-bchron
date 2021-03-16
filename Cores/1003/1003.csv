@@ -1,23 +1,23 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1003,972,"Hanging Lake",2869,"Core top",0,0,0,0,0,0
-"2",1003,972,"Hanging Lake",2870,"Radiocarbon",1870,15.5,1510,2330,410,1
-"3",1003,972,"Hanging Lake",2871,"Radiocarbon",2930,25.5,2670,3190,260,1
-"4",1003,972,"Hanging Lake",2872,"Radiocarbon",5100,30.5,4740,5460,360,1
-"5",1003,972,"Hanging Lake",2873,"Radiocarbon",4360,55.5,4060,4660,300,1
-"6",1003,972,"Hanging Lake",2874,"Radiocarbon",5640,80.5,5360,5920,280,1
-"7",1003,972,"Hanging Lake",2875,"Radiocarbon",7870,105.5,7310,8430,560,1
-"8",1003,972,"Hanging Lake",2876,"Radiocarbon",10200,118,9820,10580,380,1
-"9",1003,972,"Hanging Lake",2877,"Radiocarbon",11500,130.5,11000,12000,500,1
-"10",1003,972,"Hanging Lake",2878,"Radiocarbon",9220,143,8940,9500,280,1
-"11",1003,972,"Hanging Lake",2879,"Radiocarbon",10500,155.5,10100,10900,400,1
-"12",1003,972,"Hanging Lake",2880,"Radiocarbon",10900,180.5,10060,11320,630,1
-"13",1003,972,"Hanging Lake",2881,"Radiocarbon",11700,205.5,11400,12000,300,1
-"14",1003,972,"Hanging Lake",2882,"Radiocarbon",12600,230.5,12060,13140,540,1
-"15",1003,972,"Hanging Lake",2883,"Radiocarbon",12400,255.5,11980,12820,420,1
-"16",1003,972,"Hanging Lake",2884,"Radiocarbon",12800,265.5,12160,13440,640,1
-"17",1003,972,"Hanging Lake",2885,"Radiocarbon",15800,275.5,14900,16700,900,1
-"18",1003,972,"Hanging Lake",2886,"Radiocarbon",17700,280.5,16940,18460,760,1
-"19",1003,972,"Hanging Lake",2887,"Radiocarbon",16800,295.5,16160,17440,640,1
-"20",1003,972,"Hanging Lake",2888,"Radiocarbon",20200,305.5,19180,21220,1020,1
-"21",1003,972,"Hanging Lake",2889,"Radiocarbon",20200,320.5,18880,21520,1320,1
-"22",1003,972,"Hanging Lake",2890,"Radiocarbon",24900,329.75,23700,26100,1200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1003,972,"Hanging Lake",2869,"Core top",0,0,33090,0,0,0,0,0
+1003,972,"Hanging Lake",2870,"Radiocarbon",1870,15.5,33090,0,1510,2330,410,1
+1003,972,"Hanging Lake",2871,"Radiocarbon",2930,25.5,33090,0,2670,3190,260,1
+1003,972,"Hanging Lake",2872,"Radiocarbon",5100,30.5,33090,0,4740,5460,360,1
+1003,972,"Hanging Lake",2873,"Radiocarbon",4360,55.5,33090,0,4060,4660,300,1
+1003,972,"Hanging Lake",2874,"Radiocarbon",5640,80.5,33090,0,5360,5920,280,1
+1003,972,"Hanging Lake",2875,"Radiocarbon",7870,105.5,33090,0,7310,8430,560,1
+1003,972,"Hanging Lake",2876,"Radiocarbon",10200,118,33090,0,9820,10580,380,1
+1003,972,"Hanging Lake",2877,"Radiocarbon",11500,130.5,33090,0,11000,12000,500,1
+1003,972,"Hanging Lake",2878,"Radiocarbon",9220,143,33090,0,8940,9500,280,1
+1003,972,"Hanging Lake",2879,"Radiocarbon",10500,155.5,33090,0,10100,10900,400,1
+1003,972,"Hanging Lake",2880,"Radiocarbon",10900,180.5,33090,0,10060,11320,630,1
+1003,972,"Hanging Lake",2881,"Radiocarbon",11700,205.5,33090,0,11400,12000,300,1
+1003,972,"Hanging Lake",2882,"Radiocarbon",12600,230.5,33090,0,12060,13140,540,1
+1003,972,"Hanging Lake",2883,"Radiocarbon",12400,255.5,33090,0,11980,12820,420,1
+1003,972,"Hanging Lake",2884,"Radiocarbon",12800,265.5,33090,0,12160,13440,640,1
+1003,972,"Hanging Lake",2885,"Radiocarbon",15800,275.5,33090,0,14900,16700,900,1
+1003,972,"Hanging Lake",2886,"Radiocarbon",17700,280.5,33090,0,16940,18460,760,1
+1003,972,"Hanging Lake",2887,"Radiocarbon",16800,295.5,33090,0,16160,17440,640,1
+1003,972,"Hanging Lake",2888,"Radiocarbon",20200,305.5,33090,0,19180,21220,1020,1
+1003,972,"Hanging Lake",2889,"Radiocarbon",20200,320.5,33090,0,18880,21520,1320,1
+1003,972,"Hanging Lake",2890,"Radiocarbon",24900,329.75,33090,0,23700,26100,1200,1

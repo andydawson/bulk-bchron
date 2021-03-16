@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1162,1127,"Jacob Lake",3283,"Core top",0,0,-30,30,30,0
-"2",1162,1127,"Jacob Lake",3284,"Radiocarbon",750,29,330,1170,420,1
-"3",1162,1127,"Jacob Lake",3285,"Radiocarbon",3310,59,2990,3630,320,1
-"4",1162,1127,"Jacob Lake",3286,"Radiocarbon",14770,222,11570,17970,3200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1162,1127,"Jacob Lake",3283,"Core top",0,0,15130,20,-30,30,30,0
+1162,1127,"Jacob Lake",3284,"Radiocarbon",750,29,15130,20,330,1170,420,1
+1162,1127,"Jacob Lake",3285,"Radiocarbon",3310,59,15130,20,2990,3630,320,1
+1162,1127,"Jacob Lake",3286,"Radiocarbon",14770,222,15130,20,11570,17970,3200,1

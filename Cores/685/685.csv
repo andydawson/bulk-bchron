@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",685,667,"Devon Island Glacier",1886,"Core top",-23,0,-23,-3,10,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+685,667,"Devon Island Glacier",1886,"Core top",-23,0,130000,-30,-23,-3,10,0

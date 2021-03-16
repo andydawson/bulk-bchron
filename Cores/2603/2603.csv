@@ -1,3 +1,3 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2603,2516,"Saint John Island Pond",6805,"Core top",30,0,-20,80,50,0
-"2",2603,2516,"Saint John Island Pond",6806,"Radiocarbon",5480,115,5010,5950,470,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2603,2516,"Saint John Island Pond",6805,"Core top",30,0,7000,0,-20,80,50,0
+2603,2516,"Saint John Island Pond",6806,"Radiocarbon",5480,115,7000,0,5010,5950,470,1

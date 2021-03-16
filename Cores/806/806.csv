@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",806,786,"Ernst Brother's Pit",2217,"Radiocarbon",12410,236,12210,12610,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+806,786,"Ernst Brother's Pit",2217,"Radiocarbon",12410,236,12520,9180,12210,12610,200,1

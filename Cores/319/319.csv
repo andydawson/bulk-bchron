@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",319,312,"Buck Lake",831,"Core top",0,1738,-25,25,25,0
-"2",319,312,"Buck Lake",832,"Other dating methods",50,1750,0,100,50,0
-"3",319,312,"Buck Lake",834,"Radiocarbon",8270,2045,8170,8370,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+319,312,"Buck Lake",831,"Core top",0,1738,8540,0,-25,25,25,0
+319,312,"Buck Lake",832,"Other dating methods",50,1750,8540,0,0,100,50,0
+319,312,"Buck Lake",834,"Radiocarbon",8270,2045,8540,0,8170,8370,100,1

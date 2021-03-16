@@ -1,10 +1,10 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2609,2520,"Stotzel-Leis Site",6828,"Core top",0,0,-20,20,20,0
-"2",2609,2520,"Stotzel-Leis Site",6830,"Radiocarbon",5830,132.5,5735,5925,95,1
-"3",2609,2520,"Stotzel-Leis Site",6831,"Radiocarbon",6600,206,6420,6780,180,1
-"4",2609,2520,"Stotzel-Leis Site",6832,"Radiocarbon",8570,297.5,8375,8765,195,1
-"5",2609,2520,"Stotzel-Leis Site",6833,"Radiocarbon",9760,412.5,9595,9925,165,1
-"6",2609,2520,"Stotzel-Leis Site",6834,"Radiocarbon",10260,502.5,10060,10460,200,1
-"7",2609,2520,"Stotzel-Leis Site",6835,"Radiocarbon",11350,702.5,11045,11655,305,1
-"8",2609,2520,"Stotzel-Leis Site",6836,"Radiocarbon",13070,790,12700,13440,370,1
-"9",2609,2520,"Stotzel-Leis Site",6837,"Radiocarbon",14890,905,14490,15290,400,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2609,2520,"Stotzel-Leis Site",6828,"Core top",0,0,15130,30,-20,20,20,0
+2609,2520,"Stotzel-Leis Site",6830,"Radiocarbon",5830,132.5,15130,30,5735,5925,95,1
+2609,2520,"Stotzel-Leis Site",6831,"Radiocarbon",6600,206,15130,30,6420,6780,180,1
+2609,2520,"Stotzel-Leis Site",6832,"Radiocarbon",8570,297.5,15130,30,8375,8765,195,1
+2609,2520,"Stotzel-Leis Site",6833,"Radiocarbon",9760,412.5,15130,30,9595,9925,165,1
+2609,2520,"Stotzel-Leis Site",6834,"Radiocarbon",10260,502.5,15130,30,10060,10460,200,1
+2609,2520,"Stotzel-Leis Site",6835,"Radiocarbon",11350,702.5,15130,30,11045,11655,305,1
+2609,2520,"Stotzel-Leis Site",6836,"Radiocarbon",13070,790,15130,30,12700,13440,370,1
+2609,2520,"Stotzel-Leis Site",6837,"Radiocarbon",14890,905,15130,30,14490,15290,400,1

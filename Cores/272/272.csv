@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",272,266,"Big John Pond",588,"Core top",-31,0,-31,0,15.5,0
-"2",272,266,"Big John Pond",590,"Radiocarbon, reservoir correction",1320,62.5,1160,1480,160,1
-"3",272,266,"Big John Pond",591,"Radiocarbon, reservoir correction",3310,130,3150,3470,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+272,266,"Big John Pond",588,"Core top",-31,0,5380,-30,-31,0,15.5,0
+272,266,"Big John Pond",590,"Radiocarbon, reservoir correction",1320,62.5,5380,-30,1160,1480,160,1
+272,266,"Big John Pond",591,"Radiocarbon, reservoir correction",3310,130,5380,-30,3150,3470,160,1

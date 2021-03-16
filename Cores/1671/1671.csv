@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4387,"Core top",-45,0,-45,-45,0,0
-"2",1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4388,"Lead-210",0,4,-5,5,5,0
-"3",1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4389,"Lead-210",50,12.5,45,55,5,0
-"4",1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4390,"Radiocarbon",480,31,440,520,40,1
-"5",1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4391,"Radiocarbon",960,51,910,1000,45,1
-"6",1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4392,"Radiocarbon",1590,71,1550,1630,40,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4387,"Core top",-45,0,1590,-40,-45,-45,0,0
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4388,"Lead-210",0,4,1590,-40,-5,5,5,0
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4389,"Lead-210",50,12.5,1590,-40,45,55,5,0
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4390,"Radiocarbon",480,31,1590,-40,440,520,40,1
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4391,"Radiocarbon",960,51,1590,-40,910,1000,45,1
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4392,"Radiocarbon",1590,71,1590,-40,1550,1630,40,1

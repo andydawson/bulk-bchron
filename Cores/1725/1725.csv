@@ -1,11 +1,11 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1725,1669,"McNearney Lake",4677,"Lead-210",-23,0.25,-23,-23,0,0
-"2",1725,1669,"McNearney Lake",4678,"Lead-210",-8,1.75,-8,-8,0,0
-"3",1725,1669,"McNearney Lake",4679,"Lead-210",12,2.75,12,12,0,0
-"4",1725,1669,"McNearney Lake",4680,"Lead-210",28,3.75,28,28,0,0
-"5",1725,1669,"McNearney Lake",4681,"Lead-210",44,4.75,44,44,0,0
-"6",1725,1669,"McNearney Lake",4682,"Lead-210",56,5.75,56,56,0,0
-"7",1725,1669,"McNearney Lake",4683,"Lead-210",64,6.75,64,64,0,0
-"8",1725,1669,"McNearney Lake",4684,"Lead-210",71,7.75,71,71,0,0
-"9",1725,1669,"McNearney Lake",4685,"Lead-210",77,8.75,77,77,0,0
-"10",1725,1669,"McNearney Lake",4686,"Lead-210",87,10.75,87,87,0,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1725,1669,"McNearney Lake",4677,"Lead-210",-23,0.25,250,-30,-23,-23,0,0
+1725,1669,"McNearney Lake",4678,"Lead-210",-8,1.75,250,-30,-8,-8,0,0
+1725,1669,"McNearney Lake",4679,"Lead-210",12,2.75,250,-30,12,12,0,0
+1725,1669,"McNearney Lake",4680,"Lead-210",28,3.75,250,-30,28,28,0,0
+1725,1669,"McNearney Lake",4681,"Lead-210",44,4.75,250,-30,44,44,0,0
+1725,1669,"McNearney Lake",4682,"Lead-210",56,5.75,250,-30,56,56,0,0
+1725,1669,"McNearney Lake",4683,"Lead-210",64,6.75,250,-30,64,64,0,0
+1725,1669,"McNearney Lake",4684,"Lead-210",71,7.75,250,-30,71,71,0,0
+1725,1669,"McNearney Lake",4685,"Lead-210",77,8.75,250,-30,77,77,0,0
+1725,1669,"McNearney Lake",4686,"Lead-210",87,10.75,250,-30,87,87,0,0

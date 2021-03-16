@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3039,2941,"Woski Pond",7579,"Core top",-36,0,-36,-16,10,0
-"2",3039,2941,"Woski Pond",7580,"Radiocarbon, reservoir correction",580,46.5,440,720,140,1
-"3",3039,2941,"Woski Pond",7581,"Radiocarbon, reservoir correction",730,123.5,550,910,180,1
-"4",3039,2941,"Woski Pond",7582,"Radiocarbon, reservoir correction",1410,203.5,1230,1590,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3039,2941,"Woski Pond",7579,"Core top",-36,0,1500,-40,-36,-16,10,0
+3039,2941,"Woski Pond",7580,"Radiocarbon, reservoir correction",580,46.5,1500,-40,440,720,140,1
+3039,2941,"Woski Pond",7581,"Radiocarbon, reservoir correction",730,123.5,1500,-40,550,910,180,1
+3039,2941,"Woski Pond",7582,"Radiocarbon, reservoir correction",1410,203.5,1500,-40,1230,1590,180,1

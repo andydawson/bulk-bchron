@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2882,2787,"Tyrrell Lake",7206,"Core top",-28,0,-28,-28,0,0
-"2",2882,2787,"Tyrrell Lake",7207,"Radiocarbon",5790,100,5540,6040,250,1
-"3",2882,2787,"Tyrrell Lake",7208,"Radiocarbon",8860,170,8590,9130,270,1
-"4",2882,2787,"Tyrrell Lake",7209,"Radiocarbon",9350,249,9110,9590,240,1
-"5",2882,2787,"Tyrrell Lake",7210,"Radiocarbon",10200,349,9960,10440,240,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2882,2787,"Tyrrell Lake",7206,"Core top",-28,0,9360,-30,-28,-28,0,0
+2882,2787,"Tyrrell Lake",7207,"Radiocarbon",5790,100,9360,-30,5540,6040,250,1
+2882,2787,"Tyrrell Lake",7208,"Radiocarbon",8860,170,9360,-30,8590,9130,270,1
+2882,2787,"Tyrrell Lake",7209,"Radiocarbon",9350,249,9360,-30,9110,9590,240,1
+2882,2787,"Tyrrell Lake",7210,"Radiocarbon",10200,349,9360,-30,9960,10440,240,1

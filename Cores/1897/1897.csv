@@ -1,7 +1,7 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1897,1833,"Pilot Mound Site",5383,"Core top",0,0,-50,50,50,0
-"2",1897,1833,"Pilot Mound Site",5384,"Radiocarbon",2500,37.5,2430,2570,70,1
-"3",1897,1833,"Pilot Mound Site",5385,"Radiocarbon",3250,67.5,3190,3310,60,1
-"4",1897,1833,"Pilot Mound Site",5386,"Radiocarbon",4960,107.5,4870,5050,90,1
-"5",1897,1833,"Pilot Mound Site",5387,"Radiocarbon",9730,167.5,9600,9860,130,1
-"6",1897,1833,"Pilot Mound Site",5389,"Other dating methods",13500,266,13000,14000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1897,1833,"Pilot Mound Site",5383,"Core top",0,0,13500,0,-50,50,50,0
+1897,1833,"Pilot Mound Site",5384,"Radiocarbon",2500,37.5,13500,0,2430,2570,70,1
+1897,1833,"Pilot Mound Site",5385,"Radiocarbon",3250,67.5,13500,0,3190,3310,60,1
+1897,1833,"Pilot Mound Site",5386,"Radiocarbon",4960,107.5,13500,0,4870,5050,90,1
+1897,1833,"Pilot Mound Site",5387,"Radiocarbon",9730,167.5,13500,0,9600,9860,130,1
+1897,1833,"Pilot Mound Site",5389,"Other dating methods",13500,266,13500,0,13000,14000,500,0

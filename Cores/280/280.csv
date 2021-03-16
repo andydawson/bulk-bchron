@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",280,274,"Blandin Pond",626,"Core top",-32,0,-32,-12,10,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+280,274,"Blandin Pond",626,"Core top",-32,0,150,-30,-32,-12,10,0

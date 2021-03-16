@@ -1,2 +1,2 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1978,1912,"Princeville",5590,"Core top",200,0,100,300,100,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1978,1912,"Princeville",5590,"Core top",200,0,9000,3000,100,300,100,0

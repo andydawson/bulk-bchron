@@ -1,6 +1,6 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",719,699,"Dome Creek Meadow",1956,"Core top",-43,0,-43,-3,20,0
-"2",719,699,"Dome Creek Meadow",1958,"Radiocarbon",4759,252,4599,4919,160,1
-"3",719,699,"Dome Creek Meadow",1959,"Radiocarbon",7800,359.5,7600,8000,200,1
-"4",719,699,"Dome Creek Meadow",1960,"Radiocarbon",10090,457,9730,10450,360,1
-"5",719,699,"Dome Creek Meadow",1961,"Radiocarbon",10600,554.5,10240,10960,360,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+719,699,"Dome Creek Meadow",1956,"Core top",-43,0,10660,10,-43,-3,20,0
+719,699,"Dome Creek Meadow",1958,"Radiocarbon",4759,252,10660,10,4599,4919,160,1
+719,699,"Dome Creek Meadow",1959,"Radiocarbon",7800,359.5,10660,10,7600,8000,200,1
+719,699,"Dome Creek Meadow",1960,"Radiocarbon",10090,457,10660,10,9730,10450,360,1
+719,699,"Dome Creek Meadow",1961,"Radiocarbon",10600,554.5,10660,10,10240,10960,360,1

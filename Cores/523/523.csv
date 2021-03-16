@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",523,510,"Crider's Pond",1562,"Core top",0,15,-50,50,50,0
-"2",523,510,"Crider's Pond",1564,"Radiocarbon",11650,137,11520,11780,130,1
-"3",523,510,"Crider's Pond",1565,"Radiocarbon",13260,405,13135,13385,125,1
-"4",523,510,"Crider's Pond",1566,"Radiocarbon",15210,715,15060,15360,150,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+523,510,"Crider's Pond",1562,"Core top",0,15,15000,0,-50,50,50,0
+523,510,"Crider's Pond",1564,"Radiocarbon",11650,137,15000,0,11520,11780,130,1
+523,510,"Crider's Pond",1565,"Radiocarbon",13260,405,15000,0,13135,13385,125,1
+523,510,"Crider's Pond",1566,"Radiocarbon",15210,715,15000,0,15060,15360,150,1

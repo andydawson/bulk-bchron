@@ -1,4 +1,4 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",534,520,"Cub Lake",1646,"Core top",0,0,-30,30,30,0
-"2",534,520,"Cub Lake",1647,"Radiocarbon",7910,47.5,7740,8080,170,1
-"3",534,520,"Cub Lake",1648,"Radiocarbon",10620,162.5,10420,10820,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+534,520,"Cub Lake",1646,"Core top",0,0,14100,7960,-30,30,30,0
+534,520,"Cub Lake",1647,"Radiocarbon",7910,47.5,14100,7960,7740,8080,170,1
+534,520,"Cub Lake",1648,"Radiocarbon",10620,162.5,14100,7960,10420,10820,200,1

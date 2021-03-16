@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1769,1712,"18 [Moraine Lake]",4830,"Core top",0,0,-50,50,50,0
-"2",1769,1712,"18 [Moraine Lake]",4831,"Radiocarbon",1630,22.5,1550,1710,80,1
-"3",1769,1712,"18 [Moraine Lake]",4832,"Radiocarbon",2570,47.5,2440,2700,130,1
-"4",1769,1712,"18 [Moraine Lake]",4833,"Radiocarbon",3840,74.5,3750,3930,90,1
-"5",1769,1712,"18 [Moraine Lake]",4834,"Radiocarbon",5110,107.5,4990,5230,120,1
-"6",1769,1712,"18 [Moraine Lake]",4835,"Radiocarbon",6870,140,6790,6950,80,1
-"7",1769,1712,"18 [Moraine Lake]",4836,"Radiocarbon",9640,172.5,9470,9810,170,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1769,1712,"18 [Moraine Lake]",4830,"Core top",0,0,10000,0,-50,50,50,0
+1769,1712,"18 [Moraine Lake]",4831,"Radiocarbon",1630,22.5,10000,0,1550,1710,80,1
+1769,1712,"18 [Moraine Lake]",4832,"Radiocarbon",2570,47.5,10000,0,2440,2700,130,1
+1769,1712,"18 [Moraine Lake]",4833,"Radiocarbon",3840,74.5,10000,0,3750,3930,90,1
+1769,1712,"18 [Moraine Lake]",4834,"Radiocarbon",5110,107.5,10000,0,4990,5230,120,1
+1769,1712,"18 [Moraine Lake]",4835,"Radiocarbon",6870,140,10000,0,6790,6950,80,1
+1769,1712,"18 [Moraine Lake]",4836,"Radiocarbon",9640,172.5,10000,0,9470,9810,170,1

@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",3771,1064,"Snow Lake",8359,"Core top",0,975,-100,100,100,0
-"2",3771,1064,"Snow Lake",8360,"Radiocarbon",2180,1012.5,2040,2320,140,1
-"3",3771,1064,"Snow Lake",8361,"Radiocarbon",3330,1062.5,3190,3470,140,1
-"4",3771,1064,"Snow Lake",8362,"Radiocarbon",5270,1112.5,4970,5570,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+3771,1064,"Snow Lake",8359,"Core top",0,975,5390,0,-100,100,100,0
+3771,1064,"Snow Lake",8360,"Radiocarbon",2180,1012.5,5390,0,2040,2320,140,1
+3771,1064,"Snow Lake",8361,"Radiocarbon",3330,1062.5,5390,0,3190,3470,140,1
+3771,1064,"Snow Lake",8362,"Radiocarbon",5270,1112.5,5390,0,4970,5570,300,1

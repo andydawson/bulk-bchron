@@ -1,8 +1,8 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1882,1818,"Ped Pond",5323,"Core top",0,0,-32,500,266,0
-"2",1882,1818,"Ped Pond",5324,"Radiocarbon",2450,25.5,2360,2540,90,1
-"3",1882,1818,"Ped Pond",5325,"Radiocarbon",5590,105.5,5470,5710,120,1
-"4",1882,1818,"Ped Pond",5326,"Radiocarbon",7720,138.5,7600,7840,120,1
-"5",1882,1818,"Ped Pond",5327,"Radiocarbon",8800,168,8490,9110,310,1
-"6",1882,1818,"Ped Pond",5328,"Radiocarbon",10760,221.5,10630,10890,130,1
-"7",1882,1818,"Ped Pond",5329,"Radiocarbon",12530,249,12300,12760,230,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1882,1818,"Ped Pond",5323,"Core top",0,0,12920,0,-32,500,266,0
+1882,1818,"Ped Pond",5324,"Radiocarbon",2450,25.5,12920,0,2360,2540,90,1
+1882,1818,"Ped Pond",5325,"Radiocarbon",5590,105.5,12920,0,5470,5710,120,1
+1882,1818,"Ped Pond",5326,"Radiocarbon",7720,138.5,12920,0,7600,7840,120,1
+1882,1818,"Ped Pond",5327,"Radiocarbon",8800,168,12920,0,8490,9110,310,1
+1882,1818,"Ped Pond",5328,"Radiocarbon",10760,221.5,12920,0,10630,10890,130,1
+1882,1818,"Ped Pond",5329,"Radiocarbon",12530,249,12920,0,12300,12760,230,1

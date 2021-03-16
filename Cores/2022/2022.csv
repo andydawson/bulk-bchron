@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",2022,1953,"Ra Lake",5747,"Core top",-32,0,-32,50,41,0
-"2",2022,1953,"Ra Lake",5748,"Radiocarbon",4530,135,4370,4690,160,1
-"3",2022,1953,"Ra Lake",5749,"Radiocarbon",5510,172.5,5310,5710,200,1
-"4",2022,1953,"Ra Lake",5750,"Deglaciation",11500,240,11000,12000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+2022,1953,"Ra Lake",5747,"Core top",-32,0,5190,-40,-32,50,41,0
+2022,1953,"Ra Lake",5748,"Radiocarbon",4530,135,5190,-40,4370,4690,160,1
+2022,1953,"Ra Lake",5749,"Radiocarbon",5510,172.5,5190,-40,5310,5710,200,1
+2022,1953,"Ra Lake",5750,"Deglaciation",11500,240,5190,-40,11000,12000,500,0

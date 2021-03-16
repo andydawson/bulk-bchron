@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",321,314,"Bucyrus Bog",848,"Radiocarbon",9740,68.5,9440,10040,300,1
-"2",321,314,"Bucyrus Bog",849,"Radiocarbon",11030,114.5,10630,11430,400,1
-"3",321,314,"Bucyrus Bog",850,"Radiocarbon",12890,195,12570,13210,320,1
-"4",321,314,"Bucyrus Bog",851,"Deglaciation",14500,382,14300,14700,200,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+321,314,"Bucyrus Bog",848,"Radiocarbon",9740,68.5,14500,8360,9440,10040,300,1
+321,314,"Bucyrus Bog",849,"Radiocarbon",11030,114.5,14500,8360,10630,11430,400,1
+321,314,"Bucyrus Bog",850,"Radiocarbon",12890,195,14500,8360,12570,13210,320,1
+321,314,"Bucyrus Bog",851,"Deglaciation",14500,382,14500,8360,14300,14700,200,0

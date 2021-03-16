@@ -1,5 +1,5 @@
-"","datasetid","siteid","sitename","chroncontrolid","type","age","depth","limityounger","limitolder","error","cc"
-"1",1968,1903,"Portage Bog",5494,"Core top",-16,0,-16,-6,5,0
-"2",1968,1903,"Portage Bog",5496,"Radiocarbon",490,79,370,610,120,1
-"3",1968,1903,"Portage Bog",5497,"Radiocarbon",3430,420,3290,3570,140,1
-"4",1968,1903,"Portage Bog",5499,"Radiocarbon",9880,625.5,9580,10180,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
+1968,1903,"Portage Bog",5494,"Core top",-16,0,10990,-20,-16,-6,5,0
+1968,1903,"Portage Bog",5496,"Radiocarbon",490,79,10990,-20,370,610,120,1
+1968,1903,"Portage Bog",5497,"Radiocarbon",3430,420,10990,-20,3290,3570,140,1
+1968,1903,"Portage Bog",5499,"Radiocarbon",9880,625.5,10990,-20,9580,10180,300,1
