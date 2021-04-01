@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-671,655,"Toadlena Lake [Dead Man Lake]",1798,"Radiocarbon",19400,170,NA,NA,15800,23000,3600,1
-671,655,"Toadlena Lake [Dead Man Lake]",1799,"Radiocarbon",24700,315,NA,NA,16900,32500,7800,1
-671,655,"Toadlena Lake [Dead Man Lake]",1800,"Radiocarbon",27800,510,NA,NA,26200,29400,1600,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+671,655,"Toadlena Lake [Dead Man Lake]",1798,"Radiocarbon",19400,170,NA,NA,15800,23000,"NAPD 1","Fit a least-squares line to 3 radiocarbon dates. Coefs: 15935.6, 24.2141. Chronology is uncertain because of large standard deviations of dates and because of extrapolation above and below the dates.",TRUE,2759,-108.95715,-108.94839
+671,655,"Toadlena Lake [Dead Man Lake]",1799,"Radiocarbon",24700,315,NA,NA,16900,32500,"NAPD 1","Fit a least-squares line to 3 radiocarbon dates. Coefs: 15935.6, 24.2141. Chronology is uncertain because of large standard deviations of dates and because of extrapolation above and below the dates.",TRUE,2759,-108.95715,-108.94839
+671,655,"Toadlena Lake [Dead Man Lake]",1800,"Radiocarbon",27800,510,NA,NA,26200,29400,"NAPD 1","Fit a least-squares line to 3 radiocarbon dates. Coefs: 15935.6, 24.2141. Chronology is uncertain because of large standard deviations of dates and because of extrapolation above and below the dates.",TRUE,2759,-108.95715,-108.94839

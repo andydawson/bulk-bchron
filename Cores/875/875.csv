@@ -1,2 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-875,846,"Glacial Lake",2548,"Core top",1000,0,15050,1000,500,1500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+875,846,"Glacial Lake",2548,"Core top",1000,0,15050,1000,500,1500,"PALE 1","All C14 dates appear to be too old for this core. As Seward Peninsula chronology is poorly understood, this chron is tentative.",TRUE,120,-166.26667,64.86667
+875,846,"Glacial Lake",2549,"Biostratigraphic, pollen",9000,755,15050,1000,8750,9250,"PALE 1","All C14 dates appear to be too old for this core. As Seward Peninsula chronology is poorly understood, this chron is tentative.",TRUE,120,-166.26667,64.86667
+875,846,"Glacial Lake",2550,"Biostratigraphic, pollen",14000,1070,15050,1000,13500,14500,"PALE 1","All C14 dates appear to be too old for this core. As Seward Peninsula chronology is poorly understood, this chron is tentative.",TRUE,120,-166.26667,64.86667

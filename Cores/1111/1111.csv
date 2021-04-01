@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1111,1078,"Hostage Lake",3110,"Core top",-30,0,4640,-30,-30,0,15,0
-1111,1078,"Hostage Lake",3112,"Radiocarbon, reservoir correction",1595,220,4640,-30,1435,1755,160,1
-1111,1078,"Hostage Lake",3113,"Radiocarbon, reservoir correction",3485,385,4640,-30,3325,3645,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1111,1078,"Hostage Lake",3110,"Core top",-30,0,4640,-30,-30,0,"Almendinger 1992","Chron uses surface (-30 BP), Ambrosia rise (70 BP), 2 radiocarbon dates adjusted by 275 yrs for old carbon (see Almendinger 1992). The date 240±70 (WIS-1661) is above the Ambrosia-rise.",TRUE,368,-94.13333,46.55
+1111,1078,"Hostage Lake",3111,"Biostratigraphic, pollen",70,32.5,4640,-30,40,100,"Almendinger 1992","Chron uses surface (-30 BP), Ambrosia rise (70 BP), 2 radiocarbon dates adjusted by 275 yrs for old carbon (see Almendinger 1992). The date 240±70 (WIS-1661) is above the Ambrosia-rise.",TRUE,368,-94.13333,46.55
+1111,1078,"Hostage Lake",3112,"Radiocarbon, reservoir correction",1595,220,4640,-30,1435,1755,"Almendinger 1992","Chron uses surface (-30 BP), Ambrosia rise (70 BP), 2 radiocarbon dates adjusted by 275 yrs for old carbon (see Almendinger 1992). The date 240±70 (WIS-1661) is above the Ambrosia-rise.",TRUE,368,-94.13333,46.55
+1111,1078,"Hostage Lake",3113,"Radiocarbon, reservoir correction",3485,385,4640,-30,3325,3645,"Almendinger 1992","Chron uses surface (-30 BP), Ambrosia rise (70 BP), 2 radiocarbon dates adjusted by 275 yrs for old carbon (see Almendinger 1992). The date 240±70 (WIS-1661) is above the Ambrosia-rise.",TRUE,368,-94.13333,46.55

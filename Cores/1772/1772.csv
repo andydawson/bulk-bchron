@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1772,1715,"Mosquito Lake Bog",4843,"Tephra",6850,962,14850,3600,6700,7000,150,0
-1772,1715,"Mosquito Lake Bog",4844,"Radiocarbon, average of two or more dates",11550,1915,14850,3600,11370,11730,180,1
-1772,1715,"Mosquito Lake Bog",4844,"Radiocarbon, average of two or more dates",11550,1915,14850,3600,11370,11730,180,1
-1772,1715,"Mosquito Lake Bog",4845,"Radiocarbon",13920,1994,14850,3600,13660,14180,260,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1772,1715,"Mosquito Lake Bog",4843,"Tephra",6850,962,14850,3600,6700,7000,"NAPD 1","Chron uses 3 radiocarbon dates and Mazama ash (961-963 cm, 6850±150). Dates WIS-1619 and WIS-1620 not significantly different at 95% level (CALIB3), therefore average date used (11550±90).",TRUE,198,-122.11778,48.76917
+1772,1715,"Mosquito Lake Bog",4844,"Radiocarbon, average of two or more dates",11550,1915,14850,3600,11370,11730,"NAPD 1","Chron uses 3 radiocarbon dates and Mazama ash (961-963 cm, 6850±150). Dates WIS-1619 and WIS-1620 not significantly different at 95% level (CALIB3), therefore average date used (11550±90).",TRUE,198,-122.11778,48.76917
+1772,1715,"Mosquito Lake Bog",4844,"Radiocarbon, average of two or more dates",11550,1915,14850,3600,11370,11730,"NAPD 1","Chron uses 3 radiocarbon dates and Mazama ash (961-963 cm, 6850±150). Dates WIS-1619 and WIS-1620 not significantly different at 95% level (CALIB3), therefore average date used (11550±90).",TRUE,198,-122.11778,48.76917
+1772,1715,"Mosquito Lake Bog",4845,"Radiocarbon",13920,1994,14850,3600,13660,14180,"NAPD 1","Chron uses 3 radiocarbon dates and Mazama ash (961-963 cm, 6850±150). Dates WIS-1619 and WIS-1620 not significantly different at 95% level (CALIB3), therefore average date used (11550±90).",TRUE,198,-122.11778,48.76917

@@ -1,12 +1,13 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1663,1611,"Loon Pond",4342,"Core top",-30,965,11880,-30,-30,0,15,0
-1663,1611,"Loon Pond",4344,"Radiocarbon, reservoir correction",1430,1017.5,11880,-30,1270,1590,160,1
-1663,1611,"Loon Pond",4345,"Radiocarbon, reservoir correction",3975,1057,11880,-30,3815,4135,160,1
-1663,1611,"Loon Pond",4346,"Radiocarbon, reservoir correction",4765,1109,11880,-30,4625,4905,140,1
-1663,1611,"Loon Pond",4347,"Radiocarbon, reservoir correction",5800,1156,11880,-30,5480,6120,320,1
-1663,1611,"Loon Pond",4348,"Radiocarbon, reservoir correction",7170,1217.5,11880,-30,6930,7410,240,1
-1663,1611,"Loon Pond",4349,"Radiocarbon, reservoir correction",7790,1256,11880,-30,7570,8010,220,1
-1663,1611,"Loon Pond",4350,"Radiocarbon, reservoir correction",9680,1296,11880,-30,9440,9920,240,1
-1663,1611,"Loon Pond",4351,"Radiocarbon, average of two or more dates",10470,1341.5,11880,-30,10270,10670,200,1
-1663,1611,"Loon Pond",4351,"Radiocarbon, average of two or more dates",10470,1341.5,11880,-30,10270,10670,200,1
-1663,1611,"Loon Pond",4352,"Radiocarbon, reservoir correction",11520,1385,11880,-30,11290,11750,230,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1663,1611,"Loon Pond",4342,"Core top",-30,965,11880,-30,-30,0,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4343,"Biostratigraphic, pollen",150,995,11880,-30,100,180,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4344,"Radiocarbon, reservoir correction",1430,1017.5,11880,-30,1270,1590,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4345,"Radiocarbon, reservoir correction",3975,1057,11880,-30,3815,4135,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4346,"Radiocarbon, reservoir correction",4765,1109,11880,-30,4625,4905,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4347,"Radiocarbon, reservoir correction",5800,1156,11880,-30,5480,6120,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4348,"Radiocarbon, reservoir correction",7170,1217.5,11880,-30,6930,7410,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4349,"Radiocarbon, reservoir correction",7790,1256,11880,-30,7570,8010,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4350,"Radiocarbon, reservoir correction",9680,1296,11880,-30,9440,9920,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4351,"Radiocarbon, average of two or more dates",10470,1341.5,11880,-30,10270,10670,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4351,"Radiocarbon, average of two or more dates",10470,1341.5,11880,-30,10270,10670,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333
+1663,1611,"Loon Pond",4352,"Radiocarbon, reservoir correction",11520,1385,11880,-30,11290,11750,"NAPD 1","Date of Tsuga decline adjusted by -500 years and date of Picea decline adjusted by -1000 years. Dates between Tsuga and Picea declines adjusted proportionally.",TRUE,110,-68.2,45.03333

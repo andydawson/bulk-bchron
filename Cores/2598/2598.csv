@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2598,2512,"Stages Pond",6793,"Core top",-38,0,3740,60,-38,-28,5,0
-2598,2512,"Stages Pond",6795,"Radiocarbon, reservoir correction",1660,395,3740,60,1520,1800,140,1
-2598,2512,"Stages Pond",6796,"Radiocarbon, reservoir correction",3570,960,3740,60,3310,3830,260,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2598,2512,"Stages Pond",6793,"Core top",-38,0,3740,60,-38,-28,"NAPD 1","Chron uses top, ambrosia rise, and two adjusted by -500 yrs based on C14 dates at Ambrosia rise.",TRUE,212,-82.9375,39.66806
+2598,2512,"Stages Pond",6794,"Biostratigraphic, pollen",200,70,3740,60,175,225,"NAPD 1","Chron uses top, ambrosia rise, and two adjusted by -500 yrs based on C14 dates at Ambrosia rise.",TRUE,212,-82.9375,39.66806
+2598,2512,"Stages Pond",6795,"Radiocarbon, reservoir correction",1660,395,3740,60,1520,1800,"NAPD 1","Chron uses top, ambrosia rise, and two adjusted by -500 yrs based on C14 dates at Ambrosia rise.",TRUE,212,-82.9375,39.66806
+2598,2512,"Stages Pond",6796,"Radiocarbon, reservoir correction",3570,960,3740,60,3310,3830,"NAPD 1","Chron uses top, ambrosia rise, and two adjusted by -500 yrs based on C14 dates at Ambrosia rise.",TRUE,212,-82.9375,39.66806

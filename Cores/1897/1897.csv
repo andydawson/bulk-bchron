@@ -1,7 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1897,1833,"Pilot Mound Site",5383,"Core top",0,0,13500,0,-50,50,50,0
-1897,1833,"Pilot Mound Site",5384,"Radiocarbon",2500,37.5,13500,0,2430,2570,70,1
-1897,1833,"Pilot Mound Site",5385,"Radiocarbon",3250,67.5,13500,0,3190,3310,60,1
-1897,1833,"Pilot Mound Site",5386,"Radiocarbon",4960,107.5,13500,0,4870,5050,90,1
-1897,1833,"Pilot Mound Site",5387,"Radiocarbon",9730,167.5,13500,0,9600,9860,130,1
-1897,1833,"Pilot Mound Site",5389,"Other dating methods",13500,266,13500,0,13000,14000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1897,1833,"Pilot Mound Site",5383,"Core top",0,0,13500,0,-50,50,"COHMAP chron 5","4 C-14 dates with 9.3k date deleted and 11.5 k 13.5 k dates inserted for beginning of spruce decline and base of core (from glacial retreat date). Age bounds for application of the model: top = 0; bottom = 13500.",TRUE,352,-93.9,42.16
+1897,1833,"Pilot Mound Site",5384,"Radiocarbon",2500,37.5,13500,0,2430,2570,"COHMAP chron 5","4 C-14 dates with 9.3k date deleted and 11.5 k 13.5 k dates inserted for beginning of spruce decline and base of core (from glacial retreat date). Age bounds for application of the model: top = 0; bottom = 13500.",TRUE,352,-93.9,42.16
+1897,1833,"Pilot Mound Site",5385,"Radiocarbon",3250,67.5,13500,0,3190,3310,"COHMAP chron 5","4 C-14 dates with 9.3k date deleted and 11.5 k 13.5 k dates inserted for beginning of spruce decline and base of core (from glacial retreat date). Age bounds for application of the model: top = 0; bottom = 13500.",TRUE,352,-93.9,42.16
+1897,1833,"Pilot Mound Site",5386,"Radiocarbon",4960,107.5,13500,0,4870,5050,"COHMAP chron 5","4 C-14 dates with 9.3k date deleted and 11.5 k 13.5 k dates inserted for beginning of spruce decline and base of core (from glacial retreat date). Age bounds for application of the model: top = 0; bottom = 13500.",TRUE,352,-93.9,42.16
+1897,1833,"Pilot Mound Site",5387,"Radiocarbon",9730,167.5,13500,0,9600,9860,"COHMAP chron 5","4 C-14 dates with 9.3k date deleted and 11.5 k 13.5 k dates inserted for beginning of spruce decline and base of core (from glacial retreat date). Age bounds for application of the model: top = 0; bottom = 13500.",TRUE,352,-93.9,42.16
+1897,1833,"Pilot Mound Site",5388,"Biostratigraphic, pollen",11500,225,13500,0,11000,12000,"COHMAP chron 5","4 C-14 dates with 9.3k date deleted and 11.5 k 13.5 k dates inserted for beginning of spruce decline and base of core (from glacial retreat date). Age bounds for application of the model: top = 0; bottom = 13500.",TRUE,352,-93.9,42.16
+1897,1833,"Pilot Mound Site",5389,"Other dating methods",13500,266,13500,0,13000,14000,"COHMAP chron 5","4 C-14 dates with 9.3k date deleted and 11.5 k 13.5 k dates inserted for beginning of spruce decline and base of core (from glacial retreat date). Age bounds for application of the model: top = 0; bottom = 13500.",TRUE,352,-93.9,42.16

@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-17292,527,"Cycloid Lake",37052,"Core top",0,0,8500,0,-50,50,50,0
-17292,527,"Cycloid Lake",37053,"Radiocarbon",6000,259.5,8500,0,5830,6170,170,1
-17292,527,"Cycloid Lake",37054,"Radiocarbon",8520,325.5,8500,0,8350,8690,170,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+17292,527,"Cycloid Lake",37052,"Core top",0,0,8500,0,-50,50,"COHMAP chron 1","2 C-14 dates, no sett. horiz., Mott 1973. GSC 72-49",TRUE,369,-105.26667,55.26667
+17292,527,"Cycloid Lake",37053,"Radiocarbon",6000,259.5,8500,0,5830,6170,"COHMAP chron 1","2 C-14 dates, no sett. horiz., Mott 1973. GSC 72-49",TRUE,369,-105.26667,55.26667
+17292,527,"Cycloid Lake",37054,"Radiocarbon",8520,325.5,8500,0,8350,8690,"COHMAP chron 1","2 C-14 dates, no sett. horiz., Mott 1973. GSC 72-49",TRUE,369,-105.26667,55.26667

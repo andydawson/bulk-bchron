@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2342,2262,"Lac Manitou",6354,"Core top",0,0,10100,60,0,0,0,0
-2342,2262,"Lac Manitou",6355,"Radiocarbon",3330,292.5,10100,60,3260,3400,70,1
-2342,2262,"Lac Manitou",6356,"Radiocarbon",9330,765,10100,60,9005,9655,325,1
-2342,2262,"Lac Manitou",6357,"Radiocarbon",10170,825,10100,60,9740,10600,430,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2342,2262,"Lac Manitou",6354,"Core top",0,0,10100,60,0,0,"NAPD 1",NA,TRUE,454,-74.46694,46.05778
+2342,2262,"Lac Manitou",6355,"Radiocarbon",3330,292.5,10100,60,3260,3400,"NAPD 1",NA,TRUE,454,-74.46694,46.05778
+2342,2262,"Lac Manitou",6356,"Radiocarbon",9330,765,10100,60,9005,9655,"NAPD 1",NA,TRUE,454,-74.46694,46.05778
+2342,2262,"Lac Manitou",6357,"Radiocarbon",10170,825,10100,60,9740,10600,"NAPD 1",NA,TRUE,454,-74.46694,46.05778

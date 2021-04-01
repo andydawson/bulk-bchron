@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-7,7,"Three Pines Bog",1,"Core top",-30,0,6490,-30,-35,0,17.5,0
-7,7,"Three Pines Bog",3,"Radiocarbon",3540,187.5,6490,-30,3400,3680,140,1
-7,7,"Three Pines Bog",4,"Radiocarbon",6400,389,6490,-30,6240,6560,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+7,7,"Three Pines Bog",1,"Core top",-30,0,6490,-30,-35,0,"NAPD 1","Chron uses surface date (-30 BP), Ambrosia-rise (110 BP), and 2 radiocarbon dates.",TRUE,294,-80.11667,47
+7,7,"Three Pines Bog",2,"Biostratigraphic, pollen",110,35,6490,-30,90,130,"NAPD 1","Chron uses surface date (-30 BP), Ambrosia-rise (110 BP), and 2 radiocarbon dates.",TRUE,294,-80.11667,47
+7,7,"Three Pines Bog",3,"Radiocarbon",3540,187.5,6490,-30,3400,3680,"NAPD 1","Chron uses surface date (-30 BP), Ambrosia-rise (110 BP), and 2 radiocarbon dates.",TRUE,294,-80.11667,47
+7,7,"Three Pines Bog",4,"Radiocarbon",6400,389,6490,-30,6240,6560,"NAPD 1","Chron uses surface date (-30 BP), Ambrosia-rise (110 BP), and 2 radiocarbon dates.",TRUE,294,-80.11667,47

@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-497,485,"Colo Marsh",1351,"Core top",0,0,13500,0,-50,50,50,0
-497,485,"Colo Marsh",1352,"Radiocarbon",4490,97.5,13500,0,4410,4570,80,1
-497,485,"Colo Marsh",1353,"Radiocarbon",6190,152.5,13500,0,6100,6280,90,1
-497,485,"Colo Marsh",1354,"Radiocarbon",8300,197.5,13500,0,8200,8400,100,1
-497,485,"Colo Marsh",1355,"Radiocarbon",9420,204.5,13500,0,9270,9570,150,1
-497,485,"Colo Marsh",1356,"Radiocarbon",11570,247.5,13500,0,11430,11710,140,1
-497,485,"Colo Marsh",1357,"Other dating methods",13500,313,13500,0,13000,14000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+497,485,"Colo Marsh",1351,"Core top",0,0,13500,0,-50,50,"NAPD 1","5 C-14 dates plus 13.5k date for glacial retreat. See p.44 in Kim (1986). Age bounds for application of the model: top = 0; bottom = 13500. Similar to COHMAP Chron #2 (perferred).",TRUE,329,-93.27,42.02
+497,485,"Colo Marsh",1352,"Radiocarbon",4490,97.5,13500,0,4410,4570,"NAPD 1","5 C-14 dates plus 13.5k date for glacial retreat. See p.44 in Kim (1986). Age bounds for application of the model: top = 0; bottom = 13500. Similar to COHMAP Chron #2 (perferred).",TRUE,329,-93.27,42.02
+497,485,"Colo Marsh",1353,"Radiocarbon",6190,152.5,13500,0,6100,6280,"NAPD 1","5 C-14 dates plus 13.5k date for glacial retreat. See p.44 in Kim (1986). Age bounds for application of the model: top = 0; bottom = 13500. Similar to COHMAP Chron #2 (perferred).",TRUE,329,-93.27,42.02
+497,485,"Colo Marsh",1354,"Radiocarbon",8300,197.5,13500,0,8200,8400,"NAPD 1","5 C-14 dates plus 13.5k date for glacial retreat. See p.44 in Kim (1986). Age bounds for application of the model: top = 0; bottom = 13500. Similar to COHMAP Chron #2 (perferred).",TRUE,329,-93.27,42.02
+497,485,"Colo Marsh",1355,"Radiocarbon",9420,204.5,13500,0,9270,9570,"NAPD 1","5 C-14 dates plus 13.5k date for glacial retreat. See p.44 in Kim (1986). Age bounds for application of the model: top = 0; bottom = 13500. Similar to COHMAP Chron #2 (perferred).",TRUE,329,-93.27,42.02
+497,485,"Colo Marsh",1356,"Radiocarbon",11570,247.5,13500,0,11430,11710,"NAPD 1","5 C-14 dates plus 13.5k date for glacial retreat. See p.44 in Kim (1986). Age bounds for application of the model: top = 0; bottom = 13500. Similar to COHMAP Chron #2 (perferred).",TRUE,329,-93.27,42.02
+497,485,"Colo Marsh",1357,"Other dating methods",13500,313,13500,0,13000,14000,"NAPD 1","5 C-14 dates plus 13.5k date for glacial retreat. See p.44 in Kim (1986). Age bounds for application of the model: top = 0; bottom = 13500. Similar to COHMAP Chron #2 (perferred).",TRUE,329,-93.27,42.02

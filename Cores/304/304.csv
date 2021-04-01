@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-304,298,"Boriack Bog",721,"Core top",0,5,16210,0,-50,50,50,0
-304,298,"Boriack Bog",722,"Radiocarbon",3700,45,16210,0,3520,3880,180,1
-304,298,"Boriack Bog",723,"Radiocarbon",9580,245,16210,0,9260,9900,320,1
-304,298,"Boriack Bog",724,"Radiocarbon",13810,445,16210,0,13390,14230,420,1
-304,298,"Boriack Bog",725,"Radiocarbon",15460,513.5,16210,0,14960,15960,500,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+304,298,"Boriack Bog",721,"Core top",0,5,16210,0,-50,50,"COHMAP chron 1","4 C-14 dates. Core A. COHMAP age bounds for application of the model: top = 0; bottom = 16000.",TRUE,143,-97.12611,30.36
+304,298,"Boriack Bog",722,"Radiocarbon",3700,45,16210,0,3520,3880,"COHMAP chron 1","4 C-14 dates. Core A. COHMAP age bounds for application of the model: top = 0; bottom = 16000.",TRUE,143,-97.12611,30.36
+304,298,"Boriack Bog",723,"Radiocarbon",9580,245,16210,0,9260,9900,"COHMAP chron 1","4 C-14 dates. Core A. COHMAP age bounds for application of the model: top = 0; bottom = 16000.",TRUE,143,-97.12611,30.36
+304,298,"Boriack Bog",724,"Radiocarbon",13810,445,16210,0,13390,14230,"COHMAP chron 1","4 C-14 dates. Core A. COHMAP age bounds for application of the model: top = 0; bottom = 16000.",TRUE,143,-97.12611,30.36
+304,298,"Boriack Bog",725,"Radiocarbon",15460,513.5,16210,0,14960,15960,"COHMAP chron 1","4 C-14 dates. Core A. COHMAP age bounds for application of the model: top = 0; bottom = 16000.",TRUE,143,-97.12611,30.36

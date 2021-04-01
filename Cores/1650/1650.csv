@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1650,1599,"Lake Hope Simpson",4265,"Core top",0,0,10500,200,-50,50,50,0
-1650,1599,"Lake Hope Simpson",4266,"Radiocarbon",3110,30,10500,200,3040,3180,70,1
-1650,1599,"Lake Hope Simpson",4267,"Radiocarbon",4820,65,10500,200,4740,4900,80,1
-1650,1599,"Lake Hope Simpson",4268,"Radiocarbon",7040,115,10500,200,6960,7120,80,1
-1650,1599,"Lake Hope Simpson",4269,"Radiocarbon",8680,150,10500,200,8530,8830,150,1
-1650,1599,"Lake Hope Simpson",4270,"Radiocarbon",9000,175,10500,200,8870,9130,130,1
-1650,1599,"Lake Hope Simpson",4271,"Radiocarbon",10400,198.5,10500,200,10260,10540,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1650,1599,"Lake Hope Simpson",4265,"Core top",0,0,10500,200,-50,50,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 200; bottom = 10500.",TRUE,295,-56.43333,52.45
+1650,1599,"Lake Hope Simpson",4266,"Radiocarbon",3110,30,10500,200,3040,3180,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 200; bottom = 10500.",TRUE,295,-56.43333,52.45
+1650,1599,"Lake Hope Simpson",4267,"Radiocarbon",4820,65,10500,200,4740,4900,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 200; bottom = 10500.",TRUE,295,-56.43333,52.45
+1650,1599,"Lake Hope Simpson",4268,"Radiocarbon",7040,115,10500,200,6960,7120,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 200; bottom = 10500.",TRUE,295,-56.43333,52.45
+1650,1599,"Lake Hope Simpson",4269,"Radiocarbon",8680,150,10500,200,8530,8830,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 200; bottom = 10500.",TRUE,295,-56.43333,52.45
+1650,1599,"Lake Hope Simpson",4270,"Radiocarbon",9000,175,10500,200,8870,9130,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 200; bottom = 10500.",TRUE,295,-56.43333,52.45
+1650,1599,"Lake Hope Simpson",4271,"Radiocarbon",10400,198.5,10500,200,10260,10540,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 200; bottom = 10500.",TRUE,295,-56.43333,52.45

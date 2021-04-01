@@ -1,2 +1,2 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3614,2265,"Sierra Bacha 1",8343,"Radiocarbon",9670,9670,9680,9660,9330,10010,340,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3614,2265,"Sierra Bacha 1",8343,"Radiocarbon",9670,9670,9680,9660,9330,10010,"Anderson 1995",NA,TRUE,220,-112.57639,29.77083

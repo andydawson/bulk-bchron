@@ -1,3 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-315,308,"Brown Lake",788,"Core top",-29,600,11640,8160,-29,-19,5,0
-315,308,"Brown Lake",791,"Radiocarbon",16680,1370,11640,8160,14200,19160,2480,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+315,308,"Brown Lake",788,"Core top",-29,600,11640,8160,-29,-19,"NAPD 1","Chron uses 1 C14 date, top and two pollen stratigraphic markers (coefs:-116436, 366.507, -0.358315, 0.00011804). C14 date SI-1362 considered to old and was not used.",TRUE,295,-82.0625,40.68056
+315,308,"Brown Lake",789,"Biostratigraphic, pollen",9000,875,11640,8160,8500,9500,"NAPD 1","Chron uses 1 C14 date, top and two pollen stratigraphic markers (coefs:-116436, 366.507, -0.358315, 0.00011804). C14 date SI-1362 considered to old and was not used.",TRUE,295,-82.0625,40.68056
+315,308,"Brown Lake",790,"Biostratigraphic, pollen",10000,1050,11640,8160,9500,10500,"NAPD 1","Chron uses 1 C14 date, top and two pollen stratigraphic markers (coefs:-116436, 366.507, -0.358315, 0.00011804). C14 date SI-1362 considered to old and was not used.",TRUE,295,-82.0625,40.68056
+315,308,"Brown Lake",791,"Radiocarbon",16680,1370,11640,8160,14200,19160,"NAPD 1","Chron uses 1 C14 date, top and two pollen stratigraphic markers (coefs:-116436, 366.507, -0.358315, 0.00011804). C14 date SI-1362 considered to old and was not used.",TRUE,295,-82.0625,40.68056

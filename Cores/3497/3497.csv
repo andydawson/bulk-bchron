@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3497,1741,"Nichols Brook Site",8156,"Radiocarbon",9050,100,12640,9080,8750,9350,300,1
-3497,1741,"Nichols Brook Site",8157,"Radiocarbon, average of two or more dates",9570,135,12640,9080,9230,9910,340,1
-3497,1741,"Nichols Brook Site",8157,"Radiocarbon, average of two or more dates",9570,135,12640,9080,9230,9910,340,1
-3497,1741,"Nichols Brook Site",8158,"Radiocarbon",10850,160,12640,9080,10370,11330,480,1
-3497,1741,"Nichols Brook Site",8159,"Radiocarbon",11330,170,12640,9080,10790,11870,540,1
-3497,1741,"Nichols Brook Site",8160,"Radiocarbon",11720,200,12640,9080,10940,12500,780,1
-3497,1741,"Nichols Brook Site",8161,"Radiocarbon",12320,285,12640,9080,11840,12800,480,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3497,1741,"Nichols Brook Site",8156,"Radiocarbon",9050,100,12640,9080,8750,9350,"NAPD 1","Chron uses 7 C14 dates. The two dates at 135 cm are averaged (9570±170, Long and Rippeteau, 1974). The moss date (14640±580) is rejected as too old (see Fritz et al. 1987).",TRUE,438,-78.47799,42.54357
+3497,1741,"Nichols Brook Site",8157,"Radiocarbon, average of two or more dates",9570,135,12640,9080,9230,9910,"NAPD 1","Chron uses 7 C14 dates. The two dates at 135 cm are averaged (9570±170, Long and Rippeteau, 1974). The moss date (14640±580) is rejected as too old (see Fritz et al. 1987).",TRUE,438,-78.47799,42.54357
+3497,1741,"Nichols Brook Site",8157,"Radiocarbon, average of two or more dates",9570,135,12640,9080,9230,9910,"NAPD 1","Chron uses 7 C14 dates. The two dates at 135 cm are averaged (9570±170, Long and Rippeteau, 1974). The moss date (14640±580) is rejected as too old (see Fritz et al. 1987).",TRUE,438,-78.47799,42.54357
+3497,1741,"Nichols Brook Site",8158,"Radiocarbon",10850,160,12640,9080,10370,11330,"NAPD 1","Chron uses 7 C14 dates. The two dates at 135 cm are averaged (9570±170, Long and Rippeteau, 1974). The moss date (14640±580) is rejected as too old (see Fritz et al. 1987).",TRUE,438,-78.47799,42.54357
+3497,1741,"Nichols Brook Site",8159,"Radiocarbon",11330,170,12640,9080,10790,11870,"NAPD 1","Chron uses 7 C14 dates. The two dates at 135 cm are averaged (9570±170, Long and Rippeteau, 1974). The moss date (14640±580) is rejected as too old (see Fritz et al. 1987).",TRUE,438,-78.47799,42.54357
+3497,1741,"Nichols Brook Site",8160,"Radiocarbon",11720,200,12640,9080,10940,12500,"NAPD 1","Chron uses 7 C14 dates. The two dates at 135 cm are averaged (9570±170, Long and Rippeteau, 1974). The moss date (14640±580) is rejected as too old (see Fritz et al. 1987).",TRUE,438,-78.47799,42.54357
+3497,1741,"Nichols Brook Site",8161,"Radiocarbon",12320,285,12640,9080,11840,12800,"NAPD 1","Chron uses 7 C14 dates. The two dates at 135 cm are averaged (9570±170, Long and Rippeteau, 1974). The moss date (14640±580) is rejected as too old (see Fritz et al. 1987).",TRUE,438,-78.47799,42.54357

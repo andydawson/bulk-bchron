@@ -1,7 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-852,826,"Fresh Pond",2386,"Core top",-38,0,13020,-40,-38,0,19,0
-852,826,"Fresh Pond",2388,"Radiocarbon",2970,200,13020,-40,2810,3130,160,1
-852,826,"Fresh Pond",2389,"Radiocarbon",6270,268,13020,-40,6110,6430,160,1
-852,826,"Fresh Pond",2390,"Radiocarbon",8600,300,13020,-40,8360,8840,240,1
-852,826,"Fresh Pond",2391,"Radiocarbon",9570,367,13020,-40,9370,9770,200,1
-852,826,"Fresh Pond",2392,"Radiocarbon",12400,408,13020,-40,12180,12620,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+852,826,"Fresh Pond",2386,"Core top",-38,0,13020,-40,-38,0,"NAPD 1","Chron uses 5 radiocarbon dates, sediment surface (-38 BP), and European settlement horizon (Rumex, Poaceae, Ambrosia rise) of 300 BP at 60 cm.",TRUE,28,-71.575,41.15833
+852,826,"Fresh Pond",2387,"Biostratigraphic, pollen",300,60,13020,-40,250,350,"NAPD 1","Chron uses 5 radiocarbon dates, sediment surface (-38 BP), and European settlement horizon (Rumex, Poaceae, Ambrosia rise) of 300 BP at 60 cm.",TRUE,28,-71.575,41.15833
+852,826,"Fresh Pond",2388,"Radiocarbon",2970,200,13020,-40,2810,3130,"NAPD 1","Chron uses 5 radiocarbon dates, sediment surface (-38 BP), and European settlement horizon (Rumex, Poaceae, Ambrosia rise) of 300 BP at 60 cm.",TRUE,28,-71.575,41.15833
+852,826,"Fresh Pond",2389,"Radiocarbon",6270,268,13020,-40,6110,6430,"NAPD 1","Chron uses 5 radiocarbon dates, sediment surface (-38 BP), and European settlement horizon (Rumex, Poaceae, Ambrosia rise) of 300 BP at 60 cm.",TRUE,28,-71.575,41.15833
+852,826,"Fresh Pond",2390,"Radiocarbon",8600,300,13020,-40,8360,8840,"NAPD 1","Chron uses 5 radiocarbon dates, sediment surface (-38 BP), and European settlement horizon (Rumex, Poaceae, Ambrosia rise) of 300 BP at 60 cm.",TRUE,28,-71.575,41.15833
+852,826,"Fresh Pond",2391,"Radiocarbon",9570,367,13020,-40,9370,9770,"NAPD 1","Chron uses 5 radiocarbon dates, sediment surface (-38 BP), and European settlement horizon (Rumex, Poaceae, Ambrosia rise) of 300 BP at 60 cm.",TRUE,28,-71.575,41.15833
+852,826,"Fresh Pond",2392,"Radiocarbon",12400,408,13020,-40,12180,12620,"NAPD 1","Chron uses 5 radiocarbon dates, sediment surface (-38 BP), and European settlement horizon (Rumex, Poaceae, Ambrosia rise) of 300 BP at 60 cm.",TRUE,28,-71.575,41.15833

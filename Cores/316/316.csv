@@ -1,9 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-316,309,"Browns Pond",797,"Core top",0,0,17350,0,-30,30,30,0
-316,309,"Browns Pond",798,"Radiocarbon",7730,127.5,17350,0,7550,7910,180,1
-316,309,"Browns Pond",799,"Radiocarbon, average of two or more dates",12925,221.25,17350,0,12735,13115,190,1
-316,309,"Browns Pond",799,"Radiocarbon, average of two or more dates",12925,221.25,17350,0,12735,13115,190,1
-316,309,"Browns Pond",800,"Radiocarbon",13010,302.5,17350,0,12830,13190,180,1
-316,309,"Browns Pond",801,"Radiocarbon, average of two or more dates",14305,341.5,17350,0,14115,14495,190,1
-316,309,"Browns Pond",801,"Radiocarbon, average of two or more dates",14305,341.5,17350,0,14115,14495,190,1
-316,309,"Browns Pond",802,"Radiocarbon",17130,400.5,17350,0,16770,17490,360,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+316,309,"Browns Pond",797,"Core top",0,0,17350,0,-30,30,"NAPD 1","Same as Chron 1, but also uses 13010±95 AMS date.",TRUE,620,-79.61639,38.15472
+316,309,"Browns Pond",798,"Radiocarbon",7730,127.5,17350,0,7550,7910,"NAPD 1","Same as Chron 1, but also uses 13010±95 AMS date.",TRUE,620,-79.61639,38.15472
+316,309,"Browns Pond",799,"Radiocarbon, average of two or more dates",12925,221.25,17350,0,12735,13115,"NAPD 1","Same as Chron 1, but also uses 13010±95 AMS date.",TRUE,620,-79.61639,38.15472
+316,309,"Browns Pond",799,"Radiocarbon, average of two or more dates",12925,221.25,17350,0,12735,13115,"NAPD 1","Same as Chron 1, but also uses 13010±95 AMS date.",TRUE,620,-79.61639,38.15472
+316,309,"Browns Pond",800,"Radiocarbon",13010,302.5,17350,0,12830,13190,"NAPD 1","Same as Chron 1, but also uses 13010±95 AMS date.",TRUE,620,-79.61639,38.15472
+316,309,"Browns Pond",801,"Radiocarbon, average of two or more dates",14305,341.5,17350,0,14115,14495,"NAPD 1","Same as Chron 1, but also uses 13010±95 AMS date.",TRUE,620,-79.61639,38.15472
+316,309,"Browns Pond",801,"Radiocarbon, average of two or more dates",14305,341.5,17350,0,14115,14495,"NAPD 1","Same as Chron 1, but also uses 13010±95 AMS date.",TRUE,620,-79.61639,38.15472
+316,309,"Browns Pond",802,"Radiocarbon",17130,400.5,17350,0,16770,17490,"NAPD 1","Same as Chron 1, but also uses 13010±95 AMS date.",TRUE,620,-79.61639,38.15472

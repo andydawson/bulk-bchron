@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-219,217,"Lac des Atocas",234,"Core top",0,0,10250,0,0,0,0,0
-219,217,"Lac des Atocas",235,"Radiocarbon",3275,295,10250,0,3180,3370,95,1
-219,217,"Lac des Atocas",236,"Radiocarbon",4790,495,10250,0,4695,4885,95,1
-219,217,"Lac des Atocas",237,"Radiocarbon",7180,695,10250,0,7060,7300,120,1
-219,217,"Lac des Atocas",238,"Radiocarbon",10250,830,10250,0,10100,10400,150,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+219,217,"Lac des Atocas",234,"Core top",0,0,10250,0,0,0,"NAPD 1",NA,TRUE,114,-73.31111,45.54306
+219,217,"Lac des Atocas",235,"Radiocarbon",3275,295,10250,0,3180,3370,"NAPD 1",NA,TRUE,114,-73.31111,45.54306
+219,217,"Lac des Atocas",236,"Radiocarbon",4790,495,10250,0,4695,4885,"NAPD 1",NA,TRUE,114,-73.31111,45.54306
+219,217,"Lac des Atocas",237,"Radiocarbon",7180,695,10250,0,7060,7300,"NAPD 1",NA,TRUE,114,-73.31111,45.54306
+219,217,"Lac des Atocas",238,"Radiocarbon",10250,830,10250,0,10100,10400,"NAPD 1",NA,TRUE,114,-73.31111,45.54306

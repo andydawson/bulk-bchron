@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1807,1749,"Nina Lake",5018,"Core top",0,0,10150,10,-20,20,20,0
-1807,1749,"Nina Lake",5019,"Radiocarbon",3960,225,10150,10,3780,4140,180,1
-1807,1749,"Nina Lake",5020,"Radiocarbon",7380,386,10150,10,7180,7580,200,1
-1807,1749,"Nina Lake",5021,"Radiocarbon",9510,529,10150,10,9310,9710,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1807,1749,"Nina Lake",5018,"Core top",0,0,10150,10,-20,20,"NAPD 1","Chron uses top and three C13 dates.",TRUE,380,-81.5,46.6
+1807,1749,"Nina Lake",5019,"Radiocarbon",3960,225,10150,10,3780,4140,"NAPD 1","Chron uses top and three C13 dates.",TRUE,380,-81.5,46.6
+1807,1749,"Nina Lake",5020,"Radiocarbon",7380,386,10150,10,7180,7580,"NAPD 1","Chron uses top and three C13 dates.",TRUE,380,-81.5,46.6
+1807,1749,"Nina Lake",5021,"Radiocarbon",9510,529,10150,10,9310,9710,"NAPD 1","Chron uses top and three C13 dates.",TRUE,380,-81.5,46.6

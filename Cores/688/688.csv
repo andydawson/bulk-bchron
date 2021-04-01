@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-688,669,"Diana 375",1906,"Core top",0,0,6820,0,0,0,0,0
-688,669,"Diana 375",1907,"Radiocarbon",3730,40,6820,0,3585,3875,145,1
-688,669,"Diana 375",1908,"Radiocarbon",6010,90,6820,0,5835,6185,175,1
-688,669,"Diana 375",1909,"Radiocarbon",6820,140,6820,0,6665,6975,155,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+688,669,"Diana 375",1906,"Core top",0,0,6820,0,0,0,"NAPD 1",NA,TRUE,114,-69.95833,60.9875
+688,669,"Diana 375",1907,"Radiocarbon",3730,40,6820,0,3585,3875,"NAPD 1",NA,TRUE,114,-69.95833,60.9875
+688,669,"Diana 375",1908,"Radiocarbon",6010,90,6820,0,5835,6185,"NAPD 1",NA,TRUE,114,-69.95833,60.9875
+688,669,"Diana 375",1909,"Radiocarbon",6820,140,6820,0,6665,6975,"NAPD 1",NA,TRUE,114,-69.95833,60.9875

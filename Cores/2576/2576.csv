@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2576,2492,"Slough Creek Pond",6679,"Core top",0,0,11470,0,-30,30,30,0
-2576,2492,"Slough Creek Pond",6680,"Radiocarbon",1840,90,11470,0,1700,1980,140,1
-2576,2492,"Slough Creek Pond",6681,"Radiocarbon",4550,310,11470,0,4390,4710,160,1
-2576,2492,"Slough Creek Pond",6682,"Tephra",6850,361,11470,0,6700,7000,150,0
-2576,2492,"Slough Creek Pond",6683,"Radiocarbon",9685,460,11470,0,9485,9885,200,1
-2576,2492,"Slough Creek Pond",6684,"Radiocarbon",11725,550,11470,0,11445,12005,280,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2576,2492,"Slough Creek Pond",6679,"Core top",0,0,11470,0,-30,30,"NAPD 1","Chron uses surface (0 BP), 4 radiocarbon dates, and the Mazama ash (6850 BP).",TRUE,1884,-110.35,44.93333
+2576,2492,"Slough Creek Pond",6680,"Radiocarbon",1840,90,11470,0,1700,1980,"NAPD 1","Chron uses surface (0 BP), 4 radiocarbon dates, and the Mazama ash (6850 BP).",TRUE,1884,-110.35,44.93333
+2576,2492,"Slough Creek Pond",6681,"Radiocarbon",4550,310,11470,0,4390,4710,"NAPD 1","Chron uses surface (0 BP), 4 radiocarbon dates, and the Mazama ash (6850 BP).",TRUE,1884,-110.35,44.93333
+2576,2492,"Slough Creek Pond",6682,"Tephra",6850,361,11470,0,6700,7000,"NAPD 1","Chron uses surface (0 BP), 4 radiocarbon dates, and the Mazama ash (6850 BP).",TRUE,1884,-110.35,44.93333
+2576,2492,"Slough Creek Pond",6683,"Radiocarbon",9685,460,11470,0,9485,9885,"NAPD 1","Chron uses surface (0 BP), 4 radiocarbon dates, and the Mazama ash (6850 BP).",TRUE,1884,-110.35,44.93333
+2576,2492,"Slough Creek Pond",6684,"Radiocarbon",11725,550,11470,0,11445,12005,"NAPD 1","Chron uses surface (0 BP), 4 radiocarbon dates, and the Mazama ash (6850 BP).",TRUE,1884,-110.35,44.93333

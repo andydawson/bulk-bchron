@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1432,1396,"Kaiyak Lake",3385,"Core top",0,0,39390,0,-29,500,264.5,0
-1432,1396,"Kaiyak Lake",3386,"Radiocarbon",3140,15,39390,0,3070,3210,70,1
-1432,1396,"Kaiyak Lake",3387,"Radiocarbon",7960,70,39390,0,7870,8050,90,1
-1432,1396,"Kaiyak Lake",3388,"Radiocarbon",8940,103,39390,0,8810,9070,130,1
-1432,1396,"Kaiyak Lake",3389,"Radiocarbon",14300,140,39390,0,14160,14440,140,1
-1432,1396,"Kaiyak Lake",3390,"Radiocarbon",21690,350,39390,0,21360,22020,330,1
-1432,1396,"Kaiyak Lake",3391,"Radiocarbon",37000,510,39390,0,36000,38000,1000,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1432,1396,"Kaiyak Lake",3385,"Core top",0,0,39390,0,-29,500,"Anderson 1985","Chron follows Anderson (1985). It uses 6 radiocarbon dates plus sediment surface date (0 BP). Basal radiocarbon date assigned age of 37000 (see Anderson 1985).",TRUE,190,-161.41667,68.15
+1432,1396,"Kaiyak Lake",3386,"Radiocarbon",3140,15,39390,0,3070,3210,"Anderson 1985","Chron follows Anderson (1985). It uses 6 radiocarbon dates plus sediment surface date (0 BP). Basal radiocarbon date assigned age of 37000 (see Anderson 1985).",TRUE,190,-161.41667,68.15
+1432,1396,"Kaiyak Lake",3387,"Radiocarbon",7960,70,39390,0,7870,8050,"Anderson 1985","Chron follows Anderson (1985). It uses 6 radiocarbon dates plus sediment surface date (0 BP). Basal radiocarbon date assigned age of 37000 (see Anderson 1985).",TRUE,190,-161.41667,68.15
+1432,1396,"Kaiyak Lake",3388,"Radiocarbon",8940,103,39390,0,8810,9070,"Anderson 1985","Chron follows Anderson (1985). It uses 6 radiocarbon dates plus sediment surface date (0 BP). Basal radiocarbon date assigned age of 37000 (see Anderson 1985).",TRUE,190,-161.41667,68.15
+1432,1396,"Kaiyak Lake",3389,"Radiocarbon",14300,140,39390,0,14160,14440,"Anderson 1985","Chron follows Anderson (1985). It uses 6 radiocarbon dates plus sediment surface date (0 BP). Basal radiocarbon date assigned age of 37000 (see Anderson 1985).",TRUE,190,-161.41667,68.15
+1432,1396,"Kaiyak Lake",3390,"Radiocarbon",21690,350,39390,0,21360,22020,"Anderson 1985","Chron follows Anderson (1985). It uses 6 radiocarbon dates plus sediment surface date (0 BP). Basal radiocarbon date assigned age of 37000 (see Anderson 1985).",TRUE,190,-161.41667,68.15
+1432,1396,"Kaiyak Lake",3391,"Radiocarbon",37000,510,39390,0,36000,38000,"Anderson 1985","Chron follows Anderson (1985). It uses 6 radiocarbon dates plus sediment surface date (0 BP). Basal radiocarbon date assigned age of 37000 (see Anderson 1985).",TRUE,190,-161.41667,68.15

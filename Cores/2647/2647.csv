@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2647,2556,"Toboggan Lake",7074,"Core top",-35,0,9870,-40,-35,0,17.5,0
-2647,2556,"Toboggan Lake",7075,"Radiocarbon",3830,190,9870,-40,3770,3890,60,1
-2647,2556,"Toboggan Lake",7076,"Radiocarbon",5960,290,9870,-40,5900,6020,60,1
-2647,2556,"Toboggan Lake",7077,"Radiocarbon",7850,430,9870,-40,7780,7920,70,1
-2647,2556,"Toboggan Lake",7078,"Radiocarbon",8810,510,9870,-40,8740,8880,70,1
-2647,2556,"Toboggan Lake",7079,"Radiocarbon",10400,585,9870,-40,10330,10470,70,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2647,2556,"Toboggan Lake",7074,"Core top",-35,0,9870,-40,-35,0,"MacDonald 1989","A separate line fit to sections above and below the Mazama ash. Section 1: dates -35, 3830, 5960; 0-330 cm; y = -35 + 20.5732x. Section 2: dates 7850, 8810, 10400; 370-560 cm; y = 682.205 + 16.4022x.",TRUE,1480,-114.60076,-114.59816
+2647,2556,"Toboggan Lake",7075,"Radiocarbon",3830,190,9870,-40,3770,3890,"MacDonald 1989","A separate line fit to sections above and below the Mazama ash. Section 1: dates -35, 3830, 5960; 0-330 cm; y = -35 + 20.5732x. Section 2: dates 7850, 8810, 10400; 370-560 cm; y = 682.205 + 16.4022x.",TRUE,1480,-114.60076,-114.59816
+2647,2556,"Toboggan Lake",7076,"Radiocarbon",5960,290,9870,-40,5900,6020,"MacDonald 1989","A separate line fit to sections above and below the Mazama ash. Section 1: dates -35, 3830, 5960; 0-330 cm; y = -35 + 20.5732x. Section 2: dates 7850, 8810, 10400; 370-560 cm; y = 682.205 + 16.4022x.",TRUE,1480,-114.60076,-114.59816
+2647,2556,"Toboggan Lake",7077,"Radiocarbon",7850,430,9870,-40,7780,7920,"MacDonald 1989","A separate line fit to sections above and below the Mazama ash. Section 1: dates -35, 3830, 5960; 0-330 cm; y = -35 + 20.5732x. Section 2: dates 7850, 8810, 10400; 370-560 cm; y = 682.205 + 16.4022x.",TRUE,1480,-114.60076,-114.59816
+2647,2556,"Toboggan Lake",7078,"Radiocarbon",8810,510,9870,-40,8740,8880,"MacDonald 1989","A separate line fit to sections above and below the Mazama ash. Section 1: dates -35, 3830, 5960; 0-330 cm; y = -35 + 20.5732x. Section 2: dates 7850, 8810, 10400; 370-560 cm; y = 682.205 + 16.4022x.",TRUE,1480,-114.60076,-114.59816
+2647,2556,"Toboggan Lake",7079,"Radiocarbon",10400,585,9870,-40,10330,10470,"MacDonald 1989","A separate line fit to sections above and below the Mazama ash. Section 1: dates -35, 3830, 5960; 0-330 cm; y = -35 + 20.5732x. Section 2: dates 7850, 8810, 10400; 370-560 cm; y = 682.205 + 16.4022x.",TRUE,1480,-114.60076,-114.59816

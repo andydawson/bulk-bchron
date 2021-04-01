@@ -1,2 +1,2 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1815,1757,"Nonconnah Creek [TN-1]",22044,"Radiocarbon",17195,NA,23000,13000,16185,18205,1010,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1815,1757,"Nonconnah Creek [TN-1]",22044,"Radiocarbon",17195,NA,23000,13000,16185,18205,"COHMAP chron 1","3 C-14 dates, only one from the core. No ragweed rise with top pollen count at 2.5cm. 17k date stratigraphically tied to 50cm depth, 20k date is stratigraphically tied to 75cm depth, but 22k date in place in TN-1-A. 13k date an estimate by P. Delcourt. Pi",TRUE,76,-89.91667,35.08333

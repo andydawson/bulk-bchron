@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2619,2529,"Swamp Lake",6893,"Core top",-30,0,15820,-20,-30,-10,10,0
-2619,2529,"Swamp Lake",6894,"Radiocarbon, average of two or more dates",1978,101,15820,-20,1848,2108,130,1
-2619,2529,"Swamp Lake",6894,"Radiocarbon, average of two or more dates",1978,101,15820,-20,1848,2108,130,1
-2619,2529,"Swamp Lake",6895,"Radiocarbon",3920,256,15820,-20,3730,4110,190,1
-2619,2529,"Swamp Lake",6896,"Tephra",7015,429,15820,-20,6925,7105,90,0
-2619,2529,"Swamp Lake",6897,"Radiocarbon",10420,605,15820,-20,10220,10620,200,1
-2619,2529,"Swamp Lake",6898,"Radiocarbon",13690,711,15820,-20,13010,14370,680,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2619,2529,"Swamp Lake",6893,"Core top",-30,0,15820,-20,-30,-10,"NAPD 1","Chron uses top four C14 dates (Beta-30157 and Beta-30618 averaged together) and one tephra date.",TRUE,1554,-119.81667,37.95
+2619,2529,"Swamp Lake",6894,"Radiocarbon, average of two or more dates",1978,101,15820,-20,1848,2108,"NAPD 1","Chron uses top four C14 dates (Beta-30157 and Beta-30618 averaged together) and one tephra date.",TRUE,1554,-119.81667,37.95
+2619,2529,"Swamp Lake",6894,"Radiocarbon, average of two or more dates",1978,101,15820,-20,1848,2108,"NAPD 1","Chron uses top four C14 dates (Beta-30157 and Beta-30618 averaged together) and one tephra date.",TRUE,1554,-119.81667,37.95
+2619,2529,"Swamp Lake",6895,"Radiocarbon",3920,256,15820,-20,3730,4110,"NAPD 1","Chron uses top four C14 dates (Beta-30157 and Beta-30618 averaged together) and one tephra date.",TRUE,1554,-119.81667,37.95
+2619,2529,"Swamp Lake",6896,"Tephra",7015,429,15820,-20,6925,7105,"NAPD 1","Chron uses top four C14 dates (Beta-30157 and Beta-30618 averaged together) and one tephra date.",TRUE,1554,-119.81667,37.95
+2619,2529,"Swamp Lake",6897,"Radiocarbon",10420,605,15820,-20,10220,10620,"NAPD 1","Chron uses top four C14 dates (Beta-30157 and Beta-30618 averaged together) and one tephra date.",TRUE,1554,-119.81667,37.95
+2619,2529,"Swamp Lake",6898,"Radiocarbon",13690,711,15820,-20,13010,14370,"NAPD 1","Chron uses top four C14 dates (Beta-30157 and Beta-30618 averaged together) and one tephra date.",TRUE,1554,-119.81667,37.95

@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3452,1410,"Kellys Hollow",7914,"Core top",-29,0,10740,-30,-29,-9,10,0
-3452,1410,"Kellys Hollow",7915,"Radiocarbon",2920,121.5,10740,-30,2770,3070,150,1
-3452,1410,"Kellys Hollow",7916,"Radiocarbon",6580,419,10740,-30,6400,6760,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3452,1410,"Kellys Hollow",7914,"Core top",-29,0,10740,-30,-29,-9,"NAPD 1","Chron uses top, Ambosia rise, and two C14 dates, and date of Picea decline (10000±500 BP).",TRUE,470,-90.35,45.3
+3452,1410,"Kellys Hollow",7915,"Radiocarbon",2920,121.5,10740,-30,2770,3070,"NAPD 1","Chron uses top, Ambosia rise, and two C14 dates, and date of Picea decline (10000±500 BP).",TRUE,470,-90.35,45.3
+3452,1410,"Kellys Hollow",7916,"Radiocarbon",6580,419,10740,-30,6400,6760,"NAPD 1","Chron uses top, Ambosia rise, and two C14 dates, and date of Picea decline (10000±500 BP).",TRUE,470,-90.35,45.3
+3452,1410,"Kellys Hollow",7917,"Biostratigraphic, pollen",10000,700,10740,-30,9500,10500,"NAPD 1","Chron uses top, Ambosia rise, and two C14 dates, and date of Picea decline (10000±500 BP).",TRUE,470,-90.35,45.3

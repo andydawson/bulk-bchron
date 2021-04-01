@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3056,2957,"Como Lake",7670,"Core top",0,0,12570,0,-35,35,35,0
-3056,2957,"Como Lake",7671,"Radiocarbon",4390,60,12570,0,4230,4550,160,1
-3056,2957,"Como Lake",7672,"Radiocarbon",7720,150,12570,0,7520,7920,200,1
-3056,2957,"Como Lake",7673,"Radiocarbon",8715,205,12570,0,8585,8845,130,1
-3056,2957,"Como Lake",7674,"Radiocarbon",10260,245,12570,0,9800,10720,460,1
-3056,2957,"Como Lake",7675,"Radiocarbon",11730,280,12570,0,11150,12310,580,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3056,2957,"Como Lake",7670,"Core top",0,0,12570,0,-35,35,"NAPD 1","Chron uses surface (0 BP) and 5 radiocarbon dates.",TRUE,3523,-105.51561,-105.51272
+3056,2957,"Como Lake",7671,"Radiocarbon",4390,60,12570,0,4230,4550,"NAPD 1","Chron uses surface (0 BP) and 5 radiocarbon dates.",TRUE,3523,-105.51561,-105.51272
+3056,2957,"Como Lake",7672,"Radiocarbon",7720,150,12570,0,7520,7920,"NAPD 1","Chron uses surface (0 BP) and 5 radiocarbon dates.",TRUE,3523,-105.51561,-105.51272
+3056,2957,"Como Lake",7673,"Radiocarbon",8715,205,12570,0,8585,8845,"NAPD 1","Chron uses surface (0 BP) and 5 radiocarbon dates.",TRUE,3523,-105.51561,-105.51272
+3056,2957,"Como Lake",7674,"Radiocarbon",10260,245,12570,0,9800,10720,"NAPD 1","Chron uses surface (0 BP) and 5 radiocarbon dates.",TRUE,3523,-105.51561,-105.51272
+3056,2957,"Como Lake",7675,"Radiocarbon",11730,280,12570,0,11150,12310,"NAPD 1","Chron uses surface (0 BP) and 5 radiocarbon dates.",TRUE,3523,-105.51561,-105.51272

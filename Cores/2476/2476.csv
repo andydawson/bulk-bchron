@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2476,2392,"Sleet Lake",6673,"Core top",0,0,12410,0,-30,30,30,0
-2476,2392,"Sleet Lake",6674,"Radiocarbon",1970,64,12410,0,1850,2090,120,1
-2476,2392,"Sleet Lake",6675,"Radiocarbon",5270,116.5,12410,0,5110,5430,160,1
-2476,2392,"Sleet Lake",6676,"Radiocarbon",6210,196.5,12410,0,6090,6330,120,1
-2476,2392,"Sleet Lake",6677,"Radiocarbon",10400,306.5,12410,0,10180,10620,220,1
-2476,2392,"Sleet Lake",6678,"Radiocarbon",12500,386.5,12410,0,12280,12720,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2476,2392,"Sleet Lake",6673,"Core top",0,0,12410,0,-30,30,"NAPD 1","Chron uses surface date (0 BP) plus 5 radiocarbon dates.",TRUE,NA,-133.58333,69.28333
+2476,2392,"Sleet Lake",6674,"Radiocarbon",1970,64,12410,0,1850,2090,"NAPD 1","Chron uses surface date (0 BP) plus 5 radiocarbon dates.",TRUE,NA,-133.58333,69.28333
+2476,2392,"Sleet Lake",6675,"Radiocarbon",5270,116.5,12410,0,5110,5430,"NAPD 1","Chron uses surface date (0 BP) plus 5 radiocarbon dates.",TRUE,NA,-133.58333,69.28333
+2476,2392,"Sleet Lake",6676,"Radiocarbon",6210,196.5,12410,0,6090,6330,"NAPD 1","Chron uses surface date (0 BP) plus 5 radiocarbon dates.",TRUE,NA,-133.58333,69.28333
+2476,2392,"Sleet Lake",6677,"Radiocarbon",10400,306.5,12410,0,10180,10620,"NAPD 1","Chron uses surface date (0 BP) plus 5 radiocarbon dates.",TRUE,NA,-133.58333,69.28333
+2476,2392,"Sleet Lake",6678,"Radiocarbon",12500,386.5,12410,0,12280,12720,"NAPD 1","Chron uses surface date (0 BP) plus 5 radiocarbon dates.",TRUE,NA,-133.58333,69.28333

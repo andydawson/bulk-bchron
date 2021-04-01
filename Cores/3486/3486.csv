@@ -1,9 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3486,1669,"McNearney Lake",8092,"Lead-210",-27,0.75,340,-30,-27,-27,0,0
-3486,1669,"McNearney Lake",8093,"Lead-210",-15,1.75,340,-30,-15,-15,0,0
-3486,1669,"McNearney Lake",8094,"Lead-210",7,2.75,340,-30,7,7,0,0
-3486,1669,"McNearney Lake",8095,"Lead-210",36,3.75,340,-30,36,36,0,0
-3486,1669,"McNearney Lake",8096,"Lead-210",54,4.75,340,-30,54,54,0,0
-3486,1669,"McNearney Lake",8097,"Lead-210",66,5.75,340,-30,66,66,0,0
-3486,1669,"McNearney Lake",8098,"Lead-210",76,6.75,340,-30,76,76,0,0
-3486,1669,"McNearney Lake",8099,"Lead-210",88,7.75,340,-30,88,88,0,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3486,1669,"McNearney Lake",8092,"Lead-210",-27,0.75,340,-30,-27,-27,"NAPD 1","Chron uses 8 Pb210 dates from top 8 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3486,1669,"McNearney Lake",8093,"Lead-210",-15,1.75,340,-30,-15,-15,"NAPD 1","Chron uses 8 Pb210 dates from top 8 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3486,1669,"McNearney Lake",8094,"Lead-210",7,2.75,340,-30,7,7,"NAPD 1","Chron uses 8 Pb210 dates from top 8 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3486,1669,"McNearney Lake",8095,"Lead-210",36,3.75,340,-30,36,36,"NAPD 1","Chron uses 8 Pb210 dates from top 8 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3486,1669,"McNearney Lake",8096,"Lead-210",54,4.75,340,-30,54,54,"NAPD 1","Chron uses 8 Pb210 dates from top 8 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3486,1669,"McNearney Lake",8097,"Lead-210",66,5.75,340,-30,66,66,"NAPD 1","Chron uses 8 Pb210 dates from top 8 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3486,1669,"McNearney Lake",8098,"Lead-210",76,6.75,340,-30,76,76,"NAPD 1","Chron uses 8 Pb210 dates from top 8 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3486,1669,"McNearney Lake",8099,"Lead-210",88,7.75,340,-30,88,88,"NAPD 1","Chron uses 8 Pb210 dates from top 8 of 15 samples.",TRUE,264,-84.96469,-84.93924

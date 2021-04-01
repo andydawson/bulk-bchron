@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1780,1723,"Munday Creek",4883,"Core top",-30,0,9940,-30,-30,0,15,0
-1780,1723,"Munday Creek",4884,"Radiocarbon",3500,147.5,9940,-30,3320,3680,180,1
-1780,1723,"Munday Creek",4885,"Radiocarbon",3860,297.5,9940,-30,3660,4060,200,1
-1780,1723,"Munday Creek",4886,"Radiocarbon, average of two or more dates",7646,482.5,9940,-30,7538,7754,108,1
-1780,1723,"Munday Creek",4886,"Radiocarbon, average of two or more dates",7646,482.5,9940,-30,7538,7754,108,1
-1780,1723,"Munday Creek",4887,"Radiocarbon",9000,522.5,9940,-30,8820,9180,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1780,1723,"Munday Creek",4883,"Core top",-30,0,9940,-30,-30,0,"NAPD 1","Chron uses top, 3 radiocarbon dates, and one averaged radiocarbon date. Dates 7630±60 and 7700±110 are statistically the same and were averaged.",TRUE,88,-141.96667,60.03333
+1780,1723,"Munday Creek",4884,"Radiocarbon",3500,147.5,9940,-30,3320,3680,"NAPD 1","Chron uses top, 3 radiocarbon dates, and one averaged radiocarbon date. Dates 7630±60 and 7700±110 are statistically the same and were averaged.",TRUE,88,-141.96667,60.03333
+1780,1723,"Munday Creek",4885,"Radiocarbon",3860,297.5,9940,-30,3660,4060,"NAPD 1","Chron uses top, 3 radiocarbon dates, and one averaged radiocarbon date. Dates 7630±60 and 7700±110 are statistically the same and were averaged.",TRUE,88,-141.96667,60.03333
+1780,1723,"Munday Creek",4886,"Radiocarbon, average of two or more dates",7646,482.5,9940,-30,7538,7754,"NAPD 1","Chron uses top, 3 radiocarbon dates, and one averaged radiocarbon date. Dates 7630±60 and 7700±110 are statistically the same and were averaged.",TRUE,88,-141.96667,60.03333
+1780,1723,"Munday Creek",4886,"Radiocarbon, average of two or more dates",7646,482.5,9940,-30,7538,7754,"NAPD 1","Chron uses top, 3 radiocarbon dates, and one averaged radiocarbon date. Dates 7630±60 and 7700±110 are statistically the same and were averaged.",TRUE,88,-141.96667,60.03333
+1780,1723,"Munday Creek",4887,"Radiocarbon",9000,522.5,9940,-30,8820,9180,"NAPD 1","Chron uses top, 3 radiocarbon dates, and one averaged radiocarbon date. Dates 7630±60 and 7700±110 are statistically the same and were averaged.",TRUE,88,-141.96667,60.03333

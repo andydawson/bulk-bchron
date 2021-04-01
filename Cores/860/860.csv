@@ -1,8 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-860,833,"Gass Lake",2443,"Core top",0,5,12000,0,-30,30,30,0
-860,833,"Gass Lake",2445,"Radiocarbon",840,63,12000,0,715,965,125,1
-860,833,"Gass Lake",2446,"Radiocarbon",3155,315,12000,0,2990,3320,165,1
-860,833,"Gass Lake",2447,"Radiocarbon",4885,521,12000,0,4740,5030,145,1
-860,833,"Gass Lake",2448,"Radiocarbon",6320,549,12000,0,6200,6440,120,1
-860,833,"Gass Lake",2449,"Radiocarbon",9785,614,12000,0,9550,10020,235,1
-860,833,"Gass Lake",2450,"Radiocarbon",11760,675,12000,0,11380,12140,380,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+860,833,"Gass Lake",2443,"Core top",0,5,12000,0,-30,30,"COHMAP chron 1","6 C-14 dates. Ragweed rise at 58 cm. TW set topmost pollen sample at 5cm to 0 b.p. Spruce decline (below 20%) at 10.5k seems okay for central WI. Age bounds for application of the model: top = 0; bottom = 12000.",TRUE,211,-87.73333,44.05
+860,833,"Gass Lake",2444,"Biostratigraphic, pollen",100,58,12000,0,70,130,"COHMAP chron 1","6 C-14 dates. Ragweed rise at 58 cm. TW set topmost pollen sample at 5cm to 0 b.p. Spruce decline (below 20%) at 10.5k seems okay for central WI. Age bounds for application of the model: top = 0; bottom = 12000.",TRUE,211,-87.73333,44.05
+860,833,"Gass Lake",2445,"Radiocarbon",840,63,12000,0,715,965,"COHMAP chron 1","6 C-14 dates. Ragweed rise at 58 cm. TW set topmost pollen sample at 5cm to 0 b.p. Spruce decline (below 20%) at 10.5k seems okay for central WI. Age bounds for application of the model: top = 0; bottom = 12000.",TRUE,211,-87.73333,44.05
+860,833,"Gass Lake",2446,"Radiocarbon",3155,315,12000,0,2990,3320,"COHMAP chron 1","6 C-14 dates. Ragweed rise at 58 cm. TW set topmost pollen sample at 5cm to 0 b.p. Spruce decline (below 20%) at 10.5k seems okay for central WI. Age bounds for application of the model: top = 0; bottom = 12000.",TRUE,211,-87.73333,44.05
+860,833,"Gass Lake",2447,"Radiocarbon",4885,521,12000,0,4740,5030,"COHMAP chron 1","6 C-14 dates. Ragweed rise at 58 cm. TW set topmost pollen sample at 5cm to 0 b.p. Spruce decline (below 20%) at 10.5k seems okay for central WI. Age bounds for application of the model: top = 0; bottom = 12000.",TRUE,211,-87.73333,44.05
+860,833,"Gass Lake",2448,"Radiocarbon",6320,549,12000,0,6200,6440,"COHMAP chron 1","6 C-14 dates. Ragweed rise at 58 cm. TW set topmost pollen sample at 5cm to 0 b.p. Spruce decline (below 20%) at 10.5k seems okay for central WI. Age bounds for application of the model: top = 0; bottom = 12000.",TRUE,211,-87.73333,44.05
+860,833,"Gass Lake",2449,"Radiocarbon",9785,614,12000,0,9550,10020,"COHMAP chron 1","6 C-14 dates. Ragweed rise at 58 cm. TW set topmost pollen sample at 5cm to 0 b.p. Spruce decline (below 20%) at 10.5k seems okay for central WI. Age bounds for application of the model: top = 0; bottom = 12000.",TRUE,211,-87.73333,44.05
+860,833,"Gass Lake",2450,"Radiocarbon",11760,675,12000,0,11380,12140,"COHMAP chron 1","6 C-14 dates. Ragweed rise at 58 cm. TW set topmost pollen sample at 5cm to 0 b.p. Spruce decline (below 20%) at 10.5k seems okay for central WI. Age bounds for application of the model: top = 0; bottom = 12000.",TRUE,211,-87.73333,44.05

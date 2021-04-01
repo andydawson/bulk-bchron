@@ -1,6 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-693,673,"Dinkey Meadow",1924,"Core top",-35,0,4870,-40,-35,-15,10,0
-693,673,"Dinkey Meadow",1926,"Radiocarbon",1980,159,4870,-40,1560,2300,370,1
-693,673,"Dinkey Meadow",1927,"Radiocarbon",2920,183,4870,-40,2740,3100,180,1
-693,673,"Dinkey Meadow",1928,"Radiocarbon",2660,210,4870,-40,2460,2860,200,1
-693,673,"Dinkey Meadow",1929,"Radiocarbon",4850,295,4870,-40,4630,5070,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+693,673,"Dinkey Meadow",1924,"Core top",-35,0,4870,-40,-35,-15,"Davis and Moratto 1988","Least squares fit to samples below 150 cm (coefs: 1980.0, 20.6506). Linear interp. from surface to age at 150 extrapolated from dates below.",TRUE,1683,-119.08333,37
+693,673,"Dinkey Meadow",1925,"Extrapolated",1868,150,4870,-40,1668,2068,"Davis and Moratto 1988","Least squares fit to samples below 150 cm (coefs: 1980.0, 20.6506). Linear interp. from surface to age at 150 extrapolated from dates below.",TRUE,1683,-119.08333,37
+693,673,"Dinkey Meadow",1926,"Radiocarbon",1980,159,4870,-40,1560,2300,"Davis and Moratto 1988","Least squares fit to samples below 150 cm (coefs: 1980.0, 20.6506). Linear interp. from surface to age at 150 extrapolated from dates below.",TRUE,1683,-119.08333,37
+693,673,"Dinkey Meadow",1927,"Radiocarbon",2920,183,4870,-40,2740,3100,"Davis and Moratto 1988","Least squares fit to samples below 150 cm (coefs: 1980.0, 20.6506). Linear interp. from surface to age at 150 extrapolated from dates below.",TRUE,1683,-119.08333,37
+693,673,"Dinkey Meadow",1928,"Radiocarbon",2660,210,4870,-40,2460,2860,"Davis and Moratto 1988","Least squares fit to samples below 150 cm (coefs: 1980.0, 20.6506). Linear interp. from surface to age at 150 extrapolated from dates below.",TRUE,1683,-119.08333,37
+693,673,"Dinkey Meadow",1929,"Radiocarbon",4850,295,4870,-40,4630,5070,"Davis and Moratto 1988","Least squares fit to samples below 150 cm (coefs: 1980.0, 20.6506). Linear interp. from surface to age at 150 extrapolated from dates below.",TRUE,1683,-119.08333,37

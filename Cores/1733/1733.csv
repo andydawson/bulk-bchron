@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1733,1677,"Lac Mélèze",4693,"Core top",-32,0,11830,-30,-32,0,16,0
-1733,1677,"Lac Mélèze",4694,"Radiocarbon",2220,92.5,11830,-30,2130,2310,90,1
-1733,1677,"Lac Mélèze",4695,"Radiocarbon",3360,192.5,11830,-30,3210,3510,150,1
-1733,1677,"Lac Mélèze",4696,"Radiocarbon",4390,262.5,11830,-30,4230,4550,160,1
-1733,1677,"Lac Mélèze",4697,"Radiocarbon",5970,347.5,11830,-30,5810,6130,160,1
-1733,1677,"Lac Mélèze",4698,"Radiocarbon",9240,386.5,11830,-30,9120,9360,120,1
-1733,1677,"Lac Mélèze",4699,"Radiocarbon",11000,436.5,11830,-30,10660,11340,340,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1733,1677,"Lac Mélèze",4693,"Core top",-32,0,11830,-30,-32,0,"NAPD 1",NA,TRUE,650,-126.11667,65.21667
+1733,1677,"Lac Mélèze",4694,"Radiocarbon",2220,92.5,11830,-30,2130,2310,"NAPD 1",NA,TRUE,650,-126.11667,65.21667
+1733,1677,"Lac Mélèze",4695,"Radiocarbon",3360,192.5,11830,-30,3210,3510,"NAPD 1",NA,TRUE,650,-126.11667,65.21667
+1733,1677,"Lac Mélèze",4696,"Radiocarbon",4390,262.5,11830,-30,4230,4550,"NAPD 1",NA,TRUE,650,-126.11667,65.21667
+1733,1677,"Lac Mélèze",4697,"Radiocarbon",5970,347.5,11830,-30,5810,6130,"NAPD 1",NA,TRUE,650,-126.11667,65.21667
+1733,1677,"Lac Mélèze",4698,"Radiocarbon",9240,386.5,11830,-30,9120,9360,"NAPD 1",NA,TRUE,650,-126.11667,65.21667
+1733,1677,"Lac Mélèze",4699,"Radiocarbon",11000,436.5,11830,-30,10660,11340,"NAPD 1",NA,TRUE,650,-126.11667,65.21667

@@ -1,12 +1,13 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2617,2527,"Sutherland Pond",6878,"Core top",0,0,12600,40,0,-20,10,0
-2617,2527,"Sutherland Pond",6880,"Radiocarbon",2020,202.5,12600,40,1960,2100,70,1
-2617,2527,"Sutherland Pond",6881,"Radiocarbon",2640,297.5,12600,40,2540,2740,100,1
-2617,2527,"Sutherland Pond",6882,"Radiocarbon",3980,400,12600,40,3860,4100,120,1
-2617,2527,"Sutherland Pond",6883,"Radiocarbon",4650,500,12600,40,4550,4750,100,1
-2617,2527,"Sutherland Pond",6884,"Radiocarbon",5860,597.5,12600,40,5760,5960,100,1
-2617,2527,"Sutherland Pond",6885,"Radiocarbon",9540,770,12600,40,9420,9660,120,1
-2617,2527,"Sutherland Pond",6886,"Radiocarbon",9630,787.5,12600,40,9490,9770,140,1
-2617,2527,"Sutherland Pond",6887,"Radiocarbon",10120,795,12600,40,10000,10240,120,1
-2617,2527,"Sutherland Pond",6888,"Radiocarbon",11200,812.5,12600,40,11080,11320,120,1
-2617,2527,"Sutherland Pond",6889,"Radiocarbon",12600,832.5,12600,40,11840,13360,760,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2617,2527,"Sutherland Pond",6878,"Core top",0,0,12600,40,0,-20,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6879,"Biostratigraphic, pollen",200,45,12600,40,150,250,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6880,"Radiocarbon",2020,202.5,12600,40,1960,2100,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6881,"Radiocarbon",2640,297.5,12600,40,2540,2740,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6882,"Radiocarbon",3980,400,12600,40,3860,4100,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6883,"Radiocarbon",4650,500,12600,40,4550,4750,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6884,"Radiocarbon",5860,597.5,12600,40,5760,5960,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6885,"Radiocarbon",9540,770,12600,40,9420,9660,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6886,"Radiocarbon",9630,787.5,12600,40,9490,9770,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6887,"Radiocarbon",10120,795,12600,40,10000,10240,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6888,"Radiocarbon",11200,812.5,12600,40,11080,11320,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139
+2617,2527,"Sutherland Pond",6889,"Radiocarbon",12600,832.5,12600,40,11840,13360,"NAPD 1","Chron uses top, Ambrosia rise and 10 AMS dates (CAMS-8391 rejected, see Maenza-Gmelch 1997).",TRUE,380,-74.03778,41.39139

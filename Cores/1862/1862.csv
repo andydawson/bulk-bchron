@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1862,1800,"Pass Lake",5273,"Core top",0,1,10000,0,-30,30,30,0
-1862,1800,"Pass Lake",5274,"Radiocarbon",5070,200,10000,0,4880,5260,190,1
-1862,1800,"Pass Lake",5275,"Radiocarbon, average of two or more dates",7310,215,10000,0,7090,7530,220,1
-1862,1800,"Pass Lake",5275,"Radiocarbon, average of two or more dates",7310,215,10000,0,7090,7530,220,1
-1862,1800,"Pass Lake",5276,"Radiocarbon",9200,245.5,10000,0,9060,9340,140,1
-1862,1800,"Pass Lake",5277,"Deglaciation",10000,430,10000,0,9750,10250,250,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1862,1800,"Pass Lake",5273,"Core top",0,1,10000,0,-30,30,"NAPD 1","Chron based on surface (0 BP), 4 C14 dates, and time of deglaciation (9600±200). C14 dates 7280±120 and 7460±280 averaged (7310±110).",TRUE,250,-88.74,48.56
+1862,1800,"Pass Lake",5274,"Radiocarbon",5070,200,10000,0,4880,5260,"NAPD 1","Chron based on surface (0 BP), 4 C14 dates, and time of deglaciation (9600±200). C14 dates 7280±120 and 7460±280 averaged (7310±110).",TRUE,250,-88.74,48.56
+1862,1800,"Pass Lake",5275,"Radiocarbon, average of two or more dates",7310,215,10000,0,7090,7530,"NAPD 1","Chron based on surface (0 BP), 4 C14 dates, and time of deglaciation (9600±200). C14 dates 7280±120 and 7460±280 averaged (7310±110).",TRUE,250,-88.74,48.56
+1862,1800,"Pass Lake",5275,"Radiocarbon, average of two or more dates",7310,215,10000,0,7090,7530,"NAPD 1","Chron based on surface (0 BP), 4 C14 dates, and time of deglaciation (9600±200). C14 dates 7280±120 and 7460±280 averaged (7310±110).",TRUE,250,-88.74,48.56
+1862,1800,"Pass Lake",5276,"Radiocarbon",9200,245.5,10000,0,9060,9340,"NAPD 1","Chron based on surface (0 BP), 4 C14 dates, and time of deglaciation (9600±200). C14 dates 7280±120 and 7460±280 averaged (7310±110).",TRUE,250,-88.74,48.56
+1862,1800,"Pass Lake",5277,"Deglaciation",10000,430,10000,0,9750,10250,"NAPD 1","Chron based on surface (0 BP), 4 C14 dates, and time of deglaciation (9600±200). C14 dates 7280±120 and 7460±280 averaged (7310±110).",TRUE,250,-88.74,48.56

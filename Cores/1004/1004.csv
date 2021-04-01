@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1004,973,"Hansen Marsh",2891,"Core top",-15,1,11030,10020,-15,5,10,0
-1004,973,"Hansen Marsh",2893,"Radiocarbon",10735,91.5,11030,10020,10630,10840,105,1
-1004,973,"Hansen Marsh",2894,"Deglaciation",14000,760,11030,10020,13500,14500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1004,973,"Hansen Marsh",2891,"Core top",-15,1,11030,10020,-15,5,"NAPD 1","Chron uses top, one C14 date, pollen strat. date for Picea decline, and time of deglaciation set at 14000 years BP.",TRUE,381,-89.67916,-89.66247
+1004,973,"Hansen Marsh",2892,"Biostratigraphic, pollen",10000,66,11030,10020,9500,10500,"NAPD 1","Chron uses top, one C14 date, pollen strat. date for Picea decline, and time of deglaciation set at 14000 years BP.",TRUE,381,-89.67916,-89.66247
+1004,973,"Hansen Marsh",2893,"Radiocarbon",10735,91.5,11030,10020,10630,10840,"NAPD 1","Chron uses top, one C14 date, pollen strat. date for Picea decline, and time of deglaciation set at 14000 years BP.",TRUE,381,-89.67916,-89.66247
+1004,973,"Hansen Marsh",2894,"Deglaciation",14000,760,11030,10020,13500,14500,"NAPD 1","Chron uses top, one C14 date, pollen strat. date for Picea decline, and time of deglaciation set at 14000 years BP.",TRUE,381,-89.67916,-89.66247

@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3131,196,"Hells Kitchen Lake",7808,"Annual laminations (varves)",-10,10,2050,-10,-15,-5,5,0
-3131,196,"Hells Kitchen Lake",7809,"Radiocarbon, calibrated from calendar years",449,510,2050,-10,427,471,22,1
-3131,196,"Hells Kitchen Lake",7810,"Radiocarbon, calibrated from calendar years",1112,1000,2050,-10,1094,1128,17,1
-3131,196,"Hells Kitchen Lake",7811,"Radiocarbon, calibrated from calendar years",1598,1520,2050,-10,1572,1624,26,1
-3131,196,"Hells Kitchen Lake",7812,"Radiocarbon, calibrated from calendar years",2046,2040,2050,-10,2026,2066,20,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3131,196,"Hells Kitchen Lake",7808,"Annual laminations (varves)",-10,10,2050,-10,-15,-5,"NAPD 1","Varve calender years converted to C14 dates for 5 points in core, including TOP (using Table 1-A in Struiver and Pearson 1986, Radiocarbon 28(2b):805).",TRUE,505,-89.70449,-89.70097
+3131,196,"Hells Kitchen Lake",7809,"Radiocarbon, calibrated from calendar years",449,510,2050,-10,427,471,"NAPD 1","Varve calender years converted to C14 dates for 5 points in core, including TOP (using Table 1-A in Struiver and Pearson 1986, Radiocarbon 28(2b):805).",TRUE,505,-89.70449,-89.70097
+3131,196,"Hells Kitchen Lake",7810,"Radiocarbon, calibrated from calendar years",1112,1000,2050,-10,1094,1128,"NAPD 1","Varve calender years converted to C14 dates for 5 points in core, including TOP (using Table 1-A in Struiver and Pearson 1986, Radiocarbon 28(2b):805).",TRUE,505,-89.70449,-89.70097
+3131,196,"Hells Kitchen Lake",7811,"Radiocarbon, calibrated from calendar years",1598,1520,2050,-10,1572,1624,"NAPD 1","Varve calender years converted to C14 dates for 5 points in core, including TOP (using Table 1-A in Struiver and Pearson 1986, Radiocarbon 28(2b):805).",TRUE,505,-89.70449,-89.70097
+3131,196,"Hells Kitchen Lake",7812,"Radiocarbon, calibrated from calendar years",2046,2040,2050,-10,2026,2066,"NAPD 1","Varve calender years converted to C14 dates for 5 points in core, including TOP (using Table 1-A in Struiver and Pearson 1986, Radiocarbon 28(2b):805).",TRUE,505,-89.70449,-89.70097

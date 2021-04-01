@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4387,"Core top",-45,0,1590,-40,-45,-45,0,0
-1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4388,"Lead-210",0,4,1590,-40,-5,5,5,0
-1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4389,"Lead-210",50,12.5,1590,-40,45,55,5,0
-1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4390,"Radiocarbon",480,31,1590,-40,440,520,40,1
-1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4391,"Radiocarbon",960,51,1590,-40,910,1000,45,1
-1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4392,"Radiocarbon",1590,71,1590,-40,1550,1630,40,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4387,"Core top",-45,0,1590,-40,-45,-45,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.41556,26.48111
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4388,"Lead-210",0,4,1590,-40,-5,5,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.41556,26.48111
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4389,"Lead-210",50,12.5,1590,-40,45,55,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.41556,26.48111
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4390,"Radiocarbon",480,31,1590,-40,440,520,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.41556,26.48111
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4391,"Radiocarbon",960,51,1590,-40,910,1000,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.41556,26.48111
+1671,1619,"Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",4392,"Radiocarbon",1590,71,1590,-40,1550,1630,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.41556,26.48111

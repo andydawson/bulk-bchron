@@ -1,9 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-778,759,"Eaglenest Lake",2039,"Core top",-32,0,10940,0,-32,0,16,0
-778,759,"Eaglenest Lake",2040,"Radiocarbon, reservoir correction",280,7.25,10940,0,0,600,300,1
-778,759,"Eaglenest Lake",2041,"Radiocarbon, reservoir correction",6240,265,10940,0,6080,6400,160,1
-778,759,"Eaglenest Lake",2042,"Radiocarbon, reservoir correction",7339,275,10940,0,6699,7979,640,1
-778,759,"Eaglenest Lake",2043,"Radiocarbon, reservoir correction",9740,475,10940,0,9440,10040,300,1
-778,759,"Eaglenest Lake",2044,"Radiocarbon, reservoir correction",9085,480,10940,0,8595,9575,490,1
-778,759,"Eaglenest Lake",2045,"Radiocarbon, reservoir correction",10280,495,10940,0,9730,10830,550,1
-778,759,"Eaglenest Lake",2046,"Other dating methods",11000,700,10940,0,10000,12000,1000,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+778,759,"Eaglenest Lake",2039,"Core top",-32,0,10940,0,-32,0,"NAPD 1","All dates adjusted by 1000 yr for old carbon. Basal age of 11,000±1000 at 700 cm determined from Dyke and Prest (1987) maps. Coefs: -32.0, 30.6383, -0.0213816.",TRUE,725,-112.1,57.76667
+778,759,"Eaglenest Lake",2040,"Radiocarbon, reservoir correction",280,7.25,10940,0,0,600,"NAPD 1","All dates adjusted by 1000 yr for old carbon. Basal age of 11,000±1000 at 700 cm determined from Dyke and Prest (1987) maps. Coefs: -32.0, 30.6383, -0.0213816.",TRUE,725,-112.1,57.76667
+778,759,"Eaglenest Lake",2041,"Radiocarbon, reservoir correction",6240,265,10940,0,6080,6400,"NAPD 1","All dates adjusted by 1000 yr for old carbon. Basal age of 11,000±1000 at 700 cm determined from Dyke and Prest (1987) maps. Coefs: -32.0, 30.6383, -0.0213816.",TRUE,725,-112.1,57.76667
+778,759,"Eaglenest Lake",2042,"Radiocarbon, reservoir correction",7339,275,10940,0,6699,7979,"NAPD 1","All dates adjusted by 1000 yr for old carbon. Basal age of 11,000±1000 at 700 cm determined from Dyke and Prest (1987) maps. Coefs: -32.0, 30.6383, -0.0213816.",TRUE,725,-112.1,57.76667
+778,759,"Eaglenest Lake",2043,"Radiocarbon, reservoir correction",9740,475,10940,0,9440,10040,"NAPD 1","All dates adjusted by 1000 yr for old carbon. Basal age of 11,000±1000 at 700 cm determined from Dyke and Prest (1987) maps. Coefs: -32.0, 30.6383, -0.0213816.",TRUE,725,-112.1,57.76667
+778,759,"Eaglenest Lake",2044,"Radiocarbon, reservoir correction",9085,480,10940,0,8595,9575,"NAPD 1","All dates adjusted by 1000 yr for old carbon. Basal age of 11,000±1000 at 700 cm determined from Dyke and Prest (1987) maps. Coefs: -32.0, 30.6383, -0.0213816.",TRUE,725,-112.1,57.76667
+778,759,"Eaglenest Lake",2045,"Radiocarbon, reservoir correction",10280,495,10940,0,9730,10830,"NAPD 1","All dates adjusted by 1000 yr for old carbon. Basal age of 11,000±1000 at 700 cm determined from Dyke and Prest (1987) maps. Coefs: -32.0, 30.6383, -0.0213816.",TRUE,725,-112.1,57.76667
+778,759,"Eaglenest Lake",2046,"Other dating methods",11000,700,10940,0,10000,12000,"NAPD 1","All dates adjusted by 1000 yr for old carbon. Basal age of 11,000±1000 at 700 cm determined from Dyke and Prest (1987) maps. Coefs: -32.0, 30.6383, -0.0213816.",TRUE,725,-112.1,57.76667

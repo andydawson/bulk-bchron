@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3050,2951,"Zuehl Farm Site",7648,"Core top",0,0,13000,0,-50,50,50,0
-3050,2951,"Zuehl Farm Site",7649,"Radiocarbon",2320,33,13000,0,2260,2380,60,1
-3050,2951,"Zuehl Farm Site",7650,"Radiocarbon",4790,97.5,13000,0,4710,4870,80,1
-3050,2951,"Zuehl Farm Site",7651,"Radiocarbon",10250,157,13000,0,10100,10400,150,1
-3050,2951,"Zuehl Farm Site",7652,"Radiocarbon",12430,199.5,13000,0,12270,12590,160,1
-3050,2951,"Zuehl Farm Site",7653,"Other dating methods",13000,290,13000,0,12500,13500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3050,2951,"Zuehl Farm Site",7648,"Core top",0,0,13000,0,-50,50,"COHMAP chron 2","4 C-14 dates plus basal date for glacial retreat of 13k added from Kemmis et al. (1981). See p.44 in Kim(1986). Age bounds for application of the model: top = 0; bottom = 13000.",TRUE,356,-93.87,43.03
+3050,2951,"Zuehl Farm Site",7649,"Radiocarbon",2320,33,13000,0,2260,2380,"COHMAP chron 2","4 C-14 dates plus basal date for glacial retreat of 13k added from Kemmis et al. (1981). See p.44 in Kim(1986). Age bounds for application of the model: top = 0; bottom = 13000.",TRUE,356,-93.87,43.03
+3050,2951,"Zuehl Farm Site",7650,"Radiocarbon",4790,97.5,13000,0,4710,4870,"COHMAP chron 2","4 C-14 dates plus basal date for glacial retreat of 13k added from Kemmis et al. (1981). See p.44 in Kim(1986). Age bounds for application of the model: top = 0; bottom = 13000.",TRUE,356,-93.87,43.03
+3050,2951,"Zuehl Farm Site",7651,"Radiocarbon",10250,157,13000,0,10100,10400,"COHMAP chron 2","4 C-14 dates plus basal date for glacial retreat of 13k added from Kemmis et al. (1981). See p.44 in Kim(1986). Age bounds for application of the model: top = 0; bottom = 13000.",TRUE,356,-93.87,43.03
+3050,2951,"Zuehl Farm Site",7652,"Radiocarbon",12430,199.5,13000,0,12270,12590,"COHMAP chron 2","4 C-14 dates plus basal date for glacial retreat of 13k added from Kemmis et al. (1981). See p.44 in Kim(1986). Age bounds for application of the model: top = 0; bottom = 13000.",TRUE,356,-93.87,43.03
+3050,2951,"Zuehl Farm Site",7653,"Other dating methods",13000,290,13000,0,12500,13500,"COHMAP chron 2","4 C-14 dates plus basal date for glacial retreat of 13k added from Kemmis et al. (1981). See p.44 in Kim(1986). Age bounds for application of the model: top = 0; bottom = 13000.",TRUE,356,-93.87,43.03

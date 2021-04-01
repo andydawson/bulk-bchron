@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2068,1993,"R Lake",5937,"Core top",0,0,7000,0,-20,20,20,0
-2068,1993,"R Lake",5939,"Radiocarbon",2870,175,7000,0,2780,2960,90,1
-2068,1993,"R Lake",5940,"Radiocarbon",6490,330,7000,0,6350,6630,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2068,1993,"R Lake",5937,"Core top",0,0,7000,0,-20,20,"COHMAP chron 1","2 C-14 dates and slight ragweed rise between 10 and 20 cm. 420 cm core. Age bounds for application of the model: top = 0; bottom = 7000.",TRUE,147,-84.55833,54.30556
+2068,1993,"R Lake",5938,"Biostratigraphic, pollen",100,15,7000,0,50,150,"COHMAP chron 1","2 C-14 dates and slight ragweed rise between 10 and 20 cm. 420 cm core. Age bounds for application of the model: top = 0; bottom = 7000.",TRUE,147,-84.55833,54.30556
+2068,1993,"R Lake",5939,"Radiocarbon",2870,175,7000,0,2780,2960,"COHMAP chron 1","2 C-14 dates and slight ragweed rise between 10 and 20 cm. 420 cm core. Age bounds for application of the model: top = 0; bottom = 7000.",TRUE,147,-84.55833,54.30556
+2068,1993,"R Lake",5940,"Radiocarbon",6490,330,7000,0,6350,6630,"COHMAP chron 1","2 C-14 dates and slight ragweed rise between 10 and 20 cm. 420 cm core. Age bounds for application of the model: top = 0; bottom = 7000.",TRUE,147,-84.55833,54.30556

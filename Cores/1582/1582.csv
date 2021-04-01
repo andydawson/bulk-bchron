@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1582,1542,"Lake 31",3816,"Radiocarbon",960,6.5,5030,710,880,1040,80,1
-1582,1542,"Lake 31",3817,"Radiocarbon",2590,39.5,5030,710,2510,2670,80,1
-1582,1542,"Lake 31",3818,"Radiocarbon",3950,65.5,5030,710,3850,4050,100,1
-1582,1542,"Lake 31",3819,"Radiocarbon",5030,91.5,5030,710,4910,5150,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1582,1542,"Lake 31",3816,"Radiocarbon",960,6.5,5030,710,880,1040,"NAPD 1","Chron uses 4 radiocarbon dates. Age of samples above 6.5 cm are extrapolated. According to Eisner (1995), the topmost sediment was apparently not recovered.",TRUE,115,-50.46667,67.05
+1582,1542,"Lake 31",3817,"Radiocarbon",2590,39.5,5030,710,2510,2670,"NAPD 1","Chron uses 4 radiocarbon dates. Age of samples above 6.5 cm are extrapolated. According to Eisner (1995), the topmost sediment was apparently not recovered.",TRUE,115,-50.46667,67.05
+1582,1542,"Lake 31",3818,"Radiocarbon",3950,65.5,5030,710,3850,4050,"NAPD 1","Chron uses 4 radiocarbon dates. Age of samples above 6.5 cm are extrapolated. According to Eisner (1995), the topmost sediment was apparently not recovered.",TRUE,115,-50.46667,67.05
+1582,1542,"Lake 31",3819,"Radiocarbon",5030,91.5,5030,710,4910,5150,"NAPD 1","Chron uses 4 radiocarbon dates. Age of samples above 6.5 cm are extrapolated. According to Eisner (1995), the topmost sediment was apparently not recovered.",TRUE,115,-50.46667,67.05

@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1157,1123,"Jack Lake",3261,"Core top",0,0,11730,20,-20,20,20,0
-1157,1123,"Jack Lake",3262,"Radiocarbon",3450,165.5,11730,20,3330,3570,120,1
-1157,1123,"Jack Lake",3263,"Radiocarbon",7490,325,11730,20,7310,7670,180,1
-1157,1123,"Jack Lake",3264,"Radiocarbon",9270,377.5,11730,20,9070,9470,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1157,1123,"Jack Lake",3261,"Core top",0,0,11730,20,-20,20,"NAPD 1","Chron uses top and three C13 dates.",TRUE,430,-81.76667,47.31667
+1157,1123,"Jack Lake",3262,"Radiocarbon",3450,165.5,11730,20,3330,3570,"NAPD 1","Chron uses top and three C13 dates.",TRUE,430,-81.76667,47.31667
+1157,1123,"Jack Lake",3263,"Radiocarbon",7490,325,11730,20,7310,7670,"NAPD 1","Chron uses top and three C13 dates.",TRUE,430,-81.76667,47.31667
+1157,1123,"Jack Lake",3264,"Radiocarbon",9270,377.5,11730,20,9070,9470,"NAPD 1","Chron uses top and three C13 dates.",TRUE,430,-81.76667,47.31667

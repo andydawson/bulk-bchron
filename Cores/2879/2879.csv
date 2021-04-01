@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2879,2784,"Twin Lakes (CA:British Columbia)",7190,"Core top",-29,0,6980,-20,-29,-9,10,0
-2879,2784,"Twin Lakes (CA:British Columbia)",7191,"Radiocarbon",4060,230,6980,-20,3740,4380,320,1
-2879,2784,"Twin Lakes (CA:British Columbia)",7192,"Tephra",6850,326.5,6980,-20,6700,7000,150,0
-2879,2784,"Twin Lakes (CA:British Columbia)",7193,"Other dating methods",10000,413,6980,-20,9500,10500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2879,2784,"Twin Lakes (CA:British Columbia)",7190,"Core top",-29,0,6980,-20,-29,-9,"NAPD 1","Chron uses top, one C14 date, Mazama ash layer (6850 BP), and date of 10000 years BP for start of organic deposition (J. McAndrews file).",TRUE,1100,-116.3678,-116.35592
+2879,2784,"Twin Lakes (CA:British Columbia)",7191,"Radiocarbon",4060,230,6980,-20,3740,4380,"NAPD 1","Chron uses top, one C14 date, Mazama ash layer (6850 BP), and date of 10000 years BP for start of organic deposition (J. McAndrews file).",TRUE,1100,-116.3678,-116.35592
+2879,2784,"Twin Lakes (CA:British Columbia)",7192,"Tephra",6850,326.5,6980,-20,6700,7000,"NAPD 1","Chron uses top, one C14 date, Mazama ash layer (6850 BP), and date of 10000 years BP for start of organic deposition (J. McAndrews file).",TRUE,1100,-116.3678,-116.35592
+2879,2784,"Twin Lakes (CA:British Columbia)",7193,"Other dating methods",10000,413,6980,-20,9500,10500,"NAPD 1","Chron uses top, one C14 date, Mazama ash layer (6850 BP), and date of 10000 years BP for start of organic deposition (J. McAndrews file).",TRUE,1100,-116.3678,-116.35592

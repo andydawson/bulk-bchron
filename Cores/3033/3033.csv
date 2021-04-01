@@ -1,3 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3033,2935,"Wonder Lake",7553,"Core top",0,0,10270,40,-500,500,500,0
-3033,2935,"Wonder Lake",7554,"Radiocarbon",3850,80,10270,40,3790,3910,60,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3033,2935,"Wonder Lake",7553,"Core top",0,0,10270,40,-500,500,"PALE Author's preferred",NA,TRUE,610,-151.08333,63.48333
+3033,2935,"Wonder Lake",7554,"Radiocarbon",3850,80,10270,40,3790,3910,"PALE Author's preferred",NA,TRUE,610,-151.08333,63.48333
+3033,2935,"Wonder Lake",7555,"Biostratigraphic, pollen",6000,150,10270,40,5900,6100,"PALE Author's preferred",NA,TRUE,610,-151.08333,63.48333
+3033,2935,"Wonder Lake",7556,"Biostratigraphic, pollen",8270,205,10270,40,8170,8370,"PALE Author's preferred",NA,TRUE,610,-151.08333,63.48333
+3033,2935,"Wonder Lake",7557,"Biostratigraphic, pollen",10060,300,10270,40,9990,10130,"PALE Author's preferred",NA,TRUE,610,-151.08333,63.48333

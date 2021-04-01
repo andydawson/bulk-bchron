@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-341,334,"Caribou Hill",1009,"Core top",0,580,6400,0,-100,100,100,0
-341,334,"Caribou Hill",1010,"Radiocarbon",1070,615,6400,0,940,1200,130,1
-341,334,"Caribou Hill",1011,"Radiocarbon",2145,660,6400,0,1955,2335,190,1
-341,334,"Caribou Hill",1012,"Radiocarbon",3580,715,6400,0,3280,3760,240,1
-341,334,"Caribou Hill",1013,"Radiocarbon",4760,825,6400,0,4480,5040,280,1
-341,334,"Caribou Hill",1014,"Radiocarbon",6120,885,6400,0,5840,6400,280,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+341,334,"Caribou Hill",1009,"Core top",0,580,6400,0,-100,100,"COHMAP chron 1","5 C-14 dates. Linear sedimentation rate from 3.6k to present. H.F. Lamb 1982 Ph.D. thesis. COHMAP age bounds for application of the model: top = 0; bottom = 6000.",TRUE,475,-63.25,55.66667
+341,334,"Caribou Hill",1010,"Radiocarbon",1070,615,6400,0,940,1200,"COHMAP chron 1","5 C-14 dates. Linear sedimentation rate from 3.6k to present. H.F. Lamb 1982 Ph.D. thesis. COHMAP age bounds for application of the model: top = 0; bottom = 6000.",TRUE,475,-63.25,55.66667
+341,334,"Caribou Hill",1011,"Radiocarbon",2145,660,6400,0,1955,2335,"COHMAP chron 1","5 C-14 dates. Linear sedimentation rate from 3.6k to present. H.F. Lamb 1982 Ph.D. thesis. COHMAP age bounds for application of the model: top = 0; bottom = 6000.",TRUE,475,-63.25,55.66667
+341,334,"Caribou Hill",1012,"Radiocarbon",3580,715,6400,0,3280,3760,"COHMAP chron 1","5 C-14 dates. Linear sedimentation rate from 3.6k to present. H.F. Lamb 1982 Ph.D. thesis. COHMAP age bounds for application of the model: top = 0; bottom = 6000.",TRUE,475,-63.25,55.66667
+341,334,"Caribou Hill",1013,"Radiocarbon",4760,825,6400,0,4480,5040,"COHMAP chron 1","5 C-14 dates. Linear sedimentation rate from 3.6k to present. H.F. Lamb 1982 Ph.D. thesis. COHMAP age bounds for application of the model: top = 0; bottom = 6000.",TRUE,475,-63.25,55.66667
+341,334,"Caribou Hill",1014,"Radiocarbon",6120,885,6400,0,5840,6400,"COHMAP chron 1","5 C-14 dates. Linear sedimentation rate from 3.6k to present. H.F. Lamb 1982 Ph.D. thesis. COHMAP age bounds for application of the model: top = 0; bottom = 6000.",TRUE,475,-63.25,55.66667

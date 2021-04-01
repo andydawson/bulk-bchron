@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-973,943,"Graham Lake",2663,"Core top",0,868,10050,0,0,0,0,0
-973,943,"Graham Lake",2664,"Radiocarbon",1750,940,10050,0,1670,1830,80,1
-973,943,"Graham Lake",2665,"Radiocarbon",3205,1000,10050,0,3115,3295,90,1
-973,943,"Graham Lake",2666,"Radiocarbon",4760,1066,10050,0,4670,4850,90,1
-973,943,"Graham Lake",2667,"Radiocarbon",6650,1118,10050,0,6550,6750,100,1
-973,943,"Graham Lake",2668,"Radiocarbon",8260,1160,10050,0,8140,8380,120,1
-973,943,"Graham Lake",2669,"Radiocarbon",10105,1222,10050,0,9935,10275,170,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+973,943,"Graham Lake",2663,"Core top",0,868,10050,0,0,0,"NAPD 1","Chron uses top and 6 C14 dates.",TRUE,381,-77.35,45.18333
+973,943,"Graham Lake",2664,"Radiocarbon",1750,940,10050,0,1670,1830,"NAPD 1","Chron uses top and 6 C14 dates.",TRUE,381,-77.35,45.18333
+973,943,"Graham Lake",2665,"Radiocarbon",3205,1000,10050,0,3115,3295,"NAPD 1","Chron uses top and 6 C14 dates.",TRUE,381,-77.35,45.18333
+973,943,"Graham Lake",2666,"Radiocarbon",4760,1066,10050,0,4670,4850,"NAPD 1","Chron uses top and 6 C14 dates.",TRUE,381,-77.35,45.18333
+973,943,"Graham Lake",2667,"Radiocarbon",6650,1118,10050,0,6550,6750,"NAPD 1","Chron uses top and 6 C14 dates.",TRUE,381,-77.35,45.18333
+973,943,"Graham Lake",2668,"Radiocarbon",8260,1160,10050,0,8140,8380,"NAPD 1","Chron uses top and 6 C14 dates.",TRUE,381,-77.35,45.18333
+973,943,"Graham Lake",2669,"Radiocarbon",10105,1222,10050,0,9935,10275,"NAPD 1","Chron uses top and 6 C14 dates.",TRUE,381,-77.35,45.18333

@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1670,1618,"Louise Pond",4381,"Core top",0,0,10070,60,0,0,0,0
-1670,1618,"Louise Pond",4382,"Radiocarbon",2100,85,10070,60,1900,2300,200,1
-1670,1618,"Louise Pond",4383,"Radiocarbon",4030,177.5,10070,60,3830,4230,200,1
-1670,1618,"Louise Pond",4384,"Radiocarbon",5790,282.5,10070,60,5530,6050,260,1
-1670,1618,"Louise Pond",4385,"Radiocarbon",8700,352.5,10070,60,8400,9000,300,1
-1670,1618,"Louise Pond",4386,"Radiocarbon",9870,382.5,10070,60,9630,10110,240,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1670,1618,"Louise Pond",4381,"Core top",0,0,10070,60,0,0,"Pellatt and Mathewes","Chron uses top (0 BP), 3 conventional radiocarbon dates, and 2 AMS dates. The 2 conventional dates adjacent to the AMS dates were older and were not used.",TRUE,650,-131.76501,-131.76368
+1670,1618,"Louise Pond",4382,"Radiocarbon",2100,85,10070,60,1900,2300,"Pellatt and Mathewes","Chron uses top (0 BP), 3 conventional radiocarbon dates, and 2 AMS dates. The 2 conventional dates adjacent to the AMS dates were older and were not used.",TRUE,650,-131.76501,-131.76368
+1670,1618,"Louise Pond",4383,"Radiocarbon",4030,177.5,10070,60,3830,4230,"Pellatt and Mathewes","Chron uses top (0 BP), 3 conventional radiocarbon dates, and 2 AMS dates. The 2 conventional dates adjacent to the AMS dates were older and were not used.",TRUE,650,-131.76501,-131.76368
+1670,1618,"Louise Pond",4384,"Radiocarbon",5790,282.5,10070,60,5530,6050,"Pellatt and Mathewes","Chron uses top (0 BP), 3 conventional radiocarbon dates, and 2 AMS dates. The 2 conventional dates adjacent to the AMS dates were older and were not used.",TRUE,650,-131.76501,-131.76368
+1670,1618,"Louise Pond",4385,"Radiocarbon",8700,352.5,10070,60,8400,9000,"Pellatt and Mathewes","Chron uses top (0 BP), 3 conventional radiocarbon dates, and 2 AMS dates. The 2 conventional dates adjacent to the AMS dates were older and were not used.",TRUE,650,-131.76501,-131.76368
+1670,1618,"Louise Pond",4386,"Radiocarbon",9870,382.5,10070,60,9630,10110,"Pellatt and Mathewes","Chron uses top (0 BP), 3 conventional radiocarbon dates, and 2 AMS dates. The 2 conventional dates adjacent to the AMS dates were older and were not used.",TRUE,650,-131.76501,-131.76368

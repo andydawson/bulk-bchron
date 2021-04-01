@@ -1,5 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2591,2507,"Spring Lake",6767,"Core top",0,0,12880,0,-50,50,50,0
-2591,2507,"Spring Lake",6770,"Radiocarbon",9280,790,12880,0,9080,9480,200,1
-2591,2507,"Spring Lake",6771,"Radiocarbon",10250,990,12880,0,10030,10470,220,1
-2591,2507,"Spring Lake",6772,"Radiocarbon",12670,1110,12880,0,12430,12910,240,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2591,2507,"Spring Lake",6767,"Core top",0,0,12880,0,-50,50,"NAPD 1","Chron uses 3 14C dates, top, Ambrosia-rise, and Tsuga decline. Basal 14C date with large SD not used.",TRUE,342,-76.35,41.67389
+2591,2507,"Spring Lake",6768,"Biostratigraphic, pollen",150,60,12880,0,100,200,"NAPD 1","Chron uses 3 14C dates, top, Ambrosia-rise, and Tsuga decline. Basal 14C date with large SD not used.",TRUE,342,-76.35,41.67389
+2591,2507,"Spring Lake",6769,"Biostratigraphic, pollen",4750,510,12880,0,4700,4800,"NAPD 1","Chron uses 3 14C dates, top, Ambrosia-rise, and Tsuga decline. Basal 14C date with large SD not used.",TRUE,342,-76.35,41.67389
+2591,2507,"Spring Lake",6770,"Radiocarbon",9280,790,12880,0,9080,9480,"NAPD 1","Chron uses 3 14C dates, top, Ambrosia-rise, and Tsuga decline. Basal 14C date with large SD not used.",TRUE,342,-76.35,41.67389
+2591,2507,"Spring Lake",6771,"Radiocarbon",10250,990,12880,0,10030,10470,"NAPD 1","Chron uses 3 14C dates, top, Ambrosia-rise, and Tsuga decline. Basal 14C date with large SD not used.",TRUE,342,-76.35,41.67389
+2591,2507,"Spring Lake",6772,"Radiocarbon",12670,1110,12880,0,12430,12910,"NAPD 1","Chron uses 3 14C dates, top, Ambrosia-rise, and Tsuga decline. Basal 14C date with large SD not used.",TRUE,342,-76.35,41.67389

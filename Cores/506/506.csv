@@ -1,9 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-506,494,"Copley Lake",1454,"Core top",0,0.5,10330,-30,-5,5,5,0
-506,494,"Copley Lake",1455,"Radiocarbon",1570,30,10330,-30,1420,1720,150,1
-506,494,"Copley Lake",1456,"Radiocarbon",5690,67,10330,-30,5540,5840,150,1
-506,494,"Copley Lake",1457,"Radiocarbon",6900,107,10330,-30,6680,7120,220,1
-506,494,"Copley Lake",1458,"Radiocarbon",8210,130,10330,-30,7855,8565,355,1
-506,494,"Copley Lake",1459,"Radiocarbon",10325,160,10330,-30,9860,10790,465,1
-506,494,"Copley Lake",1460,"Radiocarbon",12810,186,10330,-30,12060,13560,750,1
-506,494,"Copley Lake",1461,"Radiocarbon",15370,217,10330,-30,14490,16250,880,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+506,494,"Copley Lake",1454,"Core top",0,0.5,10330,-30,-5,5,"NAPD 1 (radiocarbon years)","Chron uses top plus 7 radiocarbon dates.",TRUE,3250,-107.08549,-107.08069
+506,494,"Copley Lake",1455,"Radiocarbon",1570,30,10330,-30,1420,1720,"NAPD 1 (radiocarbon years)","Chron uses top plus 7 radiocarbon dates.",TRUE,3250,-107.08549,-107.08069
+506,494,"Copley Lake",1456,"Radiocarbon",5690,67,10330,-30,5540,5840,"NAPD 1 (radiocarbon years)","Chron uses top plus 7 radiocarbon dates.",TRUE,3250,-107.08549,-107.08069
+506,494,"Copley Lake",1457,"Radiocarbon",6900,107,10330,-30,6680,7120,"NAPD 1 (radiocarbon years)","Chron uses top plus 7 radiocarbon dates.",TRUE,3250,-107.08549,-107.08069
+506,494,"Copley Lake",1458,"Radiocarbon",8210,130,10330,-30,7855,8565,"NAPD 1 (radiocarbon years)","Chron uses top plus 7 radiocarbon dates.",TRUE,3250,-107.08549,-107.08069
+506,494,"Copley Lake",1459,"Radiocarbon",10325,160,10330,-30,9860,10790,"NAPD 1 (radiocarbon years)","Chron uses top plus 7 radiocarbon dates.",TRUE,3250,-107.08549,-107.08069
+506,494,"Copley Lake",1460,"Radiocarbon",12810,186,10330,-30,12060,13560,"NAPD 1 (radiocarbon years)","Chron uses top plus 7 radiocarbon dates.",TRUE,3250,-107.08549,-107.08069
+506,494,"Copley Lake",1461,"Radiocarbon",15370,217,10330,-30,14490,16250,"NAPD 1 (radiocarbon years)","Chron uses top plus 7 radiocarbon dates.",TRUE,3250,-107.08549,-107.08069

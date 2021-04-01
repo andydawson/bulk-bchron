@@ -1,5 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1571,1533,"Lac Louis",3768,"Core top",20,0,9000,0,-30,70,50,0
-1571,1533,"Lac Louis",3770,"Radiocarbon",4260,237,9000,0,4020,4500,240,1
-1571,1533,"Lac Louis",3771,"Radiocarbon",7280,412,9000,0,7030,7530,250,1
-1571,1533,"Lac Louis",3772,"Radiocarbon",9090,535,9000,0,8850,9330,240,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1571,1533,"Lac Louis",3768,"Core top",20,0,9000,0,-30,70,"COHMAP chron 1","3 C-14 dates. Ragweed rise in topmost samples. Not enough Tsuga for a decline. Vincent (1973) Nat.Can. Age bounds for application of the model: top = 0; bottom = 9000.",TRUE,300,-79.11667,47.2875
+1571,1533,"Lac Louis",3769,"Biostratigraphic, pollen",125,10,9000,0,75,175,"COHMAP chron 1","3 C-14 dates. Ragweed rise in topmost samples. Not enough Tsuga for a decline. Vincent (1973) Nat.Can. Age bounds for application of the model: top = 0; bottom = 9000.",TRUE,300,-79.11667,47.2875
+1571,1533,"Lac Louis",3770,"Radiocarbon",4260,237,9000,0,4020,4500,"COHMAP chron 1","3 C-14 dates. Ragweed rise in topmost samples. Not enough Tsuga for a decline. Vincent (1973) Nat.Can. Age bounds for application of the model: top = 0; bottom = 9000.",TRUE,300,-79.11667,47.2875
+1571,1533,"Lac Louis",3771,"Radiocarbon",7280,412,9000,0,7030,7530,"COHMAP chron 1","3 C-14 dates. Ragweed rise in topmost samples. Not enough Tsuga for a decline. Vincent (1973) Nat.Can. Age bounds for application of the model: top = 0; bottom = 9000.",TRUE,300,-79.11667,47.2875
+1571,1533,"Lac Louis",3772,"Radiocarbon",9090,535,9000,0,8850,9330,"COHMAP chron 1","3 C-14 dates. Ragweed rise in topmost samples. Not enough Tsuga for a decline. Vincent (1973) Nat.Can. Age bounds for application of the model: top = 0; bottom = 9000.",TRUE,300,-79.11667,47.2875

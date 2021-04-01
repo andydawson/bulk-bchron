@@ -1,2 +1,2 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-16143,10510,"Nelson Basin midden",35492,"Radiocarbon",900,0,970,830,830,970,70,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16143,10510,"Nelson Basin midden",35492,"Radiocarbon",900,0,970,830,830,970,"Neotoma 1",NA,TRUE,1010,-116.73333,35.35

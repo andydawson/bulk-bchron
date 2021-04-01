@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-281,275,"BL-Tombigbee",628,"Core top",0,0,10000,0,-50,50,50,0
-281,275,"BL-Tombigbee",629,"Radiocarbon",435,17.5,10000,0,355,515,80,1
-281,275,"BL-Tombigbee",630,"Radiocarbon",2310,40.5,10000,0,2230,2390,80,1
-281,275,"BL-Tombigbee",631,"Radiocarbon",2680,122.5,10000,0,2605,2755,75,1
-281,275,"BL-Tombigbee",632,"Radiocarbon",8760,162.5,10000,0,8660,8860,100,1
-281,275,"BL-Tombigbee",633,"Radiocarbon",9765,207.5,10000,0,9655,9875,110,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+281,275,"BL-Tombigbee",628,"Core top",0,0,10000,0,-50,50,"COHMAP chron 2","5 C-14 dates from a 250 cm core from a lake in the Tombigbee drainage. Contaminated dates at 233 cm (8700) and 247.5 cm (3980) were deleted. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,49,-88.47444,33.56333
+281,275,"BL-Tombigbee",629,"Radiocarbon",435,17.5,10000,0,355,515,"COHMAP chron 2","5 C-14 dates from a 250 cm core from a lake in the Tombigbee drainage. Contaminated dates at 233 cm (8700) and 247.5 cm (3980) were deleted. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,49,-88.47444,33.56333
+281,275,"BL-Tombigbee",630,"Radiocarbon",2310,40.5,10000,0,2230,2390,"COHMAP chron 2","5 C-14 dates from a 250 cm core from a lake in the Tombigbee drainage. Contaminated dates at 233 cm (8700) and 247.5 cm (3980) were deleted. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,49,-88.47444,33.56333
+281,275,"BL-Tombigbee",631,"Radiocarbon",2680,122.5,10000,0,2605,2755,"COHMAP chron 2","5 C-14 dates from a 250 cm core from a lake in the Tombigbee drainage. Contaminated dates at 233 cm (8700) and 247.5 cm (3980) were deleted. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,49,-88.47444,33.56333
+281,275,"BL-Tombigbee",632,"Radiocarbon",8760,162.5,10000,0,8660,8860,"COHMAP chron 2","5 C-14 dates from a 250 cm core from a lake in the Tombigbee drainage. Contaminated dates at 233 cm (8700) and 247.5 cm (3980) were deleted. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,49,-88.47444,33.56333
+281,275,"BL-Tombigbee",633,"Radiocarbon",9765,207.5,10000,0,9655,9875,"COHMAP chron 2","5 C-14 dates from a 250 cm core from a lake in the Tombigbee drainage. Contaminated dates at 233 cm (8700) and 247.5 cm (3980) were deleted. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,49,-88.47444,33.56333

@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2654,2562,"Lac à la Tortue",7117,"Core top",0,0,9050,0,0,0,0,0
-2654,2562,"Lac à la Tortue",7118,"Radiocarbon",3890,195,9050,0,3735,4045,155,1
-2654,2562,"Lac à la Tortue",7119,"Radiocarbon",5830,295,9050,0,5715,5945,115,1
-2654,2562,"Lac à la Tortue",7120,"Radiocarbon",9215,395,9050,0,9010,9420,205,1
-2654,2562,"Lac à la Tortue",7121,"Deglaciation",12000,500,9050,0,11500,12500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2654,2562,"Lac à la Tortue",7117,"Core top",0,0,9050,0,0,0,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,137,-73.31694,45.54583
+2654,2562,"Lac à la Tortue",7118,"Radiocarbon",3890,195,9050,0,3735,4045,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,137,-73.31694,45.54583
+2654,2562,"Lac à la Tortue",7119,"Radiocarbon",5830,295,9050,0,5715,5945,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,137,-73.31694,45.54583
+2654,2562,"Lac à la Tortue",7120,"Radiocarbon",9215,395,9050,0,9010,9420,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,137,-73.31694,45.54583
+2654,2562,"Lac à la Tortue",7121,"Deglaciation",12000,500,9050,0,11500,12500,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,137,-73.31694,45.54583

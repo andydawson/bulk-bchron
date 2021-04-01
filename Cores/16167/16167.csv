@@ -1,2 +1,2 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-16167,10513,"No Name West midden",35504,"Radiocarbon",12780,0,12880,12680,12680,12880,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16167,10513,"No Name West midden",35504,"Radiocarbon",12780,0,12880,12680,12680,12880,"Neotoma 1",NA,TRUE,1310,-116.56667,35.43333

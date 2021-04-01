@@ -1,5 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-805,785,"Lake Erie",2211,"Core top",-19,0,13030,-20,-19,-9,5,0
-805,785,"Lake Erie",2213,"Radiocarbon",5750,157.5,13030,-20,5390,6110,360,1
-805,785,"Lake Erie",2214,"Radiocarbon",11140,335,13030,-20,10820,11460,320,1
-805,785,"Lake Erie",2215,"Radiocarbon",12650,355,13030,-20,12310,12990,340,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+805,785,"Lake Erie",2211,"Core top",-19,0,13030,-20,-19,-9,"NAPD 1","Chron uses top, Ambrosia rise, and three C14 dates.",TRUE,168,-82.76,41.92
+805,785,"Lake Erie",2212,"Biostratigraphic, pollen",100,15,13030,-20,50,150,"NAPD 1","Chron uses top, Ambrosia rise, and three C14 dates.",TRUE,168,-82.76,41.92
+805,785,"Lake Erie",2213,"Radiocarbon",5750,157.5,13030,-20,5390,6110,"NAPD 1","Chron uses top, Ambrosia rise, and three C14 dates.",TRUE,168,-82.76,41.92
+805,785,"Lake Erie",2214,"Radiocarbon",11140,335,13030,-20,10820,11460,"NAPD 1","Chron uses top, Ambrosia rise, and three C14 dates.",TRUE,168,-82.76,41.92
+805,785,"Lake Erie",2215,"Radiocarbon",12650,355,13030,-20,12310,12990,"NAPD 1","Chron uses top, Ambrosia rise, and three C14 dates.",TRUE,168,-82.76,41.92

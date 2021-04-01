@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2004,1937,"Queens Lake",5678,"Core top",0,0,8110,0,-35,100,67.5,0
-2004,1937,"Queens Lake",5679,"Radiocarbon",3820,17.5,8110,0,3700,3940,120,1
-2004,1937,"Queens Lake",5680,"Radiocarbon",5600,47.5,8110,0,5480,5720,120,1
-2004,1937,"Queens Lake",5681,"Radiocarbon",6150,62.5,8110,0,6030,6270,120,1
-2004,1937,"Queens Lake",5682,"Radiocarbon",7150,102.5,8110,0,7010,7290,140,1
-2004,1937,"Queens Lake",5683,"Radiocarbon",7470,105,8110,0,7310,7630,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2004,1937,"Queens Lake",5678,"Core top",0,0,8110,0,-35,100,"NAPD 1","Chron based on 5 radiocarbon dates plus sediment surface (0 BP).",TRUE,480,-110.56667,64.11667
+2004,1937,"Queens Lake",5679,"Radiocarbon",3820,17.5,8110,0,3700,3940,"NAPD 1","Chron based on 5 radiocarbon dates plus sediment surface (0 BP).",TRUE,480,-110.56667,64.11667
+2004,1937,"Queens Lake",5680,"Radiocarbon",5600,47.5,8110,0,5480,5720,"NAPD 1","Chron based on 5 radiocarbon dates plus sediment surface (0 BP).",TRUE,480,-110.56667,64.11667
+2004,1937,"Queens Lake",5681,"Radiocarbon",6150,62.5,8110,0,6030,6270,"NAPD 1","Chron based on 5 radiocarbon dates plus sediment surface (0 BP).",TRUE,480,-110.56667,64.11667
+2004,1937,"Queens Lake",5682,"Radiocarbon",7150,102.5,8110,0,7010,7290,"NAPD 1","Chron based on 5 radiocarbon dates plus sediment surface (0 BP).",TRUE,480,-110.56667,64.11667
+2004,1937,"Queens Lake",5683,"Radiocarbon",7470,105,8110,0,7310,7630,"NAPD 1","Chron based on 5 radiocarbon dates plus sediment surface (0 BP).",TRUE,480,-110.56667,64.11667

@@ -1,9 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1001,970,"Hail Lake",2818,"Core top",0,0,9950,60,0,0,0,0
-1001,970,"Hail Lake",2819,"Radiocarbon",2870,128,9950,60,2820,2920,50,1
-1001,970,"Hail Lake",2820,"Radiocarbon",4840,204,9950,60,4830,4930,50,1
-1001,970,"Hail Lake",2821,"Radiocarbon",5860,236,9950,60,5450,6270,410,1
-1001,970,"Hail Lake",2822,"Radiocarbon",8440,358,9950,60,8370,8510,70,1
-1001,970,"Hail Lake",2823,"Radiocarbon",8820,398,9950,60,8750,8890,70,1
-1001,970,"Hail Lake",2824,"Radiocarbon",8930,423,9950,60,8860,9000,70,1
-1001,970,"Hail Lake",2825,"Radiocarbon",9500,482,9950,60,9420,9580,80,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1001,970,"Hail Lake",2818,"Core top",0,0,9950,60,0,0,"PALE 1","Chron excludes three oldest ages and the reversed level at 457 cm",TRUE,690,-129.01667,60.03333
+1001,970,"Hail Lake",2819,"Radiocarbon",2870,128,9950,60,2820,2920,"PALE 1","Chron excludes three oldest ages and the reversed level at 457 cm",TRUE,690,-129.01667,60.03333
+1001,970,"Hail Lake",2820,"Radiocarbon",4840,204,9950,60,4830,4930,"PALE 1","Chron excludes three oldest ages and the reversed level at 457 cm",TRUE,690,-129.01667,60.03333
+1001,970,"Hail Lake",2821,"Radiocarbon",5860,236,9950,60,5450,6270,"PALE 1","Chron excludes three oldest ages and the reversed level at 457 cm",TRUE,690,-129.01667,60.03333
+1001,970,"Hail Lake",2822,"Radiocarbon",8440,358,9950,60,8370,8510,"PALE 1","Chron excludes three oldest ages and the reversed level at 457 cm",TRUE,690,-129.01667,60.03333
+1001,970,"Hail Lake",2823,"Radiocarbon",8820,398,9950,60,8750,8890,"PALE 1","Chron excludes three oldest ages and the reversed level at 457 cm",TRUE,690,-129.01667,60.03333
+1001,970,"Hail Lake",2824,"Radiocarbon",8930,423,9950,60,8860,9000,"PALE 1","Chron excludes three oldest ages and the reversed level at 457 cm",TRUE,690,-129.01667,60.03333
+1001,970,"Hail Lake",2825,"Radiocarbon",9500,482,9950,60,9420,9580,"PALE 1","Chron excludes three oldest ages and the reversed level at 457 cm",TRUE,690,-129.01667,60.03333

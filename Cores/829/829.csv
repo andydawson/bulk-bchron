@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-829,805,"Fiddler's Pond",2300,"Core top",-28,0,7120,-20,-28,-28,0,0
-829,805,"Fiddler's Pond",2301,"Radiocarbon",1210,65,7120,-20,1150,1270,60,1
-829,805,"Fiddler's Pond",2302,"Radiocarbon",5170,190,7120,-20,5110,5230,60,1
-829,805,"Fiddler's Pond",2303,"Radiocarbon",7250,222,7120,-20,7130,7370,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+829,805,"Fiddler's Pond",2300,"Core top",-28,0,7120,-20,-28,-28,"NAPD 1 (radiocarbon years)",NA,TRUE,630,-121.42,56.25
+829,805,"Fiddler's Pond",2301,"Radiocarbon",1210,65,7120,-20,1150,1270,"NAPD 1 (radiocarbon years)",NA,TRUE,630,-121.42,56.25
+829,805,"Fiddler's Pond",2302,"Radiocarbon",5170,190,7120,-20,5110,5230,"NAPD 1 (radiocarbon years)",NA,TRUE,630,-121.42,56.25
+829,805,"Fiddler's Pond",2303,"Radiocarbon",7250,222,7120,-20,7130,7370,"NAPD 1 (radiocarbon years)",NA,TRUE,630,-121.42,56.25

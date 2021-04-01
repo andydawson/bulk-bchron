@@ -1,12 +1,12 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-539,525,"Cupola Pond",1671,"Core top",0,0,17330,0,0,0,0,0
-539,525,"Cupola Pond",1672,"Radiocarbon",590,18,17330,0,510,670,80,1
-539,525,"Cupola Pond",1673,"Radiocarbon",8830,115,17330,0,8700,8960,130,1
-539,525,"Cupola Pond",1674,"Radiocarbon",11150,193.5,17330,0,10980,11320,170,1
-539,525,"Cupola Pond",1675,"Radiocarbon",12980,275,17330,0,12740,13220,240,1
-539,525,"Cupola Pond",1676,"Radiocarbon",14510,478.5,17330,0,14260,14760,250,1
-539,525,"Cupola Pond",1677,"Radiocarbon",15640,635,17330,0,15170,16110,470,1
-539,525,"Cupola Pond",1678,"Radiocarbon",14210,667,17330,0,13950,14470,260,1
-539,525,"Cupola Pond",1679,"Radiocarbon",17010,935,17330,0,16630,17390,380,1
-539,525,"Cupola Pond",1680,"Radiocarbon",17110,1184,17330,0,16770,17450,340,1
-539,525,"Cupola Pond",1681,"Radiocarbon",16940,1187,17330,0,16590,17290,350,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+539,525,"Cupola Pond",1671,"Core top",0,0,17330,0,0,0,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1672,"Radiocarbon",590,18,17330,0,510,670,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1673,"Radiocarbon",8830,115,17330,0,8700,8960,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1674,"Radiocarbon",11150,193.5,17330,0,10980,11320,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1675,"Radiocarbon",12980,275,17330,0,12740,13220,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1676,"Radiocarbon",14510,478.5,17330,0,14260,14760,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1677,"Radiocarbon",15640,635,17330,0,15170,16110,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1678,"Radiocarbon",14210,667,17330,0,13950,14470,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1679,"Radiocarbon",17010,935,17330,0,16630,17390,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1680,"Radiocarbon",17110,1184,17330,0,16770,17450,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914
+539,525,"Cupola Pond",1681,"Radiocarbon",16940,1187,17330,0,16590,17290,"NAPD 1","Linear interpolation used between surface and first 4 C-14 dates. Straight line fit to bottom 6 C-14 dates (inversed dates used).",TRUE,243,-91.09082,-91.08914

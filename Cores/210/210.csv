@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-210,209,"Antelope Playa",201,"Core top",0,0,13020,0,-30,300,165,0
-210,209,"Antelope Playa",202,"Radiocarbon",5130,106,13020,0,4910,5350,220,1
-210,209,"Antelope Playa",203,"Radiocarbon",8830,153,13020,0,8230,9430,600,1
-210,209,"Antelope Playa",204,"Radiocarbon",13020,194.5,13020,0,12020,14020,1000,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+210,209,"Antelope Playa",201,"Core top",0,0,13020,0,-30,300,"Markgraf 1986","Chron uses surface plus 3 radiocarbon dates. Chron is probably unreliable because low-organic matter bulk dates from the Great Plains are almost always too old because of organic matter in the K/T bedrock.",TRUE,1450,-105.45,43.5
+210,209,"Antelope Playa",202,"Radiocarbon",5130,106,13020,0,4910,5350,"Markgraf 1986","Chron uses surface plus 3 radiocarbon dates. Chron is probably unreliable because low-organic matter bulk dates from the Great Plains are almost always too old because of organic matter in the K/T bedrock.",TRUE,1450,-105.45,43.5
+210,209,"Antelope Playa",203,"Radiocarbon",8830,153,13020,0,8230,9430,"Markgraf 1986","Chron uses surface plus 3 radiocarbon dates. Chron is probably unreliable because low-organic matter bulk dates from the Great Plains are almost always too old because of organic matter in the K/T bedrock.",TRUE,1450,-105.45,43.5
+210,209,"Antelope Playa",204,"Radiocarbon",13020,194.5,13020,0,12020,14020,"Markgraf 1986","Chron uses surface plus 3 radiocarbon dates. Chron is probably unreliable because low-organic matter bulk dates from the Great Plains are almost always too old because of organic matter in the K/T bedrock.",TRUE,1450,-105.45,43.5

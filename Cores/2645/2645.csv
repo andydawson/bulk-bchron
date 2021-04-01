@@ -1,3 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2645,2554,"Titicut Swamp",7056,"Core top",0,35,11810,-20,0,0,0,0
-2645,2554,"Titicut Swamp",7058,"Radiocarbon",3170,231,11810,-20,3030,3310,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2645,2554,"Titicut Swamp",7056,"Core top",0,35,11810,-20,0,0,"Nelson 1984","Chron uses top, Ambrosia rise at 100cm, one C14 date, and four pollen stratigraphic dates (see Nelson 1984).",TRUE,20,-71.03333,41.95
+2645,2554,"Titicut Swamp",7057,"Biostratigraphic, pollen",250,100,11810,-20,225,275,"Nelson 1984","Chron uses top, Ambrosia rise at 100cm, one C14 date, and four pollen stratigraphic dates (see Nelson 1984).",TRUE,20,-71.03333,41.95
+2645,2554,"Titicut Swamp",7058,"Radiocarbon",3170,231,11810,-20,3030,3310,"Nelson 1984","Chron uses top, Ambrosia rise at 100cm, one C14 date, and four pollen stratigraphic dates (see Nelson 1984).",TRUE,20,-71.03333,41.95
+2645,2554,"Titicut Swamp",7059,"Biostratigraphic, pollen",4700,271,11810,-20,4600,4800,"Nelson 1984","Chron uses top, Ambrosia rise at 100cm, one C14 date, and four pollen stratigraphic dates (see Nelson 1984).",TRUE,20,-71.03333,41.95
+2645,2554,"Titicut Swamp",7060,"Biostratigraphic, pollen",6700,374.5,11810,-20,6600,6800,"Nelson 1984","Chron uses top, Ambrosia rise at 100cm, one C14 date, and four pollen stratigraphic dates (see Nelson 1984).",TRUE,20,-71.03333,41.95
+2645,2554,"Titicut Swamp",7061,"Biostratigraphic, pollen",9800,589,11810,-20,9600,10000,"Nelson 1984","Chron uses top, Ambrosia rise at 100cm, one C14 date, and four pollen stratigraphic dates (see Nelson 1984).",TRUE,20,-71.03333,41.95
+2645,2554,"Titicut Swamp",7062,"Biostratigraphic, pollen",11500,844,11810,-20,11360,11840,"Nelson 1984","Chron uses top, Ambrosia rise at 100cm, one C14 date, and four pollen stratigraphic dates (see Nelson 1984).",TRUE,20,-71.03333,41.95

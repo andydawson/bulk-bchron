@@ -1,2 +1,2 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-16135,10509,"Awl Site midden",35488,"Radiocarbon",1360,0,1430,1290,1290,1430,70,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16135,10509,"Awl Site midden",35488,"Radiocarbon",1360,0,1430,1290,1290,1430,"Neotoma 1",NA,TRUE,960,-116.63333,35.51667

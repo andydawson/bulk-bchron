@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2063,1989,"Rhule Fen",5904,"Radiocarbon",5930,217.5,13120,9440,5690,6170,240,1
-2063,1989,"Rhule Fen",5905,"Radiocarbon",6750,301.5,13120,9440,6510,6990,240,1
-2063,1989,"Rhule Fen",5906,"Radiocarbon",8300,449,13120,9440,7980,8620,320,1
-2063,1989,"Rhule Fen",5907,"Radiocarbon",10500,633,13120,9440,10240,10760,260,1
-2063,1989,"Rhule Fen",5908,"Radiocarbon",12660,772,13120,9440,12400,12920,260,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2063,1989,"Rhule Fen",5904,"Radiocarbon",5930,217.5,13120,9440,5690,6170,"NAPD 1","Chron uses 5 C14 dates. Shane and Anderson (1993) consider potential dating problems, but chron appears to be regionally consistent.",TRUE,268,-85.74167,39.95361
+2063,1989,"Rhule Fen",5905,"Radiocarbon",6750,301.5,13120,9440,6510,6990,"NAPD 1","Chron uses 5 C14 dates. Shane and Anderson (1993) consider potential dating problems, but chron appears to be regionally consistent.",TRUE,268,-85.74167,39.95361
+2063,1989,"Rhule Fen",5906,"Radiocarbon",8300,449,13120,9440,7980,8620,"NAPD 1","Chron uses 5 C14 dates. Shane and Anderson (1993) consider potential dating problems, but chron appears to be regionally consistent.",TRUE,268,-85.74167,39.95361
+2063,1989,"Rhule Fen",5907,"Radiocarbon",10500,633,13120,9440,10240,10760,"NAPD 1","Chron uses 5 C14 dates. Shane and Anderson (1993) consider potential dating problems, but chron appears to be regionally consistent.",TRUE,268,-85.74167,39.95361
+2063,1989,"Rhule Fen",5908,"Radiocarbon",12660,772,13120,9440,12400,12920,"NAPD 1","Chron uses 5 C14 dates. Shane and Anderson (1993) consider potential dating problems, but chron appears to be regionally consistent.",TRUE,268,-85.74167,39.95361

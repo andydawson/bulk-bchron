@@ -1,2 +1,2 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-16139,10509,"Awl Site midden",35490,"Radiocarbon",6770,0,6870,6670,6670,6870,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16139,10509,"Awl Site midden",35490,"Radiocarbon",6770,0,6870,6670,6670,6870,"NAPD1-C14",NA,TRUE,960,-116.63333,35.51667

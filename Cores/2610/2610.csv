@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2610,2521,"Sugarloaf Pond",6841,"Core top",-27,0,9520,-30,-27,0,13.5,0
-2610,2521,"Sugarloaf Pond",6842,"Radiocarbon",105,55,9520,-30,25,185,80,1
-2610,2521,"Sugarloaf Pond",6843,"Radiocarbon",1385,155,9520,-30,1205,1565,180,1
-2610,2521,"Sugarloaf Pond",6844,"Radiocarbon",7270,455,9520,-30,6870,7670,400,1
-2610,2521,"Sugarloaf Pond",6845,"Radiocarbon",9270,563.5,9520,-30,8970,9570,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2610,2521,"Sugarloaf Pond",6841,"Core top",-27,0,9520,-30,-27,0,"NAPD 1","Chron uses surface (-27 BP) and 4 radiocarbon dates. Dates Dal-293 and Dal-294 are rejected. Acceptance of these dates implies 2m sedimentation in ca. 400 yrs, which seems improbable.",TRUE,100,-52.66667,47.61667
+2610,2521,"Sugarloaf Pond",6842,"Radiocarbon",105,55,9520,-30,25,185,"NAPD 1","Chron uses surface (-27 BP) and 4 radiocarbon dates. Dates Dal-293 and Dal-294 are rejected. Acceptance of these dates implies 2m sedimentation in ca. 400 yrs, which seems improbable.",TRUE,100,-52.66667,47.61667
+2610,2521,"Sugarloaf Pond",6843,"Radiocarbon",1385,155,9520,-30,1205,1565,"NAPD 1","Chron uses surface (-27 BP) and 4 radiocarbon dates. Dates Dal-293 and Dal-294 are rejected. Acceptance of these dates implies 2m sedimentation in ca. 400 yrs, which seems improbable.",TRUE,100,-52.66667,47.61667
+2610,2521,"Sugarloaf Pond",6844,"Radiocarbon",7270,455,9520,-30,6870,7670,"NAPD 1","Chron uses surface (-27 BP) and 4 radiocarbon dates. Dates Dal-293 and Dal-294 are rejected. Acceptance of these dates implies 2m sedimentation in ca. 400 yrs, which seems improbable.",TRUE,100,-52.66667,47.61667
+2610,2521,"Sugarloaf Pond",6845,"Radiocarbon",9270,563.5,9520,-30,8970,9570,"NAPD 1","Chron uses surface (-27 BP) and 4 radiocarbon dates. Dates Dal-293 and Dal-294 are rejected. Acceptance of these dates implies 2m sedimentation in ca. 400 yrs, which seems improbable.",TRUE,100,-52.66667,47.61667

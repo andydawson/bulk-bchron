@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2332,2253,"Lac à Sam",6296,"Core top",0,0,9350,370,0,0,0,0
-2332,2253,"Lac à Sam",6297,"Radiocarbon",2015,55,9350,370,1930,2100,85,1
-2332,2253,"Lac à Sam",6298,"Radiocarbon",3815,155,9350,370,3720,3910,95,1
-2332,2253,"Lac à Sam",6299,"Radiocarbon",5550,265,9350,370,5440,5660,110,1
-2332,2253,"Lac à Sam",6300,"Radiocarbon",8550,355,9350,370,8410,8690,140,1
-2332,2253,"Lac à Sam",6301,"Radiocarbon",9330,395,9350,370,9175,9485,155,1
-2332,2253,"Lac à Sam",6302,"Radiocarbon",9350,412.5,9350,370,9190,9510,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2332,2253,"Lac à Sam",6296,"Core top",0,0,9350,370,0,0,"NAPD 1",NA,TRUE,240,-72.97889,46.65417
+2332,2253,"Lac à Sam",6297,"Radiocarbon",2015,55,9350,370,1930,2100,"NAPD 1",NA,TRUE,240,-72.97889,46.65417
+2332,2253,"Lac à Sam",6298,"Radiocarbon",3815,155,9350,370,3720,3910,"NAPD 1",NA,TRUE,240,-72.97889,46.65417
+2332,2253,"Lac à Sam",6299,"Radiocarbon",5550,265,9350,370,5440,5660,"NAPD 1",NA,TRUE,240,-72.97889,46.65417
+2332,2253,"Lac à Sam",6300,"Radiocarbon",8550,355,9350,370,8410,8690,"NAPD 1",NA,TRUE,240,-72.97889,46.65417
+2332,2253,"Lac à Sam",6301,"Radiocarbon",9330,395,9350,370,9175,9485,"NAPD 1",NA,TRUE,240,-72.97889,46.65417
+2332,2253,"Lac à Sam",6302,"Radiocarbon",9350,412.5,9350,370,9190,9510,"NAPD 1",NA,TRUE,240,-72.97889,46.65417

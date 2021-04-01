@@ -1,4 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1848,1789,"Panther Run Pond",5226,"Core top",0,20,12500,0,-20,20,20,0
-1848,1789,"Panther Run Pond",5229,"Radiocarbon",6400,105,12500,0,6325,6475,75,1
-1848,1789,"Panther Run Pond",5230,"Radiocarbon",12610,135,12500,0,12470,12750,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1848,1789,"Panther Run Pond",5226,"Core top",0,20,12500,0,-20,20,"COHMAP chron 2","2 C-14 dates and date for Tsuga decline at 70 cm inserted (80 to 65 cm) mud/water interface at 20 cm. Age bounds for application of the model: top = 0; bottom = 12500.",TRUE,634,-77.41667,40.8
+1848,1789,"Panther Run Pond",5227,"Biostratigraphic, pollen",300,37,12500,0,250,350,"COHMAP chron 2","2 C-14 dates and date for Tsuga decline at 70 cm inserted (80 to 65 cm) mud/water interface at 20 cm. Age bounds for application of the model: top = 0; bottom = 12500.",TRUE,634,-77.41667,40.8
+1848,1789,"Panther Run Pond",5228,"Biostratigraphic, pollen",4700,70,12500,0,4500,4900,"COHMAP chron 2","2 C-14 dates and date for Tsuga decline at 70 cm inserted (80 to 65 cm) mud/water interface at 20 cm. Age bounds for application of the model: top = 0; bottom = 12500.",TRUE,634,-77.41667,40.8
+1848,1789,"Panther Run Pond",5229,"Radiocarbon",6400,105,12500,0,6325,6475,"COHMAP chron 2","2 C-14 dates and date for Tsuga decline at 70 cm inserted (80 to 65 cm) mud/water interface at 20 cm. Age bounds for application of the model: top = 0; bottom = 12500.",TRUE,634,-77.41667,40.8
+1848,1789,"Panther Run Pond",5230,"Radiocarbon",12610,135,12500,0,12470,12750,"COHMAP chron 2","2 C-14 dates and date for Tsuga decline at 70 cm inserted (80 to 65 cm) mud/water interface at 20 cm. Age bounds for application of the model: top = 0; bottom = 12500.",TRUE,634,-77.41667,40.8

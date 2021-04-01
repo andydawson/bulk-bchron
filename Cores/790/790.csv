@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-790,771,"Eldora Fen",2092,"Core top",-17,0,7960,-10,-17,180,98.5,0
-790,771,"Eldora Fen",2093,"Radiocarbon",1420,51.2,7960,-10,1350,1590,120,1
-790,771,"Eldora Fen",2094,"Radiocarbon",2235,60.5,7960,-10,2165,2405,120,1
-790,771,"Eldora Fen",2095,"Radiocarbon",3635,95.2,7960,-10,3445,3825,190,1
-790,771,"Eldora Fen",2096,"Radiocarbon",5285,113.5,7960,-10,5065,5505,220,1
-790,771,"Eldora Fen",2097,"Radiocarbon",7645,154.5,7960,-10,5035,5535,250,1
-790,771,"Eldora Fen",2098,"Radiocarbon",7815,160.2,7960,-10,7565,8065,250,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+790,771,"Eldora Fen",2092,"Core top",-17,0,7960,-10,-17,180,"Maher","Chorn uses top and six C14 dates. Maher rounded the dates to the nearest decade. (Coefs: -17, 10.858, 0.446116, -0.00128399)",TRUE,2848,-105.58,39.93667
+790,771,"Eldora Fen",2093,"Radiocarbon",1420,51.2,7960,-10,1350,1590,"Maher","Chorn uses top and six C14 dates. Maher rounded the dates to the nearest decade. (Coefs: -17, 10.858, 0.446116, -0.00128399)",TRUE,2848,-105.58,39.93667
+790,771,"Eldora Fen",2094,"Radiocarbon",2235,60.5,7960,-10,2165,2405,"Maher","Chorn uses top and six C14 dates. Maher rounded the dates to the nearest decade. (Coefs: -17, 10.858, 0.446116, -0.00128399)",TRUE,2848,-105.58,39.93667
+790,771,"Eldora Fen",2095,"Radiocarbon",3635,95.2,7960,-10,3445,3825,"Maher","Chorn uses top and six C14 dates. Maher rounded the dates to the nearest decade. (Coefs: -17, 10.858, 0.446116, -0.00128399)",TRUE,2848,-105.58,39.93667
+790,771,"Eldora Fen",2096,"Radiocarbon",5285,113.5,7960,-10,5065,5505,"Maher","Chorn uses top and six C14 dates. Maher rounded the dates to the nearest decade. (Coefs: -17, 10.858, 0.446116, -0.00128399)",TRUE,2848,-105.58,39.93667
+790,771,"Eldora Fen",2097,"Radiocarbon",7645,154.5,7960,-10,5035,5535,"Maher","Chorn uses top and six C14 dates. Maher rounded the dates to the nearest decade. (Coefs: -17, 10.858, 0.446116, -0.00128399)",TRUE,2848,-105.58,39.93667
+790,771,"Eldora Fen",2098,"Radiocarbon",7815,160.2,7960,-10,7565,8065,"Maher","Chorn uses top and six C14 dates. Maher rounded the dates to the nearest decade. (Coefs: -17, 10.858, 0.446116, -0.00128399)",TRUE,2848,-105.58,39.93667

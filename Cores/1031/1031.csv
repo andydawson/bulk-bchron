@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1031,998,"Helmetta Bog",2995,"Core top",0,0,10000,0,-30,30,30,0
-1031,998,"Helmetta Bog",2997,"Radiocarbon",9640,205,10000,0,9580,9700,60,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1031,998,"Helmetta Bog",2995,"Core top",0,0,10000,0,-30,30,"COHMAP chron 1","1 C-14 date, ragweed rise between 50 and 70 cm. Best to use data from 10k, 9k, 500, and 0 years bp only. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,15,-74.43333,40.38333
+1031,998,"Helmetta Bog",2996,"Biostratigraphic, pollen",200,60,10000,0,150,250,"COHMAP chron 1","1 C-14 date, ragweed rise between 50 and 70 cm. Best to use data from 10k, 9k, 500, and 0 years bp only. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,15,-74.43333,40.38333
+1031,998,"Helmetta Bog",2997,"Radiocarbon",9640,205,10000,0,9580,9700,"COHMAP chron 1","1 C-14 date, ragweed rise between 50 and 70 cm. Best to use data from 10k, 9k, 500, and 0 years bp only. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,15,-74.43333,40.38333

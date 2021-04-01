@@ -49,9 +49,12 @@ tephra_error = mean(tephra$error, na.rm=TRUE)
 ##
 
 radio = cc[which(cc$type %in% c('Radiocarbon')),]#, 'Radiocarbon, reservoir correction', 'Radiocarbon, average of two or more dates')),]
-radio$error = abs(radio$limitolder - radio$limityounger)
+radio$error = abs(radio$limitolder - radio$limityounger)/2
 
 radio = radio[which((!is.na(radio$error)) & (radio$error>0)),]
+
+write.csv(radio, 'data/radiocarbon-dates-errors.csv', row.names=FALSE)
+
 
 ggplot() + 
   geom_point(data=radio, aes(x=age, y=error)) + 

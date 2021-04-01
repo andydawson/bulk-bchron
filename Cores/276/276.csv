@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-276,270,"Bishops Falls",610,"Core top",-32,0,10610,100,-32,0,16,0
-276,270,"Bishops Falls",611,"Radiocarbon",6340,227.5,10610,100,6200,6480,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+276,270,"Bishops Falls",610,"Core top",-32,0,10610,100,-32,0,"NAPD 1","Chron uses surface (-32 BP), 1 radiocarbon date, and date of 9600 on the Picea increase based on pollen stratigraphic correlation with Leading Tickles (J.B. Macpherson, pers. comm.).",TRUE,75,-55.50556,48.93611
+276,270,"Bishops Falls",611,"Radiocarbon",6340,227.5,10610,100,6200,6480,"NAPD 1","Chron uses surface (-32 BP), 1 radiocarbon date, and date of 9600 on the Picea increase based on pollen stratigraphic correlation with Leading Tickles (J.B. Macpherson, pers. comm.).",TRUE,75,-55.50556,48.93611
+276,270,"Bishops Falls",612,"Biostratigraphic, pollen",9600,292.5,10610,100,9200,10000,"NAPD 1","Chron uses surface (-32 BP), 1 radiocarbon date, and date of 9600 on the Picea increase based on pollen stratigraphic correlation with Leading Tickles (J.B. Macpherson, pers. comm.).",TRUE,75,-55.50556,48.93611

@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1580,1540,"Lake Sixteen",3806,"Core top",0,0,10870,2200,-50,50,50,0
-1580,1540,"Lake Sixteen",3807,"Radiocarbon",3030,92.5,10870,2200,2890,3170,140,1
-1580,1540,"Lake Sixteen",3808,"Radiocarbon",3780,129.5,10870,2200,3400,4160,380,1
-1580,1540,"Lake Sixteen",3809,"Radiocarbon",5805,157.5,10870,2200,5475,6135,330,1
-1580,1540,"Lake Sixteen",3810,"Radiocarbon",7630,194,10870,2200,7550,7710,80,1
-1580,1540,"Lake Sixteen",3811,"Radiocarbon",10690,228,10870,2200,10590,10790,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1580,1540,"Lake Sixteen",3806,"Core top",0,0,10870,2200,-50,50,"COHMAP chron 1","Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,216,-84.31667,45.6
+1580,1540,"Lake Sixteen",3807,"Radiocarbon",3030,92.5,10870,2200,2890,3170,"COHMAP chron 1","Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,216,-84.31667,45.6
+1580,1540,"Lake Sixteen",3808,"Radiocarbon",3780,129.5,10870,2200,3400,4160,"COHMAP chron 1","Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,216,-84.31667,45.6
+1580,1540,"Lake Sixteen",3809,"Radiocarbon",5805,157.5,10870,2200,5475,6135,"COHMAP chron 1","Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,216,-84.31667,45.6
+1580,1540,"Lake Sixteen",3810,"Radiocarbon",7630,194,10870,2200,7550,7710,"COHMAP chron 1","Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,216,-84.31667,45.6
+1580,1540,"Lake Sixteen",3811,"Radiocarbon",10690,228,10870,2200,10590,10790,"COHMAP chron 1","Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,216,-84.31667,45.6

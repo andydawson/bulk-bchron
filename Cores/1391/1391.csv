@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1391,1356,"Joes Pond",3358,"Core top",-30,0,13640,-20,-30,-10,10,0
-1391,1356,"Joes Pond",3359,"Radiocarbon",3300,290,13640,-20,2830,3770,470,1
-1391,1356,"Joes Pond",3360,"Radiocarbon",9445,423.5,13640,-20,8685,10205,760,1
-1391,1356,"Joes Pond",3361,"Radiocarbon",10950,451,13640,-20,10790,11110,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1391,1356,"Joes Pond",3358,"Core top",-30,0,13640,-20,-30,-10,"NAPD 1","Chron uses top and three C14 dates.",TRUE,100,-58.24,48.24
+1391,1356,"Joes Pond",3359,"Radiocarbon",3300,290,13640,-20,2830,3770,"NAPD 1","Chron uses top and three C14 dates.",TRUE,100,-58.24,48.24
+1391,1356,"Joes Pond",3360,"Radiocarbon",9445,423.5,13640,-20,8685,10205,"NAPD 1","Chron uses top and three C14 dates.",TRUE,100,-58.24,48.24
+1391,1356,"Joes Pond",3361,"Radiocarbon",10950,451,13640,-20,10790,11110,"NAPD 1","Chron uses top and three C14 dates.",TRUE,100,-58.24,48.24

@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1891,1827,"Peterson Slough",5368,"Core top",-30,0,3470,-30,-30,0,15,0
-1891,1827,"Peterson Slough",5369,"Radiocarbon, reservoir correction",110,45,3470,-30,30,190,80,1
-1891,1827,"Peterson Slough",5370,"Radiocarbon, reservoir correction",3010,395,3470,-30,2850,3170,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1891,1827,"Peterson Slough",5368,"Core top",-30,0,3470,-30,-30,0,"Almendinger 1992","Chron uses surface (-30 BP) and 2 radiocarbon dates corrected by 730 years for old carbon (see Almendinger 1992). One date (510±70, WIS-1606) above the Ambrosia-rise not used for chronology.",TRUE,460,-95.31667,46.96667
+1891,1827,"Peterson Slough",5369,"Radiocarbon, reservoir correction",110,45,3470,-30,30,190,"Almendinger 1992","Chron uses surface (-30 BP) and 2 radiocarbon dates corrected by 730 years for old carbon (see Almendinger 1992). One date (510±70, WIS-1606) above the Ambrosia-rise not used for chronology.",TRUE,460,-95.31667,46.96667
+1891,1827,"Peterson Slough",5370,"Radiocarbon, reservoir correction",3010,395,3470,-30,2850,3170,"Almendinger 1992","Chron uses surface (-30 BP) and 2 radiocarbon dates corrected by 730 years for old carbon (see Almendinger 1992). One date (510±70, WIS-1606) above the Ambrosia-rise not used for chronology.",TRUE,460,-95.31667,46.96667

@@ -1,6 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1965,1900,"Porqui Pond",5475,"Core top",-30,0,13500,-20,-30,-10,10,0
-1965,1900,"Porqui Pond",5476,"Radiocarbon",4300,235,13500,-20,4100,4500,200,1
-1965,1900,"Porqui Pond",5477,"Radiocarbon",4450,385,13500,-20,4310,4590,140,1
-1965,1900,"Porqui Pond",5478,"Radiocarbon",7450,590,13500,-20,7270,7630,180,1
-1965,1900,"Porqui Pond",5480,"Deglaciation",13500,1060,13500,-20,13000,14000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1965,1900,"Porqui Pond",5475,"Core top",-30,0,13500,-20,-30,-10,"NAPD 1","Chron uses top, three C14 dates, date of 10000±500 years BP for Picea decline, and 13500±500 years BP for time of deglaciation.",TRUE,188,-79.78,44.93
+1965,1900,"Porqui Pond",5476,"Radiocarbon",4300,235,13500,-20,4100,4500,"NAPD 1","Chron uses top, three C14 dates, date of 10000±500 years BP for Picea decline, and 13500±500 years BP for time of deglaciation.",TRUE,188,-79.78,44.93
+1965,1900,"Porqui Pond",5477,"Radiocarbon",4450,385,13500,-20,4310,4590,"NAPD 1","Chron uses top, three C14 dates, date of 10000±500 years BP for Picea decline, and 13500±500 years BP for time of deglaciation.",TRUE,188,-79.78,44.93
+1965,1900,"Porqui Pond",5478,"Radiocarbon",7450,590,13500,-20,7270,7630,"NAPD 1","Chron uses top, three C14 dates, date of 10000±500 years BP for Picea decline, and 13500±500 years BP for time of deglaciation.",TRUE,188,-79.78,44.93
+1965,1900,"Porqui Pond",5479,"Biostratigraphic, pollen",10000,620,13500,-20,9500,10500,"NAPD 1","Chron uses top, three C14 dates, date of 10000±500 years BP for Picea decline, and 13500±500 years BP for time of deglaciation.",TRUE,188,-79.78,44.93
+1965,1900,"Porqui Pond",5480,"Deglaciation",13500,1060,13500,-20,13000,14000,"NAPD 1","Chron uses top, three C14 dates, date of 10000±500 years BP for Picea decline, and 13500±500 years BP for time of deglaciation.",TRUE,188,-79.78,44.93

@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-796,776,"Emerald Lake",2158,"Core top",0,0,12740,450,-30,30,30,0
-796,776,"Emerald Lake",2159,"Radiocarbon",4990,217.5,12740,450,4850,5130,140,1
-796,776,"Emerald Lake",2160,"Tephra",6850,330.5,12740,450,6700,7000,150,0
-796,776,"Emerald Lake",2161,"Radiocarbon",10260,415,12740,450,10040,10480,220,1
-796,776,"Emerald Lake",2162,"Radiocarbon",10700,455,12740,450,10480,10920,220,1
-796,776,"Emerald Lake",2163,"Tephra",12100,520.5,12740,450,11900,12300,200,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+796,776,"Emerald Lake",2158,"Core top",0,0,12740,450,-30,30,"NAPD 1","Chron uses surface date (0 BP), 3 radiocarbon dates, the Mazama ash (6850 BP), and the Glacier Peak ash that is dated to 12,100 in the Yellowstone region (see Whitlock 1993).",TRUE,2634,-110.3,44.06667
+796,776,"Emerald Lake",2159,"Radiocarbon",4990,217.5,12740,450,4850,5130,"NAPD 1","Chron uses surface date (0 BP), 3 radiocarbon dates, the Mazama ash (6850 BP), and the Glacier Peak ash that is dated to 12,100 in the Yellowstone region (see Whitlock 1993).",TRUE,2634,-110.3,44.06667
+796,776,"Emerald Lake",2160,"Tephra",6850,330.5,12740,450,6700,7000,"NAPD 1","Chron uses surface date (0 BP), 3 radiocarbon dates, the Mazama ash (6850 BP), and the Glacier Peak ash that is dated to 12,100 in the Yellowstone region (see Whitlock 1993).",TRUE,2634,-110.3,44.06667
+796,776,"Emerald Lake",2161,"Radiocarbon",10260,415,12740,450,10040,10480,"NAPD 1","Chron uses surface date (0 BP), 3 radiocarbon dates, the Mazama ash (6850 BP), and the Glacier Peak ash that is dated to 12,100 in the Yellowstone region (see Whitlock 1993).",TRUE,2634,-110.3,44.06667
+796,776,"Emerald Lake",2162,"Radiocarbon",10700,455,12740,450,10480,10920,"NAPD 1","Chron uses surface date (0 BP), 3 radiocarbon dates, the Mazama ash (6850 BP), and the Glacier Peak ash that is dated to 12,100 in the Yellowstone region (see Whitlock 1993).",TRUE,2634,-110.3,44.06667
+796,776,"Emerald Lake",2163,"Tephra",12100,520.5,12740,450,11900,12300,"NAPD 1","Chron uses surface date (0 BP), 3 radiocarbon dates, the Mazama ash (6850 BP), and the Glacier Peak ash that is dated to 12,100 in the Yellowstone region (see Whitlock 1993).",TRUE,2634,-110.3,44.06667

@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3054,2955,"Head Lake",7656,"Core top",-39,0,9710,-40,-39,-19,10,0
-3054,2955,"Head Lake",7657,"Radiocarbon, reservoir correction",150,12.5,9710,-40,-39,450,244.5,1
-3054,2955,"Head Lake",7658,"Radiocarbon, reservoir correction",3730,25,9710,-40,3350,4110,380,1
-3054,2955,"Head Lake",7659,"Radiocarbon, reservoir correction",8990,37.5,9710,-40,8410,9570,580,1
-3054,2955,"Head Lake",7660,"Radiocarbon, reservoir correction",9560,47.5,9710,-40,9240,9880,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3054,2955,"Head Lake",7656,"Core top",-39,0,9710,-40,-39,-19,"NAPD 1","Chron uses top and four C14 dates corrected by 1500 years to account for dead carbon (see Shafer 1989).",TRUE,2300,-105.74761,-105.73366
+3054,2955,"Head Lake",7657,"Radiocarbon, reservoir correction",150,12.5,9710,-40,-39,450,"NAPD 1","Chron uses top and four C14 dates corrected by 1500 years to account for dead carbon (see Shafer 1989).",TRUE,2300,-105.74761,-105.73366
+3054,2955,"Head Lake",7658,"Radiocarbon, reservoir correction",3730,25,9710,-40,3350,4110,"NAPD 1","Chron uses top and four C14 dates corrected by 1500 years to account for dead carbon (see Shafer 1989).",TRUE,2300,-105.74761,-105.73366
+3054,2955,"Head Lake",7659,"Radiocarbon, reservoir correction",8990,37.5,9710,-40,8410,9570,"NAPD 1","Chron uses top and four C14 dates corrected by 1500 years to account for dead carbon (see Shafer 1989).",TRUE,2300,-105.74761,-105.73366
+3054,2955,"Head Lake",7660,"Radiocarbon, reservoir correction",9560,47.5,9710,-40,9240,9880,"NAPD 1","Chron uses top and four C14 dates corrected by 1500 years to account for dead carbon (see Shafer 1989).",TRUE,2300,-105.74761,-105.73366

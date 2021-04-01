@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2015,1946,"Rivière-aux-Feuilles 2",5730,"Core top",0,0,4880,510,0,0,0,0
-2015,1946,"Rivière-aux-Feuilles 2",5731,"Radiocarbon",1795,17.5,4880,510,1660,1930,135,1
-2015,1946,"Rivière-aux-Feuilles 2",5732,"Radiocarbon",2285,45,4880,510,2135,2435,150,1
-2015,1946,"Rivière-aux-Feuilles 2",5733,"Radiocarbon",2855,95,4880,510,2715,2995,140,1
-2015,1946,"Rivière-aux-Feuilles 2",5734,"Radiocarbon",3460,132.5,4880,510,3305,3615,155,1
-2015,1946,"Rivière-aux-Feuilles 2",5735,"Radiocarbon",4135,145,4880,510,3945,4325,190,1
-2015,1946,"Rivière-aux-Feuilles 2",5736,"Radiocarbon",4880,185,4880,510,4810,5050,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2015,1946,"Rivière-aux-Feuilles 2",5730,"Core top",0,0,4880,510,0,0,"NAPD 1",NA,TRUE,225,-71.95,58.21694
+2015,1946,"Rivière-aux-Feuilles 2",5731,"Radiocarbon",1795,17.5,4880,510,1660,1930,"NAPD 1",NA,TRUE,225,-71.95,58.21694
+2015,1946,"Rivière-aux-Feuilles 2",5732,"Radiocarbon",2285,45,4880,510,2135,2435,"NAPD 1",NA,TRUE,225,-71.95,58.21694
+2015,1946,"Rivière-aux-Feuilles 2",5733,"Radiocarbon",2855,95,4880,510,2715,2995,"NAPD 1",NA,TRUE,225,-71.95,58.21694
+2015,1946,"Rivière-aux-Feuilles 2",5734,"Radiocarbon",3460,132.5,4880,510,3305,3615,"NAPD 1",NA,TRUE,225,-71.95,58.21694
+2015,1946,"Rivière-aux-Feuilles 2",5735,"Radiocarbon",4135,145,4880,510,3945,4325,"NAPD 1",NA,TRUE,225,-71.95,58.21694
+2015,1946,"Rivière-aux-Feuilles 2",5736,"Radiocarbon",4880,185,4880,510,4810,5050,"NAPD 1",NA,TRUE,225,-71.95,58.21694

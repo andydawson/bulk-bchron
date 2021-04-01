@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3501,1812,"Pittsburg Basin",8175,"Radiocarbon",21370,200,39600,21120,19750,22990,1620,1
-3501,1812,"Pittsburg Basin",8176,"Radiocarbon",24200,235,39600,21120,22600,25800,1600,1
-3501,1812,"Pittsburg Basin",8177,"Radiocarbon",34000,240,39600,21120,31600,36400,2400,1
-3501,1812,"Pittsburg Basin",8178,"Radiocarbon",37200,270,39600,21120,35400,39000,1800,1
-3501,1812,"Pittsburg Basin",8179,"Radiocarbon",38100,277.5,39600,21120,36100,40100,2000,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3501,1812,"Pittsburg Basin",8175,"Radiocarbon",21370,200,39600,21120,19750,22990,"NAPD 1","Chron uses 5 finite radiocarbon dates. Reliable chronology exists for sections 197-237 cm (ca. 21,100-24360 BP) and 247-290 cm (ca. 34740-39600 BP). An apparent hiatus exists between samples 237 cm and 247 cm.",TRUE,162,-89.19354,-89.18614
+3501,1812,"Pittsburg Basin",8176,"Radiocarbon",24200,235,39600,21120,22600,25800,"NAPD 1","Chron uses 5 finite radiocarbon dates. Reliable chronology exists for sections 197-237 cm (ca. 21,100-24360 BP) and 247-290 cm (ca. 34740-39600 BP). An apparent hiatus exists between samples 237 cm and 247 cm.",TRUE,162,-89.19354,-89.18614
+3501,1812,"Pittsburg Basin",8177,"Radiocarbon",34000,240,39600,21120,31600,36400,"NAPD 1","Chron uses 5 finite radiocarbon dates. Reliable chronology exists for sections 197-237 cm (ca. 21,100-24360 BP) and 247-290 cm (ca. 34740-39600 BP). An apparent hiatus exists between samples 237 cm and 247 cm.",TRUE,162,-89.19354,-89.18614
+3501,1812,"Pittsburg Basin",8178,"Radiocarbon",37200,270,39600,21120,35400,39000,"NAPD 1","Chron uses 5 finite radiocarbon dates. Reliable chronology exists for sections 197-237 cm (ca. 21,100-24360 BP) and 247-290 cm (ca. 34740-39600 BP). An apparent hiatus exists between samples 237 cm and 247 cm.",TRUE,162,-89.19354,-89.18614
+3501,1812,"Pittsburg Basin",8179,"Radiocarbon",38100,277.5,39600,21120,36100,40100,"NAPD 1","Chron uses 5 finite radiocarbon dates. Reliable chronology exists for sections 197-237 cm (ca. 21,100-24360 BP) and 247-290 cm (ca. 34740-39600 BP). An apparent hiatus exists between samples 237 cm and 247 cm.",TRUE,162,-89.19354,-89.18614

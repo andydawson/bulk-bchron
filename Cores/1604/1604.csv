@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1604,1560,"Lake PWWL",3929,"Core top",-45,0,6630,10,-45,0,22.5,0
-1604,1560,"Lake PWWL",3930,"Radiocarbon",1560,13.5,6630,10,1470,1650,90,1
-1604,1560,"Lake PWWL",3931,"Radiocarbon",2600,41.5,6630,10,2520,2680,80,1
-1604,1560,"Lake PWWL",3932,"Radiocarbon",4140,74,6630,10,4060,4220,80,1
-1604,1560,"Lake PWWL",3933,"Radiocarbon",6480,91.5,6630,10,6340,6620,140,1
-1604,1560,"Lake PWWL",3934,"Other dating methods",9000,160,6630,10,8000,10000,1000,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1604,1560,"Lake PWWL",3929,"Core top",-45,0,6630,10,-45,0,"NAPD 1 (radiocarbon years)","Chron based on top, 4 AMS dates on bryophytes, and estimated basal age of emergence from the sea. Bryophyte dates may be too old. See Gajewski and Frappier (2001) for discussion.",TRUE,110,-98.53889,73.59139
+1604,1560,"Lake PWWL",3930,"Radiocarbon",1560,13.5,6630,10,1470,1650,"NAPD 1 (radiocarbon years)","Chron based on top, 4 AMS dates on bryophytes, and estimated basal age of emergence from the sea. Bryophyte dates may be too old. See Gajewski and Frappier (2001) for discussion.",TRUE,110,-98.53889,73.59139
+1604,1560,"Lake PWWL",3931,"Radiocarbon",2600,41.5,6630,10,2520,2680,"NAPD 1 (radiocarbon years)","Chron based on top, 4 AMS dates on bryophytes, and estimated basal age of emergence from the sea. Bryophyte dates may be too old. See Gajewski and Frappier (2001) for discussion.",TRUE,110,-98.53889,73.59139
+1604,1560,"Lake PWWL",3932,"Radiocarbon",4140,74,6630,10,4060,4220,"NAPD 1 (radiocarbon years)","Chron based on top, 4 AMS dates on bryophytes, and estimated basal age of emergence from the sea. Bryophyte dates may be too old. See Gajewski and Frappier (2001) for discussion.",TRUE,110,-98.53889,73.59139
+1604,1560,"Lake PWWL",3933,"Radiocarbon",6480,91.5,6630,10,6340,6620,"NAPD 1 (radiocarbon years)","Chron based on top, 4 AMS dates on bryophytes, and estimated basal age of emergence from the sea. Bryophyte dates may be too old. See Gajewski and Frappier (2001) for discussion.",TRUE,110,-98.53889,73.59139
+1604,1560,"Lake PWWL",3934,"Other dating methods",9000,160,6630,10,8000,10000,"NAPD 1 (radiocarbon years)","Chron based on top, 4 AMS dates on bryophytes, and estimated basal age of emergence from the sea. Bryophyte dates may be too old. See Gajewski and Frappier (2001) for discussion.",TRUE,110,-98.53889,73.59139

@@ -1,8 +1,218 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-20289,13480,"Marcella Lake",40818,"Radiocarbon",1080,50.5,8650,-60,1045,1115,35,1
-20289,13480,"Marcella Lake",40819,"Radiocarbon",2365,101,8650,-60,2325,2405,40,1
-20289,13480,"Marcella Lake",40820,"Radiocarbon",5330,198,8650,-60,5290,5370,40,1
-20289,13480,"Marcella Lake",40821,"Radiocarbon",7370,241,8650,-60,7260,7480,110,1
-20289,13480,"Marcella Lake",40822,"Radiocarbon",8605,466,8650,-60,8565,8645,40,1
-20289,13480,"Marcella Lake",40823,"Radiocarbon",9090,520,8650,-60,9035,9145,55,1
-20289,13480,"Marcella Lake",40824,"Core top",NA,0,8650,-60,NA,NA,NA,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20289,13480,"Marcella Lake",40818,"Radiocarbon",1080,50.5,8650,-60,1045,1115,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARCELLA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+520 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,697,-133.80824,-133.80378
+20289,13480,"Marcella Lake",40819,"Radiocarbon",2365,101,8650,-60,2325,2405,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARCELLA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+520 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,697,-133.80824,-133.80378
+20289,13480,"Marcella Lake",40820,"Radiocarbon",5330,198,8650,-60,5290,5370,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARCELLA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+520 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,697,-133.80824,-133.80378
+20289,13480,"Marcella Lake",40821,"Radiocarbon",7370,241,8650,-60,7260,7480,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARCELLA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+520 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,697,-133.80824,-133.80378
+20289,13480,"Marcella Lake",40822,"Radiocarbon",8605,466,8650,-60,8565,8645,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARCELLA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+520 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,697,-133.80824,-133.80378
+20289,13480,"Marcella Lake",40823,"Radiocarbon",9090,520,8650,-60,9035,9145,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARCELLA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+520 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,697,-133.80824,-133.80378
+20289,13480,"Marcella Lake",40824,"Core top",NA,0,8650,-60,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARCELLA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+520 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,697,-133.80824,-133.80378

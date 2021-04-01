@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-303,297,"Border Beacon",715,"Core top",0,1380,6780,0,-100,100,100,0
-303,297,"Border Beacon",716,"Radiocarbon",1450,1422.5,6780,0,1270,1630,180,1
-303,297,"Border Beacon",717,"Radiocarbon",2850,1472.5,6780,0,2670,3030,180,1
-303,297,"Border Beacon",718,"Radiocarbon",3495,1522.5,6780,0,3305,3685,190,1
-303,297,"Border Beacon",719,"Radiocarbon",4750,1572.5,6780,0,4610,4790,90,1
-303,297,"Border Beacon",720,"Radiocarbon",6500,1635,6780,0,6300,6700,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+303,297,"Border Beacon",715,"Core top",0,1380,6780,0,-100,100,"COHMAP chron 1","5 C-14 dates. Core top at 1380 cm. 260 cm of silty gyttja. COHMAP age bounds for application of the model: top = 0; bottom = 6500.",TRUE,470,-63.2,55.33333
+303,297,"Border Beacon",716,"Radiocarbon",1450,1422.5,6780,0,1270,1630,"COHMAP chron 1","5 C-14 dates. Core top at 1380 cm. 260 cm of silty gyttja. COHMAP age bounds for application of the model: top = 0; bottom = 6500.",TRUE,470,-63.2,55.33333
+303,297,"Border Beacon",717,"Radiocarbon",2850,1472.5,6780,0,2670,3030,"COHMAP chron 1","5 C-14 dates. Core top at 1380 cm. 260 cm of silty gyttja. COHMAP age bounds for application of the model: top = 0; bottom = 6500.",TRUE,470,-63.2,55.33333
+303,297,"Border Beacon",718,"Radiocarbon",3495,1522.5,6780,0,3305,3685,"COHMAP chron 1","5 C-14 dates. Core top at 1380 cm. 260 cm of silty gyttja. COHMAP age bounds for application of the model: top = 0; bottom = 6500.",TRUE,470,-63.2,55.33333
+303,297,"Border Beacon",719,"Radiocarbon",4750,1572.5,6780,0,4610,4790,"COHMAP chron 1","5 C-14 dates. Core top at 1380 cm. 260 cm of silty gyttja. COHMAP age bounds for application of the model: top = 0; bottom = 6500.",TRUE,470,-63.2,55.33333
+303,297,"Border Beacon",720,"Radiocarbon",6500,1635,6780,0,6300,6700,"COHMAP chron 1","5 C-14 dates. Core top at 1380 cm. 260 cm of silty gyttja. COHMAP age bounds for application of the model: top = 0; bottom = 6500.",TRUE,470,-63.2,55.33333

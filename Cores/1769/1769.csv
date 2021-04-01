@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1769,1712,"18 [Moraine Lake]",4830,"Core top",0,0,10000,0,-50,50,50,0
-1769,1712,"18 [Moraine Lake]",4831,"Radiocarbon",1630,22.5,10000,0,1550,1710,80,1
-1769,1712,"18 [Moraine Lake]",4832,"Radiocarbon",2570,47.5,10000,0,2440,2700,130,1
-1769,1712,"18 [Moraine Lake]",4833,"Radiocarbon",3840,74.5,10000,0,3750,3930,90,1
-1769,1712,"18 [Moraine Lake]",4834,"Radiocarbon",5110,107.5,10000,0,4990,5230,120,1
-1769,1712,"18 [Moraine Lake]",4835,"Radiocarbon",6870,140,10000,0,6790,6950,80,1
-1769,1712,"18 [Moraine Lake]",4836,"Radiocarbon",9640,172.5,10000,0,9470,9810,170,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1769,1712,"18 [Moraine Lake]",4830,"Core top",0,0,10000,0,-50,50,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,385,-58.05,52.26667
+1769,1712,"18 [Moraine Lake]",4831,"Radiocarbon",1630,22.5,10000,0,1550,1710,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,385,-58.05,52.26667
+1769,1712,"18 [Moraine Lake]",4832,"Radiocarbon",2570,47.5,10000,0,2440,2700,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,385,-58.05,52.26667
+1769,1712,"18 [Moraine Lake]",4833,"Radiocarbon",3840,74.5,10000,0,3750,3930,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,385,-58.05,52.26667
+1769,1712,"18 [Moraine Lake]",4834,"Radiocarbon",5110,107.5,10000,0,4990,5230,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,385,-58.05,52.26667
+1769,1712,"18 [Moraine Lake]",4835,"Radiocarbon",6870,140,10000,0,6790,6950,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,385,-58.05,52.26667
+1769,1712,"18 [Moraine Lake]",4836,"Radiocarbon",9640,172.5,10000,0,9470,9810,"COHMAP chron 1","6 C-14 dates. No ragweed rise. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,385,-58.05,52.26667

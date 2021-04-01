@@ -1,2 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-268,262,"Banks Island 74MS12",562,"Core top",-50,0,9000,150,-50,-50,0,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+268,262,"Banks Island 74MS12",562,"Core top",-50,0,9000,150,-50,-50,"NAPD 1 (radiocarbon years)","Chron uses top and 3 pollen stratigraphic dates. Radiocarbon dates are considered to be too old (see Gajewski et al. 2000 for discussion).",TRUE,220,-119.83333,72.36667
+268,262,"Banks Island 74MS12",563,"Biostratigraphic, pollen",2500,50,9000,150,2000,3000,"NAPD 1 (radiocarbon years)","Chron uses top and 3 pollen stratigraphic dates. Radiocarbon dates are considered to be too old (see Gajewski et al. 2000 for discussion).",TRUE,220,-119.83333,72.36667
+268,262,"Banks Island 74MS12",564,"Biostratigraphic, pollen",7000,130,9000,150,6000,8000,"NAPD 1 (radiocarbon years)","Chron uses top and 3 pollen stratigraphic dates. Radiocarbon dates are considered to be too old (see Gajewski et al. 2000 for discussion).",TRUE,220,-119.83333,72.36667
+268,262,"Banks Island 74MS12",565,"Biostratigraphic, pollen",9000,165,9000,150,800,10000,"NAPD 1 (radiocarbon years)","Chron uses top and 3 pollen stratigraphic dates. Radiocarbon dates are considered to be too old (see Gajewski et al. 2000 for discussion).",TRUE,220,-119.83333,72.36667

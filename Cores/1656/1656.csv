@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1656,1605,"Lofty Lake",4285,"Core top",-15,0,11400,-20,-15,0,7.5,0
-1656,1605,"Lofty Lake",4286,"Radiocarbon",3460,160,11400,-20,3320,3600,140,1
-1656,1605,"Lofty Lake",4287,"Radiocarbon",5200,294,11400,-20,5060,5340,140,1
-1656,1605,"Lofty Lake",4288,"Tephra",6730,398,11400,-20,6690,6770,40,0
-1656,1605,"Lofty Lake",4289,"Radiocarbon",7480,440,11400,-20,7330,7630,150,1
-1656,1605,"Lofty Lake",4290,"Radiocarbon",9180,515,11400,-20,9030,9330,150,1
-1656,1605,"Lofty Lake",4291,"Radiocarbon",11400,555,11400,-20,11210,11590,190,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1656,1605,"Lofty Lake",4285,"Core top",-15,0,11400,-20,-15,0,"NAPD 1 (radiocarbon years)","Chron uses top, 5 14C dates, and age of the Mazama ash at 598 cm (Hallet et al. 1997). Basal 14C age assigned to base to make age consistent with Dyke (2003). Mazama age right in line with 14C ages.",TRUE,620,-112.48083,54.72528
+1656,1605,"Lofty Lake",4286,"Radiocarbon",3460,160,11400,-20,3320,3600,"NAPD 1 (radiocarbon years)","Chron uses top, 5 14C dates, and age of the Mazama ash at 598 cm (Hallet et al. 1997). Basal 14C age assigned to base to make age consistent with Dyke (2003). Mazama age right in line with 14C ages.",TRUE,620,-112.48083,54.72528
+1656,1605,"Lofty Lake",4287,"Radiocarbon",5200,294,11400,-20,5060,5340,"NAPD 1 (radiocarbon years)","Chron uses top, 5 14C dates, and age of the Mazama ash at 598 cm (Hallet et al. 1997). Basal 14C age assigned to base to make age consistent with Dyke (2003). Mazama age right in line with 14C ages.",TRUE,620,-112.48083,54.72528
+1656,1605,"Lofty Lake",4288,"Tephra",6730,398,11400,-20,6690,6770,"NAPD 1 (radiocarbon years)","Chron uses top, 5 14C dates, and age of the Mazama ash at 598 cm (Hallet et al. 1997). Basal 14C age assigned to base to make age consistent with Dyke (2003). Mazama age right in line with 14C ages.",TRUE,620,-112.48083,54.72528
+1656,1605,"Lofty Lake",4289,"Radiocarbon",7480,440,11400,-20,7330,7630,"NAPD 1 (radiocarbon years)","Chron uses top, 5 14C dates, and age of the Mazama ash at 598 cm (Hallet et al. 1997). Basal 14C age assigned to base to make age consistent with Dyke (2003). Mazama age right in line with 14C ages.",TRUE,620,-112.48083,54.72528
+1656,1605,"Lofty Lake",4290,"Radiocarbon",9180,515,11400,-20,9030,9330,"NAPD 1 (radiocarbon years)","Chron uses top, 5 14C dates, and age of the Mazama ash at 598 cm (Hallet et al. 1997). Basal 14C age assigned to base to make age consistent with Dyke (2003). Mazama age right in line with 14C ages.",TRUE,620,-112.48083,54.72528
+1656,1605,"Lofty Lake",4291,"Radiocarbon",11400,555,11400,-20,11210,11590,"NAPD 1 (radiocarbon years)","Chron uses top, 5 14C dates, and age of the Mazama ash at 598 cm (Hallet et al. 1997). Basal 14C age assigned to base to make age consistent with Dyke (2003). Mazama age right in line with 14C ages.",TRUE,620,-112.48083,54.72528

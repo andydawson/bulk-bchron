@@ -1,6 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1755,1699,"Minakokosa Lake",4748,"Core top",0,0,15200,0,-35,500,267.5,0
-1755,1699,"Minakokosa Lake",4749,"Radiocarbon",4520,95,15200,0,4430,4610,90,1
-1755,1699,"Minakokosa Lake",4750,"Radiocarbon",8580,315,15200,0,8460,8700,120,1
-1755,1699,"Minakokosa Lake",4751,"Radiocarbon",9770,355,15200,0,9610,9930,160,1
-1755,1699,"Minakokosa Lake",4752,"Radiocarbon",15190,505,15200,0,14970,15410,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1755,1699,"Minakokosa Lake",4748,"Core top",0,0,15200,0,-35,500,"Anderson 1993","Chron uses 4 radiocarbon dates, sediment surface date, plus a guessed date of 16000 for the bottom. One inverted radiocarbon date (10570±140) is not used.",TRUE,122,-155.03333,66.91667
+1755,1699,"Minakokosa Lake",4749,"Radiocarbon",4520,95,15200,0,4430,4610,"Anderson 1993","Chron uses 4 radiocarbon dates, sediment surface date, plus a guessed date of 16000 for the bottom. One inverted radiocarbon date (10570±140) is not used.",TRUE,122,-155.03333,66.91667
+1755,1699,"Minakokosa Lake",4750,"Radiocarbon",8580,315,15200,0,8460,8700,"Anderson 1993","Chron uses 4 radiocarbon dates, sediment surface date, plus a guessed date of 16000 for the bottom. One inverted radiocarbon date (10570±140) is not used.",TRUE,122,-155.03333,66.91667
+1755,1699,"Minakokosa Lake",4751,"Radiocarbon",9770,355,15200,0,9610,9930,"Anderson 1993","Chron uses 4 radiocarbon dates, sediment surface date, plus a guessed date of 16000 for the bottom. One inverted radiocarbon date (10570±140) is not used.",TRUE,122,-155.03333,66.91667
+1755,1699,"Minakokosa Lake",4752,"Radiocarbon",15190,505,15200,0,14970,15410,"Anderson 1993","Chron uses 4 radiocarbon dates, sediment surface date, plus a guessed date of 16000 for the bottom. One inverted radiocarbon date (10570±140) is not used.",TRUE,122,-155.03333,66.91667
+1755,1699,"Minakokosa Lake",4753,"Guess",16000,700,15200,0,15500,20000,"Anderson 1993","Chron uses 4 radiocarbon dates, sediment surface date, plus a guessed date of 16000 for the bottom. One inverted radiocarbon date (10570±140) is not used.",TRUE,122,-155.03333,66.91667

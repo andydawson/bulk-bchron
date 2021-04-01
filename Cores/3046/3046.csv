@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3046,2947,"Lac Yelle",7623,"Core top",0,0,8900,0,0,0,0,0
-3046,2947,"Lac Yelle",7624,"Radiocarbon",3350,195,8900,0,3280,3420,70,1
-3046,2947,"Lac Yelle",7625,"Radiocarbon",5625,295,8900,0,5550,5700,75,1
-3046,2947,"Lac Yelle",7626,"Radiocarbon",8900,380,8900,0,8810,8990,90,1
-3046,2947,"Lac Yelle",7627,"Deglaciation",9200,500,8900,0,8700,9700,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3046,2947,"Lac Yelle",7623,"Core top",0,0,8900,0,0,0,"NAPD 1",NA,TRUE,356,-79.63778,48.50389
+3046,2947,"Lac Yelle",7624,"Radiocarbon",3350,195,8900,0,3280,3420,"NAPD 1",NA,TRUE,356,-79.63778,48.50389
+3046,2947,"Lac Yelle",7625,"Radiocarbon",5625,295,8900,0,5550,5700,"NAPD 1",NA,TRUE,356,-79.63778,48.50389
+3046,2947,"Lac Yelle",7626,"Radiocarbon",8900,380,8900,0,8810,8990,"NAPD 1",NA,TRUE,356,-79.63778,48.50389
+3046,2947,"Lac Yelle",7627,"Deglaciation",9200,500,8900,0,8700,9700,"NAPD 1",NA,TRUE,356,-79.63778,48.50389

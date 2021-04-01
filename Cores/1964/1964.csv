@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1964,1899,"Porphyry Lake",5465,"Core top",-48,0,12660,250,-48,-48,0,0
-1964,1899,"Porphyry Lake",5466,"Radiocarbon",4000,34,12660,250,3940,4060,60,1
-1964,1899,"Porphyry Lake",5467,"Radiocarbon",5950,101,12660,250,5840,6060,110,1
-1964,1899,"Porphyry Lake",5468,"Radiocarbon",8420,161.5,12660,250,8350,8490,70,1
-1964,1899,"Porphyry Lake",5469,"Radiocarbon",12540,233,12660,250,12340,12740,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1964,1899,"Porphyry Lake",5465,"Core top",-48,0,12660,250,-48,-48,"NAPD 1 (radiocarbon years)","Four C14 dates.",TRUE,1100,-123.83333,48.90556
+1964,1899,"Porphyry Lake",5466,"Radiocarbon",4000,34,12660,250,3940,4060,"NAPD 1 (radiocarbon years)","Four C14 dates.",TRUE,1100,-123.83333,48.90556
+1964,1899,"Porphyry Lake",5467,"Radiocarbon",5950,101,12660,250,5840,6060,"NAPD 1 (radiocarbon years)","Four C14 dates.",TRUE,1100,-123.83333,48.90556
+1964,1899,"Porphyry Lake",5468,"Radiocarbon",8420,161.5,12660,250,8350,8490,"NAPD 1 (radiocarbon years)","Four C14 dates.",TRUE,1100,-123.83333,48.90556
+1964,1899,"Porphyry Lake",5469,"Radiocarbon",12540,233,12660,250,12340,12740,"NAPD 1 (radiocarbon years)","Four C14 dates.",TRUE,1100,-123.83333,48.90556

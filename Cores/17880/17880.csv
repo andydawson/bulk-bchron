@@ -1,6 +1,156 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-17880,11805,"Lost Swamp",38221,"Radiocarbon",1620,37.5,15650,-40,1550,1690,70,1
-17880,11805,"Lost Swamp",38222,"Radiocarbon",6980,99.5,15650,-40,6900,7060,80,1
-17880,11805,"Lost Swamp",38223,"Radiocarbon",8720,199.5,15650,-40,8610,8830,110,1
-17880,11805,"Lost Swamp",38224,"Radiocarbon",12980,471,15650,-40,12830,13130,150,1
-17880,11805,"Lost Swamp",38225,"Core top",-40,0,15650,-40,-42,-38,2,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+17880,11805,"Lost Swamp",38221,"Radiocarbon",1620,37.5,15650,-40,1550,1690,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTSWAM',d.max=510,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+510 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,350,-72.45895,-72.38325
+17880,11805,"Lost Swamp",38222,"Radiocarbon",6980,99.5,15650,-40,6900,7060,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTSWAM',d.max=510,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+510 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,350,-72.45895,-72.38325
+17880,11805,"Lost Swamp",38223,"Radiocarbon",8720,199.5,15650,-40,8610,8830,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTSWAM',d.max=510,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+510 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,350,-72.45895,-72.38325
+17880,11805,"Lost Swamp",38224,"Radiocarbon",12980,471,15650,-40,12830,13130,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTSWAM',d.max=510,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+510 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,350,-72.45895,-72.38325
+17880,11805,"Lost Swamp",38225,"Core top",-40,0,15650,-40,-42,-38,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTSWAM',d.max=510,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+510 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",TRUE,350,-72.45895,-72.38325

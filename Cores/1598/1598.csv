@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1598,1556,"Lake LB1",3896,"Core top",0,0,6230,0,-37,50,43.5,0
-1598,1556,"Lake LB1",3897,"Radiocarbon",2240,21,6230,0,1960,2520,280,1
-1598,1556,"Lake LB1",3898,"Radiocarbon",3010,65,6230,0,2770,3250,240,1
-1598,1556,"Lake LB1",3899,"Radiocarbon",5190,95,6230,0,4950,5430,240,1
-1598,1556,"Lake LB1",3900,"Radiocarbon",6100,138,6230,0,5820,6380,280,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1598,1556,"Lake LB1",3896,"Core top",0,0,6230,0,-37,50,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP)",TRUE,200,-75.61667,57.91667
+1598,1556,"Lake LB1",3897,"Radiocarbon",2240,21,6230,0,1960,2520,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP)",TRUE,200,-75.61667,57.91667
+1598,1556,"Lake LB1",3898,"Radiocarbon",3010,65,6230,0,2770,3250,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP)",TRUE,200,-75.61667,57.91667
+1598,1556,"Lake LB1",3899,"Radiocarbon",5190,95,6230,0,4950,5430,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP)",TRUE,200,-75.61667,57.91667
+1598,1556,"Lake LB1",3900,"Radiocarbon",6100,138,6230,0,5820,6380,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP)",TRUE,200,-75.61667,57.91667

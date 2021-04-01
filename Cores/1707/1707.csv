@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1707,1651,"Mariposa Lake",4606,"Core top",0,0,13370,0,-30,30,30,0
-1707,1651,"Mariposa Lake",4607,"Radiocarbon",9460,174.5,13370,0,9280,9640,180,1
-1707,1651,"Mariposa Lake",4608,"Radiocarbon",9810,267,13370,0,9590,10030,220,1
-1707,1651,"Mariposa Lake",4609,"Radiocarbon",10570,327,13370,0,10350,10790,220,1
-1707,1651,"Mariposa Lake",4610,"Tephra",12100,432.5,13370,0,11900,12300,200,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1707,1651,"Mariposa Lake",4606,"Core top",0,0,13370,0,-30,30,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and the Glacier Peak tephra that is dated to 12,100 BP in the Yellowstone region (see Whitlock 1993).",TRUE,2730,-110.23333,44.15
+1707,1651,"Mariposa Lake",4607,"Radiocarbon",9460,174.5,13370,0,9280,9640,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and the Glacier Peak tephra that is dated to 12,100 BP in the Yellowstone region (see Whitlock 1993).",TRUE,2730,-110.23333,44.15
+1707,1651,"Mariposa Lake",4608,"Radiocarbon",9810,267,13370,0,9590,10030,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and the Glacier Peak tephra that is dated to 12,100 BP in the Yellowstone region (see Whitlock 1993).",TRUE,2730,-110.23333,44.15
+1707,1651,"Mariposa Lake",4609,"Radiocarbon",10570,327,13370,0,10350,10790,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and the Glacier Peak tephra that is dated to 12,100 BP in the Yellowstone region (see Whitlock 1993).",TRUE,2730,-110.23333,44.15
+1707,1651,"Mariposa Lake",4610,"Tephra",12100,432.5,13370,0,11900,12300,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and the Glacier Peak tephra that is dated to 12,100 BP in the Yellowstone region (see Whitlock 1993).",TRUE,2730,-110.23333,44.15

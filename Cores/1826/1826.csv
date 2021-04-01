@@ -1,5 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1826,1768,"Old Field",5134,"Radiocarbon",4830,53,9170,3480,4735,4925,95,1
-1826,1768,"Old Field",5135,"Radiocarbon",6220,87.5,9170,3480,6110,6330,110,1
-1826,1768,"Old Field",5136,"Radiocarbon",7280,137.5,9170,3480,7160,7400,120,1
-1826,1768,"Old Field",5137,"Radiocarbon",8810,212.5,9170,3480,8720,8900,90,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1826,1768,"Old Field",5133,"Extrapolated",3480,20,9170,3480,3280,3680,"NAPD 1","Top date at 20 cm and bottom date at 230 cm extrapolated from 2 nearest dates. Uncertainty of upper date greater.",TRUE,97,-89.83333,37.11667
+1826,1768,"Old Field",5134,"Radiocarbon",4830,53,9170,3480,4735,4925,"NAPD 1","Top date at 20 cm and bottom date at 230 cm extrapolated from 2 nearest dates. Uncertainty of upper date greater.",TRUE,97,-89.83333,37.11667
+1826,1768,"Old Field",5135,"Radiocarbon",6220,87.5,9170,3480,6110,6330,"NAPD 1","Top date at 20 cm and bottom date at 230 cm extrapolated from 2 nearest dates. Uncertainty of upper date greater.",TRUE,97,-89.83333,37.11667
+1826,1768,"Old Field",5136,"Radiocarbon",7280,137.5,9170,3480,7160,7400,"NAPD 1","Top date at 20 cm and bottom date at 230 cm extrapolated from 2 nearest dates. Uncertainty of upper date greater.",TRUE,97,-89.83333,37.11667
+1826,1768,"Old Field",5137,"Radiocarbon",8810,212.5,9170,3480,8720,8900,"NAPD 1","Top date at 20 cm and bottom date at 230 cm extrapolated from 2 nearest dates. Uncertainty of upper date greater.",TRUE,97,-89.83333,37.11667
+1826,1768,"Old Field",5138,"Extrapolated",9170,230,9170,3480,8970,9370,"NAPD 1","Top date at 20 cm and bottom date at 230 cm extrapolated from 2 nearest dates. Uncertainty of upper date greater.",TRUE,97,-89.83333,37.11667

@@ -1,2 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-249,245,"Beckman Lake",441,"Core top",0,53,10420,0,-25,25,25,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+249,245,"Beckman Lake",441,"Core top",0,53,10420,0,-25,25,"NAPD 1","Chron based upon pollen statigraphic dates from adjacent Cedar Bog Pond (Cushing, 1963).",TRUE,278,-93.18333,45.425
+249,245,"Beckman Lake",442,"Biostratigraphic, pollen",100,90,10420,0,50,150,"NAPD 1","Chron based upon pollen statigraphic dates from adjacent Cedar Bog Pond (Cushing, 1963).",TRUE,278,-93.18333,45.425
+249,245,"Beckman Lake",443,"Biostratigraphic, pollen",4410,237.5,10420,0,3910,4910,"NAPD 1","Chron based upon pollen statigraphic dates from adjacent Cedar Bog Pond (Cushing, 1963).",TRUE,278,-93.18333,45.425
+249,245,"Beckman Lake",444,"Biostratigraphic, pollen",9200,680,10420,0,8900,9500,"NAPD 1","Chron based upon pollen statigraphic dates from adjacent Cedar Bog Pond (Cushing, 1963).",TRUE,278,-93.18333,45.425
+249,245,"Beckman Lake",445,"Biostratigraphic, pollen",10150,749,10420,0,9850,10450,"NAPD 1","Chron based upon pollen statigraphic dates from adjacent Cedar Bog Pond (Cushing, 1963).",TRUE,278,-93.18333,45.425

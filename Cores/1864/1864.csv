@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1864,1802,"Lac Patricia",5282,"Core top",-30,0,5460,-10,-30,-10,10,0
-1864,1802,"Lac Patricia",5283,"Radiocarbon",3050,115,5460,-10,2770,3330,280,1
-1864,1802,"Lac Patricia",5284,"Radiocarbon",4855,175,5460,-10,4465,5245,390,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1864,1802,"Lac Patricia",5282,"Core top",-30,0,5460,-10,-30,-10,"NAPD 1","Chron uses top and two C14 dates.",TRUE,538,-64.68,56.67
+1864,1802,"Lac Patricia",5283,"Radiocarbon",3050,115,5460,-10,2770,3330,"NAPD 1","Chron uses top and two C14 dates.",TRUE,538,-64.68,56.67
+1864,1802,"Lac Patricia",5284,"Radiocarbon",4855,175,5460,-10,4465,5245,"NAPD 1","Chron uses top and two C14 dates.",TRUE,538,-64.68,56.67

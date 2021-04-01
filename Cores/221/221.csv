@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-221,219,"Axe Lake",243,"Core top",-30,0,9900,-20,-30,-10,10,0
-221,219,"Axe Lake",244,"Radiocarbon",4770,372.5,9900,-20,4530,5010,240,1
-221,219,"Axe Lake",245,"Radiocarbon",7200,505,9900,-20,6900,7500,300,1
-221,219,"Axe Lake",246,"Radiocarbon",8830,635,9900,-20,8390,9270,440,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+221,219,"Axe Lake",243,"Core top",-30,0,9900,-20,-30,-10,"NAPD 1","Chron uses top and three C14 dates.",TRUE,323,-79.51,45.38
+221,219,"Axe Lake",244,"Radiocarbon",4770,372.5,9900,-20,4530,5010,"NAPD 1","Chron uses top and three C14 dates.",TRUE,323,-79.51,45.38
+221,219,"Axe Lake",245,"Radiocarbon",7200,505,9900,-20,6900,7500,"NAPD 1","Chron uses top and three C14 dates.",TRUE,323,-79.51,45.38
+221,219,"Axe Lake",246,"Radiocarbon",8830,635,9900,-20,8390,9270,"NAPD 1","Chron uses top and three C14 dates.",TRUE,323,-79.51,45.38

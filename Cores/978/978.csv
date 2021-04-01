@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-978,948,"Gravel Ridge",2705,"Core top",0,710,6400,0,-100,100,100,0
-978,948,"Gravel Ridge",2706,"Radiocarbon",1930,807.5,6400,0,1790,2070,140,1
-978,948,"Gravel Ridge",2707,"Radiocarbon",4020,922.5,6400,0,3910,4130,110,1
-978,948,"Gravel Ridge",2708,"Radiocarbon",5525,1007.5,6400,0,5345,5705,180,1
-978,948,"Gravel Ridge",2709,"Radiocarbon",6470,1075.5,6400,0,6170,6770,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+978,948,"Gravel Ridge",2705,"Core top",0,710,6400,0,-100,100,"COHMAP chron 2","4 C-14 dates out of 9 from core. Lamb (1982) preferred these 4. Top 3 from Godwin lab, basal date from GSC. 710cm is the water/surface interface of a 370cm core with 330cm of gyttja.",TRUE,565,-62.63333,55.03333
+978,948,"Gravel Ridge",2706,"Radiocarbon",1930,807.5,6400,0,1790,2070,"COHMAP chron 2","4 C-14 dates out of 9 from core. Lamb (1982) preferred these 4. Top 3 from Godwin lab, basal date from GSC. 710cm is the water/surface interface of a 370cm core with 330cm of gyttja.",TRUE,565,-62.63333,55.03333
+978,948,"Gravel Ridge",2707,"Radiocarbon",4020,922.5,6400,0,3910,4130,"COHMAP chron 2","4 C-14 dates out of 9 from core. Lamb (1982) preferred these 4. Top 3 from Godwin lab, basal date from GSC. 710cm is the water/surface interface of a 370cm core with 330cm of gyttja.",TRUE,565,-62.63333,55.03333
+978,948,"Gravel Ridge",2708,"Radiocarbon",5525,1007.5,6400,0,5345,5705,"COHMAP chron 2","4 C-14 dates out of 9 from core. Lamb (1982) preferred these 4. Top 3 from Godwin lab, basal date from GSC. 710cm is the water/surface interface of a 370cm core with 330cm of gyttja.",TRUE,565,-62.63333,55.03333
+978,948,"Gravel Ridge",2709,"Radiocarbon",6470,1075.5,6400,0,6170,6770,"COHMAP chron 2","4 C-14 dates out of 9 from core. Lamb (1982) preferred these 4. Top 3 from Godwin lab, basal date from GSC. 710cm is the water/surface interface of a 370cm core with 330cm of gyttja.",TRUE,565,-62.63333,55.03333

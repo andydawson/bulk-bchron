@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1704,1648,"M Lake",4591,"Core top",-25,0,12480,-30,-25,0,12.5,0
-1704,1648,"M Lake",4592,"Radiocarbon",2860,102.5,12480,-30,2700,3020,160,1
-1704,1648,"M Lake",4593,"Radiocarbon",6410,125,12480,-30,6230,6590,180,1
-1704,1648,"M Lake",4594,"Radiocarbon",8590,167.5,12480,-30,8430,8750,160,1
-1704,1648,"M Lake",4595,"Radiocarbon",10000,216.5,12480,-30,9780,10220,220,1
-1704,1648,"M Lake",4596,"Radiocarbon",11300,232,12480,-30,11120,11480,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1704,1648,"M Lake",4591,"Core top",-25,0,12480,-30,-25,0,"NAPD 1","Chron uses top and five C14 dates.",TRUE,105,-133.46667,68.26667
+1704,1648,"M Lake",4592,"Radiocarbon",2860,102.5,12480,-30,2700,3020,"NAPD 1","Chron uses top and five C14 dates.",TRUE,105,-133.46667,68.26667
+1704,1648,"M Lake",4593,"Radiocarbon",6410,125,12480,-30,6230,6590,"NAPD 1","Chron uses top and five C14 dates.",TRUE,105,-133.46667,68.26667
+1704,1648,"M Lake",4594,"Radiocarbon",8590,167.5,12480,-30,8430,8750,"NAPD 1","Chron uses top and five C14 dates.",TRUE,105,-133.46667,68.26667
+1704,1648,"M Lake",4595,"Radiocarbon",10000,216.5,12480,-30,9780,10220,"NAPD 1","Chron uses top and five C14 dates.",TRUE,105,-133.46667,68.26667
+1704,1648,"M Lake",4596,"Radiocarbon",11300,232,12480,-30,11120,11480,"NAPD 1","Chron uses top and five C14 dates.",TRUE,105,-133.46667,68.26667

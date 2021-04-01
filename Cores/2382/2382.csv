@@ -1,4 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2382,2300,"Shouldice Lake",6561,"Core top",0,0,9910,10,-30,0,15,0
-2382,2300,"Shouldice Lake",6565,"Radiocarbon",8210,375,9910,10,7930,8490,280,1
-2382,2300,"Shouldice Lake",6566,"Radiocarbon",9390,420,9910,10,9130,9650,260,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2382,2300,"Shouldice Lake",6561,"Core top",0,0,9910,10,-30,0,"NAPD 1","Chron uses 2 radiocarbon dates plus surface (0 BP), Ambrosia-rise (130 BP), Tsuga recovery (3700 BP), and Tsuga decline (4800 BP). Ages extrapolated below bottommost date.",TRUE,206,-81.41667,45.15
+2382,2300,"Shouldice Lake",6562,"Biostratigraphic, pollen",130,15,9910,10,100,160,"NAPD 1","Chron uses 2 radiocarbon dates plus surface (0 BP), Ambrosia-rise (130 BP), Tsuga recovery (3700 BP), and Tsuga decline (4800 BP). Ages extrapolated below bottommost date.",TRUE,206,-81.41667,45.15
+2382,2300,"Shouldice Lake",6563,"Biostratigraphic, pollen",3700,205,9910,10,3500,3900,"NAPD 1","Chron uses 2 radiocarbon dates plus surface (0 BP), Ambrosia-rise (130 BP), Tsuga recovery (3700 BP), and Tsuga decline (4800 BP). Ages extrapolated below bottommost date.",TRUE,206,-81.41667,45.15
+2382,2300,"Shouldice Lake",6564,"Biostratigraphic, pollen",4800,235,9910,10,4700,4900,"NAPD 1","Chron uses 2 radiocarbon dates plus surface (0 BP), Ambrosia-rise (130 BP), Tsuga recovery (3700 BP), and Tsuga decline (4800 BP). Ages extrapolated below bottommost date.",TRUE,206,-81.41667,45.15
+2382,2300,"Shouldice Lake",6565,"Radiocarbon",8210,375,9910,10,7930,8490,"NAPD 1","Chron uses 2 radiocarbon dates plus surface (0 BP), Ambrosia-rise (130 BP), Tsuga recovery (3700 BP), and Tsuga decline (4800 BP). Ages extrapolated below bottommost date.",TRUE,206,-81.41667,45.15
+2382,2300,"Shouldice Lake",6566,"Radiocarbon",9390,420,9910,10,9130,9650,"NAPD 1","Chron uses 2 radiocarbon dates plus surface (0 BP), Ambrosia-rise (130 BP), Tsuga recovery (3700 BP), and Tsuga decline (4800 BP). Ages extrapolated below bottommost date.",TRUE,206,-81.41667,45.15

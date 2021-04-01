@@ -1,3 +1,3 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2376,2294,"Shangri-La Bog",6495,"Core top",0,0,7190,220,-40,40,40,0
-2376,2294,"Shangri-La Bog",6496,"Radiocarbon",7190,81.5,7190,220,7090,7290,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2376,2294,"Shangri-La Bog",6495,"Core top",0,0,7190,220,-40,40,"NAPD 1","Chron uses surface (0 BP) plus 1 radiocarbon date.",TRUE,595,-132.40833,53.26667
+2376,2294,"Shangri-La Bog",6496,"Radiocarbon",7190,81.5,7190,220,7090,7290,"NAPD 1","Chron uses surface (0 BP) plus 1 radiocarbon date.",TRUE,595,-132.40833,53.26667

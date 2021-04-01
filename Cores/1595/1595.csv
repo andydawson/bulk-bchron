@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1595,1554,"Lake GB2",3891,"Core top",0,0,6330,0,-37,50,43.5,0
-1595,1554,"Lake GB2",3892,"Radiocarbon",2960,58.5,6330,0,2760,3160,200,1
-1595,1554,"Lake GB2",3893,"Radiocarbon",3640,120,6330,0,3400,3880,240,1
-1595,1554,"Lake GB2",3894,"Radiocarbon",5300,208.5,6330,0,5060,5540,240,1
-1595,1554,"Lake GB2",3895,"Radiocarbon",6240,240,6330,0,5920,6560,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1595,1554,"Lake GB2",3891,"Core top",0,0,6330,0,-37,50,"Gajewski 2","Fit a 3rd degree polynomial (least squares) with origin held constant to 4 radiocarbon dates plus sediment surface (0 BP). Coefs: 0.0, 71.3541, -0.469181, 0.00117425",TRUE,300,-75.28333,56.1
+1595,1554,"Lake GB2",3892,"Radiocarbon",2960,58.5,6330,0,2760,3160,"Gajewski 2","Fit a 3rd degree polynomial (least squares) with origin held constant to 4 radiocarbon dates plus sediment surface (0 BP). Coefs: 0.0, 71.3541, -0.469181, 0.00117425",TRUE,300,-75.28333,56.1
+1595,1554,"Lake GB2",3893,"Radiocarbon",3640,120,6330,0,3400,3880,"Gajewski 2","Fit a 3rd degree polynomial (least squares) with origin held constant to 4 radiocarbon dates plus sediment surface (0 BP). Coefs: 0.0, 71.3541, -0.469181, 0.00117425",TRUE,300,-75.28333,56.1
+1595,1554,"Lake GB2",3894,"Radiocarbon",5300,208.5,6330,0,5060,5540,"Gajewski 2","Fit a 3rd degree polynomial (least squares) with origin held constant to 4 radiocarbon dates plus sediment surface (0 BP). Coefs: 0.0, 71.3541, -0.469181, 0.00117425",TRUE,300,-75.28333,56.1
+1595,1554,"Lake GB2",3895,"Radiocarbon",6240,240,6330,0,5920,6560,"Gajewski 2","Fit a 3rd degree polynomial (least squares) with origin held constant to 4 radiocarbon dates plus sediment surface (0 BP). Coefs: 0.0, 71.3541, -0.469181, 0.00117425",TRUE,300,-75.28333,56.1

@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-675,658,"Delorme 1",1821,"Core top",0,0,5260,320,0,0,0,0
-675,658,"Delorme 1",1822,"Radiocarbon",2740,77.5,5260,320,2610,2870,130,1
-675,658,"Delorme 1",1823,"Radiocarbon",3870,127.5,5260,320,3700,4040,170,1
-675,658,"Delorme 1",1824,"Radiocarbon",5330,177.5,5260,320,5210,5450,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+675,658,"Delorme 1",1821,"Core top",0,0,5260,320,0,0,"NAPD 1",NA,TRUE,513,-69.91889,54.41889
+675,658,"Delorme 1",1822,"Radiocarbon",2740,77.5,5260,320,2610,2870,"NAPD 1",NA,TRUE,513,-69.91889,54.41889
+675,658,"Delorme 1",1823,"Radiocarbon",3870,127.5,5260,320,3700,4040,"NAPD 1",NA,TRUE,513,-69.91889,54.41889
+675,658,"Delorme 1",1824,"Radiocarbon",5330,177.5,5260,320,5210,5450,"NAPD 1",NA,TRUE,513,-69.91889,54.41889

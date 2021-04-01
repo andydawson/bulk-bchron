@@ -1,3 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-235,232,"Barry Lake",318,"Core top",-20,0,10310,-20,-30,0,15,0
-235,232,"Barry Lake",321,"Radiocarbon",9470,455,10310,-20,9050,9890,420,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+235,232,"Barry Lake",318,"Core top",-20,0,10310,-20,-30,0,"NAPD 1","Chron uses sediment-surface date (-20 BP), Ambrosia-rise (130 BP), Tsuga decline (4800 BP), and one radiocarbon date.",TRUE,167,-77.91667,44.3
+235,232,"Barry Lake",319,"Biostratigraphic, pollen",130,45,10310,-20,110,150,"NAPD 1","Chron uses sediment-surface date (-20 BP), Ambrosia-rise (130 BP), Tsuga decline (4800 BP), and one radiocarbon date.",TRUE,167,-77.91667,44.3
+235,232,"Barry Lake",320,"Biostratigraphic, pollen",4800,205,10310,-20,4700,4900,"NAPD 1","Chron uses sediment-surface date (-20 BP), Ambrosia-rise (130 BP), Tsuga decline (4800 BP), and one radiocarbon date.",TRUE,167,-77.91667,44.3
+235,232,"Barry Lake",321,"Radiocarbon",9470,455,10310,-20,9050,9890,"NAPD 1","Chron uses sediment-surface date (-20 BP), Ambrosia-rise (130 BP), Tsuga decline (4800 BP), and one radiocarbon date.",TRUE,167,-77.91667,44.3

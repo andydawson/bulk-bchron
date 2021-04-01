@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1655,1604,"Lockport Gulf Section",4281,"Radiocarbon",9145,257,11080,8340,8925,9365,220,1
-1655,1604,"Lockport Gulf Section",4282,"Radiocarbon",9520,307,11080,8340,9300,9740,220,1
-1655,1604,"Lockport Gulf Section",4283,"Radiocarbon",10290,377,11080,8340,9890,10690,400,1
-1655,1604,"Lockport Gulf Section",4284,"Radiocarbon",10920,427,11080,8340,10600,11240,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1655,1604,"Lockport Gulf Section",4281,"Radiocarbon",9145,257,11080,8340,8925,9365,"NAPD 1","Chron uses 4 radiocarbon dates on wood. Ages are extrapolated below and above radiocarbon dates.",TRUE,109,-78.71667,43.16667
+1655,1604,"Lockport Gulf Section",4282,"Radiocarbon",9520,307,11080,8340,9300,9740,"NAPD 1","Chron uses 4 radiocarbon dates on wood. Ages are extrapolated below and above radiocarbon dates.",TRUE,109,-78.71667,43.16667
+1655,1604,"Lockport Gulf Section",4283,"Radiocarbon",10290,377,11080,8340,9890,10690,"NAPD 1","Chron uses 4 radiocarbon dates on wood. Ages are extrapolated below and above radiocarbon dates.",TRUE,109,-78.71667,43.16667
+1655,1604,"Lockport Gulf Section",4284,"Radiocarbon",10920,427,11080,8340,10600,11240,"NAPD 1","Chron uses 4 radiocarbon dates on wood. Ages are extrapolated below and above radiocarbon dates.",TRUE,109,-78.71667,43.16667

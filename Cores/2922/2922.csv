@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2922,2825,"Walker Lake",7341,"Core top",-47,0,12390,20,-47,-47,0,0
-2922,2825,"Walker Lake",7342,"Radiocarbon",4100,147.5,12390,20,4040,4160,60,1
-2922,2825,"Walker Lake",7343,"Radiocarbon",6190,295,12390,20,6120,6260,70,1
-2922,2825,"Walker Lake",7344,"Tephra",6800,299.5,12390,20,NA,NA,NA,0
-2922,2825,"Walker Lake",7345,"Radiocarbon",8980,408,12390,20,8820,9140,160,1
-2922,2825,"Walker Lake",7346,"Radiocarbon",12240,495,12390,20,12120,12360,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2922,2825,"Walker Lake",7341,"Core top",-47,0,12390,20,-47,-47,"NAPD 1 (radiocarbon years)","Four C14 dates and a tephra date used in age model.",TRUE,950,-124.00222,48.52917
+2922,2825,"Walker Lake",7342,"Radiocarbon",4100,147.5,12390,20,4040,4160,"NAPD 1 (radiocarbon years)","Four C14 dates and a tephra date used in age model.",TRUE,950,-124.00222,48.52917
+2922,2825,"Walker Lake",7343,"Radiocarbon",6190,295,12390,20,6120,6260,"NAPD 1 (radiocarbon years)","Four C14 dates and a tephra date used in age model.",TRUE,950,-124.00222,48.52917
+2922,2825,"Walker Lake",7344,"Tephra",6800,299.5,12390,20,NA,NA,"NAPD 1 (radiocarbon years)","Four C14 dates and a tephra date used in age model.",TRUE,950,-124.00222,48.52917
+2922,2825,"Walker Lake",7345,"Radiocarbon",8980,408,12390,20,8820,9140,"NAPD 1 (radiocarbon years)","Four C14 dates and a tephra date used in age model.",TRUE,950,-124.00222,48.52917
+2922,2825,"Walker Lake",7346,"Radiocarbon",12240,495,12390,20,12120,12360,"NAPD 1 (radiocarbon years)","Four C14 dates and a tephra date used in age model.",TRUE,950,-124.00222,48.52917

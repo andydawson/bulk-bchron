@@ -1,4 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1904,1840,"Pink Lake",5406,"Core top",-30,0,11760,-30,-30,-10,10,0
-1904,1840,"Pink Lake",5408,"Radiocarbon",3270,134,11760,-30,2750,3790,520,1
-1904,1840,"Pink Lake",5410,"Radiocarbon",10600,297.5,11760,-30,10300,10900,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1904,1840,"Pink Lake",5406,"Core top",-30,0,11760,-30,-30,-10,"NAPD 1","Chron uses top, Ambrosia rise, Tsuga decline, and two C13 dates.",TRUE,162,-75.80833,45.46944
+1904,1840,"Pink Lake",5407,"Biostratigraphic, pollen",150,15,11760,-30,100,200,"NAPD 1","Chron uses top, Ambrosia rise, Tsuga decline, and two C13 dates.",TRUE,162,-75.80833,45.46944
+1904,1840,"Pink Lake",5408,"Radiocarbon",3270,134,11760,-30,2750,3790,"NAPD 1","Chron uses top, Ambrosia rise, Tsuga decline, and two C13 dates.",TRUE,162,-75.80833,45.46944
+1904,1840,"Pink Lake",5409,"Biostratigraphic, pollen",4800,185,11760,-30,4600,5000,"NAPD 1","Chron uses top, Ambrosia rise, Tsuga decline, and two C13 dates.",TRUE,162,-75.80833,45.46944
+1904,1840,"Pink Lake",5410,"Radiocarbon",10600,297.5,11760,-30,10300,10900,"NAPD 1","Chron uses top, Ambrosia rise, Tsuga decline, and two C13 dates.",TRUE,162,-75.80833,45.46944

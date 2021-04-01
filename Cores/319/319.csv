@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-319,312,"Buck Lake",831,"Core top",0,1738,8540,0,-25,25,25,0
-319,312,"Buck Lake",832,"Other dating methods",50,1750,8540,0,0,100,50,0
-319,312,"Buck Lake",834,"Radiocarbon",8270,2045,8540,0,8170,8370,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+319,312,"Buck Lake",831,"Core top",0,1738,8540,0,-25,25,"NAPD 1","Date of 50±50 at 1750 cm based on sand layer probably corresponding with initiation of Citrus groves. Date of 5800±300 at 1820 cm based on correlation of Pinus increase with Lake Tulane.",TRUE,45,-81.33222,27.23444
+319,312,"Buck Lake",832,"Other dating methods",50,1750,8540,0,0,100,"NAPD 1","Date of 50±50 at 1750 cm based on sand layer probably corresponding with initiation of Citrus groves. Date of 5800±300 at 1820 cm based on correlation of Pinus increase with Lake Tulane.",TRUE,45,-81.33222,27.23444
+319,312,"Buck Lake",833,"Biostratigraphic, pollen",5800,1820,8540,0,5500,6100,"NAPD 1","Date of 50±50 at 1750 cm based on sand layer probably corresponding with initiation of Citrus groves. Date of 5800±300 at 1820 cm based on correlation of Pinus increase with Lake Tulane.",TRUE,45,-81.33222,27.23444
+319,312,"Buck Lake",834,"Radiocarbon",8270,2045,8540,0,8170,8370,"NAPD 1","Date of 50±50 at 1750 cm based on sand layer probably corresponding with initiation of Citrus groves. Date of 5800±300 at 1820 cm based on correlation of Pinus increase with Lake Tulane.",TRUE,45,-81.33222,27.23444

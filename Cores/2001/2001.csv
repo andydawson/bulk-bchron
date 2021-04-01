@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2001,1934,"Pyle Site",5656,"Radiocarbon",9240,191.5,14500,8250,9080,9400,160,1
-2001,1934,"Pyle Site",5657,"Radiocarbon",10170,258.75,14500,8250,10030,10310,140,1
-2001,1934,"Pyle Site",5658,"Radiocarbon",10760,313,14500,8250,10420,11100,340,1
-2001,1934,"Pyle Site",5659,"Radiocarbon",11930,352.5,14500,8250,11750,12110,180,1
-2001,1934,"Pyle Site",5660,"Radiocarbon",13510,442.5,14500,8250,13190,13830,320,1
-2001,1934,"Pyle Site",5661,"Deglaciation",14500,698,14500,8250,14200,14800,300,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2001,1934,"Pyle Site",5656,"Radiocarbon",9240,191.5,14500,8250,9080,9400,"NAPD 1","Chron uses 5 radiocarbon dates plus basal date (14500±300) for time of deglaciation (Shane 1987).",TRUE,250,-84.88333,40.66667
+2001,1934,"Pyle Site",5657,"Radiocarbon",10170,258.75,14500,8250,10030,10310,"NAPD 1","Chron uses 5 radiocarbon dates plus basal date (14500±300) for time of deglaciation (Shane 1987).",TRUE,250,-84.88333,40.66667
+2001,1934,"Pyle Site",5658,"Radiocarbon",10760,313,14500,8250,10420,11100,"NAPD 1","Chron uses 5 radiocarbon dates plus basal date (14500±300) for time of deglaciation (Shane 1987).",TRUE,250,-84.88333,40.66667
+2001,1934,"Pyle Site",5659,"Radiocarbon",11930,352.5,14500,8250,11750,12110,"NAPD 1","Chron uses 5 radiocarbon dates plus basal date (14500±300) for time of deglaciation (Shane 1987).",TRUE,250,-84.88333,40.66667
+2001,1934,"Pyle Site",5660,"Radiocarbon",13510,442.5,14500,8250,13190,13830,"NAPD 1","Chron uses 5 radiocarbon dates plus basal date (14500±300) for time of deglaciation (Shane 1987).",TRUE,250,-84.88333,40.66667
+2001,1934,"Pyle Site",5661,"Deglaciation",14500,698,14500,8250,14200,14800,"NAPD 1","Chron uses 5 radiocarbon dates plus basal date (14500±300) for time of deglaciation (Shane 1987).",TRUE,250,-84.88333,40.66667

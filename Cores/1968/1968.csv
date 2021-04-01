@@ -1,5 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1968,1903,"Portage Bog",5494,"Core top",-16,0,10990,-20,-16,-6,5,0
-1968,1903,"Portage Bog",5496,"Radiocarbon",490,79,10990,-20,370,610,120,1
-1968,1903,"Portage Bog",5497,"Radiocarbon",3430,420,10990,-20,3290,3570,140,1
-1968,1903,"Portage Bog",5499,"Radiocarbon",9880,625.5,10990,-20,9580,10180,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1968,1903,"Portage Bog",5494,"Core top",-16,0,10990,-20,-16,-6,"NAPD 1","Chron uses 3 C14 dates, top two corrected for C13, top, Amb rise, and Tsuga decline.",TRUE,8,-64.075,46.67361
+1968,1903,"Portage Bog",5495,"Biostratigraphic, pollen",95,12.5,10990,-20,70,120,"NAPD 1","Chron uses 3 C14 dates, top two corrected for C13, top, Amb rise, and Tsuga decline.",TRUE,8,-64.075,46.67361
+1968,1903,"Portage Bog",5496,"Radiocarbon",490,79,10990,-20,370,610,"NAPD 1","Chron uses 3 C14 dates, top two corrected for C13, top, Amb rise, and Tsuga decline.",TRUE,8,-64.075,46.67361
+1968,1903,"Portage Bog",5497,"Radiocarbon",3430,420,10990,-20,3290,3570,"NAPD 1","Chron uses 3 C14 dates, top two corrected for C13, top, Amb rise, and Tsuga decline.",TRUE,8,-64.075,46.67361
+1968,1903,"Portage Bog",5498,"Biostratigraphic, pollen",4800,485,10990,-20,4600,5000,"NAPD 1","Chron uses 3 C14 dates, top two corrected for C13, top, Amb rise, and Tsuga decline.",TRUE,8,-64.075,46.67361
+1968,1903,"Portage Bog",5499,"Radiocarbon",9880,625.5,10990,-20,9580,10180,"NAPD 1","Chron uses 3 C14 dates, top two corrected for C13, top, Amb rise, and Tsuga decline.",TRUE,8,-64.075,46.67361

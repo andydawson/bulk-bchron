@@ -1,11 +1,11 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3485,1669,"McNearney Lake",8082,"Lead-210",-23,0.75,160,-30,-23,-23,0,0
-3485,1669,"McNearney Lake",8083,"Lead-210",-8,1.75,160,-30,-8,-8,0,0
-3485,1669,"McNearney Lake",8084,"Lead-210",12,2.75,160,-30,12,12,0,0
-3485,1669,"McNearney Lake",8085,"Lead-210",28,3.75,160,-30,28,28,0,0
-3485,1669,"McNearney Lake",8086,"Lead-210",44,4.75,160,-30,44,44,0,0
-3485,1669,"McNearney Lake",8087,"Lead-210",56,5.75,160,-30,56,56,0,0
-3485,1669,"McNearney Lake",8088,"Lead-210",64,6.75,160,-30,64,64,0,0
-3485,1669,"McNearney Lake",8089,"Lead-210",71,7.75,160,-30,71,71,0,0
-3485,1669,"McNearney Lake",8090,"Lead-210",77,8.75,160,-30,77,77,0,0
-3485,1669,"McNearney Lake",8091,"Lead-210",87,10.75,160,-30,87,87,0,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3485,1669,"McNearney Lake",8082,"Lead-210",-23,0.75,160,-30,-23,-23,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8083,"Lead-210",-8,1.75,160,-30,-8,-8,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8084,"Lead-210",12,2.75,160,-30,12,12,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8085,"Lead-210",28,3.75,160,-30,28,28,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8086,"Lead-210",44,4.75,160,-30,44,44,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8087,"Lead-210",56,5.75,160,-30,56,56,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8088,"Lead-210",64,6.75,160,-30,64,64,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8089,"Lead-210",71,7.75,160,-30,71,71,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8090,"Lead-210",77,8.75,160,-30,77,77,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924
+3485,1669,"McNearney Lake",8091,"Lead-210",87,10.75,160,-30,87,87,"NAPD 1","Chron uses 10 Pb210 dates from top 10 of 15 samples.",TRUE,264,-84.96469,-84.93924

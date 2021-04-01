@@ -1,1 +1,5 @@
-""
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3784,1815,"Third Lake",8420,"Biostratigraphic, pollen",150,172,9980,150,100,200,"Swain 1979","Chron uses European settlement horizon, Picea rise (3000 years BP), Pinus strobus rise (6500 years BP) and Picea decline (9500 years BP) (see Swain 1979 page 47).",TRUE,446,-92.01583,-92.00524
+3784,1815,"Third Lake",8421,"Biostratigraphic, pollen",3000,340,9980,150,2800,3200,"Swain 1979","Chron uses European settlement horizon, Picea rise (3000 years BP), Pinus strobus rise (6500 years BP) and Picea decline (9500 years BP) (see Swain 1979 page 47).",TRUE,446,-92.01583,-92.00524
+3784,1815,"Third Lake",8422,"Biostratigraphic, pollen",6500,540,9980,150,6300,6700,"Swain 1979","Chron uses European settlement horizon, Picea rise (3000 years BP), Pinus strobus rise (6500 years BP) and Picea decline (9500 years BP) (see Swain 1979 page 47).",TRUE,446,-92.01583,-92.00524
+3784,1815,"Third Lake",8423,"Biostratigraphic, pollen",9500,760,9980,150,9300,9700,"Swain 1979","Chron uses European settlement horizon, Picea rise (3000 years BP), Pinus strobus rise (6500 years BP) and Picea decline (9500 years BP) (see Swain 1979 page 47).",TRUE,446,-92.01583,-92.00524

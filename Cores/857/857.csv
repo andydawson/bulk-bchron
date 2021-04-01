@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-857,830,"Saint-Gabriel",2429,"Core top",0,0,8930,100,0,0,0,0
-857,830,"Saint-Gabriel",2430,"Radiocarbon",1860,97.5,8930,100,1660,2060,200,1
-857,830,"Saint-Gabriel",2431,"Radiocarbon",3340,377.5,8930,100,3165,3515,175,1
-857,830,"Saint-Gabriel",2432,"Radiocarbon",7605,647.5,8930,100,7225,7985,380,1
-857,830,"Saint-Gabriel",2433,"Radiocarbon",7965,702.5,8930,100,7745,8185,220,1
-857,830,"Saint-Gabriel",2434,"Radiocarbon",9105,729,8930,100,8930,9280,175,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+857,830,"Saint-Gabriel",2429,"Core top",0,0,8930,100,0,0,"NAPD 1",NA,TRUE,250,-73.47583,46.27583
+857,830,"Saint-Gabriel",2430,"Radiocarbon",1860,97.5,8930,100,1660,2060,"NAPD 1",NA,TRUE,250,-73.47583,46.27583
+857,830,"Saint-Gabriel",2431,"Radiocarbon",3340,377.5,8930,100,3165,3515,"NAPD 1",NA,TRUE,250,-73.47583,46.27583
+857,830,"Saint-Gabriel",2432,"Radiocarbon",7605,647.5,8930,100,7225,7985,"NAPD 1",NA,TRUE,250,-73.47583,46.27583
+857,830,"Saint-Gabriel",2433,"Radiocarbon",7965,702.5,8930,100,7745,8185,"NAPD 1",NA,TRUE,250,-73.47583,46.27583
+857,830,"Saint-Gabriel",2434,"Radiocarbon",9105,729,8930,100,8930,9280,"NAPD 1",NA,TRUE,250,-73.47583,46.27583

@@ -1,2 +1,3 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-781,762,"East Twin Lake",2050,"Core top",-15,0,920,0,-15,0,7.5,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+781,762,"East Twin Lake",2050,"Core top",-15,0,920,0,-15,0,"NAPD 1","Chron uses surface date (-15 BP) and the Ambrosia-rise (90 BP).",TRUE,281,-93.50833,45.33333
+781,762,"East Twin Lake",2051,"Biostratigraphic, pollen",140,15,920,0,40,90,"NAPD 1","Chron uses surface date (-15 BP) and the Ambrosia-rise (90 BP).",TRUE,281,-93.50833,45.33333

@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2625,2535,"Tangle Lakes",6937,"Core top",-28,0,4680,150,-8,-28,10,0
-2625,2535,"Tangle Lakes",6938,"Radiocarbon",2880,235,4680,150,2740,3020,140,1
-2625,2535,"Tangle Lakes",6939,"Radiocarbon",4560,520.5,4680,150,4220,4900,340,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2625,2535,"Tangle Lakes",6937,"Core top",-28,0,4680,150,-8,-28,"NAPD 1","Chron uses top and two C14 dates.",TRUE,NA,-146.06333,63.02944
+2625,2535,"Tangle Lakes",6938,"Radiocarbon",2880,235,4680,150,2740,3020,"NAPD 1","Chron uses top and two C14 dates.",TRUE,NA,-146.06333,63.02944
+2625,2535,"Tangle Lakes",6939,"Radiocarbon",4560,520.5,4680,150,4220,4900,"NAPD 1","Chron uses top and two C14 dates.",TRUE,NA,-146.06333,63.02944

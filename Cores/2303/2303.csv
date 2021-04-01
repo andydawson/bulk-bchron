@@ -1,9 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2303,2225,"Lake RS36",6090,"Core top",0,0,8580,580,-40,40,40,0
-2303,2225,"Lake RS36",6091,"Radiocarbon",2730,7,8580,580,2650,2810,80,1
-2303,2225,"Lake RS36",6092,"Radiocarbon",4260,28.5,8580,580,4140,4380,120,1
-2303,2225,"Lake RS36",6093,"Radiocarbon",5130,51,8580,580,4970,5290,160,1
-2303,2225,"Lake RS36",6094,"Radiocarbon",5570,70,8580,580,5430,5710,140,1
-2303,2225,"Lake RS36",6095,"Radiocarbon",5200,71,8580,580,5080,5320,120,1
-2303,2225,"Lake RS36",6096,"Radiocarbon",6070,101,8580,580,5750,6390,320,1
-2303,2225,"Lake RS36",6097,"Radiocarbon",7580,111.5,8580,580,7420,7740,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2303,2225,"Lake RS36",6090,"Core top",0,0,8580,580,-40,40,"Gajewski 1995b","Bottom 2 AMS dates dropped as too old. Linear polynomial fit to 7 remaining AMS dates, but with linear interpolation for samples between surface (0 BP) and first AMS date.",TRUE,160,-95.06667,72.58333
+2303,2225,"Lake RS36",6091,"Radiocarbon",2730,7,8580,580,2650,2810,"Gajewski 1995b","Bottom 2 AMS dates dropped as too old. Linear polynomial fit to 7 remaining AMS dates, but with linear interpolation for samples between surface (0 BP) and first AMS date.",TRUE,160,-95.06667,72.58333
+2303,2225,"Lake RS36",6092,"Radiocarbon",4260,28.5,8580,580,4140,4380,"Gajewski 1995b","Bottom 2 AMS dates dropped as too old. Linear polynomial fit to 7 remaining AMS dates, but with linear interpolation for samples between surface (0 BP) and first AMS date.",TRUE,160,-95.06667,72.58333
+2303,2225,"Lake RS36",6093,"Radiocarbon",5130,51,8580,580,4970,5290,"Gajewski 1995b","Bottom 2 AMS dates dropped as too old. Linear polynomial fit to 7 remaining AMS dates, but with linear interpolation for samples between surface (0 BP) and first AMS date.",TRUE,160,-95.06667,72.58333
+2303,2225,"Lake RS36",6094,"Radiocarbon",5570,70,8580,580,5430,5710,"Gajewski 1995b","Bottom 2 AMS dates dropped as too old. Linear polynomial fit to 7 remaining AMS dates, but with linear interpolation for samples between surface (0 BP) and first AMS date.",TRUE,160,-95.06667,72.58333
+2303,2225,"Lake RS36",6095,"Radiocarbon",5200,71,8580,580,5080,5320,"Gajewski 1995b","Bottom 2 AMS dates dropped as too old. Linear polynomial fit to 7 remaining AMS dates, but with linear interpolation for samples between surface (0 BP) and first AMS date.",TRUE,160,-95.06667,72.58333
+2303,2225,"Lake RS36",6096,"Radiocarbon",6070,101,8580,580,5750,6390,"Gajewski 1995b","Bottom 2 AMS dates dropped as too old. Linear polynomial fit to 7 remaining AMS dates, but with linear interpolation for samples between surface (0 BP) and first AMS date.",TRUE,160,-95.06667,72.58333
+2303,2225,"Lake RS36",6097,"Radiocarbon",7580,111.5,8580,580,7420,7740,"Gajewski 1995b","Bottom 2 AMS dates dropped as too old. Linear polynomial fit to 7 remaining AMS dates, but with linear interpolation for samples between surface (0 BP) and first AMS date.",TRUE,160,-95.06667,72.58333

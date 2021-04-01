@@ -1,11 +1,11 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-492,480,"Clear Pond",1263,"Core top",-42,217,20380,-50,-42,0,21,0
-492,480,"Clear Pond",1264,"Radiocarbon",2460,280,20380,-50,2400,2520,60,1
-492,480,"Clear Pond",1265,"Radiocarbon",4500,330,20380,-50,4420,4580,80,1
-492,480,"Clear Pond",1266,"Radiocarbon",6960,372,20380,-50,6870,7050,90,1
-492,480,"Clear Pond",1267,"Radiocarbon",8460,475,20380,-50,8380,8540,80,1
-492,480,"Clear Pond",1268,"Radiocarbon",11510,521,20380,-50,11430,11590,80,1
-492,480,"Clear Pond",1269,"Radiocarbon",12790,655,20380,-50,12680,12900,110,1
-492,480,"Clear Pond",1270,"Radiocarbon",14740,720,20380,-50,14630,14850,110,1
-492,480,"Clear Pond",1271,"Radiocarbon",16240,826,20380,-50,16140,16340,100,1
-492,480,"Clear Pond",1272,"Radiocarbon",18180,930,20380,-50,18110,18250,70,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+492,480,"Clear Pond",1263,"Core top",-42,217,20380,-50,-42,0,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1264,"Radiocarbon",2460,280,20380,-50,2400,2520,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1265,"Radiocarbon",4500,330,20380,-50,4420,4580,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1266,"Radiocarbon",6960,372,20380,-50,6870,7050,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1267,"Radiocarbon",8460,475,20380,-50,8380,8540,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1268,"Radiocarbon",11510,521,20380,-50,11430,11590,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1269,"Radiocarbon",12790,655,20380,-50,12680,12900,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1270,"Radiocarbon",14740,720,20380,-50,14630,14850,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1271,"Radiocarbon",16240,826,20380,-50,16140,16340,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271
+492,480,"Clear Pond",1272,"Radiocarbon",18180,930,20380,-50,18110,18250,"Hussey 1993","First 9 dates used for age model. Bottom 2 dates (16,150 and 9060) not used. Origin fixed.",TRUE,10,-78.95401,-78.95271

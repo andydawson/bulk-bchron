@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2347,2267,"Lake Site South Burin Peninsula",6375,"Radiocarbon",10700,456,13500,10500,10590,10810,110,1
-2347,2267,"Lake Site South Burin Peninsula",6376,"Radiocarbon",11300,465,13500,10500,11180,11420,120,1
-2347,2267,"Lake Site South Burin Peninsula",6377,"Radiocarbon",13400,498.5,13500,10500,13260,13540,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2347,2267,"Lake Site South Burin Peninsula",6375,"Radiocarbon",10700,456,13500,10500,10590,10810,"COHMAP chron 1","3 C-14 dates on section from 448 to 500 cm. Influx from 20 +200 grains per sq. cm per yr. Lowest around 11-12k. Higher at 13k and 10.5k. Age bounds for application of the model: top = 10500; bottom = 13500.",TRUE,114,-55.6125,46.91944
+2347,2267,"Lake Site South Burin Peninsula",6376,"Radiocarbon",11300,465,13500,10500,11180,11420,"COHMAP chron 1","3 C-14 dates on section from 448 to 500 cm. Influx from 20 +200 grains per sq. cm per yr. Lowest around 11-12k. Higher at 13k and 10.5k. Age bounds for application of the model: top = 10500; bottom = 13500.",TRUE,114,-55.6125,46.91944
+2347,2267,"Lake Site South Burin Peninsula",6377,"Radiocarbon",13400,498.5,13500,10500,13260,13540,"COHMAP chron 1","3 C-14 dates on section from 448 to 500 cm. Influx from 20 +200 grains per sq. cm per yr. Lowest around 11-12k. Higher at 13k and 10.5k. Age bounds for application of the model: top = 10500; bottom = 13500.",TRUE,114,-55.6125,46.91944

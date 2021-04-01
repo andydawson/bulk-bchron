@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-234,231,"Barrett Lake",312,"Core top",0,0,13010,0,-30,30,30,0
-234,231,"Barrett Lake",313,"Radiocarbon",695,27.5,13010,0,525,865,170,1
-234,231,"Barrett Lake",314,"Radiocarbon",1110,46.5,13010,0,930,1290,180,1
-234,231,"Barrett Lake",315,"Radiocarbon",3930,87.5,13010,0,3750,4110,180,1
-234,231,"Barrett Lake",316,"Radiocarbon",8020,130,13010,0,7640,8400,380,1
-234,231,"Barrett Lake",317,"Radiocarbon",11730,188,13010,0,10870,12590,860,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+234,231,"Barrett Lake",312,"Core top",0,0,13010,0,-30,30,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface (0 BP).",TRUE,2816,-119.00833,37.59583
+234,231,"Barrett Lake",313,"Radiocarbon",695,27.5,13010,0,525,865,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface (0 BP).",TRUE,2816,-119.00833,37.59583
+234,231,"Barrett Lake",314,"Radiocarbon",1110,46.5,13010,0,930,1290,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface (0 BP).",TRUE,2816,-119.00833,37.59583
+234,231,"Barrett Lake",315,"Radiocarbon",3930,87.5,13010,0,3750,4110,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface (0 BP).",TRUE,2816,-119.00833,37.59583
+234,231,"Barrett Lake",316,"Radiocarbon",8020,130,13010,0,7640,8400,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface (0 BP).",TRUE,2816,-119.00833,37.59583
+234,231,"Barrett Lake",317,"Radiocarbon",11730,188,13010,0,10870,12590,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface (0 BP).",TRUE,2816,-119.00833,37.59583

@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1452,1415,"Kenosee Lake",3571,"Core top",-41,0,4610,20,-41,0,20.5,0
-1452,1415,"Kenosee Lake",3573,"Radiocarbon",5030,344,4610,20,4530,5530,500,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1452,1415,"Kenosee Lake",3571,"Core top",-41,0,4610,20,-41,0,"NAPD 2","Chron uses top, C14 date and one pollen stratigraphic date (chenopod macrofossil peak in core KN1, see Vance et al. 1997).",TRUE,746,-102.3,49.81667
+1452,1415,"Kenosee Lake",3572,"Biostratigraphic, pollen",2760,255.5,4610,20,2640,2880,"NAPD 2","Chron uses top, C14 date and one pollen stratigraphic date (chenopod macrofossil peak in core KN1, see Vance et al. 1997).",TRUE,746,-102.3,49.81667
+1452,1415,"Kenosee Lake",3573,"Radiocarbon",5030,344,4610,20,4530,5530,"NAPD 2","Chron uses top, C14 date and one pollen stratigraphic date (chenopod macrofossil peak in core KN1, see Vance et al. 1997).",TRUE,746,-102.3,49.81667

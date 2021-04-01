@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3565,1877,"Saint-Raymond",8311,"Core top",0,0,7970,130,0,0,0,0
-3565,1877,"Saint-Raymond",8312,"Radiocarbon",3550,277.5,7970,130,3430,3670,120,1
-3565,1877,"Saint-Raymond",8313,"Radiocarbon",7970,555,7970,130,7830,8110,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3565,1877,"Saint-Raymond",8311,"Core top",0,0,7970,130,0,0,"NAPD 1",NA,TRUE,160,-71.80778,46.89194
+3565,1877,"Saint-Raymond",8312,"Radiocarbon",3550,277.5,7970,130,3430,3670,"NAPD 1",NA,TRUE,160,-71.80778,46.89194
+3565,1877,"Saint-Raymond",8313,"Radiocarbon",7970,555,7970,130,7830,8110,"NAPD 1",NA,TRUE,160,-71.80778,46.89194

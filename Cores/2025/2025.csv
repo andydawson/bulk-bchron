@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2025,1955,"Ranger Lake",5771,"Core top",0,0,30130,0,-28,500,264,0
-2025,1955,"Ranger Lake",5772,"Radiocarbon",2200,72.5,30130,0,2120,2280,80,1
-2025,1955,"Ranger Lake",5773,"Radiocarbon",3970,137.5,30130,0,3900,4040,70,1
-2025,1955,"Ranger Lake",5774,"Radiocarbon",5690,210,30130,0,5570,5810,120,1
-2025,1955,"Ranger Lake",5775,"Radiocarbon",7260,270,30130,0,7120,7400,140,1
-2025,1955,"Ranger Lake",5776,"Radiocarbon",10600,320,30130,0,10450,10750,150,1
-2025,1955,"Ranger Lake",5777,"Radiocarbon",20700,470,30130,0,19800,21600,900,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2025,1955,"Ranger Lake",5771,"Core top",0,0,30130,0,-28,500,"PALE Author's preferred",NA,TRUE,820,-153.65,67.14722
+2025,1955,"Ranger Lake",5772,"Radiocarbon",2200,72.5,30130,0,2120,2280,"PALE Author's preferred",NA,TRUE,820,-153.65,67.14722
+2025,1955,"Ranger Lake",5773,"Radiocarbon",3970,137.5,30130,0,3900,4040,"PALE Author's preferred",NA,TRUE,820,-153.65,67.14722
+2025,1955,"Ranger Lake",5774,"Radiocarbon",5690,210,30130,0,5570,5810,"PALE Author's preferred",NA,TRUE,820,-153.65,67.14722
+2025,1955,"Ranger Lake",5775,"Radiocarbon",7260,270,30130,0,7120,7400,"PALE Author's preferred",NA,TRUE,820,-153.65,67.14722
+2025,1955,"Ranger Lake",5776,"Radiocarbon",10600,320,30130,0,10450,10750,"PALE Author's preferred",NA,TRUE,820,-153.65,67.14722
+2025,1955,"Ranger Lake",5777,"Radiocarbon",20700,470,30130,0,19800,21600,"PALE Author's preferred",NA,TRUE,820,-153.65,67.14722

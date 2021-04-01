@@ -1,6 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2320,2241,"Sagehen Marsh",6234,"Core top",0,0,250,0,0,0,0,0
-2320,2241,"Sagehen Marsh",6235,"Other dating methods",30,25,250,0,28,32,2,0
-2320,2241,"Sagehen Marsh",6236,"Other dating methods",54,35,250,0,52,56,2,0
-2320,2241,"Sagehen Marsh",6237,"Other dating methods",68,39,250,0,66,70,2,0
-2320,2241,"Sagehen Marsh",6238,"Other dating methods",93,44,250,0,91,95,2,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2320,2241,"Sagehen Marsh",6234,"Core top",0,0,250,0,0,0,"NAPD 1","Chron uses top, four historical dates, and two pollen stratigraphic dates (see Petersen 1985).",TRUE,2085,-108.50389,37.47389
+2320,2241,"Sagehen Marsh",6235,"Other dating methods",30,25,250,0,28,32,"NAPD 1","Chron uses top, four historical dates, and two pollen stratigraphic dates (see Petersen 1985).",TRUE,2085,-108.50389,37.47389
+2320,2241,"Sagehen Marsh",6236,"Other dating methods",54,35,250,0,52,56,"NAPD 1","Chron uses top, four historical dates, and two pollen stratigraphic dates (see Petersen 1985).",TRUE,2085,-108.50389,37.47389
+2320,2241,"Sagehen Marsh",6237,"Other dating methods",68,39,250,0,66,70,"NAPD 1","Chron uses top, four historical dates, and two pollen stratigraphic dates (see Petersen 1985).",TRUE,2085,-108.50389,37.47389
+2320,2241,"Sagehen Marsh",6238,"Other dating methods",93,44,250,0,91,95,"NAPD 1","Chron uses top, four historical dates, and two pollen stratigraphic dates (see Petersen 1985).",TRUE,2085,-108.50389,37.47389
+2320,2241,"Sagehen Marsh",6239,"Biostratigraphic, pollen",133,50,250,0,132,135,"NAPD 1","Chron uses top, four historical dates, and two pollen stratigraphic dates (see Petersen 1985).",TRUE,2085,-108.50389,37.47389
+2320,2241,"Sagehen Marsh",6240,"Biostratigraphic, pollen",248,60,250,0,246,250,"NAPD 1","Chron uses top, four historical dates, and two pollen stratigraphic dates (see Petersen 1985).",TRUE,2085,-108.50389,37.47389

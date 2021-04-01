@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1703,1647,"Lac Marcotte",4579,"Core top",0,0,9820,0,0,0,0,0
-1703,1647,"Lac Marcotte",4580,"Radiocarbon",4040,95,9820,0,3960,4120,80,1
-1703,1647,"Lac Marcotte",4581,"Radiocarbon",6920,190,9820,0,6835,7005,85,1
-1703,1647,"Lac Marcotte",4582,"Radiocarbon",8940,275,9820,0,8850,9030,90,1
-1703,1647,"Lac Marcotte",4583,"Radiocarbon",9885,300.5,9820,0,9655,10115,230,1
-1703,1647,"Lac Marcotte",4584,"Deglaciation",11000,372,9820,0,10500,11500,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1703,1647,"Lac Marcotte",4579,"Core top",0,0,9820,0,0,0,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation. Fit a 2nd order polynomial with sediment-surface date held constant. Coefs: 0.0, 44.329, -0.039864.",TRUE,503,-71.42278,47.07778
+1703,1647,"Lac Marcotte",4580,"Radiocarbon",4040,95,9820,0,3960,4120,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation. Fit a 2nd order polynomial with sediment-surface date held constant. Coefs: 0.0, 44.329, -0.039864.",TRUE,503,-71.42278,47.07778
+1703,1647,"Lac Marcotte",4581,"Radiocarbon",6920,190,9820,0,6835,7005,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation. Fit a 2nd order polynomial with sediment-surface date held constant. Coefs: 0.0, 44.329, -0.039864.",TRUE,503,-71.42278,47.07778
+1703,1647,"Lac Marcotte",4582,"Radiocarbon",8940,275,9820,0,8850,9030,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation. Fit a 2nd order polynomial with sediment-surface date held constant. Coefs: 0.0, 44.329, -0.039864.",TRUE,503,-71.42278,47.07778
+1703,1647,"Lac Marcotte",4583,"Radiocarbon",9885,300.5,9820,0,9655,10115,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation. Fit a 2nd order polynomial with sediment-surface date held constant. Coefs: 0.0, 44.329, -0.039864.",TRUE,503,-71.42278,47.07778
+1703,1647,"Lac Marcotte",4584,"Deglaciation",11000,372,9820,0,10500,11500,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation. Fit a 2nd order polynomial with sediment-surface date held constant. Coefs: 0.0, 44.329, -0.039864.",TRUE,503,-71.42278,47.07778

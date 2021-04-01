@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-272,266,"Big John Pond",588,"Core top",-31,0,5380,-30,-31,0,15.5,0
-272,266,"Big John Pond",590,"Radiocarbon, reservoir correction",1320,62.5,5380,-30,1160,1480,160,1
-272,266,"Big John Pond",591,"Radiocarbon, reservoir correction",3310,130,5380,-30,3150,3470,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+272,266,"Big John Pond",588,"Core top",-31,0,5380,-30,-31,0,"NAPD 1","Chron uses surface (-31 BP) plus 3 radiocarbon dates adjusted by 380 years based on radiocarbon date of 450 BP at the Ambrosia-rise (70 BP).",TRUE,421,-94.97224,-94.96931
+272,266,"Big John Pond",589,"Biostratigraphic, pollen",70,17.5,5380,-30,50,90,"NAPD 1","Chron uses surface (-31 BP) plus 3 radiocarbon dates adjusted by 380 years based on radiocarbon date of 450 BP at the Ambrosia-rise (70 BP).",TRUE,421,-94.97224,-94.96931
+272,266,"Big John Pond",590,"Radiocarbon, reservoir correction",1320,62.5,5380,-30,1160,1480,"NAPD 1","Chron uses surface (-31 BP) plus 3 radiocarbon dates adjusted by 380 years based on radiocarbon date of 450 BP at the Ambrosia-rise (70 BP).",TRUE,421,-94.97224,-94.96931
+272,266,"Big John Pond",591,"Radiocarbon, reservoir correction",3310,130,5380,-30,3150,3470,"NAPD 1","Chron uses surface (-31 BP) plus 3 radiocarbon dates adjusted by 380 years based on radiocarbon date of 450 BP at the Ambrosia-rise (70 BP).",TRUE,421,-94.97224,-94.96931

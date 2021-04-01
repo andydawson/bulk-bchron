@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-517,504,"Crane Lake",1539,"Core top",-39,0,11900,-40,-39,11,25,0
-517,504,"Crane Lake",1540,"Radiocarbon",2850,52.5,11900,-40,2670,3030,180,1
-517,504,"Crane Lake",1541,"Radiocarbon",4240,100,11900,-40,4060,4420,180,1
-517,504,"Crane Lake",1542,"Radiocarbon",11200,400,11900,-40,10720,11680,480,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+517,504,"Crane Lake",1539,"Core top",-39,0,11900,-40,-39,11,"NAPD 1","Chron uses top, and three C14 dates (Beta-28625, Beta-28627 and Beta-28626 rejected by Shafer 1989).",TRUE,2590,-112.14974,-112.14805
+517,504,"Crane Lake",1540,"Radiocarbon",2850,52.5,11900,-40,2670,3030,"NAPD 1","Chron uses top, and three C14 dates (Beta-28625, Beta-28627 and Beta-28626 rejected by Shafer 1989).",TRUE,2590,-112.14974,-112.14805
+517,504,"Crane Lake",1541,"Radiocarbon",4240,100,11900,-40,4060,4420,"NAPD 1","Chron uses top, and three C14 dates (Beta-28625, Beta-28627 and Beta-28626 rejected by Shafer 1989).",TRUE,2590,-112.14974,-112.14805
+517,504,"Crane Lake",1542,"Radiocarbon",11200,400,11900,-40,10720,11680,"NAPD 1","Chron uses top, and three C14 dates (Beta-28625, Beta-28627 and Beta-28626 rejected by Shafer 1989).",TRUE,2590,-112.14974,-112.14805

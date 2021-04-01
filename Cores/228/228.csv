@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-228,226,"Balsam Meadow",289,"Core top",0,0,9780,0,-33,30,31.5,0
-228,226,"Balsam Meadow",290,"Radiocarbon",470,19.5,9780,0,290,650,180,1
-228,226,"Balsam Meadow",291,"Radiocarbon",2350,29.5,9780,0,2110,2590,240,1
-228,226,"Balsam Meadow",292,"Radiocarbon",3160,42.5,9780,0,2880,3440,280,1
-228,226,"Balsam Meadow",293,"Radiocarbon",2920,120,9780,0,2680,3160,240,1
-228,226,"Balsam Meadow",294,"Radiocarbon",6160,145,9780,0,5880,6440,280,1
-228,226,"Balsam Meadow",295,"Radiocarbon",9420,224.5,9780,0,9020,9820,400,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+228,226,"Balsam Meadow",289,"Core top",0,0,9780,0,-33,30,"NAPD 1","Chron uses six C14 dates (top five interpolated from adjacent cores).",TRUE,2015,-119.25586,-119.2479
+228,226,"Balsam Meadow",290,"Radiocarbon",470,19.5,9780,0,290,650,"NAPD 1","Chron uses six C14 dates (top five interpolated from adjacent cores).",TRUE,2015,-119.25586,-119.2479
+228,226,"Balsam Meadow",291,"Radiocarbon",2350,29.5,9780,0,2110,2590,"NAPD 1","Chron uses six C14 dates (top five interpolated from adjacent cores).",TRUE,2015,-119.25586,-119.2479
+228,226,"Balsam Meadow",292,"Radiocarbon",3160,42.5,9780,0,2880,3440,"NAPD 1","Chron uses six C14 dates (top five interpolated from adjacent cores).",TRUE,2015,-119.25586,-119.2479
+228,226,"Balsam Meadow",293,"Radiocarbon",2920,120,9780,0,2680,3160,"NAPD 1","Chron uses six C14 dates (top five interpolated from adjacent cores).",TRUE,2015,-119.25586,-119.2479
+228,226,"Balsam Meadow",294,"Radiocarbon",6160,145,9780,0,5880,6440,"NAPD 1","Chron uses six C14 dates (top five interpolated from adjacent cores).",TRUE,2015,-119.25586,-119.2479
+228,226,"Balsam Meadow",295,"Radiocarbon",9420,224.5,9780,0,9020,9820,"NAPD 1","Chron uses six C14 dates (top five interpolated from adjacent cores).",TRUE,2015,-119.25586,-119.2479

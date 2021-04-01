@@ -1,9 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2926,2829,"Waubashene Nippissing Transgression Site",7358,"Radiocarbon",6160,30,6480,5890,5980,6340,180,1
-2926,2829,"Waubashene Nippissing Transgression Site",7359,"Radiocarbon",5950,140,6480,5890,5770,6130,180,1
-2926,2829,"Waubashene Nippissing Transgression Site",7360,"Radiocarbon",6440,175,6480,5890,6260,6620,180,1
-2926,2829,"Waubashene Nippissing Transgression Site",7361,"Radiocarbon",6060,225,6480,5890,5880,6240,180,1
-2926,2829,"Waubashene Nippissing Transgression Site",7362,"Radiocarbon",6070,225,6480,5890,5890,6250,180,1
-2926,2829,"Waubashene Nippissing Transgression Site",7363,"Radiocarbon",6400,284.5,6480,5890,6220,6580,180,1
-2926,2829,"Waubashene Nippissing Transgression Site",7364,"Radiocarbon",6490,284.5,6480,5890,6310,6670,180,1
-2926,2829,"Waubashene Nippissing Transgression Site",7365,"Radiocarbon",6960,299.5,6480,5890,6780,7140,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2926,2829,"Waubashene Nippissing Transgression Site",7358,"Radiocarbon",6160,30,6480,5890,5980,6340,"NAPD 1","Chron uses eight C14 dates. Coeffs: 5891.1, 2.04461.",TRUE,190,-79.68,44.78
+2926,2829,"Waubashene Nippissing Transgression Site",7359,"Radiocarbon",5950,140,6480,5890,5770,6130,"NAPD 1","Chron uses eight C14 dates. Coeffs: 5891.1, 2.04461.",TRUE,190,-79.68,44.78
+2926,2829,"Waubashene Nippissing Transgression Site",7360,"Radiocarbon",6440,175,6480,5890,6260,6620,"NAPD 1","Chron uses eight C14 dates. Coeffs: 5891.1, 2.04461.",TRUE,190,-79.68,44.78
+2926,2829,"Waubashene Nippissing Transgression Site",7361,"Radiocarbon",6060,225,6480,5890,5880,6240,"NAPD 1","Chron uses eight C14 dates. Coeffs: 5891.1, 2.04461.",TRUE,190,-79.68,44.78
+2926,2829,"Waubashene Nippissing Transgression Site",7362,"Radiocarbon",6070,225,6480,5890,5890,6250,"NAPD 1","Chron uses eight C14 dates. Coeffs: 5891.1, 2.04461.",TRUE,190,-79.68,44.78
+2926,2829,"Waubashene Nippissing Transgression Site",7363,"Radiocarbon",6400,284.5,6480,5890,6220,6580,"NAPD 1","Chron uses eight C14 dates. Coeffs: 5891.1, 2.04461.",TRUE,190,-79.68,44.78
+2926,2829,"Waubashene Nippissing Transgression Site",7364,"Radiocarbon",6490,284.5,6480,5890,6310,6670,"NAPD 1","Chron uses eight C14 dates. Coeffs: 5891.1, 2.04461.",TRUE,190,-79.68,44.78
+2926,2829,"Waubashene Nippissing Transgression Site",7365,"Radiocarbon",6960,299.5,6480,5890,6780,7140,"NAPD 1","Chron uses eight C14 dates. Coeffs: 5891.1, 2.04461.",TRUE,190,-79.68,44.78

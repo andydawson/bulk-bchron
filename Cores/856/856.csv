@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-856,829,"Furnival Lake",2412,"Core top",-30,0,8220,-30,-30,-10,10,0
-856,829,"Furnival Lake",2414,"Radiocarbon",5940,350,8220,-30,5820,6060,120,1
-856,829,"Furnival Lake",2415,"Radiocarbon",7260,530,8220,-30,7120,7400,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+856,829,"Furnival Lake",2412,"Core top",-30,0,8220,-30,-30,-10,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates (TO-1705 rejected).",TRUE,440,-84.93,48.21
+856,829,"Furnival Lake",2413,"Biostratigraphic, pollen",100,55,8220,-30,75,125,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates (TO-1705 rejected).",TRUE,440,-84.93,48.21
+856,829,"Furnival Lake",2414,"Radiocarbon",5940,350,8220,-30,5820,6060,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates (TO-1705 rejected).",TRUE,440,-84.93,48.21
+856,829,"Furnival Lake",2415,"Radiocarbon",7260,530,8220,-30,7120,7400,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates (TO-1705 rejected).",TRUE,440,-84.93,48.21

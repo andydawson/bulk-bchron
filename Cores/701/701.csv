@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-701,681,"Divide Lake",1945,"Core top",0,0,12400,0,-30,30,30,0
-701,681,"Divide Lake",1946,"Radiocarbon",3970,97.5,12400,0,3810,4130,160,1
-701,681,"Divide Lake",1947,"Radiocarbon",9800,255,12400,0,9620,9980,180,1
-701,681,"Divide Lake",1948,"Radiocarbon",11840,285,12400,0,11620,12060,220,1
-701,681,"Divide Lake",1949,"Tephra",12100,305.5,12400,0,11900,12300,200,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+701,681,"Divide Lake",1945,"Core top",0,0,12400,0,-30,30,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and Glacier Peak tephra dated in Yellowstone region to 12100±200 (Whitlock 1993). Fit a least-squares straight line with surface age held constant. Coefs: 0.0, 39.9742.",TRUE,2628,-110.23333,43.93333
+701,681,"Divide Lake",1946,"Radiocarbon",3970,97.5,12400,0,3810,4130,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and Glacier Peak tephra dated in Yellowstone region to 12100±200 (Whitlock 1993). Fit a least-squares straight line with surface age held constant. Coefs: 0.0, 39.9742.",TRUE,2628,-110.23333,43.93333
+701,681,"Divide Lake",1947,"Radiocarbon",9800,255,12400,0,9620,9980,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and Glacier Peak tephra dated in Yellowstone region to 12100±200 (Whitlock 1993). Fit a least-squares straight line with surface age held constant. Coefs: 0.0, 39.9742.",TRUE,2628,-110.23333,43.93333
+701,681,"Divide Lake",1948,"Radiocarbon",11840,285,12400,0,11620,12060,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and Glacier Peak tephra dated in Yellowstone region to 12100±200 (Whitlock 1993). Fit a least-squares straight line with surface age held constant. Coefs: 0.0, 39.9742.",TRUE,2628,-110.23333,43.93333
+701,681,"Divide Lake",1949,"Tephra",12100,305.5,12400,0,11900,12300,"NAPD 1","Chron uses surface (0 BP), 3 radiocarbon dates, and Glacier Peak tephra dated in Yellowstone region to 12100±200 (Whitlock 1993). Fit a least-squares straight line with surface age held constant. Coefs: 0.0, 39.9742.",TRUE,2628,-110.23333,43.93333

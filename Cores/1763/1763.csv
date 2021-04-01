@@ -1,11 +1,12 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1763,1707,"Monhegan Island Meadow",4775,"Core top",0,0,10000,0,-30,30,30,0
-1763,1707,"Monhegan Island Meadow",4777,"Radiocarbon",1480,173.5,10000,0,1415,1545,65,1
-1763,1707,"Monhegan Island Meadow",4778,"Radiocarbon",2925,274,10000,0,2855,2995,70,1
-1763,1707,"Monhegan Island Meadow",4779,"Radiocarbon",3345,396,10000,0,3270,3420,75,1
-1763,1707,"Monhegan Island Meadow",4780,"Radiocarbon",3830,554,10000,0,3755,3905,75,1
-1763,1707,"Monhegan Island Meadow",4781,"Radiocarbon",4990,742,10000,0,4910,5070,80,1
-1763,1707,"Monhegan Island Meadow",4782,"Radiocarbon",5730,904,10000,0,5655,5805,75,1
-1763,1707,"Monhegan Island Meadow",4783,"Radiocarbon",7535,1004,10000,0,7430,7640,105,1
-1763,1707,"Monhegan Island Meadow",4784,"Radiocarbon",9710,1125,10000,0,9555,9865,155,1
-1763,1707,"Monhegan Island Meadow",4785,"Radiocarbon",10745,1264,10000,0,10550,10940,195,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1763,1707,"Monhegan Island Meadow",4775,"Core top",0,0,10000,0,-30,30,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4776,"Biostratigraphic, pollen",300,30,10000,0,250,350,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4777,"Radiocarbon",1480,173.5,10000,0,1415,1545,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4778,"Radiocarbon",2925,274,10000,0,2855,2995,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4779,"Radiocarbon",3345,396,10000,0,3270,3420,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4780,"Radiocarbon",3830,554,10000,0,3755,3905,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4781,"Radiocarbon",4990,742,10000,0,4910,5070,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4782,"Radiocarbon",5730,904,10000,0,5655,5805,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4783,"Radiocarbon",7535,1004,10000,0,7430,7640,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4784,"Radiocarbon",9710,1125,10000,0,9555,9865,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667
+1763,1707,"Monhegan Island Meadow",4785,"Radiocarbon",10745,1264,10000,0,10550,10940,"COHMAP chron 3","Deleted bottom dates in favor of linear trend 1264 to 1125 cm. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,3,-69.3,43.76667

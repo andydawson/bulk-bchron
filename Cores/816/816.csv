@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-816,794,"Exchequer Meadow",2264,"Core top",0,0,13140,0,0,0,0,0
-816,794,"Exchequer Meadow",2265,"Radiocarbon",1870,60,13140,0,1750,1990,120,1
-816,794,"Exchequer Meadow",2266,"Radiocarbon",2980,95,13140,0,2820,3140,160,1
-816,794,"Exchequer Meadow",2267,"Radiocarbon",4540,176,13140,0,4360,4720,180,1
-816,794,"Exchequer Meadow",2268,"Radiocarbon",7070,217.5,13140,0,6930,7210,140,1
-816,794,"Exchequer Meadow",2269,"Radiocarbon",11490,287.5,13140,0,10950,12030,540,1
-816,794,"Exchequer Meadow",2270,"Radiocarbon",10330,338.5,13140,0,9570,11090,760,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+816,794,"Exchequer Meadow",2264,"Core top",0,0,13140,0,0,0,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (0 BP). Fit a straight line (least squares) with surface date held constant. Coefs: 0.0, 33.081.",TRUE,2219,-119.83333,37
+816,794,"Exchequer Meadow",2265,"Radiocarbon",1870,60,13140,0,1750,1990,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (0 BP). Fit a straight line (least squares) with surface date held constant. Coefs: 0.0, 33.081.",TRUE,2219,-119.83333,37
+816,794,"Exchequer Meadow",2266,"Radiocarbon",2980,95,13140,0,2820,3140,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (0 BP). Fit a straight line (least squares) with surface date held constant. Coefs: 0.0, 33.081.",TRUE,2219,-119.83333,37
+816,794,"Exchequer Meadow",2267,"Radiocarbon",4540,176,13140,0,4360,4720,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (0 BP). Fit a straight line (least squares) with surface date held constant. Coefs: 0.0, 33.081.",TRUE,2219,-119.83333,37
+816,794,"Exchequer Meadow",2268,"Radiocarbon",7070,217.5,13140,0,6930,7210,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (0 BP). Fit a straight line (least squares) with surface date held constant. Coefs: 0.0, 33.081.",TRUE,2219,-119.83333,37
+816,794,"Exchequer Meadow",2269,"Radiocarbon",11490,287.5,13140,0,10950,12030,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (0 BP). Fit a straight line (least squares) with surface date held constant. Coefs: 0.0, 33.081.",TRUE,2219,-119.83333,37
+816,794,"Exchequer Meadow",2270,"Radiocarbon",10330,338.5,13140,0,9570,11090,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (0 BP). Fit a straight line (least squares) with surface date held constant. Coefs: 0.0, 33.081.",TRUE,2219,-119.83333,37

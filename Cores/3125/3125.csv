@@ -1,10 +1,10 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3125,770,"E Lake",7758,"Core top",-18,0,11430,-20,-18,0,9,0
-3125,770,"E Lake",7759,"Radiocarbon",775,17.5,11430,-20,665,885,110,1
-3125,770,"E Lake",7760,"Radiocarbon",1170,42.5,11430,-20,1060,1280,110,1
-3125,770,"E Lake",7761,"Radiocarbon",1780,72.5,11430,-20,1650,1910,130,1
-3125,770,"E Lake",7762,"Radiocarbon",5025,192.5,11430,-20,4905,5145,120,1
-3125,770,"E Lake",7763,"Radiocarbon",6130,232.5,11430,-20,6000,6260,130,1
-3125,770,"E Lake",7764,"Radiocarbon",7280,272.5,11430,-20,7150,7410,130,1
-3125,770,"E Lake",7765,"Radiocarbon",7750,342.5,11430,-20,7620,7880,130,1
-3125,770,"E Lake",7766,"Radiocarbon",11140,432.5,11430,-20,10940,11340,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3125,770,"E Lake",7758,"Core top",-18,0,11430,-20,-18,0,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573
+3125,770,"E Lake",7759,"Radiocarbon",775,17.5,11430,-20,665,885,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573
+3125,770,"E Lake",7760,"Radiocarbon",1170,42.5,11430,-20,1060,1280,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573
+3125,770,"E Lake",7761,"Radiocarbon",1780,72.5,11430,-20,1650,1910,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573
+3125,770,"E Lake",7762,"Radiocarbon",5025,192.5,11430,-20,4905,5145,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573
+3125,770,"E Lake",7763,"Radiocarbon",6130,232.5,11430,-20,6000,6260,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573
+3125,770,"E Lake",7764,"Radiocarbon",7280,272.5,11430,-20,7150,7410,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573
+3125,770,"E Lake",7765,"Radiocarbon",7750,342.5,11430,-20,7620,7880,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573
+3125,770,"E Lake",7766,"Radiocarbon",11140,432.5,11430,-20,10940,11340,"NAPD 1 (radiocarbon years)","Chron uses top plus 8 radiocarbon dates.",TRUE,735,-99.6594,-99.6573

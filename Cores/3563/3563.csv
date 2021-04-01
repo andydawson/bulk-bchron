@@ -1,17 +1,18 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3563,2954,"Pretty Lake",8255,"Core top",0,0,13940,0,-50,50,50,0
-3563,2954,"Pretty Lake",8257,"Radiocarbon, reservoir correction",720,53.5,13940,0,390,1050,330,1
-3563,2954,"Pretty Lake",8258,"Radiocarbon, reservoir correction",1830,104,13940,0,1290,2370,540,1
-3563,2954,"Pretty Lake",8259,"Radiocarbon, reservoir correction",2695,127.5,13940,0,2055,3335,640,1
-3563,2954,"Pretty Lake",8260,"Radiocarbon, reservoir correction",3585,147.5,13940,0,3005,4165,580,1
-3563,2954,"Pretty Lake",8261,"Radiocarbon, average of two or more dates",3838,193.5,13940,0,3372,4309,468.5,1
-3563,2954,"Pretty Lake",8261,"Radiocarbon, average of two or more dates",3838,193.5,13940,0,3372,4309,468.5,1
-3563,2954,"Pretty Lake",8262,"Radiocarbon, reservoir correction",4340,253.5,13940,0,3730,4950,610,1
-3563,2954,"Pretty Lake",8263,"Radiocarbon, reservoir correction",5885,303.5,13940,0,5205,6565,680,1
-3563,2954,"Pretty Lake",8264,"Radiocarbon, reservoir correction",7495,353.5,13940,0,7085,7905,410,1
-3563,2954,"Pretty Lake",8265,"Radiocarbon, reservoir correction",9295,383.5,13940,0,8605,9985,690,1
-3563,2954,"Pretty Lake",8266,"Radiocarbon, reservoir correction",10195,403.5,13940,0,9775,10615,420,1
-3563,2954,"Pretty Lake",8267,"Radiocarbon, reservoir correction",10860,427.5,13940,0,10360,11360,500,1
-3563,2954,"Pretty Lake",8268,"Radiocarbon, reservoir correction",11750,453.5,13940,0,11210,12290,540,1
-3563,2954,"Pretty Lake",8269,"Radiocarbon, average of two or more dates",13701,513,13940,0,12901,14501,800,1
-3563,2954,"Pretty Lake",8269,"Radiocarbon, average of two or more dates",13701,513,13940,0,12901,14501,800,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3563,2954,"Pretty Lake",8255,"Core top",0,0,13940,0,-50,50,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8256,"Biostratigraphic, pollen",150,7,13940,0,100,200,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8257,"Radiocarbon, reservoir correction",720,53.5,13940,0,390,1050,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8258,"Radiocarbon, reservoir correction",1830,104,13940,0,1290,2370,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8259,"Radiocarbon, reservoir correction",2695,127.5,13940,0,2055,3335,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8260,"Radiocarbon, reservoir correction",3585,147.5,13940,0,3005,4165,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8261,"Radiocarbon, average of two or more dates",3838,193.5,13940,0,3372,4309,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8261,"Radiocarbon, average of two or more dates",3838,193.5,13940,0,3372,4309,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8262,"Radiocarbon, reservoir correction",4340,253.5,13940,0,3730,4950,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8263,"Radiocarbon, reservoir correction",5885,303.5,13940,0,5205,6565,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8264,"Radiocarbon, reservoir correction",7495,353.5,13940,0,7085,7905,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8265,"Radiocarbon, reservoir correction",9295,383.5,13940,0,8605,9985,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8266,"Radiocarbon, reservoir correction",10195,403.5,13940,0,9775,10615,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8267,"Radiocarbon, reservoir correction",10860,427.5,13940,0,10360,11360,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8268,"Radiocarbon, reservoir correction",11750,453.5,13940,0,11210,12290,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8269,"Radiocarbon, average of two or more dates",13701,513,13940,0,12901,14501,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306
+3563,2954,"Pretty Lake",8269,"Radiocarbon, average of two or more dates",13701,513,13940,0,12901,14501,"NAPD 1","Chron uses top, Ambrosia rise, two averaged C14 dates and 11 C14 dates adjusted by 920 years to account for dead carbon (see Williams 1974).",TRUE,294,-85.25,41.58306

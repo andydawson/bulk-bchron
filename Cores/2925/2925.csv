@@ -1,5 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2925,2828,"Watchtower Basin",7353,"Core top",0,0,8280,0,0,0,0,0
-2925,2828,"Watchtower Basin",7354,"Radiocarbon",1610,16,8280,0,1170,2050,440,1
-2925,2828,"Watchtower Basin",7355,"Radiocarbon",5950,30,8280,0,5150,6750,800,1
-2925,2828,"Watchtower Basin",7356,"Tephra",6730,38,8280,0,6680,6780,50,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2925,2828,"Watchtower Basin",7353,"Core top",0,0,8280,0,0,0,"NAPD 1","Chron uses top, two C14 dates, Mazama ash tephra and one sediment stratigraphic date.",TRUE,NA,-117.08333,52.78333
+2925,2828,"Watchtower Basin",7354,"Radiocarbon",1610,16,8280,0,1170,2050,"NAPD 1","Chron uses top, two C14 dates, Mazama ash tephra and one sediment stratigraphic date.",TRUE,NA,-117.08333,52.78333
+2925,2828,"Watchtower Basin",7355,"Radiocarbon",5950,30,8280,0,5150,6750,"NAPD 1","Chron uses top, two C14 dates, Mazama ash tephra and one sediment stratigraphic date.",TRUE,NA,-117.08333,52.78333
+2925,2828,"Watchtower Basin",7356,"Tephra",6730,38,8280,0,6680,6780,"NAPD 1","Chron uses top, two C14 dates, Mazama ash tephra and one sediment stratigraphic date.",TRUE,NA,-117.08333,52.78333
+2925,2828,"Watchtower Basin",7357,"Sediment stratigraphic",8300,70,8280,0,8200,8400,"NAPD 1","Chron uses top, two C14 dates, Mazama ash tephra and one sediment stratigraphic date.",TRUE,NA,-117.08333,52.78333

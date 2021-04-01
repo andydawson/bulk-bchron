@@ -1,2 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-16256,10544,"McGinnis Lake",35855,"Core top",-49,0,7500,-50,NA,NA,NA,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16256,10544,"McGinnis Lake",35855,"Core top",-49,0,7500,-50,NA,NA,"NAPD1","Chron1 is based on a top date, two interpolated subzone boundary dates, and two guesses provided by the investigator",TRUE,255,-78.0425,-78.03713
+16256,10544,"McGinnis Lake",35856,"Guess",2500,270,7500,-50,NA,NA,"NAPD1","Chron1 is based on a top date, two interpolated subzone boundary dates, and two guesses provided by the investigator",TRUE,255,-78.0425,-78.03713
+16256,10544,"McGinnis Lake",35857,"Interpolated",3800,440,7500,-50,NA,NA,"NAPD1","Chron1 is based on a top date, two interpolated subzone boundary dates, and two guesses provided by the investigator",TRUE,255,-78.0425,-78.03713
+16256,10544,"McGinnis Lake",35858,"Interpolated",4800,560,7500,-50,NA,NA,"NAPD1","Chron1 is based on a top date, two interpolated subzone boundary dates, and two guesses provided by the investigator",TRUE,255,-78.0425,-78.03713
+16256,10544,"McGinnis Lake",35859,"Guess",7500,760,7500,-50,NA,NA,"NAPD1","Chron1 is based on a top date, two interpolated subzone boundary dates, and two guesses provided by the investigator",TRUE,255,-78.0425,-78.03713

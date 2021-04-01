@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-815,793,"Excelsior Basin",2261,"Core top",0,0,8380,1480,0,0,0,0
-815,793,"Excelsior Basin",2262,"Tephra",6730,68,8380,1480,6680,6780,50,0
-815,793,"Excelsior Basin",2263,"Radiocarbon",8450,104,8380,1480,8110,8790,340,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+815,793,"Excelsior Basin",2261,"Core top",0,0,8380,1480,0,0,"NAPD 1","Chron uses top, Mazama ash tephra, and one basal C14 date.",TRUE,NA,-117.11667,52.78333
+815,793,"Excelsior Basin",2262,"Tephra",6730,68,8380,1480,6680,6780,"NAPD 1","Chron uses top, Mazama ash tephra, and one basal C14 date.",TRUE,NA,-117.11667,52.78333
+815,793,"Excelsior Basin",2263,"Radiocarbon",8450,104,8380,1480,8110,8790,"NAPD 1","Chron uses top, Mazama ash tephra, and one basal C14 date.",TRUE,NA,-117.11667,52.78333

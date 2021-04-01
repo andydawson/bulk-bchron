@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1030,997,"Hedrick Pond",2989,"Core top",0,0,17410,0,-30,30,30,0
-1030,997,"Hedrick Pond",2990,"Radiocarbon",2190,155,17410,0,2070,2310,120,1
-1030,997,"Hedrick Pond",2991,"Radiocarbon",4210,335,17410,0,4050,4370,160,1
-1030,997,"Hedrick Pond",2992,"Radiocarbon",11340,545,17410,0,11140,11540,200,1
-1030,997,"Hedrick Pond",2993,"Radiocarbon",14580,596,17410,0,14280,14880,300,1
-1030,997,"Hedrick Pond",2994,"Radiocarbon",17160,663.5,17410,0,16740,17580,420,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1030,997,"Hedrick Pond",2989,"Core top",0,0,17410,0,-30,30,"NAPD 1","Chron uses the surface date (0 BP) and 5 radiocarbon dates.",TRUE,2073,-110.6,43.75
+1030,997,"Hedrick Pond",2990,"Radiocarbon",2190,155,17410,0,2070,2310,"NAPD 1","Chron uses the surface date (0 BP) and 5 radiocarbon dates.",TRUE,2073,-110.6,43.75
+1030,997,"Hedrick Pond",2991,"Radiocarbon",4210,335,17410,0,4050,4370,"NAPD 1","Chron uses the surface date (0 BP) and 5 radiocarbon dates.",TRUE,2073,-110.6,43.75
+1030,997,"Hedrick Pond",2992,"Radiocarbon",11340,545,17410,0,11140,11540,"NAPD 1","Chron uses the surface date (0 BP) and 5 radiocarbon dates.",TRUE,2073,-110.6,43.75
+1030,997,"Hedrick Pond",2993,"Radiocarbon",14580,596,17410,0,14280,14880,"NAPD 1","Chron uses the surface date (0 BP) and 5 radiocarbon dates.",TRUE,2073,-110.6,43.75
+1030,997,"Hedrick Pond",2994,"Radiocarbon",17160,663.5,17410,0,16740,17580,"NAPD 1","Chron uses the surface date (0 BP) and 5 radiocarbon dates.",TRUE,2073,-110.6,43.75

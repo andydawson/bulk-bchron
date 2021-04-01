@@ -1,4 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1447,1410,"Kellys Hollow",3543,"Core top",-29,0,10000,-30,-29,-9,10,0
-1447,1410,"Kellys Hollow",3546,"Radiocarbon",4380,60.5,10000,-30,4240,4520,140,1
-1447,1410,"Kellys Hollow",3547,"Radiocarbon",7700,190.5,10000,-30,7560,7840,140,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1447,1410,"Kellys Hollow",3543,"Core top",-29,0,10000,-30,-29,-9,"NAPD 2","Chron uses top, Ambrosia rise, 2 C14 dates, and date of Picea decline based on Kellys Hollow Core 2 (KELLHOL2) and nearby Wood Lake (WOODLAKE).",TRUE,470,-90.35,45.3
+1447,1410,"Kellys Hollow",3544,"Biostratigraphic, pollen",75,15,10000,-30,50,100,"NAPD 2","Chron uses top, Ambrosia rise, 2 C14 dates, and date of Picea decline based on Kellys Hollow Core 2 (KELLHOL2) and nearby Wood Lake (WOODLAKE).",TRUE,470,-90.35,45.3
+1447,1410,"Kellys Hollow",3545,"Biostratigraphic, pollen",2400,30,10000,-30,2000,2800,"NAPD 2","Chron uses top, Ambrosia rise, 2 C14 dates, and date of Picea decline based on Kellys Hollow Core 2 (KELLHOL2) and nearby Wood Lake (WOODLAKE).",TRUE,470,-90.35,45.3
+1447,1410,"Kellys Hollow",3546,"Radiocarbon",4380,60.5,10000,-30,4240,4520,"NAPD 2","Chron uses top, Ambrosia rise, 2 C14 dates, and date of Picea decline based on Kellys Hollow Core 2 (KELLHOL2) and nearby Wood Lake (WOODLAKE).",TRUE,470,-90.35,45.3
+1447,1410,"Kellys Hollow",3547,"Radiocarbon",7700,190.5,10000,-30,7560,7840,"NAPD 2","Chron uses top, Ambrosia rise, 2 C14 dates, and date of Picea decline based on Kellys Hollow Core 2 (KELLHOL2) and nearby Wood Lake (WOODLAKE).",TRUE,470,-90.35,45.3
+1447,1410,"Kellys Hollow",3548,"Biostratigraphic, pollen",10000,320,10000,-30,9500,10500,"NAPD 2","Chron uses top, Ambrosia rise, 2 C14 dates, and date of Picea decline based on Kellys Hollow Core 2 (KELLHOL2) and nearby Wood Lake (WOODLAKE).",TRUE,470,-90.35,45.3

@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2393,2309,"Sioux Pond",6636,"Core top",0,100,10100,3120,-40,40,40,0
-2393,2309,"Sioux Pond",6637,"Radiocarbon",5470,397.5,10100,3120,5310,5630,160,1
-2393,2309,"Sioux Pond",6638,"Radiocarbon",6690,432.5,10100,3120,6530,6850,160,1
-2393,2309,"Sioux Pond",6639,"Radiocarbon",9740,550.5,10100,3120,9540,9940,200,1
-2393,2309,"Sioux Pond",6640,"Deglaciation",10100,625,10100,3120,10000,10200,100,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2393,2309,"Sioux Pond",6636,"Core top",0,100,10100,3120,-40,40,"NAPD 1","Chron uses 3 C14 dates, top, and age of 10100 for deglaciation (see Björck 1985).",TRUE,410,-91.56667,49.93333
+2393,2309,"Sioux Pond",6637,"Radiocarbon",5470,397.5,10100,3120,5310,5630,"NAPD 1","Chron uses 3 C14 dates, top, and age of 10100 for deglaciation (see Björck 1985).",TRUE,410,-91.56667,49.93333
+2393,2309,"Sioux Pond",6638,"Radiocarbon",6690,432.5,10100,3120,6530,6850,"NAPD 1","Chron uses 3 C14 dates, top, and age of 10100 for deglaciation (see Björck 1985).",TRUE,410,-91.56667,49.93333
+2393,2309,"Sioux Pond",6639,"Radiocarbon",9740,550.5,10100,3120,9540,9940,"NAPD 1","Chron uses 3 C14 dates, top, and age of 10100 for deglaciation (see Björck 1985).",TRUE,410,-91.56667,49.93333
+2393,2309,"Sioux Pond",6640,"Deglaciation",10100,625,10100,3120,10000,10200,"NAPD 1","Chron uses 3 C14 dates, top, and age of 10100 for deglaciation (see Björck 1985).",TRUE,410,-91.56667,49.93333

@@ -1,25 +1,26 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1981,1915,"Point Escuminac",5604,"Core top",0,0,10710,0,0,0,0,0
-1981,1915,"Point Escuminac",5606,"Radiocarbon",470,29.5,10710,0,250,690,220,1
-1981,1915,"Point Escuminac",5607,"Radiocarbon",1100,50,10710,0,920,1280,180,1
-1981,1915,"Point Escuminac",5608,"Radiocarbon",1150,69.5,10710,0,910,1390,240,1
-1981,1915,"Point Escuminac",5609,"Radiocarbon",1830,95,10710,0,1650,2010,180,1
-1981,1915,"Point Escuminac",5610,"Radiocarbon",1630,119.5,10710,0,1450,1810,180,1
-1981,1915,"Point Escuminac",5611,"Radiocarbon",2260,145,10710,0,2100,2420,160,1
-1981,1915,"Point Escuminac",5612,"Radiocarbon",2230,169.5,10710,0,1970,2490,260,1
-1981,1915,"Point Escuminac",5613,"Radiocarbon",2850,183.5,10710,0,2590,3110,260,1
-1981,1915,"Point Escuminac",5614,"Radiocarbon",2950,197.5,10710,0,2790,3110,160,1
-1981,1915,"Point Escuminac",5615,"Radiocarbon",3340,217.5,10710,0,3100,3580,240,1
-1981,1915,"Point Escuminac",5616,"Radiocarbon",4320,250.25,10710,0,4140,4500,180,1
-1981,1915,"Point Escuminac",5617,"Radiocarbon",4300,269.5,10710,0,4080,4520,220,1
-1981,1915,"Point Escuminac",5618,"Radiocarbon",4670,321.5,10710,0,4390,4950,280,1
-1981,1915,"Point Escuminac",5619,"Radiocarbon",5140,331.5,10710,0,4920,5360,220,1
-1981,1915,"Point Escuminac",5620,"Radiocarbon",6460,377,10710,0,6240,6680,220,1
-1981,1915,"Point Escuminac",5621,"Radiocarbon",7250,396,10710,0,6990,7510,260,1
-1981,1915,"Point Escuminac",5622,"Radiocarbon",9110,432,10710,0,8890,9330,220,1
-1981,1915,"Point Escuminac",5623,"Radiocarbon",8970,448.5,10710,0,8650,9290,320,1
-1981,1915,"Point Escuminac",5624,"Radiocarbon",9460,481,10710,0,9100,9820,360,1
-1981,1915,"Point Escuminac",5625,"Radiocarbon",10080,486.75,10710,0,9800,10360,280,1
-1981,1915,"Point Escuminac",5626,"Radiocarbon",10210,488,10710,0,9850,10570,360,1
-1981,1915,"Point Escuminac",5627,"Radiocarbon, average of two or more dates",10760,514.25,10710,0,10560,10960,200,1
-1981,1915,"Point Escuminac",5627,"Radiocarbon, average of two or more dates",10760,514.25,10710,0,10560,10960,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1981,1915,"Point Escuminac",5604,"Core top",0,0,10710,0,0,0,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5605,"Biostratigraphic, pollen",100,12.5,10710,0,50,150,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5606,"Radiocarbon",470,29.5,10710,0,250,690,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5607,"Radiocarbon",1100,50,10710,0,920,1280,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5608,"Radiocarbon",1150,69.5,10710,0,910,1390,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5609,"Radiocarbon",1830,95,10710,0,1650,2010,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5610,"Radiocarbon",1630,119.5,10710,0,1450,1810,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5611,"Radiocarbon",2260,145,10710,0,2100,2420,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5612,"Radiocarbon",2230,169.5,10710,0,1970,2490,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5613,"Radiocarbon",2850,183.5,10710,0,2590,3110,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5614,"Radiocarbon",2950,197.5,10710,0,2790,3110,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5615,"Radiocarbon",3340,217.5,10710,0,3100,3580,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5616,"Radiocarbon",4320,250.25,10710,0,4140,4500,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5617,"Radiocarbon",4300,269.5,10710,0,4080,4520,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5618,"Radiocarbon",4670,321.5,10710,0,4390,4950,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5619,"Radiocarbon",5140,331.5,10710,0,4920,5360,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5620,"Radiocarbon",6460,377,10710,0,6240,6680,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5621,"Radiocarbon",7250,396,10710,0,6990,7510,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5622,"Radiocarbon",9110,432,10710,0,8890,9330,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5623,"Radiocarbon",8970,448.5,10710,0,8650,9290,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5624,"Radiocarbon",9460,481,10710,0,9100,9820,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5625,"Radiocarbon",10080,486.75,10710,0,9800,10360,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5626,"Radiocarbon",10210,488,10710,0,9850,10570,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5627,"Radiocarbon, average of two or more dates",10760,514.25,10710,0,10560,10960,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075
+1981,1915,"Point Escuminac",5627,"Radiocarbon, average of two or more dates",10760,514.25,10710,0,10560,10960,"NAPD 1","Chron uses 21 radiocarbon dates, 1 averaged date (CALIB), top, and Ambrosia-rise. Coefs: 0.0, 15.7141, -0.0455955, -5.18112e-04, 1.68745e-06, -1.58582e-09.",TRUE,6,-64.8,47.075

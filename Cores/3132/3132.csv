@@ -1,17 +1,17 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3132,529,"Hershop Bog",7888,"Core top",20,0,11840,510,-20,0,10,0
-3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,78,1
-3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,78,1
-3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,78,1
-3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,78,1
-3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,78,1
-3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,102,1
-3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,102,1
-3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,102,1
-3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,102,1
-3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,102,1
-3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,154,1
-3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,154,1
-3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,154,1
-3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,154,1
-3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,154,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3132,529,"Hershop Bog",7888,"Core top",20,0,11840,510,-20,0,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7889,"Radiocarbon, average of two or more dates",2015,40,11840,510,1937,2093,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7890,"Radiocarbon, average of two or more dates",6004,240,11840,510,5902,6106,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333
+3132,529,"Hershop Bog",7891,"Radiocarbon, average of two or more dates",10573,475,11840,510,10419,10727,"NAPD 1","Chron uses top and three averaged C14 dates. Each is the average of five C14 dates (CALIB program).",TRUE,124,-97.60833,29.58333

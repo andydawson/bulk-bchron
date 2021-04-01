@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2286,2209,"Lac Romer",6041,"Core top",0,0,6620,0,0,0,0,0
-2286,2209,"Lac Romer",6042,"Radiocarbon",620,55,6620,0,550,690,70,1
-2286,2209,"Lac Romer",6043,"Radiocarbon",3860,245,6620,0,3790,3930,70,1
-2286,2209,"Lac Romer",6044,"Radiocarbon",4520,315,6620,0,4440,4600,80,1
-2286,2209,"Lac Romer",6045,"Radiocarbon",6920,435,6620,0,6840,7000,80,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2286,2209,"Lac Romer",6041,"Core top",0,0,6620,0,0,0,"NAPD 1",NA,TRUE,18,-73.33083,45.96389
+2286,2209,"Lac Romer",6042,"Radiocarbon",620,55,6620,0,550,690,"NAPD 1",NA,TRUE,18,-73.33083,45.96389
+2286,2209,"Lac Romer",6043,"Radiocarbon",3860,245,6620,0,3790,3930,"NAPD 1",NA,TRUE,18,-73.33083,45.96389
+2286,2209,"Lac Romer",6044,"Radiocarbon",4520,315,6620,0,4440,4600,"NAPD 1",NA,TRUE,18,-73.33083,45.96389
+2286,2209,"Lac Romer",6045,"Radiocarbon",6920,435,6620,0,6840,7000,"NAPD 1",NA,TRUE,18,-73.33083,45.96389

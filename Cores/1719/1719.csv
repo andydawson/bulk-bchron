@@ -1,4 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1719,1663,"McCarston's Lake",4663,"Core top",-30,0,8880,-30,-30,-10,10,0
-1719,1663,"McCarston's Lake",4665,"Radiocarbon, reservoir correction",1070,235,8880,-30,950,1190,120,1
-1719,1663,"McCarston's Lake",4667,"Radiocarbon, reservoir correction",8790,887,8880,-30,8670,8910,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1719,1663,"McCarston's Lake",4663,"Core top",-30,0,8880,-30,-30,-10,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates (adjusted by 500 years to account for dead carbon), and one pollen stratigraphic date (Tsuga and Fagus rise).",TRUE,433,-80.09,45.05
+1719,1663,"McCarston's Lake",4664,"Biostratigraphic, pollen",100,85,8880,-30,50,150,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates (adjusted by 500 years to account for dead carbon), and one pollen stratigraphic date (Tsuga and Fagus rise).",TRUE,433,-80.09,45.05
+1719,1663,"McCarston's Lake",4665,"Radiocarbon, reservoir correction",1070,235,8880,-30,950,1190,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates (adjusted by 500 years to account for dead carbon), and one pollen stratigraphic date (Tsuga and Fagus rise).",TRUE,433,-80.09,45.05
+1719,1663,"McCarston's Lake",4666,"Biostratigraphic, pollen",7500,840,8880,-30,7000,8000,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates (adjusted by 500 years to account for dead carbon), and one pollen stratigraphic date (Tsuga and Fagus rise).",TRUE,433,-80.09,45.05
+1719,1663,"McCarston's Lake",4667,"Radiocarbon, reservoir correction",8790,887,8880,-30,8670,8910,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates (adjusted by 500 years to account for dead carbon), and one pollen stratigraphic date (Tsuga and Fagus rise).",TRUE,433,-80.09,45.05

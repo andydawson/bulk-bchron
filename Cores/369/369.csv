@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-369,360,"Chippewa Bog",1175,"Radiocarbon",1200,226.5,9500,1000,1130,1270,70,1
-369,360,"Chippewa Bog",1176,"Radiocarbon",4130,481.5,9500,1000,4060,4200,70,1
-369,360,"Chippewa Bog",1177,"Radiocarbon",8410,746.5,9500,1000,8330,8490,80,1
-369,360,"Chippewa Bog",1178,"Radiocarbon",9540,858.5,9500,1000,9440,9640,100,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+369,360,"Chippewa Bog",1175,"Radiocarbon",1200,226.5,9500,1000,1130,1270,"COHMAP chron 1","No ragweed rise. 4 sediment types. 4 C-14 dates. 777cm core begins at 188cm below bog mat. Fibrous peat (188-410cm), black gyttja (410-800cm), black, fine-grained, consolidated gyttja (800-910cm), clay (901-965cm). 9.5k dates beginning of spruce decrease;",TRUE,270,-83.24111,43.12389
+369,360,"Chippewa Bog",1176,"Radiocarbon",4130,481.5,9500,1000,4060,4200,"COHMAP chron 1","No ragweed rise. 4 sediment types. 4 C-14 dates. 777cm core begins at 188cm below bog mat. Fibrous peat (188-410cm), black gyttja (410-800cm), black, fine-grained, consolidated gyttja (800-910cm), clay (901-965cm). 9.5k dates beginning of spruce decrease;",TRUE,270,-83.24111,43.12389
+369,360,"Chippewa Bog",1177,"Radiocarbon",8410,746.5,9500,1000,8330,8490,"COHMAP chron 1","No ragweed rise. 4 sediment types. 4 C-14 dates. 777cm core begins at 188cm below bog mat. Fibrous peat (188-410cm), black gyttja (410-800cm), black, fine-grained, consolidated gyttja (800-910cm), clay (901-965cm). 9.5k dates beginning of spruce decrease;",TRUE,270,-83.24111,43.12389
+369,360,"Chippewa Bog",1178,"Radiocarbon",9540,858.5,9500,1000,9440,9640,"COHMAP chron 1","No ragweed rise. 4 sediment types. 4 C-14 dates. 777cm core begins at 188cm below bog mat. Fibrous peat (188-410cm), black gyttja (410-800cm), black, fine-grained, consolidated gyttja (800-910cm), clay (901-965cm). 9.5k dates beginning of spruce decrease;",TRUE,270,-83.24111,43.12389

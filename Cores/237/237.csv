@@ -1,9 +1,9 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-237,234,"Basin Pond",330,"Core top",-25,0,1690,-10,-30,-20,5,0
-237,234,"Basin Pond",331,"Radiocarbon, calibrated from calendar years",0,25,1690,-10,-5,5,5,1
-237,234,"Basin Pond",332,"Radiocarbon, calibrated from calendar years",116,100,1690,-10,112,120,4,1
-237,234,"Basin Pond",333,"Radiocarbon, calibrated from calendar years",306,400,1690,-10,302,310,4,1
-237,234,"Basin Pond",334,"Radiocarbon, calibrated from calendar years",790,700,1690,-10,783,797,7,1
-237,234,"Basin Pond",335,"Radiocarbon, calibrated from calendar years",1112,1000,1690,-10,1104,1120,8,1
-237,234,"Basin Pond",336,"Radiocarbon, calibrated from calendar years",1395,1300,1690,-10,1384,1406,11,1
-237,234,"Basin Pond",337,"Radiocarbon, calibrated from calendar years",1685,1605,1690,-10,1659,1711,26,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+237,234,"Basin Pond",330,"Core top",-25,0,1690,-10,-30,-20,"NAPD 1","Varve calender years converted to C14 dates for 7 points in core, including TOP (using Table 1-A in Stuiver and Pearson 1986, Radiocarbon 28(2B):805.)",TRUE,124,-70.05,44.47
+237,234,"Basin Pond",331,"Radiocarbon, calibrated from calendar years",0,25,1690,-10,-5,5,"NAPD 1","Varve calender years converted to C14 dates for 7 points in core, including TOP (using Table 1-A in Stuiver and Pearson 1986, Radiocarbon 28(2B):805.)",TRUE,124,-70.05,44.47
+237,234,"Basin Pond",332,"Radiocarbon, calibrated from calendar years",116,100,1690,-10,112,120,"NAPD 1","Varve calender years converted to C14 dates for 7 points in core, including TOP (using Table 1-A in Stuiver and Pearson 1986, Radiocarbon 28(2B):805.)",TRUE,124,-70.05,44.47
+237,234,"Basin Pond",333,"Radiocarbon, calibrated from calendar years",306,400,1690,-10,302,310,"NAPD 1","Varve calender years converted to C14 dates for 7 points in core, including TOP (using Table 1-A in Stuiver and Pearson 1986, Radiocarbon 28(2B):805.)",TRUE,124,-70.05,44.47
+237,234,"Basin Pond",334,"Radiocarbon, calibrated from calendar years",790,700,1690,-10,783,797,"NAPD 1","Varve calender years converted to C14 dates for 7 points in core, including TOP (using Table 1-A in Stuiver and Pearson 1986, Radiocarbon 28(2B):805.)",TRUE,124,-70.05,44.47
+237,234,"Basin Pond",335,"Radiocarbon, calibrated from calendar years",1112,1000,1690,-10,1104,1120,"NAPD 1","Varve calender years converted to C14 dates for 7 points in core, including TOP (using Table 1-A in Stuiver and Pearson 1986, Radiocarbon 28(2B):805.)",TRUE,124,-70.05,44.47
+237,234,"Basin Pond",336,"Radiocarbon, calibrated from calendar years",1395,1300,1690,-10,1384,1406,"NAPD 1","Varve calender years converted to C14 dates for 7 points in core, including TOP (using Table 1-A in Stuiver and Pearson 1986, Radiocarbon 28(2B):805.)",TRUE,124,-70.05,44.47
+237,234,"Basin Pond",337,"Radiocarbon, calibrated from calendar years",1685,1605,1690,-10,1659,1711,"NAPD 1","Varve calender years converted to C14 dates for 7 points in core, including TOP (using Table 1-A in Stuiver and Pearson 1986, Radiocarbon 28(2B):805.)",TRUE,124,-70.05,44.47

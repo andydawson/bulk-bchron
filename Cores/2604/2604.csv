@@ -1,2 +1,3 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2604,2517,"Stockbridge Bowl",6808,"Core top",0,0,240,0,-20,20,20,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2604,2517,"Stockbridge Bowl",6808,"Core top",0,0,240,0,-20,20,"NAPD 1","Chron uses top and Rumex rise.",TRUE,274,-73.15,42.33333
+2604,2517,"Stockbridge Bowl",6809,"Biostratigraphic, pollen",200,70,240,0,100,300,"NAPD 1","Chron uses top and Rumex rise.",TRUE,274,-73.15,42.33333

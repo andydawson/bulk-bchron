@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-841,816,"Forest Pond 1",2339,"Core top",-40,0,8710,-40,-40,0,20,0
-841,816,"Forest Pond 1",2340,"Radiocarbon",0,27,8710,-40,-40,0,20,1
-841,816,"Forest Pond 1",2341,"Radiocarbon",1650,39,8710,-40,1530,1770,120,1
-841,816,"Forest Pond 1",2342,"Radiocarbon",4170,56,8710,-40,4050,4290,120,1
-841,816,"Forest Pond 1",2343,"Radiocarbon",8600,77.5,8710,-40,8440,8760,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+841,816,"Forest Pond 1",2339,"Core top",-40,0,8710,-40,-40,0,"NAPD 1","Chron uses surface (-40 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates, especially between the lower two.",TRUE,2797,-109.93889,43.47167
+841,816,"Forest Pond 1",2340,"Radiocarbon",0,27,8710,-40,-40,0,"NAPD 1","Chron uses surface (-40 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates, especially between the lower two.",TRUE,2797,-109.93889,43.47167
+841,816,"Forest Pond 1",2341,"Radiocarbon",1650,39,8710,-40,1530,1770,"NAPD 1","Chron uses surface (-40 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates, especially between the lower two.",TRUE,2797,-109.93889,43.47167
+841,816,"Forest Pond 1",2342,"Radiocarbon",4170,56,8710,-40,4050,4290,"NAPD 1","Chron uses surface (-40 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates, especially between the lower two.",TRUE,2797,-109.93889,43.47167
+841,816,"Forest Pond 1",2343,"Radiocarbon",8600,77.5,8710,-40,8440,8760,"NAPD 1","Chron uses surface (-40 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates, especially between the lower two.",TRUE,2797,-109.93889,43.47167

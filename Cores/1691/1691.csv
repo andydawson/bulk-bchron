@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1691,1636,"Tourbière du lac Malbaie",4487,"Core top",0,0,7320,280,0,0,0,0
-1691,1636,"Tourbière du lac Malbaie",4488,"Radiocarbon",3855,140,7320,280,3765,3945,90,1
-1691,1636,"Tourbière du lac Malbaie",4489,"Radiocarbon",8095,195,7320,280,7940,8250,155,1
-1691,1636,"Tourbière du lac Malbaie",4490,"Deglaciation",10500,235,7320,280,10000,11000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1691,1636,"Tourbière du lac Malbaie",4487,"Core top",0,0,7320,280,0,0,"NAPD 1","Basal date of 10500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,818,-70.97639,47.59722
+1691,1636,"Tourbière du lac Malbaie",4488,"Radiocarbon",3855,140,7320,280,3765,3945,"NAPD 1","Basal date of 10500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,818,-70.97639,47.59722
+1691,1636,"Tourbière du lac Malbaie",4489,"Radiocarbon",8095,195,7320,280,7940,8250,"NAPD 1","Basal date of 10500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,818,-70.97639,47.59722
+1691,1636,"Tourbière du lac Malbaie",4490,"Deglaciation",10500,235,7320,280,10000,11000,"NAPD 1","Basal date of 10500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,818,-70.97639,47.59722

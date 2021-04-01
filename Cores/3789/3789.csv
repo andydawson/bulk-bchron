@@ -1,1 +1,5 @@
-""
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3789,562,"Tom Swamp",8429,"Biostratigraphic, pollen",9300,745,13370,8360,9050,9550,"NAPD 1","Chron uses 4 pollen stratigraphic dates from Gaudreau's (1986) core from Tom Swamp.",TRUE,231,-72.2125,42.51667
+3789,562,"Tom Swamp",8430,"Biostratigraphic, pollen",10080,845,13370,8360,9830,10330,"NAPD 1","Chron uses 4 pollen stratigraphic dates from Gaudreau's (1986) core from Tom Swamp.",TRUE,231,-72.2125,42.51667
+3789,562,"Tom Swamp",8431,"Biostratigraphic, pollen",11580,1065,13370,8360,11330,11830,"NAPD 1","Chron uses 4 pollen stratigraphic dates from Gaudreau's (1986) core from Tom Swamp.",TRUE,231,-72.2125,42.51667
+3789,562,"Tom Swamp",8432,"Biostratigraphic, pollen",12800,1215,13370,8360,12550,13050,"NAPD 1","Chron uses 4 pollen stratigraphic dates from Gaudreau's (1986) core from Tom Swamp.",TRUE,231,-72.2125,42.51667

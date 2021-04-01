@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7366,"Core top",-45,0,2430,-50,-45,-45,0,0
-2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7367,"Lead-210",50,22,2430,-50,45,55,5,0
-2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7368,"Radiocarbon",1040,29,2430,-50,1010,1090,40,1
-2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7369,"Radiocarbon",1910,41,2430,-50,1860,1960,50,1
-2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7370,"Radiocarbon",2270,62,2430,-50,2210,2330,60,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7366,"Core top",-45,0,2430,-50,-45,-45,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.37056,26.35972
+2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7367,"Lead-210",50,22,2430,-50,45,55,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.37056,26.35972
+2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7368,"Radiocarbon",1040,29,2430,-50,1010,1090,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.37056,26.35972
+2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7369,"Radiocarbon",1910,41,2430,-50,1860,1960,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.37056,26.35972
+2943,2846,"Water Conservation Area 2A, Site 2 (Site F1)",7370,"Radiocarbon",2270,62,2430,-50,2210,2330,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.37056,26.35972

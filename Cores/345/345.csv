@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-345,337,"Carter Site",1037,"Radiocarbon",11720,10.5,14700,11690,11380,12060,340,1
-345,337,"Carter Site",1038,"Radiocarbon",12590,93.5,14700,11690,11650,13470,910,1
-345,337,"Carter Site",1039,"Radiocarbon",13000,223,14700,11690,12200,13800,800,1
-345,337,"Carter Site",1040,"Radiocarbon",14810,410,14700,11690,14470,15150,340,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+345,337,"Carter Site",1037,"Radiocarbon",11720,10.5,14700,11690,11380,12060,"NAPD 1","Chron uses 4 C14 dates. C14 dates DIC #514, #439, #440, #441, #513, #244 rejected by author (see Shane 1976).",TRUE,305,-84.68056,40.21667
+345,337,"Carter Site",1038,"Radiocarbon",12590,93.5,14700,11690,11650,13470,"NAPD 1","Chron uses 4 C14 dates. C14 dates DIC #514, #439, #440, #441, #513, #244 rejected by author (see Shane 1976).",TRUE,305,-84.68056,40.21667
+345,337,"Carter Site",1039,"Radiocarbon",13000,223,14700,11690,12200,13800,"NAPD 1","Chron uses 4 C14 dates. C14 dates DIC #514, #439, #440, #441, #513, #244 rejected by author (see Shane 1976).",TRUE,305,-84.68056,40.21667
+345,337,"Carter Site",1040,"Radiocarbon",14810,410,14700,11690,14470,15150,"NAPD 1","Chron uses 4 C14 dates. C14 dates DIC #514, #439, #440, #441, #513, #244 rejected by author (see Shane 1976).",TRUE,305,-84.68056,40.21667

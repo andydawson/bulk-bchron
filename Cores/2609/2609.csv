@@ -1,10 +1,11 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2609,2520,"Stotzel-Leis Site",6828,"Core top",0,0,15130,30,-20,20,20,0
-2609,2520,"Stotzel-Leis Site",6830,"Radiocarbon",5830,132.5,15130,30,5735,5925,95,1
-2609,2520,"Stotzel-Leis Site",6831,"Radiocarbon",6600,206,15130,30,6420,6780,180,1
-2609,2520,"Stotzel-Leis Site",6832,"Radiocarbon",8570,297.5,15130,30,8375,8765,195,1
-2609,2520,"Stotzel-Leis Site",6833,"Radiocarbon",9760,412.5,15130,30,9595,9925,165,1
-2609,2520,"Stotzel-Leis Site",6834,"Radiocarbon",10260,502.5,15130,30,10060,10460,200,1
-2609,2520,"Stotzel-Leis Site",6835,"Radiocarbon",11350,702.5,15130,30,11045,11655,305,1
-2609,2520,"Stotzel-Leis Site",6836,"Radiocarbon",13070,790,15130,30,12700,13440,370,1
-2609,2520,"Stotzel-Leis Site",6837,"Radiocarbon",14890,905,15130,30,14490,15290,400,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2609,2520,"Stotzel-Leis Site",6828,"Core top",0,0,15130,30,-20,20,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6829,"Biostratigraphic, pollen",100,30,15130,30,50,150,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6830,"Radiocarbon",5830,132.5,15130,30,5735,5925,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6831,"Radiocarbon",6600,206,15130,30,6420,6780,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6832,"Radiocarbon",8570,297.5,15130,30,8375,8765,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6833,"Radiocarbon",9760,412.5,15130,30,9595,9925,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6834,"Radiocarbon",10260,502.5,15130,30,10060,10460,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6835,"Radiocarbon",11350,702.5,15130,30,11045,11655,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6836,"Radiocarbon",13070,790,15130,30,12700,13440,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667
+2609,2520,"Stotzel-Leis Site",6837,"Radiocarbon",14890,905,15130,30,14490,15290,"NAPD 1","Chron uses 8 C14 dates, top and Ambrosia rise. Dates rejected: 6450 (DIC-502), wood date at same level; 10330 (DIC-507), apparent C14 plateau; 24110 (DIC-511) too old.",TRUE,309,-84.68944,40.21667

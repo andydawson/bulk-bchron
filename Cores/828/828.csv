@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-828,804,"Ferndale Bog",2297,"Core top",-29,0,NA,NA,-29,-9,10,0
-828,804,"Ferndale Bog",2298,"Radiocarbon",2580,70.5,NA,NA,2420,2740,160,1
-828,804,"Ferndale Bog",2299,"Radiocarbon, average of two or more dates",4320,130,NA,NA,4192,4448,128,1
-828,804,"Ferndale Bog",2299,"Radiocarbon, average of two or more dates",4320,130,NA,NA,4192,4448,128,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+828,804,"Ferndale Bog",2297,"Core top",-29,0,NA,NA,-29,-9,"NAPD 1","Chron uses top, one C14 date, and and 2 averaged dates. Chron not reliable (see Hall 1981).",TRUE,263,-95.80833,34.40556
+828,804,"Ferndale Bog",2298,"Radiocarbon",2580,70.5,NA,NA,2420,2740,"NAPD 1","Chron uses top, one C14 date, and and 2 averaged dates. Chron not reliable (see Hall 1981).",TRUE,263,-95.80833,34.40556
+828,804,"Ferndale Bog",2299,"Radiocarbon, average of two or more dates",4320,130,NA,NA,4192,4448,"NAPD 1","Chron uses top, one C14 date, and and 2 averaged dates. Chron not reliable (see Hall 1981).",TRUE,263,-95.80833,34.40556
+828,804,"Ferndale Bog",2299,"Radiocarbon, average of two or more dates",4320,130,NA,NA,4192,4448,"NAPD 1","Chron uses top, one C14 date, and and 2 averaged dates. Chron not reliable (see Hall 1981).",TRUE,263,-95.80833,34.40556

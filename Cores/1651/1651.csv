@@ -1,4 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1651,1600,"Little Lake",4274,"Radiocarbon",10580,752,11850,9610,10420,10740,160,1
-1651,1600,"Little Lake",4275,"Radiocarbon",11820,780,11850,9610,11640,12000,180,1
-1651,1600,"Little Lake",4276,"Deglaciation",13500,941,11850,9610,13000,14000,500,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1651,1600,"Little Lake",4272,"Biostratigraphic, pollen",9680,686,11850,9610,9430,9930,"NAPD 1","Chron uses 2 C14 dates, 2 pollen stratigraphic dates, and date for deglaciation (13500±500 BP). Pollen strat. dates from Splan Pond: Quercus rise (10040 BP) and Picea decline (9680 BP).",TRUE,40,-63.93757,-63.93571
+1651,1600,"Little Lake",4273,"Biostratigraphic, pollen",10040,715,11850,9610,9790,10290,"NAPD 1","Chron uses 2 C14 dates, 2 pollen stratigraphic dates, and date for deglaciation (13500±500 BP). Pollen strat. dates from Splan Pond: Quercus rise (10040 BP) and Picea decline (9680 BP).",TRUE,40,-63.93757,-63.93571
+1651,1600,"Little Lake",4274,"Radiocarbon",10580,752,11850,9610,10420,10740,"NAPD 1","Chron uses 2 C14 dates, 2 pollen stratigraphic dates, and date for deglaciation (13500±500 BP). Pollen strat. dates from Splan Pond: Quercus rise (10040 BP) and Picea decline (9680 BP).",TRUE,40,-63.93757,-63.93571
+1651,1600,"Little Lake",4275,"Radiocarbon",11820,780,11850,9610,11640,12000,"NAPD 1","Chron uses 2 C14 dates, 2 pollen stratigraphic dates, and date for deglaciation (13500±500 BP). Pollen strat. dates from Splan Pond: Quercus rise (10040 BP) and Picea decline (9680 BP).",TRUE,40,-63.93757,-63.93571
+1651,1600,"Little Lake",4276,"Deglaciation",13500,941,11850,9610,13000,14000,"NAPD 1","Chron uses 2 C14 dates, 2 pollen stratigraphic dates, and date for deglaciation (13500±500 BP). Pollen strat. dates from Splan Pond: Quercus rise (10040 BP) and Picea decline (9680 BP).",TRUE,40,-63.93757,-63.93571

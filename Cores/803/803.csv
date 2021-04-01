@@ -1,13 +1,13 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-803,783,"Ennadai Lake",2194,"Radiocarbon",630,5,6190,280,490,770,140,1
-803,783,"Ennadai Lake",2195,"Radiocarbon",1510,21,6190,280,1350,1670,160,1
-803,783,"Ennadai Lake",2196,"Radiocarbon",1530,33,6190,280,1370,1690,160,1
-803,783,"Ennadai Lake",2197,"Radiocarbon",1250,35,6190,280,1100,1400,150,1
-803,783,"Ennadai Lake",2198,"Radiocarbon",1280,35,6190,280,1130,1430,150,1
-803,783,"Ennadai Lake",2199,"Radiocarbon",2670,55,6190,280,2460,2880,210,1
-803,783,"Ennadai Lake",2200,"Radiocarbon",3140,73,6190,280,2930,3350,210,1
-803,783,"Ennadai Lake",2201,"Radiocarbon",3650,89,6190,280,3450,3850,200,1
-803,783,"Ennadai Lake",2202,"Radiocarbon",4800,109,6190,280,4620,4980,180,1
-803,783,"Ennadai Lake",2203,"Radiocarbon",5570,131,6190,280,5370,5770,200,1
-803,783,"Ennadai Lake",2204,"Radiocarbon",5720,131,6190,280,5500,5940,220,1
-803,783,"Ennadai Lake",2205,"Radiocarbon",5780,149,6190,280,5560,6000,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+803,783,"Ennadai Lake",2194,"Radiocarbon",630,5,6190,280,490,770,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2195,"Radiocarbon",1510,21,6190,280,1350,1670,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2196,"Radiocarbon",1530,33,6190,280,1370,1690,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2197,"Radiocarbon",1250,35,6190,280,1100,1400,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2198,"Radiocarbon",1280,35,6190,280,1130,1430,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2199,"Radiocarbon",2670,55,6190,280,2460,2880,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2200,"Radiocarbon",3140,73,6190,280,2930,3350,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2201,"Radiocarbon",3650,89,6190,280,3450,3850,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2202,"Radiocarbon",4800,109,6190,280,4620,4980,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2203,"Radiocarbon",5570,131,6190,280,5370,5770,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2204,"Radiocarbon",5720,131,6190,280,5500,5940,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667
+803,783,"Ennadai Lake",2205,"Radiocarbon",5780,149,6190,280,5560,6000,"NAPD 1","Chron uses 12 radiocarbon dates. Coefs: 289.587, 39.3244.",TRUE,168,-100.91667,61.16667

@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2288,2211,"Rosebud",6051,"Radiocarbon",12580,555,12420,11790,12260,12900,320,1
-2288,2211,"Rosebud",6052,"Radiocarbon",12630,602.5,12420,11790,12310,12950,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2288,2211,"Rosebud",6050,"Guess",12000,500,12420,11790,11500,12500,"NAPD 1","Chron uses 2 C14 dates from Core B (ROSEBUDB) and an estimated date of 12,000±500 for the top of the spruce zone. This estimate is consistent with Cottonwood Lake (Grimm unpub.).",TRUE,NA,-101.09078,43.00035
+2288,2211,"Rosebud",6051,"Radiocarbon",12580,555,12420,11790,12260,12900,"NAPD 1","Chron uses 2 C14 dates from Core B (ROSEBUDB) and an estimated date of 12,000±500 for the top of the spruce zone. This estimate is consistent with Cottonwood Lake (Grimm unpub.).",TRUE,NA,-101.09078,43.00035
+2288,2211,"Rosebud",6052,"Radiocarbon",12630,602.5,12420,11790,12310,12950,"NAPD 1","Chron uses 2 C14 dates from Core B (ROSEBUDB) and an estimated date of 12,000±500 for the top of the spruce zone. This estimate is consistent with Cottonwood Lake (Grimm unpub.).",TRUE,NA,-101.09078,43.00035

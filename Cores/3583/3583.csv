@@ -1,3 +1,3 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3583,2211,"Rosebud",8325,"Radiocarbon",12580,555,12630,12570,12260,12900,320,1
-3583,2211,"Rosebud",8326,"Radiocarbon",12630,602.5,12630,12570,12310,12950,320,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3583,2211,"Rosebud",8325,"Radiocarbon",12580,555,12630,12570,12260,12900,"NAPD 1","Linear interpolation between 2 C14 dates. Ages extrapolated above and below dates.",TRUE,NA,-101.09078,43.00035
+3583,2211,"Rosebud",8326,"Radiocarbon",12630,602.5,12630,12570,12310,12950,"NAPD 1","Linear interpolation between 2 C14 dates. Ages extrapolated above and below dates.",TRUE,NA,-101.09078,43.00035

@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2642,2551,"Tiinkdhul Lake",7039,"Core top",0,0,19510,50,-34,500,267,0
-2642,2551,"Tiinkdhul Lake",7040,"Radiocarbon",2380,100,19510,50,2310,2450,70,1
-2642,2551,"Tiinkdhul Lake",7041,"Radiocarbon",7770,224,19510,50,7670,7870,100,1
-2642,2551,"Tiinkdhul Lake",7042,"Radiocarbon",9510,355,19510,50,9410,9610,100,1
-2642,2551,"Tiinkdhul Lake",7043,"Radiocarbon",12300,420,19510,50,11900,12700,400,1
-2642,2551,"Tiinkdhul Lake",7044,"Radiocarbon",13930,445,19510,50,13720,14140,210,1
-2642,2551,"Tiinkdhul Lake",7045,"Radiocarbon",17280,490,19510,50,16930,17630,350,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2642,2551,"Tiinkdhul Lake",7039,"Core top",0,0,19510,50,-34,500,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface date (0 BP). The basal radiocarbon date (16240±2250) was rejected because of too little carbon (see Anderson et al. 1988).",TRUE,189,-143.15,66.58333
+2642,2551,"Tiinkdhul Lake",7040,"Radiocarbon",2380,100,19510,50,2310,2450,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface date (0 BP). The basal radiocarbon date (16240±2250) was rejected because of too little carbon (see Anderson et al. 1988).",TRUE,189,-143.15,66.58333
+2642,2551,"Tiinkdhul Lake",7041,"Radiocarbon",7770,224,19510,50,7670,7870,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface date (0 BP). The basal radiocarbon date (16240±2250) was rejected because of too little carbon (see Anderson et al. 1988).",TRUE,189,-143.15,66.58333
+2642,2551,"Tiinkdhul Lake",7042,"Radiocarbon",9510,355,19510,50,9410,9610,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface date (0 BP). The basal radiocarbon date (16240±2250) was rejected because of too little carbon (see Anderson et al. 1988).",TRUE,189,-143.15,66.58333
+2642,2551,"Tiinkdhul Lake",7043,"Radiocarbon",12300,420,19510,50,11900,12700,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface date (0 BP). The basal radiocarbon date (16240±2250) was rejected because of too little carbon (see Anderson et al. 1988).",TRUE,189,-143.15,66.58333
+2642,2551,"Tiinkdhul Lake",7044,"Radiocarbon",13930,445,19510,50,13720,14140,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface date (0 BP). The basal radiocarbon date (16240±2250) was rejected because of too little carbon (see Anderson et al. 1988).",TRUE,189,-143.15,66.58333
+2642,2551,"Tiinkdhul Lake",7045,"Radiocarbon",17280,490,19510,50,16930,17630,"NAPD 1","Chron uses 6 radiocarbon dates plus sediment surface date (0 BP). The basal radiocarbon date (16240±2250) was rejected because of too little carbon (see Anderson et al. 1988).",TRUE,189,-143.15,66.58333

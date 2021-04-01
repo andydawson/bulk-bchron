@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2374,2292,"Shady Valley Bog",6478,"Core top",0,0,10000,300,-20,20,20,0
-2374,2292,"Shady Valley Bog",6480,"Radiocarbon",9500,160,10000,300,9350,9650,150,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2374,2292,"Shady Valley Bog",6478,"Core top",0,0,10000,300,-20,20,"COHMAP chron 2","1 C-14 date plus Tsuga decline date. No ragweed rise but top set at 0 yr. bp. Age bounds for application of the model: top = 300; bottom = 10000.",TRUE,383,-81.93333,36.525
+2374,2292,"Shady Valley Bog",6479,"Biostratigraphic, pollen",4700,110,10000,300,4400,5000,"COHMAP chron 2","1 C-14 date plus Tsuga decline date. No ragweed rise but top set at 0 yr. bp. Age bounds for application of the model: top = 300; bottom = 10000.",TRUE,383,-81.93333,36.525
+2374,2292,"Shady Valley Bog",6480,"Radiocarbon",9500,160,10000,300,9350,9650,"COHMAP chron 2","1 C-14 date plus Tsuga decline date. No ragweed rise but top set at 0 yr. bp. Age bounds for application of the model: top = 300; bottom = 10000.",TRUE,383,-81.93333,36.525

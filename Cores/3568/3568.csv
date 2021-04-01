@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3568,1991,"Rice Lake",8314,"Core top",-18,0,4300,-20,-18,0,9,0
-3568,1991,"Rice Lake",8316,"Radiocarbon, reservoir correction",1930,90,4300,-20,1730,2130,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3568,1991,"Rice Lake",8314,"Core top",-18,0,4300,-20,-18,0,"NAPD 1","Chron based on surface date (-16 BP), Ambrosia-rise (70 BP), and corrected C14 date. C14 date of 2450±100 corrected by 520 years based on date of Ambrosia-rise of 590±95.",TRUE,443,-95.575,46.92222
+3568,1991,"Rice Lake",8315,"Biostratigraphic, pollen",70,35,4300,-20,40,100,"NAPD 1","Chron based on surface date (-16 BP), Ambrosia-rise (70 BP), and corrected C14 date. C14 date of 2450±100 corrected by 520 years based on date of Ambrosia-rise of 590±95.",TRUE,443,-95.575,46.92222
+3568,1991,"Rice Lake",8316,"Radiocarbon, reservoir correction",1930,90,4300,-20,1730,2130,"NAPD 1","Chron based on surface date (-16 BP), Ambrosia-rise (70 BP), and corrected C14 date. C14 date of 2450±100 corrected by 520 years based on date of Ambrosia-rise of 590±95.",TRUE,443,-95.575,46.92222

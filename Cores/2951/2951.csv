@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2951,2854,"Whitney's Gulch",7422,"Core top",-26,400,10360,-30,-26,-6,10,0
-2951,2854,"Whitney's Gulch",7423,"Radiocarbon",2320,470,10360,-30,2180,2460,140,1
-2951,2854,"Whitney's Gulch",7424,"Radiocarbon",3765,550,10360,-30,3575,3955,190,1
-2951,2854,"Whitney's Gulch",7425,"Radiocarbon",4910,600,10360,-30,4800,5020,110,1
-2951,2854,"Whitney's Gulch",7426,"Radiocarbon",6275,615,10360,-30,6015,6535,260,1
-2951,2854,"Whitney's Gulch",7427,"Radiocarbon",8965,670,10360,-30,8665,9265,300,1
-2951,2854,"Whitney's Gulch",7428,"Radiocarbon",9820,750,10360,-30,9600,10040,220,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2951,2854,"Whitney's Gulch",7422,"Core top",-26,400,10360,-30,-26,-6,"NAPD 1","Chron uses top and 6 C14 dates. SI-3135 not used in chronology, considered to old.",TRUE,98,-57.3,51.51667
+2951,2854,"Whitney's Gulch",7423,"Radiocarbon",2320,470,10360,-30,2180,2460,"NAPD 1","Chron uses top and 6 C14 dates. SI-3135 not used in chronology, considered to old.",TRUE,98,-57.3,51.51667
+2951,2854,"Whitney's Gulch",7424,"Radiocarbon",3765,550,10360,-30,3575,3955,"NAPD 1","Chron uses top and 6 C14 dates. SI-3135 not used in chronology, considered to old.",TRUE,98,-57.3,51.51667
+2951,2854,"Whitney's Gulch",7425,"Radiocarbon",4910,600,10360,-30,4800,5020,"NAPD 1","Chron uses top and 6 C14 dates. SI-3135 not used in chronology, considered to old.",TRUE,98,-57.3,51.51667
+2951,2854,"Whitney's Gulch",7426,"Radiocarbon",6275,615,10360,-30,6015,6535,"NAPD 1","Chron uses top and 6 C14 dates. SI-3135 not used in chronology, considered to old.",TRUE,98,-57.3,51.51667
+2951,2854,"Whitney's Gulch",7427,"Radiocarbon",8965,670,10360,-30,8665,9265,"NAPD 1","Chron uses top and 6 C14 dates. SI-3135 not used in chronology, considered to old.",TRUE,98,-57.3,51.51667
+2951,2854,"Whitney's Gulch",7428,"Radiocarbon",9820,750,10360,-30,9600,10040,"NAPD 1","Chron uses top and 6 C14 dates. SI-3135 not used in chronology, considered to old.",TRUE,98,-57.3,51.51667

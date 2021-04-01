@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1136,1103,"Humber Pond 5",3141,"Core top",-30,0,3970,-20,-30,0,15,0
-1136,1103,"Humber Pond 5",3142,"Radiocarbon",1790,394.5,3970,-20,1630,1950,160,1
-1136,1103,"Humber Pond 5",3143,"Radiocarbon",3248,799,3970,-20,3088,3408,160,1
-1136,1103,"Humber Pond 5",3144,"Radiocarbon",3880,1096,3970,-20,3760,4000,120,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1136,1103,"Humber Pond 5",3141,"Core top",-30,0,3970,-20,-30,0,"NAPD 1","Chron uses surface date (-30 BP) and 3 radiocarbon dates. Ages extrapolated below bottommost date.",TRUE,74,-79.49,43.64
+1136,1103,"Humber Pond 5",3142,"Radiocarbon",1790,394.5,3970,-20,1630,1950,"NAPD 1","Chron uses surface date (-30 BP) and 3 radiocarbon dates. Ages extrapolated below bottommost date.",TRUE,74,-79.49,43.64
+1136,1103,"Humber Pond 5",3143,"Radiocarbon",3248,799,3970,-20,3088,3408,"NAPD 1","Chron uses surface date (-30 BP) and 3 radiocarbon dates. Ages extrapolated below bottommost date.",TRUE,74,-79.49,43.64
+1136,1103,"Humber Pond 5",3144,"Radiocarbon",3880,1096,3970,-20,3760,4000,"NAPD 1","Chron uses surface date (-30 BP) and 3 radiocarbon dates. Ages extrapolated below bottommost date.",TRUE,74,-79.49,43.64

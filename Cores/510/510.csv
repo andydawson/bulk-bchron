@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-510,498,"Tourbière de Lanoraie COTEAU JAUNE",1489,"Core top",0,0,6380,810,0,0,0,0
-510,498,"Tourbière de Lanoraie COTEAU JAUNE",1490,"Radiocarbon",3660,90,6380,810,3560,3760,100,1
-510,498,"Tourbière de Lanoraie COTEAU JAUNE",1491,"Radiocarbon",4590,158.5,6380,810,4490,4690,100,1
-510,498,"Tourbière de Lanoraie COTEAU JAUNE",1492,"Radiocarbon",5410,181,6380,810,5290,5530,120,1
-510,498,"Tourbière de Lanoraie COTEAU JAUNE",1493,"Radiocarbon",5710,219,6380,810,5610,5810,100,1
-510,498,"Tourbière de Lanoraie COTEAU JAUNE",1494,"Radiocarbon",6490,290,6380,810,6380,6600,110,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+510,498,"Tourbière de Lanoraie COTEAU JAUNE",1489,"Core top",0,0,6380,810,0,0,"NAPD 1",NA,TRUE,18,-73.34194,45.96083
+510,498,"Tourbière de Lanoraie COTEAU JAUNE",1490,"Radiocarbon",3660,90,6380,810,3560,3760,"NAPD 1",NA,TRUE,18,-73.34194,45.96083
+510,498,"Tourbière de Lanoraie COTEAU JAUNE",1491,"Radiocarbon",4590,158.5,6380,810,4490,4690,"NAPD 1",NA,TRUE,18,-73.34194,45.96083
+510,498,"Tourbière de Lanoraie COTEAU JAUNE",1492,"Radiocarbon",5410,181,6380,810,5290,5530,"NAPD 1",NA,TRUE,18,-73.34194,45.96083
+510,498,"Tourbière de Lanoraie COTEAU JAUNE",1493,"Radiocarbon",5710,219,6380,810,5610,5810,"NAPD 1",NA,TRUE,18,-73.34194,45.96083
+510,498,"Tourbière de Lanoraie COTEAU JAUNE",1494,"Radiocarbon",6490,290,6380,810,6380,6600,"NAPD 1",NA,TRUE,18,-73.34194,45.96083

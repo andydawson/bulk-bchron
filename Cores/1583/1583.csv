@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1583,1543,"Lake A",3820,"Core top",0,0,11000,0,-20,20,20,0
-1583,1543,"Lake A",3822,"Radiocarbon",11560,605,11000,0,10920,12200,640,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1583,1543,"Lake A",3820,"Core top",0,0,11000,0,-20,20,"COHMAP chron 1","Chenopod rise in top sample, 1 C-14 date. Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,440,-105.725,53.2375
+1583,1543,"Lake A",3821,"Biostratigraphic, pollen",50,10,11000,0,30,70,"COHMAP chron 1","Chenopod rise in top sample, 1 C-14 date. Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,440,-105.725,53.2375
+1583,1543,"Lake A",3822,"Radiocarbon",11560,605,11000,0,10920,12200,"COHMAP chron 1","Chenopod rise in top sample, 1 C-14 date. Age bounds for application of the model: top = 0; bottom = 11000.",TRUE,440,-105.725,53.2375

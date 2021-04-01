@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1975,1909,"Chesapeake Bay, Parker Creek",5573,"Core top",-46,0,1690,-40,-46,-46,0,0
-1975,1909,"Chesapeake Bay, Parker Creek",5574,"Radiocarbon",1550,171,1690,-40,1500,1600,50,1
-1975,1909,"Chesapeake Bay, Parker Creek",5575,"Radiocarbon",2120,297.5,1690,-40,2080,2160,40,1
-1975,1909,"Chesapeake Bay, Parker Creek",5576,"Radiocarbon",6770,317,1690,-40,6700,6840,70,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1975,1909,"Chesapeake Bay, Parker Creek",5573,"Core top",-46,0,1690,-40,-46,-46,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.47861,38.54778
+1975,1909,"Chesapeake Bay, Parker Creek",5574,"Radiocarbon",1550,171,1690,-40,1500,1600,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.47861,38.54778
+1975,1909,"Chesapeake Bay, Parker Creek",5575,"Radiocarbon",2120,297.5,1690,-40,2080,2160,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.47861,38.54778
+1975,1909,"Chesapeake Bay, Parker Creek",5576,"Radiocarbon",6770,317,1690,-40,6700,6840,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.47861,38.54778

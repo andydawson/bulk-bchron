@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2341,2261,"Sarnia Elk Site Section",6341,"Core top",0,0,5580,0,-30,30,30,0
-2341,2261,"Sarnia Elk Site Section",6342,"Radiocarbon",340,65,5580,0,200,480,140,1
-2341,2261,"Sarnia Elk Site Section",6343,"Radiocarbon",5490,385,5580,0,5330,5650,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2341,2261,"Sarnia Elk Site Section",6341,"Core top",0,0,5580,0,-30,30,"NAPD 1","Chron uses top and two C14 dates.",TRUE,185,-82.32,42.98
+2341,2261,"Sarnia Elk Site Section",6342,"Radiocarbon",340,65,5580,0,200,480,"NAPD 1","Chron uses top and two C14 dates.",TRUE,185,-82.32,42.98
+2341,2261,"Sarnia Elk Site Section",6343,"Radiocarbon",5490,385,5580,0,5330,5650,"NAPD 1","Chron uses top and two C14 dates.",TRUE,185,-82.32,42.98

@@ -1,2 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3036,2938,"Woodworth Pond",7568,"Core top",0,0,11000,8000,-15,100,57.5,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3036,2938,"Woodworth Pond",7568,"Core top",0,0,11000,8000,-15,100,"NAPD 1","Chron based on pollen stratigraphic correlation with Moon Lake, North Dakota. Reliable age bounds 8000-11000.",TRUE,580,-99.23333,47.15
+3036,2938,"Woodworth Pond",7569,"Biostratigraphic, pollen",8000,135,11000,8000,7500,8500,"NAPD 1","Chron based on pollen stratigraphic correlation with Moon Lake, North Dakota. Reliable age bounds 8000-11000.",TRUE,580,-99.23333,47.15
+3036,2938,"Woodworth Pond",7570,"Biostratigraphic, pollen",9500,175,11000,8000,9000,10000,"NAPD 1","Chron based on pollen stratigraphic correlation with Moon Lake, North Dakota. Reliable age bounds 8000-11000.",TRUE,580,-99.23333,47.15
+3036,2938,"Woodworth Pond",7571,"Biostratigraphic, pollen",10500,195,11000,8000,10000,11000,"NAPD 1","Chron based on pollen stratigraphic correlation with Moon Lake, North Dakota. Reliable age bounds 8000-11000.",TRUE,580,-99.23333,47.15

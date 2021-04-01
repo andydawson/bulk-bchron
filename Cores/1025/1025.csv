@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1025,993,"Healy Lake",2976,"Core top",-25,0,7720,0,-25,-5,10,0
-1025,993,"Healy Lake",2977,"Radiocarbon",1430,55.5,7720,0,1260,1600,170,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1025,993,"Healy Lake",2976,"Core top",-25,0,7720,0,-25,-5,"NAPD 1","Chron uses top, one C14 date, and one pollen stratigraphic date (Alnus decline 7200±400) extrapolated from Ten Mile Lake.",TRUE,343,-144.75,64
+1025,993,"Healy Lake",2977,"Radiocarbon",1430,55.5,7720,0,1260,1600,"NAPD 1","Chron uses top, one C14 date, and one pollen stratigraphic date (Alnus decline 7200±400) extrapolated from Ten Mile Lake.",TRUE,343,-144.75,64
+1025,993,"Healy Lake",2978,"Biostratigraphic, pollen",7200,268,7720,0,6800,7600,"NAPD 1","Chron uses top, one C14 date, and one pollen stratigraphic date (Alnus decline 7200±400) extrapolated from Ten Mile Lake.",TRUE,343,-144.75,64

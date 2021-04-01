@@ -1,4 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1857,1795,"Parkhill Creek",5250,"Core top",-40,110,NA,NA,-40,-10,15,0
-1857,1795,"Parkhill Creek",5252,"Radiocarbon",5410,415,NA,NA,5210,5610,200,1
-1857,1795,"Parkhill Creek",5254,"Radiocarbon",10870,775,NA,NA,10690,11050,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1857,1795,"Parkhill Creek",5250,"Core top",-40,110,NA,NA,-40,-10,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates, and a date of 10000±500 years BP for decline of Picea. Sequence appears to have major hiatuses. Age model not reliable.",TRUE,181,-81.75,43.18
+1857,1795,"Parkhill Creek",5251,"Biostratigraphic, pollen",150,210,NA,NA,125,175,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates, and a date of 10000±500 years BP for decline of Picea. Sequence appears to have major hiatuses. Age model not reliable.",TRUE,181,-81.75,43.18
+1857,1795,"Parkhill Creek",5252,"Radiocarbon",5410,415,NA,NA,5210,5610,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates, and a date of 10000±500 years BP for decline of Picea. Sequence appears to have major hiatuses. Age model not reliable.",TRUE,181,-81.75,43.18
+1857,1795,"Parkhill Creek",5253,"Biostratigraphic, pollen",10000,445,NA,NA,9500,10500,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates, and a date of 10000±500 years BP for decline of Picea. Sequence appears to have major hiatuses. Age model not reliable.",TRUE,181,-81.75,43.18
+1857,1795,"Parkhill Creek",5254,"Radiocarbon",10870,775,NA,NA,10690,11050,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates, and a date of 10000±500 years BP for decline of Picea. Sequence appears to have major hiatuses. Age model not reliable.",TRUE,181,-81.75,43.18

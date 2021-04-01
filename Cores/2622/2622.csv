@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2622,2532,"Sweet Little Lake",6914,"Core top",0,0,10350,0,0,0,0,0
-2622,2532,"Sweet Little Lake",6915,"Radiocarbon",3350,125,10350,0,3150,3550,200,1
-2622,2532,"Sweet Little Lake",6916,"Radiocarbon",5620,242,10350,0,5460,5780,160,1
-2622,2532,"Sweet Little Lake",6917,"Radiocarbon",8550,307.5,10350,0,8390,8710,160,1
-2622,2532,"Sweet Little Lake",6918,"Radiocarbon",9600,347.5,10350,0,9400,9800,200,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2622,2532,"Sweet Little Lake",6914,"Core top",0,0,10350,0,0,0,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-132.01667,67.65
+2622,2532,"Sweet Little Lake",6915,"Radiocarbon",3350,125,10350,0,3150,3550,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-132.01667,67.65
+2622,2532,"Sweet Little Lake",6916,"Radiocarbon",5620,242,10350,0,5460,5780,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-132.01667,67.65
+2622,2532,"Sweet Little Lake",6917,"Radiocarbon",8550,307.5,10350,0,8390,8710,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-132.01667,67.65
+2622,2532,"Sweet Little Lake",6918,"Radiocarbon",9600,347.5,10350,0,9400,9800,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-132.01667,67.65

@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1712,1656,"Mashapaug Pond",4625,"Core top",-20,0,4000,0,-30,-10,10,0
-1712,1656,"Mashapaug Pond",4627,"Radiocarbon",3820,205.5,4000,0,3765,3875,55,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1712,1656,"Mashapaug Pond",4625,"Core top",-20,0,4000,0,-30,-10,"COHMAP chron 1","1 C-14 date. Ragweed rise at 98cm. Age bounds for application of the model: top = 0; bottom = 4000.",TRUE,12,-71.43333,41.78333
+1712,1656,"Mashapaug Pond",4626,"Biostratigraphic, pollen",250,98,4000,0,200,300,"COHMAP chron 1","1 C-14 date. Ragweed rise at 98cm. Age bounds for application of the model: top = 0; bottom = 4000.",TRUE,12,-71.43333,41.78333
+1712,1656,"Mashapaug Pond",4627,"Radiocarbon",3820,205.5,4000,0,3765,3875,"COHMAP chron 1","1 C-14 date. Ragweed rise at 98cm. Age bounds for application of the model: top = 0; bottom = 4000.",TRUE,12,-71.43333,41.78333

@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1659,1608,"Long Lake (CA:Nunavut)",4316,"Core top",-18,0,5550,80,-18,2,10,0
-1659,1608,"Long Lake (CA:Nunavut)",4317,"Radiocarbon",3745,37,5550,80,3625,3865,120,1
-1659,1608,"Long Lake (CA:Nunavut)",4318,"Radiocarbon",5550,97,5550,80,5400,5700,150,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1659,1608,"Long Lake (CA:Nunavut)",4316,"Core top",-18,0,5550,80,-18,2,"NAPD 1","Chron uses top and two C14 dates.",TRUE,259,-101.23333,62.63333
+1659,1608,"Long Lake (CA:Nunavut)",4317,"Radiocarbon",3745,37,5550,80,3625,3865,"NAPD 1","Chron uses top and two C14 dates.",TRUE,259,-101.23333,62.63333
+1659,1608,"Long Lake (CA:Nunavut)",4318,"Radiocarbon",5550,97,5550,80,5400,5700,"NAPD 1","Chron uses top and two C14 dates.",TRUE,259,-101.23333,62.63333

@@ -1,3 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1113,1080,"Houghton Bog",3117,"Core top",-16,0,11900,-20,-16,4,10,0
-1113,1080,"Houghton Bog",3119,"Radiocarbon",11880,990,11900,-20,10420,13340,1460,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1113,1080,"Houghton Bog",3117,"Core top",-16,0,11900,-20,-16,4,"NAPD 1","Chron uses top, 1 C14 date, and Ambrosia rise at 15cm.",TRUE,428,-78.67028,42.54167
+1113,1080,"Houghton Bog",3118,"Biostratigraphic, pollen",150,15,11900,-20,125,175,"NAPD 1","Chron uses top, 1 C14 date, and Ambrosia rise at 15cm.",TRUE,428,-78.67028,42.54167
+1113,1080,"Houghton Bog",3119,"Radiocarbon",11880,990,11900,-20,10420,13340,"NAPD 1","Chron uses top, 1 C14 date, and Ambrosia rise at 15cm.",TRUE,428,-78.67028,42.54167

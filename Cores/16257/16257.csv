@@ -1,3 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-16257,10544,"McGinnis Lake",35860,"Core top",-24,0,3000,-30,-24,-24,0,0
-16257,10544,"McGinnis Lake",35861,"Other dating methods",-17,8,3000,-30,NA,NA,NA,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16257,10544,"McGinnis Lake",35860,"Core top",-24,0,3000,-30,-24,-24,"Neotoma 1","Chron1 is based on a top date, one Cesium-137 date, an Ambrosia rise, a Pinus rise, and an author guess.",TRUE,255,-78.0425,-78.03713
+16257,10544,"McGinnis Lake",35861,"Other dating methods",-17,8,3000,-30,NA,NA,"Neotoma 1","Chron1 is based on a top date, one Cesium-137 date, an Ambrosia rise, a Pinus rise, and an author guess.",TRUE,255,-78.0425,-78.03713
+16257,10544,"McGinnis Lake",35862,"Ambrosia rise",100,13,3000,-30,NA,NA,"Neotoma 1","Chron1 is based on a top date, one Cesium-137 date, an Ambrosia rise, a Pinus rise, and an author guess.",TRUE,255,-78.0425,-78.03713
+16257,10544,"McGinnis Lake",35863,"Introduced Pinus rise",600,32,3000,-30,NA,NA,"Neotoma 1","Chron1 is based on a top date, one Cesium-137 date, an Ambrosia rise, a Pinus rise, and an author guess.",TRUE,255,-78.0425,-78.03713
+16257,10544,"McGinnis Lake",35864,"Guess",3000,120,3000,-30,NA,NA,"Neotoma 1","Chron1 is based on a top date, one Cesium-137 date, an Ambrosia rise, a Pinus rise, and an author guess.",TRUE,255,-78.0425,-78.03713

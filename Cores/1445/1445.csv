@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1445,1408,"Keele Lake",3528,"Core top",0,0,11900,0,-40,40,40,0
-1445,1408,"Keele Lake",3529,"Radiocarbon",2610,50,11900,0,2450,2770,160,1
-1445,1408,"Keele Lake",3530,"Radiocarbon",3290,80,11900,0,3150,3430,140,1
-1445,1408,"Keele Lake",3531,"Radiocarbon",6460,141.5,11900,0,6280,6640,180,1
-1445,1408,"Keele Lake",3532,"Radiocarbon",6120,142,11900,0,5980,6260,140,1
-1445,1408,"Keele Lake",3533,"Radiocarbon",9560,195,11900,0,9420,9700,140,1
-1445,1408,"Keele Lake",3534,"Radiocarbon",11990,260,11900,0,11830,12150,160,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1445,1408,"Keele Lake",3528,"Core top",0,0,11900,0,-40,40,"NAPD 1","Chron uses top (0 BP) plus 6 radiocarbon dates. Coefs: 0.0, 46.2696. (surface fixed at 0)",TRUE,1150,-127.61667,64.16667
+1445,1408,"Keele Lake",3529,"Radiocarbon",2610,50,11900,0,2450,2770,"NAPD 1","Chron uses top (0 BP) plus 6 radiocarbon dates. Coefs: 0.0, 46.2696. (surface fixed at 0)",TRUE,1150,-127.61667,64.16667
+1445,1408,"Keele Lake",3530,"Radiocarbon",3290,80,11900,0,3150,3430,"NAPD 1","Chron uses top (0 BP) plus 6 radiocarbon dates. Coefs: 0.0, 46.2696. (surface fixed at 0)",TRUE,1150,-127.61667,64.16667
+1445,1408,"Keele Lake",3531,"Radiocarbon",6460,141.5,11900,0,6280,6640,"NAPD 1","Chron uses top (0 BP) plus 6 radiocarbon dates. Coefs: 0.0, 46.2696. (surface fixed at 0)",TRUE,1150,-127.61667,64.16667
+1445,1408,"Keele Lake",3532,"Radiocarbon",6120,142,11900,0,5980,6260,"NAPD 1","Chron uses top (0 BP) plus 6 radiocarbon dates. Coefs: 0.0, 46.2696. (surface fixed at 0)",TRUE,1150,-127.61667,64.16667
+1445,1408,"Keele Lake",3533,"Radiocarbon",9560,195,11900,0,9420,9700,"NAPD 1","Chron uses top (0 BP) plus 6 radiocarbon dates. Coefs: 0.0, 46.2696. (surface fixed at 0)",TRUE,1150,-127.61667,64.16667
+1445,1408,"Keele Lake",3534,"Radiocarbon",11990,260,11900,0,11830,12150,"NAPD 1","Chron uses top (0 BP) plus 6 radiocarbon dates. Coefs: 0.0, 46.2696. (surface fixed at 0)",TRUE,1150,-127.61667,64.16667

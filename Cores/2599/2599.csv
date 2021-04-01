@@ -1,7 +1,7 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2599,2513,"Starkweather Pond",6797,"Core top",0,0,10880,20,0,0,0,0
-2599,2513,"Starkweather Pond",6798,"Tephra",695,35,10880,20,695,695,0,0
-2599,2513,"Starkweather Pond",6799,"Tephra",1110,48,10880,20,1110,1110,0,0
-2599,2513,"Starkweather Pond",6800,"Tephra",3930,69,10880,20,3930,3930,0,0
-2599,2513,"Starkweather Pond",6801,"Tephra",8020,106,10880,20,8020,8020,0,0
-2599,2513,"Starkweather Pond",6802,"Radiocarbon",10879,213,10880,20,10879,10879,0,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2599,2513,"Starkweather Pond",6797,"Core top",0,0,10880,20,0,0,"NAPD 1","Ages of tephras used for age model determined from Barrett Lake (see Anderson 1990).",TRUE,2438,-119.0675,37.6625
+2599,2513,"Starkweather Pond",6798,"Tephra",695,35,10880,20,695,695,"NAPD 1","Ages of tephras used for age model determined from Barrett Lake (see Anderson 1990).",TRUE,2438,-119.0675,37.6625
+2599,2513,"Starkweather Pond",6799,"Tephra",1110,48,10880,20,1110,1110,"NAPD 1","Ages of tephras used for age model determined from Barrett Lake (see Anderson 1990).",TRUE,2438,-119.0675,37.6625
+2599,2513,"Starkweather Pond",6800,"Tephra",3930,69,10880,20,3930,3930,"NAPD 1","Ages of tephras used for age model determined from Barrett Lake (see Anderson 1990).",TRUE,2438,-119.0675,37.6625
+2599,2513,"Starkweather Pond",6801,"Tephra",8020,106,10880,20,8020,8020,"NAPD 1","Ages of tephras used for age model determined from Barrett Lake (see Anderson 1990).",TRUE,2438,-119.0675,37.6625
+2599,2513,"Starkweather Pond",6802,"Radiocarbon",10879,213,10880,20,10879,10879,"NAPD 1","Ages of tephras used for age model determined from Barrett Lake (see Anderson 1990).",TRUE,2438,-119.0675,37.6625

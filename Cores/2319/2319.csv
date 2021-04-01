@@ -1,5 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2319,2240,"Lac au Sable",6224,"Radiocarbon",3620,854.5,7190,3990,3550,3690,70,1
-2319,2240,"Lac au Sable",6225,"Radiocarbon",5090,907.5,7190,3990,5020,5160,70,1
-2319,2240,"Lac au Sable",6226,"Radiocarbon",6860,950.5,7190,3990,6760,6960,100,1
-2319,2240,"Lac au Sable",6228,"Deglaciation",7200,967,7190,3990,7000,7400,200,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2319,2240,"Lac au Sable",6224,"Radiocarbon",3620,854.5,7190,3990,3550,3690,"NAPD 1 (radiocarbon years)","Chron uses 3 14C dates, extrapolated age of the base of the gyttja, and estimaged time of deglaciation (for details see King 1986).",TRUE,530,-66.21667,51.4
+2319,2240,"Lac au Sable",6225,"Radiocarbon",5090,907.5,7190,3990,5020,5160,"NAPD 1 (radiocarbon years)","Chron uses 3 14C dates, extrapolated age of the base of the gyttja, and estimaged time of deglaciation (for details see King 1986).",TRUE,530,-66.21667,51.4
+2319,2240,"Lac au Sable",6226,"Radiocarbon",6860,950.5,7190,3990,6760,6960,"NAPD 1 (radiocarbon years)","Chron uses 3 14C dates, extrapolated age of the base of the gyttja, and estimaged time of deglaciation (for details see King 1986).",TRUE,530,-66.21667,51.4
+2319,2240,"Lac au Sable",6227,"Extrapolated",7169,958,7190,3990,6969,7369,"NAPD 1 (radiocarbon years)","Chron uses 3 14C dates, extrapolated age of the base of the gyttja, and estimaged time of deglaciation (for details see King 1986).",TRUE,530,-66.21667,51.4
+2319,2240,"Lac au Sable",6228,"Deglaciation",7200,967,7190,3990,7000,7400,"NAPD 1 (radiocarbon years)","Chron uses 3 14C dates, extrapolated age of the base of the gyttja, and estimaged time of deglaciation (for details see King 1986).",TRUE,530,-66.21667,51.4

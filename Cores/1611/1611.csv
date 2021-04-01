@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1611,1566,"L'Anse aux Meadows Site",3953,"Core top",-26,0,2340,20,-26,-6,10,0
-1611,1566,"L'Anse aux Meadows Site",3954,"Radiocarbon",1135,26.5,2340,20,925,1345,210,1
-1611,1566,"L'Anse aux Meadows Site",3955,"Radiocarbon",1890,54.5,2340,20,1680,2100,210,1
-1611,1566,"L'Anse aux Meadows Site",3956,"Radiocarbon, average of two or more dates",2403,77,2340,20,2235,2571,168,1
-1611,1566,"L'Anse aux Meadows Site",3956,"Radiocarbon, average of two or more dates",2403,77,2340,20,2235,2571,168,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1611,1566,"L'Anse aux Meadows Site",3953,"Core top",-26,0,2340,20,-26,-6,"NAPD 1","Chron uses top, and three C14 dates (two C14 dates, WAT-409 and S-1754 were averaged).",TRUE,5,-55.55,51.57333
+1611,1566,"L'Anse aux Meadows Site",3954,"Radiocarbon",1135,26.5,2340,20,925,1345,"NAPD 1","Chron uses top, and three C14 dates (two C14 dates, WAT-409 and S-1754 were averaged).",TRUE,5,-55.55,51.57333
+1611,1566,"L'Anse aux Meadows Site",3955,"Radiocarbon",1890,54.5,2340,20,1680,2100,"NAPD 1","Chron uses top, and three C14 dates (two C14 dates, WAT-409 and S-1754 were averaged).",TRUE,5,-55.55,51.57333
+1611,1566,"L'Anse aux Meadows Site",3956,"Radiocarbon, average of two or more dates",2403,77,2340,20,2235,2571,"NAPD 1","Chron uses top, and three C14 dates (two C14 dates, WAT-409 and S-1754 were averaged).",TRUE,5,-55.55,51.57333
+1611,1566,"L'Anse aux Meadows Site",3956,"Radiocarbon, average of two or more dates",2403,77,2340,20,2235,2571,"NAPD 1","Chron uses top, and three C14 dates (two C14 dates, WAT-409 and S-1754 were averaged).",TRUE,5,-55.55,51.57333

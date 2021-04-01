@@ -1,6 +1,6 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-3775,2959,"Basswood Road Lake/Splan Pond",8389,"Radiocarbon",8830,431,12110,9460,8690,8970,140,1
-3775,2959,"Basswood Road Lake/Splan Pond",8390,"Radiocarbon",10090,472.5,12110,9460,9950,10230,140,1
-3775,2959,"Basswood Road Lake/Splan Pond",8391,"Radiocarbon",10430,493,12110,9460,10250,10610,180,1
-3775,2959,"Basswood Road Lake/Splan Pond",8392,"Radiocarbon",10970,512,12110,9460,10790,11150,180,1
-3775,2959,"Basswood Road Lake/Splan Pond",8393,"Radiocarbon",11640,552,12110,9460,11460,11820,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3775,2959,"Basswood Road Lake/Splan Pond",8389,"Radiocarbon",8830,431,12110,9460,8690,8970,"NAPD 1","Chron uses five C14 dates. Date TO-1930 (10,690±80) rejected as too young.",TRUE,106,-67.33336,-67.3301
+3775,2959,"Basswood Road Lake/Splan Pond",8390,"Radiocarbon",10090,472.5,12110,9460,9950,10230,"NAPD 1","Chron uses five C14 dates. Date TO-1930 (10,690±80) rejected as too young.",TRUE,106,-67.33336,-67.3301
+3775,2959,"Basswood Road Lake/Splan Pond",8391,"Radiocarbon",10430,493,12110,9460,10250,10610,"NAPD 1","Chron uses five C14 dates. Date TO-1930 (10,690±80) rejected as too young.",TRUE,106,-67.33336,-67.3301
+3775,2959,"Basswood Road Lake/Splan Pond",8392,"Radiocarbon",10970,512,12110,9460,10790,11150,"NAPD 1","Chron uses five C14 dates. Date TO-1930 (10,690±80) rejected as too young.",TRUE,106,-67.33336,-67.3301
+3775,2959,"Basswood Road Lake/Splan Pond",8393,"Radiocarbon",11640,552,12110,9460,11460,11820,"NAPD 1","Chron uses five C14 dates. Date TO-1930 (10,690±80) rejected as too young.",TRUE,106,-67.33336,-67.3301

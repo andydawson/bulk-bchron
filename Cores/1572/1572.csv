@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-1572,1534,"Lac à Magie",3773,"Radiocarbon",9280,809,12440,9180,9100,9460,180,1
-1572,1534,"Lac à Magie",3774,"Radiocarbon",10090,841.5,12440,9180,9910,10270,180,1
-1572,1534,"Lac à Magie",3775,"Radiocarbon",10480,856,12440,9180,10320,10640,160,1
-1572,1534,"Lac à Magie",3776,"Radiocarbon",12140,890,12440,9180,11960,12320,180,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+1572,1534,"Lac à Magie",3773,"Radiocarbon",9280,809,12440,9180,9100,9460,"NAPD 1","Chron uses four C14 dates.",TRUE,60,-66.07917,44.26389
+1572,1534,"Lac à Magie",3774,"Radiocarbon",10090,841.5,12440,9180,9910,10270,"NAPD 1","Chron uses four C14 dates.",TRUE,60,-66.07917,44.26389
+1572,1534,"Lac à Magie",3775,"Radiocarbon",10480,856,12440,9180,10320,10640,"NAPD 1","Chron uses four C14 dates.",TRUE,60,-66.07917,44.26389
+1572,1534,"Lac à Magie",3776,"Radiocarbon",12140,890,12440,9180,11960,12320,"NAPD 1","Chron uses four C14 dates.",TRUE,60,-66.07917,44.26389

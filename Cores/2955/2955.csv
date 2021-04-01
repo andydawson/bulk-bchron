@@ -1,4 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2955,2858,"Wilcox Pass",7455,"Core top",-30,0,10870,0,-30,0,15,0
-2955,2858,"Wilcox Pass",7456,"Radiocarbon",540,20,10870,0,440,640,100,1
-2955,2858,"Wilcox Pass",7457,"Tephra",6850,174,10870,0,6700,7000,150,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2955,2858,"Wilcox Pass",7455,"Core top",-30,0,10870,0,-30,0,"NAPD 2","Same as Chron 1 except 9600 radiocarbon date not used because of possible contamination by old carbon.",TRUE,2355,-117.21667,52.24167
+2955,2858,"Wilcox Pass",7456,"Radiocarbon",540,20,10870,0,440,640,"NAPD 2","Same as Chron 1 except 9600 radiocarbon date not used because of possible contamination by old carbon.",TRUE,2355,-117.21667,52.24167
+2955,2858,"Wilcox Pass",7457,"Tephra",6850,174,10870,0,6700,7000,"NAPD 2","Same as Chron 1 except 9600 radiocarbon date not used because of possible contamination by old carbon.",TRUE,2355,-117.21667,52.24167
+2955,2858,"Wilcox Pass",7458,"Biostratigraphic, pollen",10000,232,10870,0,9500,10500,"NAPD 2","Same as Chron 1 except 9600 radiocarbon date not used because of possible contamination by old carbon.",TRUE,2355,-117.21667,52.24167

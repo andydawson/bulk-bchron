@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2367,2285,"LD Lake",6443,"Core top",50,0,7000,0,0,100,50,0
-2367,2285,"LD Lake",6444,"Radiocarbon",3390,170,7000,0,3280,3500,110,1
-2367,2285,"LD Lake",6445,"Radiocarbon",6960,340,7000,0,6660,7260,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2367,2285,"LD Lake",6443,"Core top",50,0,7000,0,0,100,"COHMAP chron 1","2 C-14 dates, no sett. horiz., Mott (1976). Site name is ""LD Lake."" Age bounds for application of the model: top = 0; bottom = 7000.",TRUE,122,-67.13194,50.14028
+2367,2285,"LD Lake",6444,"Radiocarbon",3390,170,7000,0,3280,3500,"COHMAP chron 1","2 C-14 dates, no sett. horiz., Mott (1976). Site name is ""LD Lake."" Age bounds for application of the model: top = 0; bottom = 7000.",TRUE,122,-67.13194,50.14028
+2367,2285,"LD Lake",6445,"Radiocarbon",6960,340,7000,0,6660,7260,"COHMAP chron 1","2 C-14 dates, no sett. horiz., Mott (1976). Site name is ""LD Lake."" Age bounds for application of the model: top = 0; bottom = 7000.",TRUE,122,-67.13194,50.14028

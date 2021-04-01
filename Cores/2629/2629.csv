@@ -1,5 +1,5 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2629,2539,"Taupawshas Bog",6956,"Core top",-30,0,10860,-30,-38,0,19,0
-2629,2539,"Taupawshas Bog",6957,"Radiocarbon",3540,110,10860,-30,3400,3680,140,1
-2629,2539,"Taupawshas Bog",6958,"Radiocarbon",8420,405,10860,-30,8240,8600,180,1
-2629,2539,"Taupawshas Bog",6959,"Radiocarbon",10930,505,10860,-30,10670,11190,260,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2629,2539,"Taupawshas Bog",6956,"Core top",-30,0,10860,-30,-38,0,"NAPD 1","Chron uses surface (-30 BP) and 3 radiocarbon dates.",TRUE,14,-70.05833,41.275
+2629,2539,"Taupawshas Bog",6957,"Radiocarbon",3540,110,10860,-30,3400,3680,"NAPD 1","Chron uses surface (-30 BP) and 3 radiocarbon dates.",TRUE,14,-70.05833,41.275
+2629,2539,"Taupawshas Bog",6958,"Radiocarbon",8420,405,10860,-30,8240,8600,"NAPD 1","Chron uses surface (-30 BP) and 3 radiocarbon dates.",TRUE,14,-70.05833,41.275
+2629,2539,"Taupawshas Bog",6959,"Radiocarbon",10930,505,10860,-30,10670,11190,"NAPD 1","Chron uses surface (-30 BP) and 3 radiocarbon dates.",TRUE,14,-70.05833,41.275

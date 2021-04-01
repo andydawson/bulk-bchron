@@ -1,2 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-862,835,"Georgian Bay, Lake Huron (1)",2453,"Core top",-30,0,11500,-20,-30,-10,10,0
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+862,835,"Georgian Bay, Lake Huron (1)",2453,"Core top",-30,0,11500,-20,-30,-10,"NAPD 1","Chron uses top and six dates inferred by McAndrews from pollen stratigraphy.",TRUE,176,-80.86,44.74
+862,835,"Georgian Bay, Lake Huron (1)",2454,"Biostratigraphic, pollen",150,15,11500,-20,100,200,"NAPD 1","Chron uses top and six dates inferred by McAndrews from pollen stratigraphy.",TRUE,176,-80.86,44.74
+862,835,"Georgian Bay, Lake Huron (1)",2455,"Biostratigraphic, pollen",3800,65,11500,-20,3550,4050,"NAPD 1","Chron uses top and six dates inferred by McAndrews from pollen stratigraphy.",TRUE,176,-80.86,44.74
+862,835,"Georgian Bay, Lake Huron (1)",2456,"Biostratigraphic, pollen",4800,100,11500,-20,4550,5050,"NAPD 1","Chron uses top and six dates inferred by McAndrews from pollen stratigraphy.",TRUE,176,-80.86,44.74
+862,835,"Georgian Bay, Lake Huron (1)",2457,"Biostratigraphic, pollen",7600,200,11500,-20,7350,7850,"NAPD 1","Chron uses top and six dates inferred by McAndrews from pollen stratigraphy.",TRUE,176,-80.86,44.74
+862,835,"Georgian Bay, Lake Huron (1)",2458,"Biostratigraphic, pollen",10400,255,11500,-20,10150,10650,"NAPD 1","Chron uses top and six dates inferred by McAndrews from pollen stratigraphy.",TRUE,176,-80.86,44.74
+862,835,"Georgian Bay, Lake Huron (1)",2459,"Biostratigraphic, pollen",11500,670,11500,-20,11250,11750,"NAPD 1","Chron uses top and six dates inferred by McAndrews from pollen stratigraphy.",TRUE,176,-80.86,44.74

@@ -1,4 +1,4 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-2949,2852,"Weslemkoon Lake",7409,"Radiocarbon",5770,107.5,9770,5420,5510,6030,260,1
-2949,2852,"Weslemkoon Lake",7410,"Radiocarbon",8820,172,9770,5420,8320,9320,500,1
-2949,2852,"Weslemkoon Lake",7411,"Radiocarbon",9370,205.5,9770,5420,9130,9610,240,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2949,2852,"Weslemkoon Lake",7409,"Radiocarbon",5770,107.5,9770,5420,5510,6030,"NAPD 1","Chron uses 3 radiocarbon dates.",TRUE,316,-77.43333,45.03333
+2949,2852,"Weslemkoon Lake",7410,"Radiocarbon",8820,172,9770,5420,8320,9320,"NAPD 1","Chron uses 3 radiocarbon dates.",TRUE,316,-77.43333,45.03333
+2949,2852,"Weslemkoon Lake",7411,"Radiocarbon",9370,205.5,9770,5420,9130,9610,"NAPD 1","Chron uses 3 radiocarbon dates.",TRUE,316,-77.43333,45.03333

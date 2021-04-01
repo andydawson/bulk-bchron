@@ -1,8 +1,8 @@
-"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","error","cc"
-501,489,"Compass Pond",1362,"Core top",-34,0,13300,-20,-34,0,17,0
-501,489,"Compass Pond",1363,"Radiocarbon",2050,97.5,13300,-20,1870,2230,180,1
-501,489,"Compass Pond",1364,"Radiocarbon",3050,197.5,13300,-20,2770,3330,280,1
-501,489,"Compass Pond",1365,"Radiocarbon",4690,297.5,13300,-20,4370,5010,320,1
-501,489,"Compass Pond",1366,"Radiocarbon",6280,397.5,13300,-20,6040,6520,240,1
-501,489,"Compass Pond",1367,"Radiocarbon",8310,437.5,13300,-20,8030,8590,280,1
-501,489,"Compass Pond",1368,"Radiocarbon",9950,497.5,13300,-20,9650,10250,300,1
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+501,489,"Compass Pond",1362,"Core top",-34,0,13300,-20,-34,0,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (-34 BP). Basal radiocarbon date (GSC-3891, 11700±180) thought to be too old and not used. Extrapolated ages >10000 BP dubious.",TRUE,236,-56.19639,50.03417
+501,489,"Compass Pond",1363,"Radiocarbon",2050,97.5,13300,-20,1870,2230,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (-34 BP). Basal radiocarbon date (GSC-3891, 11700±180) thought to be too old and not used. Extrapolated ages >10000 BP dubious.",TRUE,236,-56.19639,50.03417
+501,489,"Compass Pond",1364,"Radiocarbon",3050,197.5,13300,-20,2770,3330,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (-34 BP). Basal radiocarbon date (GSC-3891, 11700±180) thought to be too old and not used. Extrapolated ages >10000 BP dubious.",TRUE,236,-56.19639,50.03417
+501,489,"Compass Pond",1365,"Radiocarbon",4690,297.5,13300,-20,4370,5010,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (-34 BP). Basal radiocarbon date (GSC-3891, 11700±180) thought to be too old and not used. Extrapolated ages >10000 BP dubious.",TRUE,236,-56.19639,50.03417
+501,489,"Compass Pond",1366,"Radiocarbon",6280,397.5,13300,-20,6040,6520,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (-34 BP). Basal radiocarbon date (GSC-3891, 11700±180) thought to be too old and not used. Extrapolated ages >10000 BP dubious.",TRUE,236,-56.19639,50.03417
+501,489,"Compass Pond",1367,"Radiocarbon",8310,437.5,13300,-20,8030,8590,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (-34 BP). Basal radiocarbon date (GSC-3891, 11700±180) thought to be too old and not used. Extrapolated ages >10000 BP dubious.",TRUE,236,-56.19639,50.03417
+501,489,"Compass Pond",1368,"Radiocarbon",9950,497.5,13300,-20,9650,10250,"NAPD 1","Chron uses 6 radiocarbon dates plus surface (-34 BP). Basal radiocarbon date (GSC-3891, 11700±180) thought to be too old and not used. Extrapolated ages >10000 BP dubious.",TRUE,236,-56.19639,50.03417
