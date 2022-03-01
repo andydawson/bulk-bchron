@@ -24,7 +24,11 @@ extrap = 1000
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
+<<<<<<< HEAD
 version='5.0'
+=======
+version='6.0'
+>>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
 
 get_sitename <- function(core.id) {
   geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE))
@@ -126,16 +130,25 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
     error.na = which(is.na(geochron$error)|(geochron$error == 0))
     
     for (i in 1:length(error.na)){
+<<<<<<< HEAD
       if (geochron$type[error.na[i]] %in% c('Radiocarbon')) {
         geochron$error[error.na[i]] = round(mean(predict.gam(mod_radio, new_age=data.frame(age=geochron$age[error.na[i]]), type='response', se.fit=TRUE)$fit))
       } else if (geochron$type[error.na[i]] %in% c('Core top')) {
         geochron$error[error.na[i]] = 32#.27
       } else if (geochron$type[error.na[i]] %in% c('Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')){
         geochron$error[error.na[i]] = 50
+=======
+      if (geochron$type[error.na[i]] %in% c('Radiocarbon', 'Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')) {
+        geochron$error[error.na[i]] = round(mean(predict.gam(mod_radio, new_age=data.frame(age=geochron$age[error.na[i]]), type='response', se.fit=TRUE)$fit))
+      } else if (geochron$type[error.na[i]] %in% c('Core top')) {
+        geochron$error[error.na[i]] = 32#.27
+      #} else if (geochron$type[error.na[i]] %in% c('Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')){
+      #  geochron$error[error.na[i]] = 50
+>>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
       } else if (geochron$type[error.na[i]] %in% c('Annual laminations (varves)')) {
-        geochron$error[error.na[i]] = 10
+        geochron$error[error.na[i]] = (geochron$age[error.na[i]]+70)*0.05
       } else if (geochron$type[error.na[i]] %in% c('Biostratigraphic, pollen', 'Tsuga decline')) {
-        geochron$error[error.na[i]] = 100
+        geochron$error[error.na[i]] = 250
       } else if (geochron$type[error.na[i]] %in% c('Ambrosia rise', 'European settlement horizon')) {
         geochron$error[error.na[i]] = 50
       } else if (geochron$type[error.na[i]] %in% c('Tephra')) {
@@ -215,7 +228,11 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   
   print(paste0('Core ' , core.id, ';', length(idx_reliable)/length(post_sample_means)))
   
+<<<<<<< HEAD
   post_sample = data.frame(depths=depths[idx_reliable], t(out$thetaPredict)[idx_reliable,])
+=======
+  post_sample = data.frame(depths=depths[idx_reliable], matrix(t(out$thetaPredict)[idx_reliable,], nrow=length(idx_reliable)))
+>>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
 
   
   write.table(post_sample, paste0('.', '/Cores/', core.id, '/', 
