@@ -14,13 +14,17 @@ chron.control.types <- read.csv("chroncontrol_types-edited.csv")
 
 
 radio = read.csv('data/radiocarbon-dates-errors.csv')
-mod <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
+mod_radio <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
 
+lead = read.csv('data/lead-dates-errors.csv')
+mod_lead <- gam(error ~ s(age, k=4), data=lead, method='REML', family=Gamma(link="log"))
+
+extrap = 1000
 
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
-version='3.0'
+version='5.0'
 
 get_sitename <- function(core.id) {
   geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE))
@@ -30,10 +34,32 @@ get_sitename <- function(core.id) {
   geochron$sitename[1]
 }
 
-do_core_bchron <- function(core.id, chron.control.meta, mod) {
+do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, extrap) {
 
   geochron = read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE)
   geochron <- unique(geochron)
+  
+  # fix some errors in data
+  if (any(geochron$chroncontrolid== 105848)){
+    geochron$age[which(geochron$chroncontrolid== 105848)] = -10
+    geochron$limityounger[which(geochron$chroncontrolid== 105848)] = 1950 - geochron[which(geochron$chroncontrolid == 105848),'limityounger']
+  }
+  if (any(geochron$chroncontrolid== 105849)){
+    geochron$age[which(geochron$chroncontrolid== 105849)] = -12
+    geochron$limityounger[which(geochron$chroncontrolid== 105849)] = 1950 - geochron[which(geochron$chroncontrolid == 105849),'limityounger']
+  }
+  if (any(geochron$chroncontrolid== 104870)){
+    geochron$type[which(geochron$chroncontrolid== 104870)] = 'Tephra'
+  }
+  if (any(geochron$limityounger < (-70))){
+    geochron$limityounger[which(geochron$limityounger < (-70))] = -70
+  }
+  if (any((geochron$type == 'Lead-210') & (geochron$limitolder > 200))){
+    geochron$limitolder[which((geochron$type == 'Lead-210') & (geochron$limitolder > 200))] = 200
+  }
+  if (any(is.na(geochron$age))){
+    geochron$age[which(is.na(geochron$age))] = (geochron$limityounger[which(is.na(geochron$age))] + geochron$limitolder[which(is.na(geochron$age))])/2
+  }
   
   geochron$error = abs(geochron$limitolder-geochron$limityounger) / 2
   
@@ -87,14 +113,23 @@ do_core_bchron <- function(core.id, chron.control.meta, mod) {
   
   geochron = geochron[which(keep==1),]
   
+  # only use site if 3 or more non-biostrat dates
+  # or if biostrat date is ambrosia rise, use
+  types = chron.control.meta$chron.control.type[match(geochron$type, chron.control.meta$chron.control.type, nomatch=NA)]
+  if (any(types %in% c('Biostratigraphic, pollen', 'Tsuga decline'))){
+    if (length(!(types %in% c('Biostratigraphic, pollen', 'Tsuga decline')))<= 3){
+      stop("Biostrat control with fewer than 3 controls of other types")
+    }
+  }
+  
   if (any(is.na(geochron$error)|(geochron$error == 0))){
     error.na = which(is.na(geochron$error)|(geochron$error == 0))
     
     for (i in 1:length(error.na)){
       if (geochron$type[error.na[i]] %in% c('Radiocarbon')) {
-        geochron$error[error.na[i]] = round(mean(predict.gam(mod, new_age=data.frame(age=geochron$age[error.na[i]]), type='response', se.fit=TRUE)$fit))
+        geochron$error[error.na[i]] = round(mean(predict.gam(mod_radio, new_age=data.frame(age=geochron$age[error.na[i]]), type='response', se.fit=TRUE)$fit))
       } else if (geochron$type[error.na[i]] %in% c('Core top')) {
-        geochron$error[error.na[i]] = 33#.27
+        geochron$error[error.na[i]] = 32#.27
       } else if (geochron$type[error.na[i]] %in% c('Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')){
         geochron$error[error.na[i]] = 50
       } else if (geochron$type[error.na[i]] %in% c('Annual laminations (varves)')) {
@@ -104,9 +139,9 @@ do_core_bchron <- function(core.id, chron.control.meta, mod) {
       } else if (geochron$type[error.na[i]] %in% c('Ambrosia rise', 'European settlement horizon')) {
         geochron$error[error.na[i]] = 50
       } else if (geochron$type[error.na[i]] %in% c('Tephra')) {
-        geochron$error[error.na[i]] = 332
+        geochron$error[error.na[i]] = 334
       } else if (geochron$type[error.na[i]] %in% c('Lead-210')) {
-        geochron$error[error.na[i]] = 40 # fix this
+        geochron$error[error.na[i]] = round(mean(predict.gam(mod_radio, new_age=data.frame(age=geochron$radio[error.na[i]]), type='response', se.fit=TRUE)$fit))
       } else if (geochron$type[error.na[i]] %in% c('Other dating methods')) {
         geochron$error[error.na[i]] = 350
       } else {
@@ -137,6 +172,10 @@ do_core_bchron <- function(core.id, chron.control.meta, mod) {
   calCurves = rep(NA, nrow(geochron))
   calCurves[which(geochron$cc == 0)] = "normal"
   calCurves[which(geochron$cc == 1)] = "intcal20"
+
+  if (any(is.na(calCurves))) {
+    stop('one or more calcurve values are NA')
+  }
   
   #geochron$error[which(geochron$error == 0)] = 1
 
@@ -158,17 +197,30 @@ do_core_bchron <- function(core.id, chron.control.meta, mod) {
          y = 'Depth (cm)')
   ggsave(fname, plot=p)
     
-  post = data.frame(depths=depths, t(out$thetaPredict))
-  write.table(post, paste0('.', '/Cores/', core.id, '/', 
-                           core.id, '_bchron_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
+
   
   predict_geo = predict(out, 
                         newPositions = geochron$depth)
   
-  post = data.frame(labid=geochron$chroncontrolid, depths=geochron$depth, t(predict_geo))
-  write.table(post, paste0('.', '/Cores/', core.id, '/', 
+  post_geo = data.frame(labid=geochron$chroncontrolid, depths=geochron$depth, t(predict_geo))
+  write.table(post_geo, paste0('.', '/Cores/', core.id, '/', 
                            core.id, '_bchron_geo_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
+ 
+  post_geo_means = rowMeans(t(predict_geo))
+  post_geo_old = max(post_geo_means) + extrap
+  post_geo_young = ifelse((min(post_geo_means) - extrap)<(-70), -70, min(post_geo_means) - extrap)
   
+  post_sample_means = rowMeans(t(out$thetaPredict))
+  idx_reliable = which((post_sample_means < post_geo_old) & (post_sample_means > post_geo_young))
+  
+  print(paste0('Core ' , core.id, ';', length(idx_reliable)/length(post_sample_means)))
+  
+  post_sample = data.frame(depths=depths[idx_reliable], t(out$thetaPredict)[idx_reliable,])
+
+  
+  write.table(post_sample, paste0('.', '/Cores/', core.id, '/', 
+                           core.id, '_bchron_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
+   
   if (length(bio.flag) >= 1){
     stop(paste0('unreliable controls used: ', paste(bio.flag, collapse='; ' )))
   }
@@ -181,10 +233,10 @@ do_core_bchron <- function(core.id, chron.control.meta, mod) {
 }
 
 # debugging
-#do_core_bchron(981, chron.control.types, mod)
+#do_core_bchron(1000, chron.control.types, mod)
 #stop("debug stop")
 
-mc.cores = 4 # processors
+mc.cores = 1 # processors
 
 core.ids = list.files('Cores')
 ncores = length(core.ids)
@@ -192,7 +244,7 @@ ncores = length(core.ids)
 bchron.reports = mclapply(core.ids, function(core.id) {
   message(core.id)
   bchron.report = data.frame(datasetid = core.id, sitename=get_sitename(core.id), success = 1, reason=NA)
-  success = try(do_core_bchron(core.id, chron.control.types, mod))
+  success = try(do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead, extrap))
   if(is(success, "try-error")) {
     bchron.report$success = 0
     bchron.report$reason = geterrmessage()

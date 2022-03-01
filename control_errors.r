@@ -1,4 +1,6 @@
 library(plyr)
+library(ggplot2)
+library(mgcv)
 
 cc = read.csv('data/chroncontrol_summary_pollen_full.csv')
 
@@ -7,6 +9,20 @@ ncontrols = ddply(cc, .(datasetid), nrow)
 id_keep = ncontrols$datasetid[which(ncontrols$V1>1)]
 
 cc = cc[which(cc$datasetid %in% id_keep),]
+
+cc[which(cc$chroncontrolid == 105848),'age'] = -10
+cc[which(cc$chroncontrolid == 105849),'age'] = 12
+cc[which(cc$chroncontrolid == 105848),'limityounger'] = 1950 - cc[which(cc$chroncontrolid == 105848),'limityounger']
+cc[which(cc$chroncontrolid == 105849),'limityounger'] = 1950 - cc[which(cc$chroncontrolid == 105849),'limityounger']
+
+cc[which(cc$chroncontrolid == 104870),'type'] = 'Tephra'
+
+cc[which(cc$limityounger < (-70)), 'limityounger'] = -70
+cc[which((cc$type=="Lead-210")&(cc$limitolder>200)), 'limitolder'] = 200
+
+cc[which(is.na(cc$age)),'age'] = (cc[which(is.na(cc$age)),'limityounger'] + cc[which(is.na(cc$age)),'limitolder']) / 2
+
+cc = cc[which(!is.na(cc$age)),]
 
 ##
 ## core tops
@@ -25,6 +41,7 @@ ggplot() + geom_point(data=core_tops, aes(x=age, y=error))
 hist(core_tops$error, breaks=30)
 
 ct_error = mean(core_tops$error, na.rm=TRUE)
+ct_error
 
 ##
 ## tephra
@@ -43,6 +60,53 @@ ggplot() + geom_point(data=tephra, aes(x=age, y=error))
 hist(tephra$error, breaks=30)
 
 tephra_error = mean(tephra$error, na.rm=TRUE)
+tephra_error
+
+
+##
+## lead-210
+##
+
+lead = cc[which(cc$type %in% c('Lead-210')),]
+lead$error = abs(lead$limitolder - lead$limityounger)
+
+lead = lead[which((!is.na(lead$error)) & (lead$error>0)),]
+
+lead$age_positive = 1950 - lead$age 
+
+write.csv(lead, 'data/lead-dates-errors.csv', row.names=FALSE)
+
+ggplot() + 
+  geom_point(data=lead, aes(x=age, y=error)) + 
+  geom_smooth(data=lead, aes(x=age, y=error)) +
+  theme_bw() +
+  xlab('Lead-210 Age') + 
+  ylab('Standard deviation') + 
+  ylim(c(0,7500))
+
+mod <- gam(error ~ s(age, k=4), data=lead, method='REML', family=Gamma(link="log"))
+# mod <- gam(error ~ s(age_positive, k=4), data=lead, method='REML', family=Gamma(link="log"))
+plot(mod, shade = TRUE, seWithMean = TRUE, residuals = TRUE, pch = 16, cex = 0.8)
+gam.check(mod)
+
+age_new = seq(-66, 206, length.out = 1000)
+
+new_age = data.frame(age=age_new)
+
+
+model_p = cbind(new_age, data.frame(predict.gam(mod, new_age, type='response', se.fit=TRUE)))
+crit.t = qt(0.975, df = mod$df.residual)
+new_age = transform(model_p,
+                    upper = fit + (crit.t * se.fit),
+                    lower = 0)#ifelse((fit - (crit.t * se.fit))>0, fit - (crit.t * se.fit), 0))
+
+ggplot() +
+  geom_point(data=lead, aes(x=age, y=error)) + 
+  geom_line(data=new_age, aes(x=age, y=fit), colour='blue') +
+  geom_ribbon(data=new_age, aes(x=age, ymin=lower, ymax=upper), fill="grey", alpha=0.5) + 
+  theme_bw() +
+  xlab('Radiocarbon age (YBP)') + 
+  ylab('Standard deviation')
 
 ##
 ## radiocarbon dates
@@ -64,7 +128,7 @@ ggplot() +
   ylab('Standard deviation') + 
   ylim(c(0,7500))
 
-library(mgcv)
+
 
 hist(radio$error, breaks=50, xlim=c(0,5000))
 

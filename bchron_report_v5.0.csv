@@ -1,0 +1,1240 @@
+"datasetid","sitename","success","reason"
+"1000","Hafichuk Site",1,NA
+"1001","Hail Lake",1,NA
+"1002","Hams Lake",1,NA
+"1003","Hanging Lake",1,NA
+"1004","Hansen Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1006","Harding Lake",1,NA
+"1007","Lac Harriman",1,NA
+"1008","Harrie Lake",1,NA
+"1010","Hawke Hills Kettle",1,NA
+"1012","Hawley Bog Pond-1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1013","Hay Lake",1,NA
+"1024","Headwaters Lake",1,NA
+"1025","Healy Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1028","Hebron Lake",1,NA
+"1030","Hedrick Pond",1,NA
+"1031","Helmetta Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1033","Tourbière de Lanoraie HENRI",1,NA
+"10972","Hemlock Hollow",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"10981","Little Dyke Lake",1,NA
+"1104","Hidden Lake",1,NA
+"1105","High Lake",1,NA
+"1107","Honeymoon Pond",1,NA
+"1110","Horseshoe Lake",1,NA
+"1111","Hostage Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1113","Houghton Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1114","Howes Prairie Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1133","Hudson Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1135","Humber Pond 3",1,NA
+"1136","Humber Pond 5",1,NA
+"1140","Icehouse Bottom [40MR23]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1147","Indian Lake",1,NA
+"1148","Indian Prairie Fen",1,NA
+"1149","Inglesby Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1151","Iola Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1152","Keystone Iron Fen",1,NA
+"1157","Jack Lake",1,NA
+"1160","Jackson Pond",1,NA
+"1162","Jacob Lake",1,NA
+"1163","Jacobson Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1170","January Cave [EbPp-Vp]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1171","James Bay",1,NA
+"1254","Saint-Jean Ile d'Orléans",1,NA
+"1255","Jewell Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1390","Joe Lake",1,NA
+"1391","Joes Pond",1,NA
+"1392","Johnson River Bog",1,NA
+"1393","Tourbière du lac Joncas",1,NA
+"1432","Kaiyak Lake",1,NA
+"1437","Kanaaupscow",1,NA
+"1445","Keele Lake",1,NA
+"1447","Kellys Hollow",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1448","Kellners Lake",1,NA
+"1450","Kennys Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1451","Lac Kénogami",1,NA
+"1452","Kenosee Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"15153","Wendel site",1,NA
+"1518","Kinsman Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1523","Kirk Lake",1,NA
+"1524","Kitchner Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1541","Kollioksak",1,NA
+"1548","Kotiranta Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1568","Lacawac",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1570","Lac Hamard",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1571","Lac Louis",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1572","Lac à Magie",1,NA
+"1574","Ladd Lake",1,NA
+"1580","Lake Sixteen",1,NA
+"1581","Lake 27",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1582","Lake 31",1,NA
+"1583","Lake A",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1586","Lake B",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"15864","Swan Lake",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"1588","Lake Carlson",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1591","Lake EC1",1,NA
+"1592","Lake EC2",1,NA
+"1594","Lake GB1",1,NA
+"1595","Lake GB2",1,NA
+"1598","Lake LB1",1,NA
+"1599","Lake LR1",1,NA
+"1601","Lake LR3",1,NA
+"16012","Torren's Bog",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"1603","Lake LT1",1,NA
+"1604","Lake PWWL",1,NA
+"1606","Lake QC",1,NA
+"1607","Lake Six",1,NA
+"16101","Juan Perez Sound",1,NA
+"1611","L'Anse aux Meadows Site",1,NA
+"16135","Awl Site midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16137","Awl Site midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16139","Awl Site midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1614","Langdale Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"16141","Awl Site midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16143","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16145","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16147","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16149","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16151","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16153","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16155","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16159","No Name East midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16161","No Name East midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16163","No Name East midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16165","No Name West midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16167","No Name West midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16169","No Name West midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1617","Lateral Pond",1,NA
+"16171","No Name West midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1619","Little Bayou Sara Site 1B",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1620","Little Bayou Sara Site 4J",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1622","Leading Tickles",1,NA
+"16256","McGinnis Lake",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"16257","McGinnis Lake",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"1626","Lac à Léonard",1,NA
+"16265","Glenora Bay",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"1632","Lily Lake",1,NA
+"1635","Lily Lake",1,NA
+"1637","Lily Lake Fen",1,NA
+"1642","Little Lake",1,NA
+"1644","LDDsite5772",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1648","Lake Annie",1,NA
+"1650","Lake Hope Simpson",1,NA
+"1651","Little Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1655","Lockport Gulf Section",1,NA
+"1656","Lofty Lake",1,NA
+"1658","Lonesome Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1659","Long Lake (CA:Nunavut)",1,NA
+"1660","Long Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1661","Longswamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1663","Loon Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1665","Lost Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1666","Lost Lake",1,NA
+"1667","Lost P.",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1669","Lake Louise",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1670","Louise Pond",1,NA
+"1671","Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",1,NA
+"1684","Lynn Lake",1,NA
+"1685","Lake Mabel",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1689","Main-à-Dieu",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1691","Tourbière du lac Malbaie",1,NA
+"1693","Maligne Lake",1,NA
+"1697","Mangrove Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1701","Maplehurst Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1703","Lac Marcotte",1,NA
+"1704","M Lake",1,NA
+"1705","Marion Lake",1,NA
+"1707","Mariposa Lake",1,NA
+"1712","Mashapaug Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1715","Wapizagonke",1,NA
+"1716","Sud du Lac du Noyer",1,NA
+"1717","Mayberry Well",1,NA
+"1718","Mayflower Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1719","McCarston's Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1724","McMaster Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1725","McNearney Lake",0,"Error in truncatedWalk(theta[do[j]], thetaMhSd, lowerLimit, upperLimit) : 
+  Error - truncatedWalk has lower limit higher than upper limit
+"
+"17292","Cycloid Lake",1,NA
+"1732","Medicine Lake",1,NA
+"1733","Lac Mélèze",1,NA
+"17345","North Killeak Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  an na chron control error could not be assigned for NA
+"
+"17355","Circle Lake",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"1740","Mermaid Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"17406","Penegor Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Ambrosia rise
+"
+"1754","Lac Mimi",1,NA
+"1755","Minakokosa Lake",1,NA
+"1759","Mirror Pool",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1761","Molas Lake",1,NA
+"1762","Molas Pass Bog",1,NA
+"1763","Monhegan Island Meadow",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1765","Lac Montagnais",1,NA
+"1766","Montezuma Well",1,NA
+"1769","18 [Moraine Lake]",1,NA
+"1770","Mordsger Lake",1,NA
+"1772","Mosquito Lake Bog",1,NA
+"1773","Moulton Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1775","Mud Creek Site 1",1,NA
+"1776","Mud Lake",1,NA
+"1778","Mud Lake",0,"Error in BchronCalibrate(ages = ages, ageSds = ageSds, calCurves = calCurves,  : 
+  Date 4880 outside of calibration range. Range of intcal20 is 95 to 50193
+"
+"1780","Munday Creek",1,NA
+"1782","Muscotah Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1783","Muskox Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1788","Natla Bog",1,NA
+"17880","Lost Swamp",1,NA
+"1789","Natural Lake",1,NA
+"1794","Nelson Pond",1,NA
+"1796","Neville Marsh",1,NA
+"1800","Nicol Lake",1,NA
+"1806","Niliq Lake",1,NA
+"1807","Nina Lake",1,NA
+"1814","No Bottom Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1815","Nonconnah Creek [TN-1]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1817","North Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1821","Northwest River Pond",1,NA
+"1823","Lake O'Hara",1,NA
+"1826","Old Field",1,NA
+"1829","Oliver Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1831","Ondris Pond",1,NA
+"1833","Lake Ontario, Rochester Basin",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1834","Lake Ontario, Mississauga Basin",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1835","Opabin Lake",1,NA
+"1840","Otto Mielke Lake",1,NA
+"1841","Lac Ouellet",1,NA
+"1847","Palace Pier Section",1,NA
+"1848","Panther Run Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1849","Paradise Lake",1,NA
+"1852","Park Pond 1",1,NA
+"1854","Park Pond 2",1,NA
+"1856","Park Pond 3",1,NA
+"1857","Parkhill Creek",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1858","Parrott's Pond",1,NA
+"1859","Pasacaco Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1861","Pasqua Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1862","Pass Lake",1,NA
+"1864","Lac Patricia",1,NA
+"1865","Patschke Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1868","Paynter Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1879","Peatsah Section",1,NA
+"1882","Ped Pond",1,NA
+"1883","Peggy Lake",1,NA
+"1890","Lac Petel",1,NA
+"1891","Peterson Slough",1,NA
+"1897","Pilot Mound Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1898","Pinckneyville Creek Site 19",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1899","Pinckneyville Creek Site 20",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1900","Pinckneyville Creek Site 21",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1902","Pinecrest Lake",1,NA
+"1904","Pink Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1905","Pitcher Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1957","Lac Pluvieux",1,NA
+"1961","Poland Spring Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1963","Pond Mills Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1964","Porphyry Lake",1,NA
+"1965","Porqui Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1967","Portage Marsh",1,NA
+"1968","Portage Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1970","Posy Lake",1,NA
+"1972","Potts Mountain Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"1974","Powers Fort Swale",1,NA
+"1975","Chesapeake Bay, Parker Creek",1,NA
+"1978","Princeville",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"1980","Protection Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"1981","Point Escuminac",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"19812","Madelia",1,NA
+"1984","Chesapeake Bay, Patuxent River (2-P-5)",1,NA
+"1987","Puyuk Lake",1,NA
+"19967","Mary Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Tsuga decline
+"
+"2001","Pyle Site",1,NA
+"2003","Quarles Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2004","Queens Lake",1,NA
+"2006","Quicksand Pond",0,"Error in quantile.default(newX[, i], ...) : 
+  missing values and NaN's not allowed if 'na.rm' is FALSE
+"
+"2007","Quillin Site",1,NA
+"2015","Rivière-aux-Feuilles 2",1,NA
+"2016","Tourbière de la Rivière-aux-Feuilles",1,NA
+"202","Anderson Lake",1,NA
+"2022","Ra Lake",1,NA
+"2023","Ramsay Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2025","Ranger Lake",1,NA
+"2026","Rapid Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"2028","Rattle Lake",1,NA
+"20289","Marcella Lake",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"203","Anderson Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2030","Rayburn's Dome",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"20372","Swanson Fen",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"2045","Rebel Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2048","Vallée de l'Albion",1,NA
+"2049","Redrock Lake",1,NA
+"2050","Redstone Lake",1,NA
+"2054","Reindeer Lake",1,NA
+"206","Andy Lake",1,NA
+"2061","Chesapeake Bay, Rhode River",1,NA
+"2063","Rhule Fen",1,NA
+"2065","Rice Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2068","R Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"208","Angal Lake",1,NA
+"209","Lac à l'Ange",1,NA
+"210","Antelope Playa",1,NA
+"214","Arrington Marsh",1,NA
+"219","Lac des Atocas",1,NA
+"221","Axe Lake",1,NA
+"224","Baird Inlet [Rock Basin Lake]",1,NA
+"2262","L'Anse aux Meadows Road Cut Bog",1,NA
+"2265","Lac à Robin",1,NA
+"2266","Robinson's Pond",1,NA
+"2267","Lac des Roches Moutonnées",1,NA
+"2270","Rogers Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"228","Balsam Meadow",1,NA
+"2286","Lac Romer",1,NA
+"2287","Rose Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2288","Rosebud",1,NA
+"2289","Rose Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2292","Ross Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2293","Rostock Mammoth Site",1,NA
+"2297","Lake RS29",1,NA
+"2303","Lake RS36",1,NA
+"2309","Ruby Lake",1,NA
+"2311","Ruppert Lake",1,NA
+"2319","Lac au Sable",1,NA
+"232","Barchampe Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2320","Sagehen Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2324","Sakana Lake",1,NA
+"2332","Lac à Sam",1,NA
+"2337","Sandy Cove Pond",1,NA
+"2338","San Joaquin Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"234","Barrett Lake",1,NA
+"2340","San Agustin Plains",1,NA
+"2341","Sarnia Elk Site Section",1,NA
+"2342","Lac Manitou",1,NA
+"2343","Lac aux Quenouilles",1,NA
+"2345","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"2346","Sierra Bacha 3",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"2347","Lake Site South Burin Peninsula",1,NA
+"2348","SC1 Pond",1,NA
+"2349","Scott Lake",1,NA
+"235","Barry Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2352","Seagull Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2353","Kettle's Lake [Second Lake]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2355","Seidel",1,NA
+"236","Baseball Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2366","Seminary Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2367","LD Lake",1,NA
+"237","Basin Pond",0,"Error in BchronCalibrate(ages = ages, ageSds = ageSds, calCurves = calCurves,  : 
+  Date 331 outside of calibration range. Range of intcal20 is 95 to 50193
+"
+"2372","Sewell Lake",1,NA
+"2373","Saint-Francois de Sales",1,NA
+"2374","Shady Valley Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"2376","Shangri-La Bog",1,NA
+"2377","Shaws Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2380","Sheley Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"2381","Sherd Lake",1,NA
+"2382","Shouldice Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2384","Silver Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2385","Silver Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2386","Silver",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"239","Battle Ground Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2391","Sinkhole Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2393","Sioux Pond",1,NA
+"240","Battaglia Bog",1,NA
+"244","Beach Lake",1,NA
+"245","Bear Bog",1,NA
+"246","Beaver Lake",1,NA
+"247","Bechan Cave",1,NA
+"2476","Sleet Lake",1,NA
+"249","Beckman Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"25","Alexis Lake",1,NA
+"250","Beef Pasture",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"253","Bell's Lake",1,NA
+"254","Belmont Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2576","Slough Creek Pond",1,NA
+"2577","Slow River",1,NA
+"2578","Smoot Lake Bog",1,NA
+"258","Bereziuk",1,NA
+"2580","Snowshoe Lake",1,NA
+"2588","Splains Lake",1,NA
+"2590","Spring Lake",1,NA
+"2591","Spring Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2593","Spruce Pond",1,NA
+"2598","Stages Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2599","Starkweather Pond",1,NA
+"260","Berry Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2603","Saint John Island Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"2604","Stockbridge Bowl",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"2607","Stone Lake Tamarack Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2609","Stotzel-Leis Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2610","Sugarloaf Pond",1,NA
+"2611","Sulphur Lake",1,NA
+"2615","Surprise Lake",1,NA
+"2617","Sutherland Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2619","Swamp Lake",1,NA
+"2620","Swan Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2621","Swartswood Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"2622","Sweet Little Lake",1,NA
+"2623","Szabo Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2625","Tangle Lakes",1,NA
+"2626","Tannersville Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2629","Taupawshas Bog",1,NA
+"2630","Taylor Creek Site 2",1,NA
+"2631","Taylor Lake",1,NA
+"2634","Telegraph Creek",1,NA
+"2636","Ten Lakes",1,NA
+"2637","Ten Mile Lake",1,NA
+"2639","Petit Lac Terrien",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2642","Tiinkdhul Lake",1,NA
+"2644","Tioga Pass Pond",1,NA
+"2645","Titicut Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2646","Thompson Landing",1,NA
+"2647","Toboggan Lake",1,NA
+"2651","Tonawa Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2652","Tonquin Creek",1,NA
+"2654","Lac à la Tortue",1,NA
+"2661","Tuktoyaktuk 5",1,NA
+"2663","Lake Tulane",1,NA
+"2667","Tunica Bayou Site 22",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"2668","Tunica Bayou Site 23",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"2669","Tunturi Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"267","Banks Island 74MS11",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2671","Lac Turcotte",1,NA
+"2673","Tuskegee Pond",1,NA
+"268","Banks Island 74MS12",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"269","Banks Island 74MS15",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"27","Aliuk Pond",1,NA
+"272","Big John Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"274","Big Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"276","Bishops Falls",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"278","Black Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"279","Blacktail Pond",1,NA
+"280","Blandin Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"281","BL-Tombigbee",1,NA
+"2879","Twin Lakes (CA:British Columbia)",1,NA
+"2880","Twin Lakes",1,NA
+"2882","Tyrrell Lake",1,NA
+"2886","Unknown Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2890","Upper Mallot Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2892","Upper South Branch Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2897","Utricularia Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2903","Van Nostrand Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2912","Baie du Diana",1,NA
+"2919","Volo Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2922","Walker Lake",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"2925","Watchtower Basin",1,NA
+"2926","Waubashene Nippissing Transgression Site",1,NA
+"2943","Water Conservation Area 2A, Site 2 (Site F1)",1,NA
+"2947","Wells Mastodon Site",1,NA
+"2948","Wentzel's Pond",1,NA
+"2949","Weslemkoon Lake",1,NA
+"295","Bob Black Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"2950","Whiskey Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"2951","Whitney's Gulch",1,NA
+"2952","White Lily Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"2953","Whyac Lake",1,NA
+"2954","Wien Lake",1,NA
+"2955","Wilcox Pass",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2956","Willow River Pond",1,NA
+"2960","Winter Gulf Site",1,NA
+"2961","Wintergreen Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"2962","Wild Spear Lake",1,NA
+"300","Bondi Section",1,NA
+"302","Boone Lake",1,NA
+"3029","Wolf Creek",1,NA
+"303","Border Beacon",1,NA
+"3031","Wolsfeld Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3033","Wonder Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3034","Woodcliff Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3036","Woodworth Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3038","Point Woronzof Peat Section",1,NA
+"3039","Woski Pond",1,NA
+"304","Boriack Bog",1,NA
+"3041","Wylde Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3042","Wylde Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3046","Lac Yelle",1,NA
+"3048","Yesterday Lake",1,NA
+"3050","Zuehl Farm Site",1,NA
+"3054","Head Lake",1,NA
+"3056","Como Lake",1,NA
+"3058","Basswood Road Lake/Splan Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"306","Lac Boucané",1,NA
+"3060","Bechan Cave",1,NA
+"3062","Beckman Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"3067","Boney Spring",1,NA
+"307","Boundary Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"3076","Toadlena Lake [Dead Man Lake]",1,NA
+"308","Boundary Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3081","Disterhaft Farm Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"309","Brandreth Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"311","Brisay 2",1,NA
+"312","Brophy Ditch",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3125","E Lake",1,NA
+"3126","Ferndale Bog",1,NA
+"3127","Floating Island Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3130","Heart Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3131","Hells Kitchen Lake",1,NA
+"3132","Hershop Bog",1,NA
+"3149","John Klondike Bog",1,NA
+"315","Brown Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"316","Browns Pond",1,NA
+"318","Buckbean Fen",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"319","Buck Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"321","Bucyrus Bog",1,NA
+"324","Burden Lake",1,NA
+"326","Lac à la Busque",1,NA
+"329","Saint-Calixte",1,NA
+"331","Camel Lake",1,NA
+"338","Carbuncle Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"339","Lac Caribou",1,NA
+"340","Caribou Bog",1,NA
+"341","Caribou Hill",1,NA
+"343","Carp Lake",1,NA
+"345","Carter Site",1,NA
+"3452","Kellys Hollow",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3469","Lake Ann",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"347","Cascade Fen [Engineer Mountain Bog]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3471","Lake BI2",1,NA
+"3482","Lake of the Clouds",1,NA
+"3484","Lake Louise",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3485","McNearney Lake",1,NA
+"3486","McNearney Lake",1,NA
+"3487","Medicine Lake",1,NA
+"3492","Lake Minnie",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3493","Mohawk Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3495","Muscotah Marsh",1,NA
+"3497","Nichols Brook Site",1,NA
+"3500","Patschke Bog",1,NA
+"3501","Pittsburg Basin",1,NA
+"352","Cedar Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3541","Pogonia Bog Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"3542","Pickerel Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3558","Pogonia Bog Pond",1,NA
+"3559","Portage Marsh",1,NA
+"3560","Potato Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3561","Potato Lake",1,NA
+"3563","Pretty Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3565","Saint-Raymond",1,NA
+"3568","Rice Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"3582","Rockyhock Bay",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3583","Rosebud",1,NA
+"3608","Sagehen Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3609","Sagehen Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"361","Chase Pond",1,NA
+"3611","San Agustin Plains",1,NA
+"3612","San Agustin Plains",1,NA
+"3613","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3614","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3615","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3616","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3617","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3618","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"367","Cheyenne Bottoms",1,NA
+"369","Chippewa Bog",1,NA
+"371","Chism 1",1,NA
+"373","Chism 2",1,NA
+"375","Chatsworth Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3771","Snow Lake",1,NA
+"3772","South Soefje Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3775","Basswood Road Lake/Splan Pond",1,NA
+"3780","Stone Lake Tamarack Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"3782","Taylor Creek Site 2",1,NA
+"3784","Third Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3786","Third Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"3789","Tom Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"3790","Tom Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"381","Lac Ciel Blanc",1,NA
+"3830","Upper Wallface Pond",1,NA
+"3831","Vestaburg Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3837","Weber Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3839","Weslemkoon Lake",1,NA
+"3840","White Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"3841","White Lily Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"3858","West Sand Lake Peat Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"39335","Saltville Quarry",0,"Error in if (any(geochron$chroncontrolid == 105848)) { : 
+  missing value where TRUE/FALSE needed
+"
+"41032","Henrys Fork (lower exposure)",1,NA
+"41034","Henrys Fork (upper exposure)",1,NA
+"4557","Aino Pond",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"47621","Pearson's Pond",1,NA
+"489","Clear Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"490","Clear Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"492","Clear Pond",1,NA
+"493","Clearwater Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"496","Coghill Lake",1,NA
+"497","Colo Marsh",1,NA
+"498","Columbine Ranch Fen",1,NA
+"500","Comb Lake",1,NA
+"501","Compass Pond",1,NA
+"502","Conklin Quarry",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"506","Copley Lake",1,NA
+"508","Lac Côté",1,NA
+"510","Tourbière de Lanoraie COTEAU JAUNE",1,NA
+"513","Cottonwood Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"514","Cottonwood Pass Pond",1,NA
+"516","Cranberry Lake",1,NA
+"517","Crane Lake",1,NA
+"518","Cranberry Glades",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"519","Crates Lake",1,NA
+"522","Creditview Wetland",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"523","Crider's Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"524","Cristal Lake",1,NA
+"525","Crowfoot Lake",1,NA
+"527","Crowsnest Lake",1,NA
+"533","Cub Creek Pond",1,NA
+"534","Cub Lake",1,NA
+"538","Cummins Pond",1,NA
+"539","Cupola Pond",1,NA
+"543","Cygnet Lake Fen",1,NA
+"550","Davis Lake",1,NA
+"671","Toadlena Lake [Dead Man Lake]",1,NA
+"672","Decoy Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"673","Deer Lake Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"675","Delorme 1",1,NA
+"678","Lac Demain",1,NA
+"681","Denton Lake",1,NA
+"683","Devils Lake, Main Bay",1,NA
+"685","Devon Island Glacier",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"688","Diana 375",1,NA
+"691","Lac du Diable",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"693","Dinkey Meadow",1,NA
+"699","Dismal Swamp (91)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"7","Three Pines Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"700","Disterhaft Farm Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"701","Divide Lake",1,NA
+"719","Dome Creek Meadow",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"721","Donut Pond Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"722","Dosquet",1,NA
+"772","Duck Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"773","Lac Dufresne",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"776","Eagle Lake Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"777","Eagle Lake",1,NA
+"778","Eaglenest Lake",1,NA
+"781","East Twin Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"782","East Baltic Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"7829","Natural Bridges National Monument",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"785","Edward Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"790","Eldora Fen",1,NA
+"796","Emerald Lake",1,NA
+"803","Ennadai Lake",1,NA
+"805","Lake Erie",0,"Error in if (stats::runif(1) < exp(logRtheta)) { : 
+  missing value where TRUE/FALSE needed
+"
+"806","Ernst Brother's Pit",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"808","East Sooke Fen",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"810","Lac à la Fourche",1,NA
+"811","Etivlik Lake",1,NA
+"813","East Twin Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"815","Excelsior Basin",1,NA
+"816","Exchequer Meadow",1,NA
+"821","Tourbière de Farnham",1,NA
+"823","Fawn Lake (CA:Ontario)",1,NA
+"828","Ferndale Bog",1,NA
+"829","Fiddler's Pond",1,NA
+"832","Fish Lake",1,NA
+"834","Beaverhouse Lake",1,NA
+"835","Floating Island Lake",1,NA
+"841","Forest Pond 1",0,"Error in BchronCalibrate(ages = ages, ageSds = ageSds, calCurves = calCurves,  : 
+  Date 2340 outside of calibration range. Range of intcal20 is 95 to 50193
+"
+"843","Forest Pond 2",1,NA
+"844","Forest Lake",1,NA
+"849","Hayes Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"850","French Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"851","Frenchmens Bay",1,NA
+"852","Fresh Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"853","Frying Pan Lake",1,NA
+"855","Fudger Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"856","Furnival Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"857","Saint-Gabriel",1,NA
+"859","Gardiner's Hole",1,NA
+"860","Gass Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"861","Gause Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"862","Georgian Bay, Lake Huron (1)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"863","Georgian Bay, Lake Huron (2)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"865","Lac Geai",1,NA
+"871","Lac à St-Germain",1,NA
+"874","Upper Gillies Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"875","Glacial Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"878","Jones Lake [Glenboro site]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"965","Goff Lake",1,NA
+"966","Gold Lake Bog",1,NA
+"969","Goshen Springs",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"971","Gould Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"972","Gould's Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"973","Graham Lake",1,NA
+"974","Grand Rapids",1,NA
+"975","Grant Lake",1,NA
+"976","Lac Gras",1,NA
+"978","Gravel Ridge",1,NA
+"981","Green Point Pond",1,NA
+"983","Green Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"985","Greenwater Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  Biostrat control with fewer than 3 controls of other types
+"
+"986","Grenadier Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"991","Guardipee Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"995","Water Conservation Area 3B, Gumbo Limbo Near Tail",1,NA
+"996","Water Conservation Area 3B, Gumbo Limbo Wet Head",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen
+"
+"999","Hack Pond",1,NA

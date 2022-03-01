@@ -1,0 +1,27 @@
+chron.control.type,keep,error,cc
+Radiocarbon,1,30,1
+Core top,1,1,0
+"Biostratigraphic, pollen",0,NA,0
+Deglaciation,1,NA,0
+Extrapolated,0,NA,NA
+Ambrosia rise,0,NA,0
+European settlement horizon,0,NA,0
+Tsuga decline,0,NA,0
+Core bottom,1,NA,0
+"Radiocarbon, reservoir correction",1,50,1
+Sediment stratigraphic,0,NA,NA
+Tephra,1,NA,0
+"Radiocarbon, average of two or more dates",1,50,1
+Guess,0,NA,NA
+Lead-210,1,NA,0
+Other dating methods,1,NA,0
+Interpolated,0,NA,NA
+Introduced Pinus rise,0,NA,NA
+"Radiocarbon, infinite",1,NA,1
+"Radiocarbon, calibrated",1,NA,0
+Annual laminations (varves),1,10,0
+"Radiocarbon, calibrated from calendar years",1,NA,1
+"Interpolated, corrected for compaction",0,NA,NA
+Collection date,1,1,0
+NA,0,NA,NA
+Stratigraphic,0,NA,NA
