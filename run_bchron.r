@@ -63,6 +63,66 @@ fix_geochron_errors <- function(geochron){
   return(geochron)
 }
 
+set_bio_flag <- function(chron.control.meta, keep, idx){
+  
+  bio.flag = c()
+  if (any(keep != 1)) {
+    for (i in 1:length(idx)){
+      if (chron.control.meta$chron.control.type[idx[i]] == "Biostratigraphic, pollen") {
+        keep[i] = 1 
+        bio.flag = c(bio.flag, "Biostratigraphic, pollen")
+      } else if (chron.control.meta$chron.control.type[idx[i]] == "Ambrosia rise") {
+        keep[i] = 1 
+        bio.flag = c(bio.flag, "Ambrosia rise")
+      } else if (chron.control.meta$chron.control.type[idx[i]] == "European settlement horizon") {
+        keep[i] = 1 
+        bio.flag = c(bio.flag, "European settlement horizon")
+      } else if (chron.control.meta$chron.control.type[idx[i]] == "Tsuga decline") {
+        keep[i] = 1 
+        bio.flag = c(bio.flag, "Tsuga decline")
+      }
+    }
+  }
+  
+  return(bio.flag)
+}
+
+
+set_missing_control_errors <- function(geochron, mod_radio, mod_lead){
+  
+  if (any(is.na(geochron$error)|(geochron$error == 0))){
+    error.na = which(is.na(geochron$error)|(geochron$error == 0))
+    
+    for (i in 1:length(error.na)){
+      if (geochron$type[error.na[i]] %in% c('Radiocarbon', 'Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')) {
+        geochron$error[error.na[i]] = round(mean(predict.gam(mod_radio, new_age=data.frame(age=geochron$age[error.na[i]]), type='response', se.fit=TRUE)$fit))
+      } else if (geochron$type[error.na[i]] %in% c('Core top')) {
+        geochron$error[error.na[i]] = 32#.27
+        #} else if (geochron$type[error.na[i]] %in% c('Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')){
+        #  geochron$error[error.na[i]] = 50
+        # >>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
+      } else if (geochron$type[error.na[i]] %in% c('Annual laminations (varves)')) {
+        geochron$error[error.na[i]] = (geochron$age[error.na[i]]+70)*0.05
+      } else if (geochron$type[error.na[i]] %in% c('Biostratigraphic, pollen', 'Tsuga decline')) {
+        geochron$error[error.na[i]] = 250
+      } else if (geochron$type[error.na[i]] %in% c('Ambrosia rise', 'European settlement horizon')) {
+        geochron$error[error.na[i]] = 50
+      } else if (geochron$type[error.na[i]] %in% c('Tephra')) {
+        geochron$error[error.na[i]] = 334
+      } else if (geochron$type[error.na[i]] %in% c('Lead-210')) {
+        geochron$error[error.na[i]] = round(mean(predict.gam(mod_lead, new_age=data.frame(age=geochron$radio[error.na[i]]), type='response', se.fit=TRUE)$fit))
+      } else if (geochron$type[error.na[i]] %in% c('Other dating methods')) {
+        geochron$error[error.na[i]] = 350
+      } else {
+        stop(paste0('an na chron control error could not be assigned for ', geochron$type[error.na[i]]))
+      }
+    }
+  }
+  
+  return(geochron)
+  
+}
+
 
 do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, extrap) {
 
@@ -72,7 +132,7 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   # remove duplicated rows (rare)
   geochron <- unique(geochron)
   
-  # fix some specfic errors
+  # fix some specific errors
   geochron = fix_geochron_errors(geochron)
   
   # STOP if only one control
@@ -97,80 +157,50 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   geochron$error = abs(geochron$limitolder-geochron$limityounger) / 2
   
   
-  geochron$cc <- chron.control.meta$cc[idx]
-  keep = chron.control.meta$keep[idx]
+  # idx should index all rows
+  # above statement: STOP if any don't match master control type list
+  # add the calibrated column to geochron file
+  # make a keep vector; we will modify this according to our rules for inclusion
+  geochron$cc = chron.control.meta$cc[idx]
+  keep        = chron.control.meta$keep[idx]
   
   # if (is.na(keep)) {
   #   stop(paste0(nrow(geochron), " controls; nbut"))
   # }
   
-  bio.flag = c()
-  if (any(keep != 1)) {
-    for (i in 1:length(idx)){
-      if (chron.control.meta$chron.control.type[idx[i]] == "Biostratigraphic, pollen") {
-        keep[i] = 1 
-        bio.flag = c(bio.flag, "Biostratigraphic, pollen")
-      } else if (chron.control.meta$chron.control.type[idx[i]] == "Ambrosia rise") {
-        keep[i] = 1 
-        bio.flag = c(bio.flag, "Ambrosia rise")
-      } else if (chron.control.meta$chron.control.type[idx[i]] == "European settlement horizon") {
-        keep[i] = 1 
-        bio.flag = c(bio.flag, "European settlement horizon")
-      } else if (chron.control.meta$chron.control.type[idx[i]] == "Tsuga decline") {
-        keep[i] = 1 
-        bio.flag = c(bio.flag, "Tsuga decline")
-    }
-    }
-  }
+  bio.flag = set_bio_flag(chron.control.meta, keep, idx)
 
   age.flag = NA
   if (any(is.na(geochron$age))) {
     age.flag = "had one or more NA ages, but ran anyway"
   }
+  
+  # remove rows from geochron that have NA ages
+  # STOP if fewer than 2 ages left
   geochron = geochron[!is.na(geochron$age),]
   if (nrow(geochron) < 2) {
     stop("less than 2 non-NA ages")
   }
   
+  # discard unreliable controls
+  # only keep rows with keep flag of 1
   geochron = geochron[which(keep==1),]
   
   # only use site if 3 or more non-biostrat dates
   # or if biostrat date is ambrosia rise, use
   types = chron.control.meta$chron.control.type[match(geochron$type, chron.control.meta$chron.control.type, nomatch=NA)]
   if (any(types %in% c('Biostratigraphic, pollen', 'Tsuga decline'))){
-    if (sum(!(types %in% c('Biostratigraphic, pollen', 'Tsuga decline')))<= 3){
-      stop("Biostrat control with fewer than 3 controls of other types")
+    # if (sum(!(types %in% c('Biostratigraphic, pollen', 'Tsuga decline')))>= 3){
+    #   stop("Biostrat control with fewer than 3 controls of other types")
+    # }
+    if (sum(!(types %in% c('Biostratigraphic, pollen', 'Tsuga decline')))>= 2){
+      stop("Biostrat control with fewer than 2 controls of other types")
     }
   }
   
-  if (any(is.na(geochron$error)|(geochron$error == 0))){
-    error.na = which(is.na(geochron$error)|(geochron$error == 0))
-    
-    for (i in 1:length(error.na)){
-      if (geochron$type[error.na[i]] %in% c('Radiocarbon', 'Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')) {
-        geochron$error[error.na[i]] = round(mean(predict.gam(mod_radio, new_age=data.frame(age=geochron$age[error.na[i]]), type='response', se.fit=TRUE)$fit))
-      } else if (geochron$type[error.na[i]] %in% c('Core top')) {
-        geochron$error[error.na[i]] = 32#.27
-      #} else if (geochron$type[error.na[i]] %in% c('Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')){
-      #  geochron$error[error.na[i]] = 50
-# >>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
-      } else if (geochron$type[error.na[i]] %in% c('Annual laminations (varves)')) {
-        geochron$error[error.na[i]] = (geochron$age[error.na[i]]+70)*0.05
-      } else if (geochron$type[error.na[i]] %in% c('Biostratigraphic, pollen', 'Tsuga decline')) {
-        geochron$error[error.na[i]] = 250
-      } else if (geochron$type[error.na[i]] %in% c('Ambrosia rise', 'European settlement horizon')) {
-        geochron$error[error.na[i]] = 50
-      } else if (geochron$type[error.na[i]] %in% c('Tephra')) {
-        geochron$error[error.na[i]] = 334
-      } else if (geochron$type[error.na[i]] %in% c('Lead-210')) {
-        geochron$error[error.na[i]] = round(mean(predict.gam(mod_radio, new_age=data.frame(age=geochron$radio[error.na[i]]), type='response', se.fit=TRUE)$fit))
-      } else if (geochron$type[error.na[i]] %in% c('Other dating methods')) {
-        geochron$error[error.na[i]] = 350
-      } else {
-        stop(paste0('an na chron control error could not be assigned for ', geochron$type[error.na[i]]))
-      }
-    }
-  }
+  # for any NA or 0 control errors, set them to informed value
+  # positive error required for Bchron
+  geochron = set_missing_control_errors(geochron)
   
   if (nrow(geochron) <= 1) {
     stop("one or no controls after filtering")
@@ -201,13 +231,13 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   
   #geochron$error[which(geochron$error == 0)] = 1
 
-  out = Bchronology(ages=geochron$age,
-                     ageSds=geochron$error, 
-                     calCurves=calCurves,
-                     positions=geochron$depth, 
-                     positionThicknesses=rep(4,nrow(geochron)),
-                     ids=geochron$chroncontrolid, 
-                     predictPositions=depths)
+  out = Bchronology(ages    = geochron$age,
+                     ageSds = geochron$error, 
+                     calCurves = calCurves,
+                     positions = geochron$depth, 
+                     positionThicknesses = rep(4,nrow(geochron)),
+                     ids = geochron$chroncontrolid, 
+                     predictPositions = depths)
 
   summary(out, type='convergence', na.rm=TRUE)
   
@@ -280,7 +310,10 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 151:200){#ncores){
+for (i in 1501:ncores){
+  
+  if (i==1429){next}
+  
   core.id = core.ids[i]
   
   print(i)
@@ -295,6 +328,8 @@ for (i in 151:200){#ncores){
   bchron.report = rbind(bchron.report, bchron.report.site)
   write.csv(bchron.report, paste0('bchron_report_v', version, '.csv'), row.names=FALSE)
 }
+
+
 
 # bchron.report = do.call(rbind, bchron.reports)
 write.csv(bchron.report, paste0('bchron_report_v', version, '.csv'), row.names=FALSE)
