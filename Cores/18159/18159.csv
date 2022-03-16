@@ -1,0 +1,385 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+18159,11950,"Mod Pond",105005,"Core top",-59,0,2810,-60,-60,-58,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105006,"Isotopic excursion",-13,15,2810,-60,-16,-10,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105007,"Biostratigraphic, pollen",78,25,2810,-60,68,88,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105008,"Biostratigraphic, pollen",130,65,2810,-60,120,140,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105009,"Historical fire",157,70,2810,-60,147,167,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105010,"European settlement horizon",163,80,2810,-60,153,173,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105011,"Lead-210",125,50,2810,-60,99,151,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105012,"Radiocarbon",785,129,2810,-60,765,805,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105013,"Radiocarbon",1730,210.5,2810,-60,1705,1755,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105014,"Radiocarbon",2095,294,2810,-60,2070,2120,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105015,"Radiocarbon",2510,407,2810,-60,2485,2535,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394
+18159,11950,"Mod Pond",105016,"Radiocarbon",2645,465,2810,-60,2610,2680,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MODPOND"",thick=5,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,21,-120.58844,-120.58394

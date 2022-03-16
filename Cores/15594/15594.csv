@@ -1,0 +1,10 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15594,10284,"Taquitz Meadow",104149,"Radiocarbon",2030,48.5,9700,-10,2000,2060,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622
+15594,10284,"Taquitz Meadow",104150,"Radiocarbon",2810,73,9700,-10,2765,2855,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622
+15594,10284,"Taquitz Meadow",104151,"Radiocarbon",4580,95,9700,-10,4530,4630,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622
+15594,10284,"Taquitz Meadow",104152,"Radiocarbon",4610,157.5,9700,-10,4570,4650,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622
+15594,10284,"Taquitz Meadow",104153,"Radiocarbon",6030,183,9700,-10,5935,6125,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622
+15594,10284,"Taquitz Meadow",104154,"Radiocarbon",7480,205,9700,-10,7430,7530,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622
+15594,10284,"Taquitz Meadow",104155,"Radiocarbon",7380,212,9700,-10,7340,7420,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622
+15594,10284,"Taquitz Meadow",104156,"Radiocarbon",8040,243,9700,-10,7980,8100,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622
+15594,10284,"Taquitz Meadow",104157,"Core top",-50,0,9700,-10,-51,-49,"Wang et al. 2019",NA,FALSE,2405,-116.66502,-116.6622

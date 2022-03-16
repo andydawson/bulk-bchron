@@ -1,0 +1,289 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14674,9889,"Blackwoods Hollow",31442,"Core top",-46,0,11950,120,NA,NA,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341
+14674,9889,"Blackwoods Hollow",31443,"Ambrosia rise",230,16,11950,120,210,250,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341
+14674,9889,"Blackwoods Hollow",31444,"Radiocarbon",2980,33.25,11950,120,2930,3030,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341
+14674,9889,"Blackwoods Hollow",31445,"Radiocarbon",5490,60.25,11950,120,5440,5540,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341
+14674,9889,"Blackwoods Hollow",31446,"Radiocarbon",7210,89.75,11950,120,7140,7280,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341
+14674,9889,"Blackwoods Hollow",31447,"Radiocarbon",3620,100.25,11950,120,3570,3670,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341
+14674,9889,"Blackwoods Hollow",31448,"Radiocarbon",7280,103.25,11950,120,7220,7340,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341
+14674,9889,"Blackwoods Hollow",31449,"Radiocarbon",9510,136.25,11950,120,9450,9570,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341
+14674,9889,"Blackwoods Hollow",31450,"Radiocarbon",9970,179.25,11950,120,9910,10030,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+179.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,30,-68.22387,-68.22341

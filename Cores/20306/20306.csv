@@ -1,0 +1,17 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20306,13487,"Dailey Lake",40906,"Radiocarbon",1740,100,13903,-59,1715,1765,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40907,"Radiocarbon",3550,200,13903,-59,3525,3575,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40908,"Radiocarbon",5080,300,13903,-59,5045,5115,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40909,"Radiocarbon",6730,446,13903,-59,6690,6770,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40910,"Radiocarbon",8140,509.25,13903,-59,8105,8175,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40911,"Radiocarbon",9260,585,13903,-59,9220,9300,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40912,"Radiocarbon",9120,604.5,13903,-59,9070,9170,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40913,"Radiocarbon",9130,663,13903,-59,9095,9165,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40914,"Radiocarbon",9630,809.25,13903,-59,9590,9670,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40915,"Radiocarbon",9660,955.25,13903,-59,9615,9705,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40916,"Radiocarbon",10750,972.5,13903,-59,10700,10800,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40917,"Radiocarbon",11100,988.5,13903,-59,11055,11145,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40918,"Radiocarbon",11250,1005,13903,-59,11210,11290,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40919,"Radiocarbon",15550,1020,13903,-59,15475,15625,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40920,"Radiocarbon",12000,1023.25,13903,-59,11490,12510,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914
+20306,13487,"Dailey Lake",40921,"Geochronologic",16100,1441,13903,-59,14400,17800,"Krause et al. 2015",NA,FALSE,1598,-110.82347,-110.80914

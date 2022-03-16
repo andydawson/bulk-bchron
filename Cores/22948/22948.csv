@@ -1,0 +1,187 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+22948,14632,"Leonora Curtin",50647,"Radiocarbon",0,9,520,20,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LEONORA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+54 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1850,-106.11145,-106.10158
+22948,14632,"Leonora Curtin",50648,"Radiocarbon",355,23,520,20,335,375,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LEONORA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+54 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1850,-106.11145,-106.10158
+22948,14632,"Leonora Curtin",50649,"Radiocarbon",590,33,520,20,570,610,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LEONORA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+54 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1850,-106.11145,-106.10158
+22948,14632,"Leonora Curtin",50650,"Radiocarbon",895,43,520,20,875,915,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LEONORA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+54 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1850,-106.11145,-106.10158
+22948,14632,"Leonora Curtin",50651,"Radiocarbon",NA,54,520,20,1460,1510,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LEONORA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+54 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1850,-106.11145,-106.10158
+22948,14632,"Leonora Curtin",50652,"Core top",NA,0,520,20,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LEONORA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+54 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1850,-106.11145,-106.10158

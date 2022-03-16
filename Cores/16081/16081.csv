@@ -1,0 +1,10 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16081,10486,"Chance Harbour Lake",104683,"Radiocarbon",2920,260.5,17900,-55,2830,3010,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709
+16081,10486,"Chance Harbour Lake",104684,"Radiocarbon",4850,410,17900,-55,4780,4920,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709
+16081,10486,"Chance Harbour Lake",104685,"Radiocarbon",6540,509.5,17900,-55,6420,6660,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709
+16081,10486,"Chance Harbour Lake",104686,"Radiocarbon",7050,550,17900,-55,6950,7150,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709
+16081,10486,"Chance Harbour Lake",104687,"Radiocarbon",9220,657,17900,-55,9130,9310,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709
+16081,10486,"Chance Harbour Lake",104688,"Radiocarbon",11300,751,17900,-55,11110,11490,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709
+16081,10486,"Chance Harbour Lake",104689,"Radiocarbon",12100,817.5,17900,-55,11980,12220,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709
+16081,10486,"Chance Harbour Lake",104690,"Radiocarbon",13400,830,17900,-55,13240,13560,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709
+16081,10486,"Chance Harbour Lake",104691,"Core top",-35,0,17900,-55,-37,-33,"Wang et al. 2019",NA,FALSE,5,-62.61486,-62.60709

@@ -1,0 +1,349 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+47557,525,"Cupola Pond",102893,"Radiocarbon",10000,90,19790,11020,9940,10060,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102894,"Radiocarbon",10730,131,19790,11020,10695,10765,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102895,"Radiocarbon",10850,160,19790,11020,10765,10935,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102896,"Radiocarbon",12350,180,19790,11020,12240,12460,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102897,"Radiocarbon",12800,181,19790,11020,12715,12885,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102898,"Radiocarbon",13400,223,19790,11020,13300,13500,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102899,"Radiocarbon",14250,275,19790,11020,14130,14370,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102900,"Radiocarbon",14200,315,19790,11020,14080,14320,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102901,"Radiocarbon",14300,358,19790,11020,14260,14340,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102902,"Radiocarbon",14350,380,19790,11020,14275,14425,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102903,"Radiocarbon",15450,425,19790,11020,15405,15495,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914
+47557,525,"Cupola Pond",102904,"Radiocarbon",15800,475,19790,11020,15680,15920,"Jones et al. 2017","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+60 #d.min
+495 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,243,-91.09082,-91.08914

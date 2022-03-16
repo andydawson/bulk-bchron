@@ -1,0 +1,341 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41580,23930,"Hermit Lake",84041,"Lead-210",-50,2.5,13360,-60,-60,-40,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84042,"Lead-210",-47,4.5,13360,-60,-57,-37,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84043,"Lead-210",-45,6.5,13360,-60,-55,-35,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84044,"Lead-210",-42,8.5,13360,-60,-52,-32,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84045,"Lead-210",-39,10.5,13360,-60,-49,-29,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84046,"Lead-210",-37,12.5,13360,-60,-47,-27,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84047,"Lead-210",-34,14.5,13360,-60,-44,-24,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84048,"Lead-210",-32,16.5,13360,-60,-42,-22,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84049,"Lead-210",-29,18.5,13360,-60,-39,-19,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84050,"Radiocarbon",1125,107.5,13360,-60,1110,1140,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84051,"Radiocarbon",3370,242.5,13360,-60,3355,3385,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84052,"Radiocarbon",5130,465.5,13360,-60,5090,5170,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84053,"Radiocarbon",5841,549.5,13360,-60,5725,5957,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84054,"Radiocarbon",7022,634,13360,-60,6830,7214,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84055,"Radiocarbon",8620,717.5,13360,-60,8580,8660,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84056,"Radiocarbon",10380,772.5,13360,-60,10240,10520,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84057,"Radiocarbon",11365,834.5,13360,-60,11340,11390,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84058,"Lead-210",-52,0.5,13360,-60,-62,-42,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84059,"Radiocarbon",1724,155.5,13360,-60,1676,1772,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024
+41580,23930,"Hermit Lake",84060,"Radiocarbon",3724,365.5,13360,-60,3690,3758,"Anderson et al. 2018","Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal13.14C
+Age-depth model: smooth spline [type=4] with spar = 0.3 [smooth]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 10000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 757 [dmax] cm
+
+Slumps were excised from 34.5 to 35 cm and 72 to 73 cm and 94 to 94.5 cm and 107.5 to 108 cm and 132.5 to 133 cm and 136 to 136.5 cm and 145.7 to 146 cm and 183 to 183.5 cm and 186 to 187.5 cm and 189.5 to 190 cm and 197.5 to 198.5 cm and 205 to 206 cm and 214.5 to 215.5 cm and 229 to 230 cm and 234.8 to 235.2 cm and 243 to 244 cm and 247.2 to 247.6 cm and 259 to 277 cm and 285.4 to 285.7 cm and 295.6 to 296.9 cm and 305 to 307.4 cm and 309.6 to 310.2 cm and 330 to 350.5 cm and 352 to 355.5 cm and 355.7 to 360 cm and 369.5 to 370.8 cm and 372.5 to 374.7 cm and 378.5 to 378.9 cm and 386.6 to 388.5 cm and 392.3 to 393 cm and 400 to 400.8 cm and 403 to 403.5 cm and 404.2 to 404.5 cm and 413.3 to 414.1 cm and 418.5 to 421 cm and 421.5 to 424 cm and 434.4 to 434.8 cm and 436.7 to 437.1 cm and 452.3 to 452.7 cm and 486.5 to 493.6 cm and 499.5 to 500.3 cm and 507 to 507.7 cm and 509.4 to 510.9 cm and 511.8 to 512.8 cm and 516.9 to 518 cm and 523 to 524 cm and 533 to 533.5 cm and 535 to 535.4 cm and 539 to 539.7 cm and 543.5 to 544 cm and 550.6 to 551.5 cm and 561.2 to 561.8 cm and 572.5 to 573.7 cm and 589.2 to 590.4 cm and 613.7 to 614 cm and 627 to 627.5 cm and 629 to 631.5 cm and 638 to 639 cm and 639.5 to 640.2 cm and 640.9 to 641.8 cm and 644.2 to 645 cm and 675.7 to 676.2 cm and 677.6 to 678.2 cm and 678.6 to 679.1 cm and 680.6 to 681 cm and 682.9 to 683.8 cm and 698.3 to 698.8 cm and 705.9 to 706.2 cm and 716.3 to 716.8 cm and 731 to 731.5 cm and 734.4 to 735.9 cm and 739.7 to 740.8 cm and 741.5 to 742.3 cm 
+
+Goodness-of-fit (-log, lower is better):  15.15 
+Any models with age-depth reversals were removed
+
+Produced Fri May  4 16:42:25 2018",FALSE,3450,-105.63308,-105.63024

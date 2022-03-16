@@ -1,0 +1,12 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+46716,26671,"Billings Park",101535,"Core top",-64,0,50,-70,-64,-64,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101536,"Lead-210",-50,9.5,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101537,"Lead-210",-40,15,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101538,"Lead-210",-30,21,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101539,"Lead-210",-20,27,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101540,"Lead-210",-10,33,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101541,"Lead-210",0,38.5,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101542,"Lead-210",20,46,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101543,"Lead-210",32,55,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101544,"Lead-210",35,62.5,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921
+46716,26671,"Billings Park",101545,"Lead-210",46,67.5,50,-70,NA,NA,"Neotoma 1",NA,FALSE,188,-92.14558,-92.13921

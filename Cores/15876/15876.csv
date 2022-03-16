@@ -1,0 +1,435 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15876,10410,"Tulare Lake",34694,"Core top",-38,0,29570,-40,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34695,"Radiocarbon",2030,85,29570,-40,1950,2110,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34696,"Radiocarbon",6770,225,29570,-40,6660,6880,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34697,"Radiocarbon",9100,340,29570,-40,8940,9260,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34698,"Radiocarbon",9460,430,29570,-40,9240,9680,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34699,"Radiocarbon",10110,610,29570,-40,9760,10460,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34700,"Radiocarbon",18370,620,29570,-40,18140,18600,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34701,"Radiocarbon",20250,665,29570,-40,19940,20560,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34702,"Radiocarbon",23850,739.5,29570,-40,23450,24250,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34703,"Radiocarbon",24080,767.5,29570,-40,23800,24360,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34704,"Radiocarbon",24930,810,29570,-40,24840,25020,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34705,"Radiocarbon",25650,890,29570,-40,25510,25790,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34706,"Radiocarbon",25900,920,29570,-40,25520,26280,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6
+15876,10410,"Tulare Lake",34707,"Radiocarbon",27700,1270,29570,-40,26700,28700,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TULARECA',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1270 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,55,-119.96,-119.6

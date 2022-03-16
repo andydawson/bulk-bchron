@@ -1,0 +1,125 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15106,10061,"Lake Emma",32440,"Radiocarbon",5440,81,10600,-30,5240,5640,"Neotoma 1","Based on IntCal13 calibration curve. Based on the basal dates from the fossil insect section (Elias et al. 1991), the ages extrapolated below 175 cm are probably too old, thus the older reliable age bound is set to 10,600 cal yr BP. The age of the surface sample (0 cm) based on date of collection.
+
+Bacon command line: Bacon('EMMA',thick=3,acc.mean=50,d.min=31,d.max=206,yr.min=2000,depths.file=TRUE)
+
+Bacon settings file:
+31 #d.min
+206 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3740,-107.61652,-107.61422
+15106,10061,"Lake Emma",32441,"Radiocarbon",6670,96,10600,-30,6530,6810,"Neotoma 1","Based on IntCal13 calibration curve. Based on the basal dates from the fossil insect section (Elias et al. 1991), the ages extrapolated below 175 cm are probably too old, thus the older reliable age bound is set to 10,600 cal yr BP. The age of the surface sample (0 cm) based on date of collection.
+
+Bacon command line: Bacon('EMMA',thick=3,acc.mean=50,d.min=31,d.max=206,yr.min=2000,depths.file=TRUE)
+
+Bacon settings file:
+31 #d.min
+206 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3740,-107.61652,-107.61422
+15106,10061,"Lake Emma",32442,"Radiocarbon",8625,160,10600,-30,8445,8805,"Neotoma 1","Based on IntCal13 calibration curve. Based on the basal dates from the fossil insect section (Elias et al. 1991), the ages extrapolated below 175 cm are probably too old, thus the older reliable age bound is set to 10,600 cal yr BP. The age of the surface sample (0 cm) based on date of collection.
+
+Bacon command line: Bacon('EMMA',thick=3,acc.mean=50,d.min=31,d.max=206,yr.min=2000,depths.file=TRUE)
+
+Bacon settings file:
+31 #d.min
+206 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3740,-107.61652,-107.61422
+15106,10061,"Lake Emma",32443,"Radiocarbon",9220,175,10600,-30,8980,9460,"Neotoma 1","Based on IntCal13 calibration curve. Based on the basal dates from the fossil insect section (Elias et al. 1991), the ages extrapolated below 175 cm are probably too old, thus the older reliable age bound is set to 10,600 cal yr BP. The age of the surface sample (0 cm) based on date of collection.
+
+Bacon command line: Bacon('EMMA',thick=3,acc.mean=50,d.min=31,d.max=206,yr.min=2000,depths.file=TRUE)
+
+Bacon settings file:
+31 #d.min
+206 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3740,-107.61652,-107.61422

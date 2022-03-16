@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+21772,14032,"Misty Lake",88018,"Radiocarbon",1760,90,15000,-34,1680,1840,"Lacourse2005 cal BP","Age model in Lacourse (2005, 2009) based on linear interpolation between calendar ages from BCal",FALSE,70,-127.26283,50.60705
+21772,14032,"Misty Lake",88019,"Radiocarbon",2860,290,15000,-34,2780,2940,"Lacourse2005 cal BP","Age model in Lacourse (2005, 2009) based on linear interpolation between calendar ages from BCal",FALSE,70,-127.26283,50.60705
+21772,14032,"Misty Lake",88020,"Radiocarbon",5720,490,15000,-34,5630,5810,"Lacourse2005 cal BP","Age model in Lacourse (2005, 2009) based on linear interpolation between calendar ages from BCal",FALSE,70,-127.26283,50.60705
+21772,14032,"Misty Lake",88021,"Radiocarbon",6960,590,15000,-34,6850,7070,"Lacourse2005 cal BP","Age model in Lacourse (2005, 2009) based on linear interpolation between calendar ages from BCal",FALSE,70,-127.26283,50.60705
+21772,14032,"Misty Lake",88022,"Radiocarbon",10180,705,15000,-34,10050,10310,"Lacourse2005 cal BP","Age model in Lacourse (2005, 2009) based on linear interpolation between calendar ages from BCal",FALSE,70,-127.26283,50.60705
+21772,14032,"Misty Lake",88023,"Radiocarbon",12100,735,15000,-34,11970,12230,"Lacourse2005 cal BP","Age model in Lacourse (2005, 2009) based on linear interpolation between calendar ages from BCal",FALSE,70,-127.26283,50.60705
+21772,14032,"Misty Lake",88024,"Collection date",-34,0,15000,-34,-35,-33,"Lacourse2005 cal BP","Age model in Lacourse (2005, 2009) based on linear interpolation between calendar ages from BCal",FALSE,70,-127.26283,50.60705

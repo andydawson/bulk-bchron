@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+17363,11591,"Panthertown Creek Bog",37299,"Radiocarbon",4650,77.5,8970,300,4620,4680,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PANTHER',thick=5,acc.mean=50,d.max=165,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+165 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1119,-83.02511,35.16662
+17363,11591,"Panthertown Creek Bog",37300,"Radiocarbon",7250,147.5,8970,300,7210,7290,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PANTHER',thick=5,acc.mean=50,d.max=165,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+165 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1119,-83.02511,35.16662
+17363,11591,"Panthertown Creek Bog",37301,"Core top",-61,0,8970,300,-62,-60,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PANTHER',thick=5,acc.mean=50,d.max=165,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+165 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1119,-83.02511,35.16662

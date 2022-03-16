@@ -1,0 +1,993 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+17396,11606,"Steel Lake",53601,"Core top",-50,0,10750,-50,-51,-49,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53602,"Radiocarbon",4290,486.1,10750,-50,4250,4330,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53603,"Radiocarbon",4510,486,10750,-50,4410,4610,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53604,"Radiocarbon",9860,946.1,10750,-50,9810,9910,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53605,"Radiocarbon",9790,946,10750,-50,9580,10000,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53606,"Radiocarbon",340,83.7,10750,-50,300,380,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53607,"Radiocarbon",780,111,10750,-50,730,830,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53608,"Radiocarbon",1700,230,10750,-50,1580,1820,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53609,"Radiocarbon",1880,252,10750,-50,1840,1920,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53610,"Radiocarbon",1850,256,10750,-50,1790,1910,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53611,"Radiocarbon",2160,292,10750,-50,2110,2210,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53612,"Radiocarbon",2490,311.5,10750,-50,2390,2590,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53613,"Radiocarbon",2680,328.6,10750,-50,2590,2770,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53614,"Radiocarbon",2920,348,10750,-50,2830,3010,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53615,"Radiocarbon",4100,456,10750,-50,4010,4190,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53616,"Radiocarbon",4840,532,10750,-50,4630,5050,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53617,"Radiocarbon",5280,572.5,10750,-50,5240,5320,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53618,"Radiocarbon",5830,641.8,10750,-50,5790,5870,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53619,"Radiocarbon",6170,653,10750,-50,6120,6220,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53620,"Radiocarbon",6890,698,10750,-50,6800,6980,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53621,"Radiocarbon",7880,758,10750,-50,7810,7950,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53622,"Radiocarbon",8160,766,10750,-50,8110,8210,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53623,"Radiocarbon",7210,788,10750,-50,7150,7270,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53624,"Radiocarbon",7240,790,10750,-50,7180,7300,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53625,"Radiocarbon",8580,883,10750,-50,8450,8710,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53626,"Radiocarbon",8750,908,10750,-50,8670,8830,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53627,"Radiocarbon",9470,922,10750,-50,9220,9720,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53628,"Radiocarbon",9420,930,10750,-50,9280,9560,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53629,"Radiocarbon",9620,933,10750,-50,9430,9810,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53630,"Radiocarbon",9870,1090.3,10750,-50,9810,9930,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606
+17396,11606,"Steel Lake",53631,"Radiocarbon",9960,1142.4,10750,-50,9910,10010,"Neotoma 2","Age model based on IntCal13 calibration curve. Because the sediment below 950 cm is a 'trash' zone that was deposited very rapidly, only the two dates slightly older than the bottommost sediment date are used.
+
+Bacon command line:
+Bacon('STEEL',thick=10,acc.mean=10,d.max=1168,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1168 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,415,-94.6867,-94.67606

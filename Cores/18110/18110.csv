@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+18110,11926,"Path Lake",104826,"Radiocarbon",870,42,9700,-70,840,900,"Wang et al. 2019",NA,FALSE,10,-64.93446,-64.92313
+18110,11926,"Path Lake",104827,"Radiocarbon",1190,74.5,9700,-70,1160,1220,"Wang et al. 2019",NA,FALSE,10,-64.93446,-64.92313
+18110,11926,"Path Lake",104828,"Radiocarbon",2030,130.5,9700,-70,2000,2060,"Wang et al. 2019",NA,FALSE,10,-64.93446,-64.92313
+18110,11926,"Path Lake",104829,"Radiocarbon",3750,206,9700,-70,3720,3780,"Wang et al. 2019",NA,FALSE,10,-64.93446,-64.92313
+18110,11926,"Path Lake",104830,"Radiocarbon",5840,301.5,9700,-70,5810,5870,"Wang et al. 2019",NA,FALSE,10,-64.93446,-64.92313
+18110,11926,"Path Lake",104831,"Radiocarbon",8740,399.5,9700,-70,8700,8780,"Wang et al. 2019",NA,FALSE,10,-64.93446,-64.92313
+18110,11926,"Path Lake",104832,"Core top",-53,0,9700,-70,-54,-52,"Wang et al. 2019",NA,FALSE,10,-64.93446,-64.92313

@@ -1,0 +1,631 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48685,13772,"Nelson Lake",106145,"Radiocarbon",8920,1101.5,18100,-40,8860,8980,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106144,"Radiocarbon",8170,1073,18100,-40,8120,8220,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106134,"Core top",-38,118,18100,-40,-39,-37,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106146,"Radiocarbon",10240,1158,18100,-40,10180,10300,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106140,"Radiocarbon",4505,715,18100,-40,4465,4545,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106138,"Radiocarbon",3595,577,18100,-40,3560,3630,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106147,"Radiocarbon",11270,1173,18100,-40,11220,11320,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106148,"Radiocarbon",12345,1186,18100,-40,12250,12440,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106139,"Radiocarbon",4430,708,18100,-40,4380,4480,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106141,"Radiocarbon",5800,923.5,18100,-40,5760,5840,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106150,"Radiocarbon",14540,1391,18100,-40,14430,14650,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106143,"Radiocarbon",6800,986,18100,-40,6750,6850,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106135,"Ambrosia rise",120,166,18100,-40,110,130,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106136,"Radiocarbon",600,243,18100,-40,560,640,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106142,"Radiocarbon",5415,862,18100,-40,5350,5480,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106149,"Radiocarbon",14180,1280,18100,-40,13980,14380,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106151,"Radiocarbon",14780,1505.5,18100,-40,14630,14930,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978
+48685,13772,"Nelson Lake",106137,"Radiocarbon",2960,377,18100,-40,2920,3000,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
+
+Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""NELSON88"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"") { z=1515.5; };
+   R_Date(""AA-4680"",14780,150) { z=1505.5; Outlier(0.05); };
+   R_Date(""CAMS-70485"",14540,110) { z=1391; Outlier(0.05); };
+   R_Date(""CAMS-70484"",14180,200) { z=1280; Outlier(0.05); };
+   R_Date(""AA-4678"",12345,95) { z=1186; Outlier(0.05); };
+   R_Date(""CAMS-70483"",11270,50) { z=1173; Outlier(0.05); };
+   R_Date(""CAMS-70482"",10240,60) { z=1158; Outlier(0.05); };
+   R_Date(""CAMS-76111"",8920,60) { z=1101.5; Outlier(0.05); };
+   R_Date(""CAMS-70481"",8170,50) { z=1073; Outlier(0.05); };
+   R_Date(""CAMS-70480"",6800,50) { z=986; Outlier(0.05); };
+   R_Date(""CAMS-70479"",5800,40) { z=923.5; Outlier(0.05); };
+   R_Date(""AA-4677"",5415,65) { z=862; Outlier(0.05); };
+   R_Date(""CAMS-105842"",4505,40) { z=715; Outlier(0.05); };
+   R_Date(""CAMS-70478"",4430,50) { z=708; Outlier(0.05); };
+   R_Date(""CAMS-113599"",3595,35) { z=577; Outlier(0.05); };
+   R_Date(""CAMS-114282"",2960,40) { z=377; Outlier(0.05); };
+   R_Date(""CAMS-114283"",600,40) { z=243; Outlier(0.05); };
+   C_Date(""Ambrosia rise"",120,10) { z=166; };
+   Boundary(""Top"", C_Date(-38,1)) { z=118; };
+  };
+ };",FALSE,211,-88.38957,-88.36978

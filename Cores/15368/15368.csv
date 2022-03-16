@@ -1,0 +1,417 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15368,10195,"Blue Lake Wetlands",78209,"Core top",0,0,15310,-10,-25,25,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78210,"Radiocarbon",1420,63.5,15310,-10,1380,1460,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78211,"Radiocarbon",2910,141.5,15310,-10,2860,2960,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78212,"Radiocarbon",5950,238.5,15310,-10,5900,6000,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78213,"Radiocarbon",6690,275.5,15310,-10,6660,6720,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78214,"Radiocarbon",9590,328.5,15310,-10,9540,9640,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78215,"Radiocarbon",7830,337.5,15310,-10,7790,7870,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78216,"Radiocarbon",10040,350.5,15310,-10,9980,10100,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78217,"Radiocarbon",9890,356.5,15310,-10,9850,9930,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78218,"Radiocarbon",6830,361.5,15310,-10,6790,6870,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78219,"Radiocarbon",13860,374.5,15310,-10,13800,13920,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78220,"Radiocarbon",13550,405.5,15310,-10,13510,13590,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161
+15368,10195,"Blue Lake Wetlands",78221,"Radiocarbon",15750,434.5,15310,-10,15705,15795,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BLUEBONN',thick=5,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+434.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1297,-114.04118,-114.02161

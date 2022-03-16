@@ -1,0 +1,298 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15719,10343,"Donard Lake",34168,"Core top",-45,0,17060,-10,NA,NA,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796
+15719,10343,"Donard Lake",34169,"Radiocarbon",847,47,17060,-10,794,917,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796
+15719,10343,"Donard Lake",34170,"Radiocarbon",4725,221,17060,-10,4622,4851,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796
+15719,10343,"Donard Lake",34171,"Radiocarbon",5385,232,17060,-10,5294,5578,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796
+15719,10343,"Donard Lake",34172,"Radiocarbon",6791,262,17060,-10,6479,7157,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796
+15719,10343,"Donard Lake",34173,"Radiocarbon",10040,319,17060,-10,9919,10201,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796
+15719,10343,"Donard Lake",34174,"Radiocarbon",13637,333,17060,-10,13509,13746,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796
+15719,10343,"Donard Lake",34175,"Radiocarbon",13829,345,17060,-10,13753,13900,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796
+15719,10343,"Donard Lake",34176,"Radiocarbon",14864,356,17060,-10,14651,15078,"Neotoma 1","Dates are taken from two cores: 94-DON-01 for 232cm to the top of the core and 95-DON-03 for 262cm to the bottom of the core.
+
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DONARD',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+356 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,424,-61.796,-61.7796

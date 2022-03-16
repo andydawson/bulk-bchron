@@ -1,0 +1,193 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+25349,16332,"Waccamaw River, Turkey Creek, Heavily Salt Impacted Swamp",57184,"Radiocarbon",970,21,4230,-40,940,1000,"Jones et al. 2017","Chronology replicates that in Jones et al. (2017) Supporting Information Fig. 3. Baed on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('WACMAW3',thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+84 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-79.34166,33.34001
+25349,16332,"Waccamaw River, Turkey Creek, Heavily Salt Impacted Swamp",57185,"Radiocarbon",1110,34,4230,-40,1080,1140,"Jones et al. 2017","Chronology replicates that in Jones et al. (2017) Supporting Information Fig. 3. Baed on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('WACMAW3',thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+84 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-79.34166,33.34001
+25349,16332,"Waccamaw River, Turkey Creek, Heavily Salt Impacted Swamp",57186,"Radiocarbon",2200,41,4230,-40,2170,2230,"Jones et al. 2017","Chronology replicates that in Jones et al. (2017) Supporting Information Fig. 3. Baed on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('WACMAW3',thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+84 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-79.34166,33.34001
+25349,16332,"Waccamaw River, Turkey Creek, Heavily Salt Impacted Swamp",57187,"Radiocarbon",3850,83,4230,-40,3820,3880,"Jones et al. 2017","Chronology replicates that in Jones et al. (2017) Supporting Information Fig. 3. Baed on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('WACMAW3',thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+84 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-79.34166,33.34001
+25349,16332,"Waccamaw River, Turkey Creek, Heavily Salt Impacted Swamp",57188,"Core top",-61,0,4230,-40,-62,-60,"Jones et al. 2017","Chronology replicates that in Jones et al. (2017) Supporting Information Fig. 3. Baed on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('WACMAW3',thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+84 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-79.34166,33.34001
+25349,16332,"Waccamaw River, Turkey Creek, Heavily Salt Impacted Swamp",57189,"Ambrosia rise",220,9,4230,-40,210,230,"Jones et al. 2017","Chronology replicates that in Jones et al. (2017) Supporting Information Fig. 3. Baed on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('WACMAW3',thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+84 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-79.34166,33.34001

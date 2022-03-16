@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16184,10519,"Benicia State Park",35542,"Core top",-44,0,1500,-40,-54,-34,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BENICIA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.19694,-122.18917
+16184,10519,"Benicia State Park",35543,"Radiocarbon",130,50.5,1500,-40,90,170,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BENICIA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.19694,-122.18917
+16184,10519,"Benicia State Park",35544,"Radiocarbon",270,71.5,1500,-40,140,400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BENICIA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.19694,-122.18917
+16184,10519,"Benicia State Park",35545,"Radiocarbon",1175,78.5,1500,-40,1135,1215,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BENICIA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.19694,-122.18917
+16184,10519,"Benicia State Park",35546,"Radiocarbon",1170,85.5,1500,-40,1140,1210,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BENICIA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.19694,-122.18917
+16184,10519,"Benicia State Park",35547,"Radiocarbon",1200,98.5,1500,-40,NA,1240,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BENICIA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.19694,-122.18917
+16184,10519,"Benicia State Park",35548,"Radiocarbon",1290,150.5,1500,-40,1240,1340,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BENICIA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.19694,-122.18917

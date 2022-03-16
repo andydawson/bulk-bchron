@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+21383,13907,"Nolf Crater, Diamond Craters",44907,"Radiocarbon, calibrated",4596,NA,4840,4290,4300,4840,"Neotoma 1",NA,FALSE,1295,-118.80468,-118.80403

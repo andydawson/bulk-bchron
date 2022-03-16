@@ -1,0 +1,745 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20758,13671,"Bolan Lake",41791,"Radiocarbon",267,59,12980,-50,221,313,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41792,"Radiocarbon",708,71,12980,-50,667,749,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41793,"Radiocarbon",2123,166,12980,-50,2088,2158,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41794,"Radiocarbon",3354,260,12980,-50,3315,3393,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41795,"Radiocarbon",4120,312,12980,-50,4075,4165,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41796,"Radiocarbon",6290,463,12980,-50,6245,6335,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41797,"Radiocarbon",8060,570,12980,-50,8010,8110,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41798,"Radiocarbon",8827,645,12980,-50,8765,8889,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41799,"Radiocarbon",11010,739,12980,-50,10945,11075,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41800,"Lead-210",-19,6,12980,-50,-21,-17,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41801,"Lead-210",-7,7,12980,-50,-10,-4,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41802,"Lead-210",3,8,12980,-50,-1,7,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41803,"Lead-210",15,10,12980,-50,9,21,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41804,"Lead-210",31,12,12980,-50,22,40,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41805,"Lead-210",49,14,12980,-50,36,62,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41806,"Lead-210",52,16,12980,-50,39,65,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41807,"Lead-210",67,18,12980,-50,50,84,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41808,"Lead-210",77,20,12980,-50,57,97,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41809,"Lead-210",85,22,12980,-50,62,108,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41810,"Lead-210",93,24,12980,-50,67,119,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41811,"Lead-210",102,26,12980,-50,73,131,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41812,"Lead-210",110,28,12980,-50,78,142,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41813,"Core top",-49,0,12980,-50,-50,-48,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457
+20758,13671,"Bolan Lake",41814,"Tephra",7627,486,12980,-50,7477,7777,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOLAN',d.max=845,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+845 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1638,-123.461,-123.457

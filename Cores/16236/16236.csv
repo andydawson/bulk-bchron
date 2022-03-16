@@ -1,0 +1,249 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16236,10537,"Red Green Lake",35813,"Core top",-47,0,8550,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('REDGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+275.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,668,-149.68333,-149.67914
+16236,10537,"Red Green Lake",35814,"Radiocarbon",2910,18.5,8550,-50,2810,3010,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('REDGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+275.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,668,-149.68333,-149.67914
+16236,10537,"Red Green Lake",35815,"Radiocarbon",1790,69.5,8550,-50,1740,1840,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('REDGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+275.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,668,-149.68333,-149.67914
+16236,10537,"Red Green Lake",35816,"Radiocarbon",3110,123.5,8550,-50,3050,3170,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('REDGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+275.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,668,-149.68333,-149.67914
+16236,10537,"Red Green Lake",35817,"Radiocarbon",7116,202.5,8550,-50,7043,7189,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('REDGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+275.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,668,-149.68333,-149.67914
+16236,10537,"Red Green Lake",35818,"Radiocarbon",7490,215,8550,-50,7390,7590,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('REDGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+275.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,668,-149.68333,-149.67914
+16236,10537,"Red Green Lake",35819,"Radiocarbon",7500,229.5,8550,-50,7430,7570,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('REDGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+275.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,668,-149.68333,-149.67914
+16236,10537,"Red Green Lake",35820,"Radiocarbon",7800,275.5,8550,-50,7660,7940,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('REDGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+275.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,668,-149.68333,-149.67914

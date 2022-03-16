@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41098,23749,"Lake Billyakh",81366,"Radiocarbon",1145,90,11470,-50,1105,1185,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PG1756',d.max=454,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+454 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,340,126.7466,126.79329
+41098,23749,"Lake Billyakh",81367,"Radiocarbon",4400,214,11470,-50,4100,4700,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PG1756',d.max=454,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+454 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,340,126.7466,126.79329
+41098,23749,"Lake Billyakh",81368,"Radiocarbon",6080,304,11470,-50,6010,6150,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PG1756',d.max=454,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+454 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,340,126.7466,126.79329
+41098,23749,"Lake Billyakh",81369,"Radiocarbon",7460,344,11470,-50,7330,7590,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PG1756',d.max=454,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+454 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,340,126.7466,126.79329
+41098,23749,"Lake Billyakh",81370,"Radiocarbon",10430,404,11470,-50,10270,10590,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PG1756',d.max=454,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+454 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,340,126.7466,126.79329
+41098,23749,"Lake Billyakh",81371,"Radiocarbon",11105,410,11470,-50,11045,11165,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PG1756',d.max=454,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+454 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,340,126.7466,126.79329
+41098,23749,"Lake Billyakh",81372,"Core top",-55,0,11470,-50,-55,-55,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PG1756',d.max=454,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+454 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,340,126.7466,126.79329

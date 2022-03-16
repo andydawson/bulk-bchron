@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+45141,26037,"Climax",92315,"North American archaeological time scale",NA,NA,800,590,600,800,"Weir 1976",NA,FALSE,1500,-109.23641,-109.12226

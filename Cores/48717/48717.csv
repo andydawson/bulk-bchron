@@ -1,0 +1,11 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48717,27243,"Gund Ranch",106357,"Radiocarbon",9080,440.5,14070,7500,9050,9110,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106353,"Radiocarbon",7655,358.5,14070,7500,7625,7685,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106352,"Radiocarbon",6195,296.5,14070,7500,6160,6230,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106360,"Radiocarbon",11145,525.5,14070,7500,11110,11180,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106356,"Radiocarbon",9445,468.5,14070,7500,9410,9480,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106354,"Radiocarbon",8310,393.5,14070,7500,8250,8370,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106355,"Radiocarbon",8055,432.5,14070,7500,8010,8100,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106359,"Radiocarbon",10940,525.5,14070,7500,10910,10970,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106358,"Radiocarbon",10290,508.5,14070,7500,10250,10330,"Brugger",NA,FALSE,1731,-116.59,39.904
+48717,27243,"Gund Ranch",106361,"Radiocarbon",12230,555,14070,7500,12190,12270,"Brugger",NA,FALSE,1731,-116.59,39.904

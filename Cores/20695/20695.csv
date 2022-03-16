@@ -1,0 +1,497 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20695,10429,"Crooked Lake",41742,"Core top",-41,0,60,-50,-42,-40,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41743,"Lead-210",-40,1,60,-50,-41,-39,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41744,"Lead-210",-38,3,60,-50,-39,-37,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41745,"Lead-210",-35,5,60,-50,-36,-34,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41746,"Lead-210",-33,7,60,-50,-34,-32,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41747,"Lead-210",-29,9.5,60,-50,-30,-28,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41748,"Lead-210",-25,12.5,60,-50,-26,-24,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41749,"Lead-210",-22,15.5,60,-50,-23,-21,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41750,"Lead-210",-21,18.5,60,-50,-22,-20,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41751,"Lead-210",-18,22,60,-50,-20,-16,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41752,"Lead-210",-7,26,60,-50,-10,-4,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41753,"Lead-210",0,30,60,-50,-4,4,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41754,"Lead-210",15,34,60,-50,9,21,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41755,"Lead-210",38,40,60,-50,28,48,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41756,"Lead-210",59,44,60,-50,44,74,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907
+20695,10429,"Crooked Lake",41757,"Lead-210",83,47.5,60,-50,61,105,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CROOKEDR',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+47.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,519,-89.29748,-89.2907

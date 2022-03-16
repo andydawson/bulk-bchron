@@ -1,0 +1,199 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48881,27308,"Wichser Lake",106844,"Radiocarbon",2310,98,7020,740,2275,2345,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""WICHSER"")
+
+Bacon settings: 
+0 #d.min
+212 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,398,-88.68008,-88.68008
+48881,27308,"Wichser Lake",106845,"Core top",-57,0,7020,740,-57,-57,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""WICHSER"")
+
+Bacon settings: 
+0 #d.min
+212 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,398,-88.68008,-88.68008
+48881,27308,"Wichser Lake",106846,"Radiocarbon",1950,88,7020,740,1925,1975,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""WICHSER"")
+
+Bacon settings: 
+0 #d.min
+212 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,398,-88.68008,-88.68008
+48881,27308,"Wichser Lake",106847,"Radiocarbon",3240,123,7020,740,3210,3270,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""WICHSER"")
+
+Bacon settings: 
+0 #d.min
+212 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,398,-88.68008,-88.68008
+48881,27308,"Wichser Lake",106848,"Radiocarbon",3770,137,7020,740,3720,3820,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""WICHSER"")
+
+Bacon settings: 
+0 #d.min
+212 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,398,-88.68008,-88.68008
+48881,27308,"Wichser Lake",106849,"Radiocarbon",6190,212,7020,740,6150,6230,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""WICHSER"")
+
+Bacon settings: 
+0 #d.min
+212 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,398,-88.68008,-88.68008

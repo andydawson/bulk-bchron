@@ -1,0 +1,749 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20609,13625,"Eleanor Lake",41416,"Lead-210",-48,3,11090,-50,-50,-46,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41414,"Core top",-53,0,11090,-50,-54,-52,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41415,"Lead-210",-52,1,11090,-50,-53,-51,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41417,"Lead-210",-44,5,11090,-50,-48,-40,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41418,"Lead-210",-23,7,11090,-50,-29,-17,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41419,"Lead-210",3,9,11090,-50,-5,11,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41420,"Lead-210",34,11,11090,-50,24,44,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41421,"Lead-210",70,13,11090,-50,50,90,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41422,"Lead-210",95,14,11090,-50,65,125,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41423,"Radiocarbon",785,73,11090,-50,715,855,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41424,"Radiocarbon",1590,117,11090,-50,1520,1660,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41425,"Tephra",2505,157,11090,-50,2400,2610,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41426,"Tephra",3673,202.5,11090,-50,3628,3718,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41427,"Radiocarbon",3945,224,11090,-50,3875,4015,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41428,"Radiocarbon",4750,256,11090,-50,4680,4820,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41429,"Radiocarbon",6385,300,11090,-50,6315,6455,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41430,"Tephra",7627,351,11090,-50,7477,7777,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41431,"Radiocarbon",7760,401,11090,-50,7670,7850,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41432,"Radiocarbon",8360,467,11090,-50,8290,8430,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41433,"Radiocarbon",8530,536,11090,-50,8350,8710,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41434,"Radiocarbon",9020,598,11090,-50,8950,9090,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847
+20609,13625,"Eleanor Lake",41435,"Radiocarbon",9520,672,11090,-50,9430,9610,"Neotoma 1","Errors for lead-210 dates are estimates. They were not given in the paper.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ELEANOR',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+672 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,677,-119.30346,-119.29847

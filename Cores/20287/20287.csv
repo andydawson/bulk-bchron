@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20287,13479,"Haircut Lake",105112,"Radiocarbon",610,80,8300,100,570,650,"Wang et al. 2019",NA,FALSE,1000,-133.2124,-133.20571
+20287,13479,"Haircut Lake",105113,"Radiocarbon",1952,104.5,8300,100,1917,1987,"Wang et al. 2019",NA,FALSE,1000,-133.2124,-133.20571
+20287,13479,"Haircut Lake",105114,"Radiocarbon",3940,122,8300,100,3870,4010,"Wang et al. 2019",NA,FALSE,1000,-133.2124,-133.20571
+20287,13479,"Haircut Lake",105115,"Radiocarbon",3122,143,8300,100,3087,3157,"Wang et al. 2019",NA,FALSE,1000,-133.2124,-133.20571
+20287,13479,"Haircut Lake",105116,"Radiocarbon",3659,157,8300,100,3607,3711,"Wang et al. 2019",NA,FALSE,1000,-133.2124,-133.20571
+20287,13479,"Haircut Lake",105117,"Radiocarbon",5581,190.5,8300,100,5546,5616,"Wang et al. 2019",NA,FALSE,1000,-133.2124,-133.20571
+20287,13479,"Haircut Lake",105118,"Radiocarbon",6935,212.5,8300,100,6822,7048,"Wang et al. 2019",NA,FALSE,1000,-133.2124,-133.20571
+20287,13479,"Haircut Lake",105119,"Core top",-60,0,8300,100,-65,-55,"Wang et al. 2019",NA,FALSE,1000,-133.2124,-133.20571

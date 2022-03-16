@@ -1,0 +1,65 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+32258,18833,"Kearney McKean-2",67940,"Radiocarbon",18795,820,23400,22400,18712,18878,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('MCKEAN2',thick=3,acc.mean=15,d.min=801.5,depths.file=TRUE)
+
+Bacon settings file:
+801.5 #d.min
+867 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,650,-99.0293,40.73695
+32258,18833,"Kearney McKean-2",67941,"Radiocarbon",19450,867,23400,22400,19374,19526,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('MCKEAN2',thick=3,acc.mean=15,d.min=801.5,depths.file=TRUE)
+
+Bacon settings file:
+801.5 #d.min
+867 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,650,-99.0293,40.73695

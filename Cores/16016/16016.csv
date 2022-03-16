@@ -1,0 +1,156 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16016,10465,"Secret Valley Marsh",35200,"Core top",-47,0,8480,-50,NA,NA,"Bacon 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SECRET',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+133.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1359,-120.2745,-120.2556
+16016,10465,"Secret Valley Marsh",35201,"Radiocarbon",1630,38,8480,-50,1580,1680,"Bacon 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SECRET',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+133.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1359,-120.2745,-120.2556
+16016,10465,"Secret Valley Marsh",35202,"Radiocarbon",3920,63,8480,-50,3870,3970,"Bacon 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SECRET',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+133.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1359,-120.2745,-120.2556
+16016,10465,"Secret Valley Marsh",35203,"Radiocarbon",5410,91,8480,-50,4460,5460,"Bacon 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SECRET',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+133.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1359,-120.2745,-120.2556
+16016,10465,"Secret Valley Marsh",35204,"Radiocarbon",7860,133.5,8480,-50,7770,7950,"Bacon 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SECRET',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+133.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1359,-120.2745,-120.2556

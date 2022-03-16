@@ -1,0 +1,11 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41161,23771,"Gold Creek Lake",87329,"Core top",-62,19,2000,-60,-63,-61,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87330,"Lead-210",-26,23.5,2000,-60,-26.77,-25.23,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87331,"Lead-210",11.7,27.5,2000,-60,10.39,13.01,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87332,"Lead-210",71.4,32.5,2000,-60,64.79,78.01,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87333,"Lead-210",103.2,34.5,2000,-60,86.23,120.17,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87334,"Radiocarbon",460,56.5,2000,-60,440,480,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87335,"Radiocarbon",2875,90.5,2000,-60,2855,2895,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87336,"Radiocarbon",1540,96.5,2000,-60,1520,1560,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87337,"Radiocarbon",2605,111.5,2000,-60,2580,2630,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707
+41161,23771,"Gold Creek Lake",87338,"Radiocarbon",2070,145.5,2000,-60,2010,2130,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2917,-106.68085,-106.67707

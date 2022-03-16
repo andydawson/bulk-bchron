@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+45090,26010,"Big Ruin",92138,"North American archaeological time scale",NA,NA,1200,600,1050,1200,"Weir 1976",NA,FALSE,1568,-110.11235,-110.11051
+45090,26010,"Big Ruin",92139,"North American archaeological time scale",NA,NA,1200,600,800,1050,"Weir 1976",NA,FALSE,1568,-110.11235,-110.11051
+45090,26010,"Big Ruin",92140,"North American archaeological time scale",NA,NA,1200,600,600,800,"Weir 1976",NA,FALSE,1568,-110.11235,-110.11051

@@ -1,0 +1,125 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+17354,11586,"Blair Lakes",37280,"Core top",-35,0,12910,70,-45,-25,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLAIR',d.max=170,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+170 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,257,-147.39653,-147.3398
+17354,11586,"Blair Lakes",37281,"Radiocarbon",6510,68.5,12910,70,6405,6615,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLAIR',d.max=170,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+170 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,257,-147.39653,-147.3398
+17354,11586,"Blair Lakes",37282,"Radiocarbon",9770,97.5,12910,70,9695,9845,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLAIR',d.max=170,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+170 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,257,-147.39653,-147.3398
+17354,11586,"Blair Lakes",37283,"Radiocarbon",10640,147.5,12910,70,10550,10730,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLAIR',d.max=170,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+170 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,257,-147.39653,-147.3398

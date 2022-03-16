@@ -1,0 +1,161 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41606,23940,"Sunset Lake",84253,"Radiocarbon",2330,40.5,8580,-50,2270,2390,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SUNSET',d.max=169.5,depths.file=TRUE)
+
+Bacon settings: 
+
+0 #d.min
+169.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1530,-124.688,-124.616
+41606,23940,"Sunset Lake",84254,"Radiocarbon",4600,95.5,8580,-50,4530,4670,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SUNSET',d.max=169.5,depths.file=TRUE)
+
+Bacon settings: 
+
+0 #d.min
+169.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1530,-124.688,-124.616
+41606,23940,"Sunset Lake",84255,"Radiocarbon",6690,146.5,8580,-50,6610,6770,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SUNSET',d.max=169.5,depths.file=TRUE)
+
+Bacon settings: 
+
+0 #d.min
+169.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1530,-124.688,-124.616
+41606,23940,"Sunset Lake",84256,"Radiocarbon",7720,169.5,8580,-50,7620,7820,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SUNSET',d.max=169.5,depths.file=TRUE)
+
+Bacon settings: 
+
+0 #d.min
+169.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1530,-124.688,-124.616
+41606,23940,"Sunset Lake",84257,"Core top",-48,0,8580,-50,-49,-47,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SUNSET',d.max=169.5,depths.file=TRUE)
+
+Bacon settings: 
+
+0 #d.min
+169.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1530,-124.688,-124.616

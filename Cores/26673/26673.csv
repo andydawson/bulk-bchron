@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+26673,16766,"St. Jones River (SJB6)",61594,"Radiocarbon, calibrated",NA,NA,2860,-40,4560,4840,"Neotoma 1",NA,FALSE,-3,-75.44766,-75.44
+26673,16766,"St. Jones River (SJB6)",61595,"Radiocarbon, calibrated",NA,NA,2860,-40,250,330,"Neotoma 1",NA,FALSE,-3,-75.44766,-75.44
+26673,16766,"St. Jones River (SJB6)",61596,"Core top",-50,0,2860,-40,-51,-49,"Neotoma 1",NA,FALSE,-3,-75.44766,-75.44

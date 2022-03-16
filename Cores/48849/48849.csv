@@ -1,0 +1,17 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48849,27301,"CBS3",106735,"Radiocarbon",690,27.5,5280,580,670,710,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106736,"Radiocarbon",665,57.5,5280,580,645,685,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106750,"Core top",-63,0,5280,580,-63,-63,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106737,"Radiocarbon",1220,62.5,5280,580,1200,1240,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106739,"Radiocarbon",3660,107.5,5280,580,3640,3680,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106738,"Radiocarbon",785,72.5,5280,580,765,805,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106747,"Radiocarbon",4210,217.5,5280,580,4190,4230,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106740,"Radiocarbon",2410,117.5,5280,580,2395,2425,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106749,"Radiocarbon",4645,272.5,5280,580,4620,4670,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106742,"Radiocarbon",1000,12.5,5280,580,980,1020,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106748,"Radiocarbon",4355,262.5,5280,580,4335,4375,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106741,"Radiocarbon",900,62.5,5280,580,885,915,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106746,"Radiocarbon",3890,197.5,5280,580,3875,3905,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106744,"Radiocarbon",2675,127.5,5280,580,2655,2695,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106743,"Radiocarbon",755,17.5,5280,580,735,775,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319
+48849,27301,"CBS3",106745,"Radiocarbon",3845,167.5,5280,580,3825,3865,"Roos","Age model is the author's own, produced with the CLAM command line:",FALSE,2488,-106.72319,-106.72319

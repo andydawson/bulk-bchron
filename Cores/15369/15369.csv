@@ -1,0 +1,11 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15369,10196,"Dunbar Lake [Big Fish Lake]",33466,"Core top",-27,0,7020,60,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNBAR',depths.file=TRUE)
+
+Bacon settings:",FALSE,1116,-116.39431,-116.38268
+15369,10196,"Dunbar Lake [Big Fish Lake]",33467,"Tephra",6730,75,7020,60,6690,6770,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNBAR',depths.file=TRUE)
+
+Bacon settings:",FALSE,1116,-116.39431,-116.38268

@@ -1,0 +1,232 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48879,24108,"Trout Lake",106837,"Radiocarbon",1677,110,4670,20,1637,1717,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,255,-87.8992,-87.89156
+48879,24108,"Trout Lake",106839,"Radiocarbon",4056,465,4670,20,4014,4098,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,255,-87.8992,-87.89156
+48879,24108,"Trout Lake",106840,"Radiocarbon",2145,189,4670,20,2095,2195,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,255,-87.8992,-87.89156
+48879,24108,"Trout Lake",106838,"Radiocarbon",655,35,4670,20,624,686,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,255,-87.8992,-87.89156
+48879,24108,"Trout Lake",106841,"Core top",-55,0,4670,20,-55,-55,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,255,-87.8992,-87.89156
+48879,24108,"Trout Lake",106843,"Radiocarbon",3014,299,4670,20,2960,3068,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,255,-87.8992,-87.89156
+48879,24108,"Trout Lake",106842,"Radiocarbon",3541,352,4670,20,3505,3577,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,255,-87.8992,-87.89156

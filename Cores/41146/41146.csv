@@ -1,0 +1,12 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41146,23765,"Summit Lake",87341,"Core top",-60,0,2840,-50,-61,-59,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87342,"Lead-210",-10.9,5,2840,-50,-11.7,-10.1,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87343,"Lead-210",45.6,9,2840,-50,44.08,47.12,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87344,"Lead-210",149.6,14,2840,-50,130.98,168.22,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87345,"Radiocarbon",320,14.25,2840,-50,300,340,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87346,"Lead-210",164.4,15,2840,-50,138.21,190.59,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87347,"Radiocarbon",300,16.5,2840,-50,265,335,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87348,"Radiocarbon",1170,36.25,2840,-50,1145,1195,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87349,"Radiocarbon",2085,60.25,2840,-50,2070,2100,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87350,"Radiocarbon",2980,88.5,2840,-50,2950,3010,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111
+41146,23765,"Summit Lake",87351,"Radiocarbon",3730,106.5,2840,-50,3695,3765,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,3149,-106.68361,-106.68111

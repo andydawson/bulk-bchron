@@ -1,0 +1,97 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15363,10193,"Aronow Bog",44363,"Radiocarbon",170,42.5,1230,-50,110,230,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ARONOW',thick=10,acc.mean=10,d.max=115,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,50,-95.579,-95.57
+15363,10193,"Aronow Bog",44364,"Radiocarbon",1010,82.5,1230,-50,970,1050,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ARONOW',thick=10,acc.mean=10,d.max=115,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,50,-95.579,-95.57
+15363,10193,"Aronow Bog",44365,"Core top",-48,0,1230,-50,-49,-47,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('ARONOW',thick=10,acc.mean=10,d.max=115,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,50,-95.579,-95.57

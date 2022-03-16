@@ -1,0 +1,404 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+47527,26992,"Blackwood Sinkhole",102757,"Core top",-60,0,2920,-60,-61,-59,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102758,"Radiocarbon",205,10.75,2920,-60,180,230,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102759,"Radiocarbon",680,25.5,2920,-60,655,705,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102760,"Radiocarbon",1000,32.75,2920,-60,970,1030,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102761,"Radiocarbon",1160,37.75,2920,-60,1135,1185,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102762,"Radiocarbon",1380,51.5,2920,-60,1355,1405,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102763,"Radiocarbon",1630,64.25,2920,-60,1600,1660,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102764,"Radiocarbon",2030,79,2920,-60,2005,2055,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102765,"Radiocarbon",2290,86.5,2920,-60,2265,2315,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102766,"Radiocarbon",2400,92.5,2920,-60,2370,2430,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102767,"Radiocarbon",2520,100.5,2920,-60,2485,2555,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102768,"Radiocarbon",2890,108.25,2920,-60,2855,2925,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232
+47527,26992,"Blackwood Sinkhole",102769,"Radiocarbon",2790,109,2920,-60,2760,2820,"van Hengstum et al. 2016","Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+109 #d.max
+0.5 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,0,-77.42361,-77.4232

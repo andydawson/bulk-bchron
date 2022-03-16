@@ -1,0 +1,31 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15221,10117,"Caddo Creek (Core 1)",32922,"Core top",-56,0,3040,210,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CADDO1',depths.file=TRUE)
+
+Bacon settings:",FALSE,101,-95.5281,-95.48235
+15221,10117,"Caddo Creek (Core 1)",32923,"Radiocarbon",760,2.5,3040,210,720,800,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CADDO1',depths.file=TRUE)
+
+Bacon settings:",FALSE,101,-95.5281,-95.48235
+15221,10117,"Caddo Creek (Core 1)",32924,"Radiocarbon",1390,142.5,3040,210,1350,1430,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CADDO1',depths.file=TRUE)
+
+Bacon settings:",FALSE,101,-95.5281,-95.48235
+15221,10117,"Caddo Creek (Core 1)",32925,"Radiocarbon",2000,242.5,3040,210,1960,2040,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CADDO1',depths.file=TRUE)
+
+Bacon settings:",FALSE,101,-95.5281,-95.48235
+15221,10117,"Caddo Creek (Core 1)",32926,"Radiocarbon",3310,292.5,3040,210,3260,3360,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CADDO1',depths.file=TRUE)
+
+Bacon settings:",FALSE,101,-95.5281,-95.48235
+15221,10117,"Caddo Creek (Core 1)",32927,"Radiocarbon",NA,42.5,3040,210,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CADDO1',depths.file=TRUE)
+
+Bacon settings:",FALSE,101,-95.5281,-95.48235

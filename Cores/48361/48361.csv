@@ -1,0 +1,673 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48361,27192,"Sunken Island Lake",104940,"Lead-210",-54,0,12700,-60,-55,-53,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104941,"Lead-210",-34,3,12700,-60,-36,-32,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104942,"Radiocarbon",593,46,12700,-60,558,628,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104943,"Radiocarbon",2705,109,12700,-60,2690,2720,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104944,"Radiocarbon",2195,202.5,12700,-60,2180,2210,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104945,"Radiocarbon",2788,255,12700,-60,2760,2816,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104946,"Radiocarbon",8535,256,12700,-60,8510,8560,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104947,"Radiocarbon",3720,307.25,12700,-60,3695,3745,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104948,"Radiocarbon",6820,355.5,12700,-60,6795,6845,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104949,"Radiocarbon",4915,432.5,12700,-60,4895,4935,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104950,"Radiocarbon",4970,522.5,12700,-60,4740,5200,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104951,"Radiocarbon",6960,572,12700,-60,6900,7020,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104952,"Radiocarbon",7000,621.5,12700,-60,6870,7130,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104953,"Radiocarbon",7230,663,12700,-60,7120,7340,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104954,"Radiocarbon",8915,684,12700,-60,8865,8965,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104955,"Radiocarbon",9415,709,12700,-60,9390,9440,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104956,"Radiocarbon",10125,745,12700,-60,10105,10145,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104957,"Radiocarbon",10390,758,12700,-60,10310,10470,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104958,"Radiocarbon",13460,766,12700,-60,13300,13620,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104959,"Radiocarbon",12455,771,12700,-60,12420,12490,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525
+48361,27192,"Sunken Island Lake",104960,"Isotopic excursion",-13,6,12700,-60,-16,-10,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SIL-04-01"",thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+771 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,76,-150.89721,-150.87525

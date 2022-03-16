@@ -1,0 +1,65 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16173,10514,"Diamond Valley",89471,"Radiocarbon",41200,16,45000,44590,39100,43300,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DIAMOND"",thick=2,acc.mean=5,d.min=1,d.max=82,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+82 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,488,-117.006,-116.9828
+16173,10514,"Diamond Valley",89472,"Radiocarbon",41490,62.5,45000,44590,40110,42870,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DIAMOND"",thick=2,acc.mean=5,d.min=1,d.max=82,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+82 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,488,-117.006,-116.9828

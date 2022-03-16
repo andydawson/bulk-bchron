@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48616,27212,"Morkill Lake",105700,"Core top",-51,0,10800,-51,-51,-51,"Gavin-2020","Clam modified to fit monotonic splines",FALSE,780,-120.65228,53.60656
+48616,27212,"Morkill Lake",105701,"Radiocarbon",2979,207.5,10800,-51,2922,3036,"Gavin-2020","Clam modified to fit monotonic splines",FALSE,780,-120.65228,53.60656
+48616,27212,"Morkill Lake",105702,"Radiocarbon",4817,312.5,10800,-51,4750,4884,"Gavin-2020","Clam modified to fit monotonic splines",FALSE,780,-120.65228,53.60656
+48616,27212,"Morkill Lake",105703,"Radiocarbon",9230,472.5,10800,-51,9120,9340,"Gavin-2020","Clam modified to fit monotonic splines",FALSE,780,-120.65228,53.60656
+48616,27212,"Morkill Lake",105704,"Radiocarbon",9484,532.5,10800,-51,9431,9537,"Gavin-2020","Clam modified to fit monotonic splines",FALSE,780,-120.65228,53.60656

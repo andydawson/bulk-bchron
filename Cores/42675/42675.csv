@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+42675,24243,"West Side Pond",87757,"Radiocarbon",3820,140,17000,10900,3690,3950,"Lacourse cal BP","Age model in Lacourse et al (2005) created using BCal in 2004",FALSE,16,-131.79167,52.54167
+42675,24243,"West Side Pond",87758,"Radiocarbon",7110,225,17000,10900,7040,7180,"Lacourse cal BP","Age model in Lacourse et al (2005) created using BCal in 2004",FALSE,16,-131.79167,52.54167
+42675,24243,"West Side Pond",87759,"Radiocarbon",8530,265,17000,10900,8460,8600,"Lacourse cal BP","Age model in Lacourse et al (2005) created using BCal in 2004",FALSE,16,-131.79167,52.54167
+42675,24243,"West Side Pond",87760,"Radiocarbon",9980,310,17000,10900,9910,10050,"Lacourse cal BP","Age model in Lacourse et al (2005) created using BCal in 2004",FALSE,16,-131.79167,52.54167
+42675,24243,"West Side Pond",87761,"Radiocarbon",10890,345,17000,10900,10780,11000,"Lacourse cal BP","Age model in Lacourse et al (2005) created using BCal in 2004",FALSE,16,-131.79167,52.54167
+42675,24243,"West Side Pond",87762,"Radiocarbon",12190,358,17000,10900,12050,12330,"Lacourse cal BP","Age model in Lacourse et al (2005) created using BCal in 2004",FALSE,16,-131.79167,52.54167
+42675,24243,"West Side Pond",87763,"Radiocarbon",13550,368,17000,10900,13070,14030,"Lacourse cal BP","Age model in Lacourse et al (2005) created using BCal in 2004",FALSE,16,-131.79167,52.54167

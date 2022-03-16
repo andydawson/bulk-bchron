@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+3051,2952,"Found Lake",NA,NA,NA,NA,10000,0,NA,NA,"COHMAP chron 3","Depths for the varves and 58 pollen samples Age bounds for application of the model: top = 0; bottom = 10000. Ages derived from varve count.",FALSE,488,-78.64,45.55

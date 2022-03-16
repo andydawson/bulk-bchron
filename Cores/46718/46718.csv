@@ -1,0 +1,14 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+46718,26672,"North Bay",101546,"Lead-210",-55,7,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101547,"Lead-210",-45,14.5,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101548,"Lead-210",-35,22,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101549,"Lead-210",-25,28,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101550,"Lead-210",-15,34,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101551,"Lead-210",5,44.5,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101552,"Lead-210",15,50,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101553,"Lead-210",25,55,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101554,"Lead-210",40,59,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101555,"Lead-210",75,65,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101556,"Lead-210",134,70.5,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101557,"Lead-210",193,75,210,-70,NA,NA,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239
+46718,26672,"North Bay",101558,"Core top",-64,0,210,-70,-64,-64,"Neotoma 1",NA,FALSE,183,-92.24411,-92.23239

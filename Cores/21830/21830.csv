@@ -1,0 +1,507 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+21830,14051,"Lake AT01",46167,"Core top",-65,0,6880,-70,-66,-64,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46168,"Lead-210",-58,0.5,6880,-70,-59,-57,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46169,"Lead-210",-55.3,1.5,6880,-70,-56.3,-54.3,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46170,"Lead-210",-51.8,2.25,6880,-70,-52.8,-50.8,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46171,"Lead-210",-47.1,3.25,6880,-70,-48.1,-46.1,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46172,"Lead-210",-40.2,4.75,6880,-70,-41.2,-39.2,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46173,"Lead-210",-27,5.75,6880,-70,-28,-26,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46174,"Lead-210",-21,19.25,6880,-70,-22,-20,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46175,"Lead-210",-17.6,20.25,6880,-70,-18.6,-16.6,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46176,"Lead-210",-7.1,22.75,6880,-70,-8.1,-6.1,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46177,"Lead-210",-2,24.75,6880,-70,-3,-1,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46178,"Lead-210",2.5,26.75,6880,-70,1.5,3.5,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46179,"Lead-210",10.3,28.75,6880,-70,9.3,11.3,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46180,"Lead-210",19.2,31.75,6880,-70,18.2,20.2,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46181,"Lead-210",26.6,34.75,6880,-70,25.6,27.6,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46182,"Lead-210",47.5,38.75,6880,-70,46.5,48.5,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46183,"Radiocarbon",130,44.5,6880,-70,90,170,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46184,"Radiocarbon",4230,65.5,6880,-70,4200,4260,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46185,"Radiocarbon",4030,87.5,6880,-70,3990,4070,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46186,"Radiocarbon",4540,111.5,6880,-70,4500,4580,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46187,"Radiocarbon",5310,187,6880,-70,5270,5350,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46188,"Radiocarbon",5950,244.5,6880,-70,5910,5990,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836
+21830,14051,"Lake AT01",46189,"Radiocarbon",6000,250.5,6880,-70,5960,6040,"Friel et al. 2014","Based on IntCal09 calibration curve. A hiatus exists at 55 cm. Because a section of the core between ~7 and 19 cm depth had nearly constant 210Pb activity, this section was removed and ages are based on a linear regression model for the section of the core whre 210Pb decays regularly (24-52 cm) and used to estimate 'normal' accumulation rate (see Friel 2014).
+
+clam settings file:
+---------------------
+Settings (square brackets give names of the constants)
+
+Calibration curve: IntCal09.14C
+Age-depth model: linear interpolation between dated levels [type=1]
+Weighted by the calibrated probabilities [wghts=1]
+Calculations at 95% confidence ranges [prob=0.95]
+Amount of iterations: 1000 [its]
+Calendar age point estimates for depths based on weighted average of all age-depth curves [est=1]
+Calendar scale used: cal BP [BCAD=FALSE] at a resolution of 1 yr [yrsteps]
+Ages were calculated every 1 [every] cm [depth], from 0 [dmin] to 251 [dmax] cm
+
+Dates assumed outlying [outliers]: 18 (beta.325704) 
+A hiatus was inferred at 55.5 cm [hiatus] 
+
+Goodness-of-fit (-log, lower is better):  23.13 
+Any models with age-depth reversals were removed
+
+Produced Mon Dec 17 19:13:01 2012",FALSE,115,-84.21244,-84.19836

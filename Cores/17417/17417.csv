@@ -1,0 +1,404 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37541,"Core top",-48,0,4980,-40,-49,-47,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37544,"Radiocarbon",104,31,4980,-40,71,137,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37545,"Radiocarbon",447,45,4980,-40,416,478,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37546,"Radiocarbon",936,56,4980,-40,903,969,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37547,"Radiocarbon",850,70,4980,-40,815,885,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37548,"Radiocarbon",650,80,4980,-40,615,685,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37549,"Radiocarbon",1792,90,4980,-40,1747,1837,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37550,"Radiocarbon",2729,100,4980,-40,2692,2766,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37551,"Radiocarbon",3468,110,4980,-40,3431,3505,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37552,"Radiocarbon",3719,119,4980,-40,3683,3755,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37553,"Radiocarbon",3719,140,4980,-40,3681,3757,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37554,"Radiocarbon",4169,160,4980,-40,4131,4207,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949
+17417,11616,"Big Cypress Bend [End boardwalk ""Fak10 endB""]",37555,"Radiocarbon",4290,180,4980,-40,4230,4350,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAKIII98',d.max=193,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+193 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-81.46761,25.949

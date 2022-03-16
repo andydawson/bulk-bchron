@@ -1,0 +1,187 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16054,10473,"Little Willow Lake",35269,"Core top",-50,0,16170,-10,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LTWILLOW',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+612.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1829,-121.39227,-121.3876
+16054,10473,"Little Willow Lake",35270,"Radiocarbon",3120,132,16170,-10,3080,3160,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LTWILLOW',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+612.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1829,-121.39227,-121.3876
+16054,10473,"Little Willow Lake",35271,"Radiocarbon",4460,215,16170,-10,4420,4500,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LTWILLOW',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+612.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1829,-121.39227,-121.3876
+16054,10473,"Little Willow Lake",35272,"Radiocarbon",9240,455,16170,-10,9190,9290,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LTWILLOW',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+612.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1829,-121.39227,-121.3876
+16054,10473,"Little Willow Lake",35273,"Radiocarbon",12230,551,16170,-10,12160,12300,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LTWILLOW',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+612.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1829,-121.39227,-121.3876
+16054,10473,"Little Willow Lake",35274,"Radiocarbon",13410,612.5,16170,-10,13350,13470,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LTWILLOW',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+612.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1829,-121.39227,-121.3876

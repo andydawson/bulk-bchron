@@ -1,0 +1,1025 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20495,13575,"Ogaromtoc Lake",41215,"Lead-210",-58,1,3740,-60,-60,-56,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41216,"Lead-210",-56,2.5,3740,-60,-58,-54,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41217,"Radiocarbon, calibrated",-46,3,3740,-60,-48,-44,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41218,"Lead-210",-55,4,3740,-60,-57,-53,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41219,"Lead-210",-53,5.5,3740,-60,-55,-51,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41220,"Lead-210",-50,7.5,3740,-60,-52,-48,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41221,"Lead-210",-47,9.5,3740,-60,-49,-45,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41222,"Lead-210",-42,12,3740,-60,-44,-40,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41223,"Lead-210",-34,15.5,3740,-60,-36,-32,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41224,"Lead-210",-27,18.5,3740,-60,-29,-25,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41225,"Lead-210",-23,21,3740,-60,-25,-21,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41226,"Lead-210",0,24,3740,-60,-2,2,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41227,"Lead-210",6,26,3740,-60,4,8,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41228,"Radiocarbon, calibrated",-7,28,3740,-60,-9,-5,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41229,"Radiocarbon, calibrated",-7,28,3740,-60,-9,-5,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41230,"Lead-210",20,29,3740,-60,18,22,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41231,"Lead-210",36,33,3740,-60,34,38,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41232,"Lead-210",56,37,3740,-60,54,58,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41233,"Lead-210",73,40,3740,-60,71,75,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41234,"Radiocarbon",225,69,3740,-60,195,255,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41235,"Radiocarbon",545,100,3740,-60,515,575,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41236,"Radiocarbon",925,121,3740,-60,895,955,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41237,"Radiocarbon",1250,238,3740,-60,1130,1370,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41238,"Radiocarbon",1670,250,3740,-60,1635,1705,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41239,"Radiocarbon",1565,289,3740,-60,1535,1595,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41240,"Radiocarbon",2235,352,3740,-60,2205,2265,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41241,"Radiocarbon",2590,360,3740,-60,2555,2625,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41242,"Radiocarbon",2495,360,3740,-60,2455,2535,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41243,"Radiocarbon",2565,390,3740,-60,2530,2600,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41244,"Radiocarbon",3215,430,3740,-60,3170,3260,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41245,"Radiocarbon",5315,594,3740,-60,5285,5345,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025
+20495,13575,"Ogaromtoc Lake",41246,"Core top",-59,0,3740,-60,-69,-49,"Crawford et al. 2015","Chronology replicated using the priors in Crawford et al. (2015). Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('OGAROM',thick=5,acc.shape=2,mem.strength=20,mem.mean=0.4,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+594 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+2 #acc.shape
+0.4 #mem.mean
+20 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,596,-123.54222,-123.54025

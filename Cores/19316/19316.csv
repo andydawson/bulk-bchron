@@ -1,0 +1,115 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+19316,9860,"Norwood",38892,"Sediment stratigraphic",11200,285,15600,13400,10950,11450,"Neotoma 2","Based on IntCal13 calibration curve. The dates suggest a kink in the accumulation rate at the peat-silt boundary at 315 cm. Thus, a hiatus was introduced at 315 cm to force the memory to zero.
+
+Bacon .csv file:
+labID,age,error,depth,cc
+Radiocarbon,11200,250,285,1
+Radiocarbon,12400,60,310,1
+Deglaciation,12500,500,475,1
+
+Bacon command line:
+Bacon('NORWOOD',thick=5,hiatus.depths=315,hiatus.mean=2,acc.mean=c(40,7),d.min=244.5,depths.file=TRUE)
+
+Bacon settings file:
+244.5 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+315 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,299,-93.92679,44.7093
+19316,9860,"Norwood",38893,"Sediment stratigraphic",12400,310,15600,13400,12340,12460,"Neotoma 2","Based on IntCal13 calibration curve. The dates suggest a kink in the accumulation rate at the peat-silt boundary at 315 cm. Thus, a hiatus was introduced at 315 cm to force the memory to zero.
+
+Bacon .csv file:
+labID,age,error,depth,cc
+Radiocarbon,11200,250,285,1
+Radiocarbon,12400,60,310,1
+Deglaciation,12500,500,475,1
+
+Bacon command line:
+Bacon('NORWOOD',thick=5,hiatus.depths=315,hiatus.mean=2,acc.mean=c(40,7),d.min=244.5,depths.file=TRUE)
+
+Bacon settings file:
+244.5 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+315 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,299,-93.92679,44.7093
+19316,9860,"Norwood",38894,"Deglaciation",12500,475,15600,13400,12000,13000,"Neotoma 2","Based on IntCal13 calibration curve. The dates suggest a kink in the accumulation rate at the peat-silt boundary at 315 cm. Thus, a hiatus was introduced at 315 cm to force the memory to zero.
+
+Bacon .csv file:
+labID,age,error,depth,cc
+Radiocarbon,11200,250,285,1
+Radiocarbon,12400,60,310,1
+Deglaciation,12500,500,475,1
+
+Bacon command line:
+Bacon('NORWOOD',thick=5,hiatus.depths=315,hiatus.mean=2,acc.mean=c(40,7),d.min=244.5,depths.file=TRUE)
+
+Bacon settings file:
+244.5 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+315 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,299,-93.92679,44.7093

@@ -1,0 +1,1024 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15929,5803,"Hiscock Site",34879,"Core top",-46,0,13010,170,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34880,"Radiocarbon",250,26,13010,170,200,300,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34881,"Radiocarbon",270,26,13010,170,210,330,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34882,"Radiocarbon",570,27.5,13010,170,510,630,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34883,"Radiocarbon",700,44,13010,170,620,780,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34884,"Radiocarbon",380,47,13010,170,330,430,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34885,"Radiocarbon",440,47,13010,170,390,490,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34886,"Radiocarbon",560,47,13010,170,480,640,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34887,"Radiocarbon",530,48,13010,170,480,580,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34888,"Radiocarbon",7435,58,13010,170,7340,7530,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34889,"Radiocarbon",8120,60,13010,170,8000,8240,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34890,"Radiocarbon",8520,60,13010,170,8430,8610,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34891,"Radiocarbon",7880,61,13010,170,7790,7970,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34892,"Radiocarbon",8260,63,13010,170,8210,8310,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34893,"Radiocarbon",9490,66,13010,170,9360,9620,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34894,"Radiocarbon",10200,66,13010,170,10050,10350,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34895,"Radiocarbon",10945,73,13010,170,10760,11130,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34896,"Radiocarbon",10810,73,13010,170,10760,10860,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34897,"Radiocarbon",10545,73,13010,170,10385,10705,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34898,"Radiocarbon",10220,76,13010,170,10100,10340,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34899,"Radiocarbon",10240,76,13010,170,10120,10360,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34900,"Radiocarbon",10465,76,13010,170,10355,10575,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34901,"Radiocarbon",10515,76,13010,170,10395,10635,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34902,"Radiocarbon",10850,76,13010,170,10710,10990,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34903,"Radiocarbon",10180,79.5,13010,170,10130,10230,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34904,"Radiocarbon",10705,81,13010,170,10625,10785,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34905,"Radiocarbon",10630,85,13010,170,10550,10710,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34906,"Radiocarbon",10790,88,13010,170,10720,10860,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34907,"Radiocarbon",10930,135,13010,170,10860,11000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34908,"Radiocarbon",11070,135,13010,170,11000,11140,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34909,"Radiocarbon",11100,135,13010,170,11020,11180,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34910,"Radiocarbon",11450,136.5,13010,170,11400,11500,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43
+15929,5803,"Hiscock Site",34911,"Radiocarbon",10990,146,13010,170,10890,11090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('HISCOCK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+146 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-78,43

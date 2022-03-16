@@ -1,0 +1,125 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+17280,11557,"Lovesick Lake",36914,"Core top",-50,0,9840,-50,-52,-48,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOVESIC1',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+120 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,NA,-78.24444,-78.20515
+17280,11557,"Lovesick Lake",36915,"Radiocarbon",7400,12.5,9840,-50,6330,7470,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOVESIC1',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+120 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,NA,-78.24444,-78.20515
+17280,11557,"Lovesick Lake",36916,"Interpolated",8300,70,9840,-50,8200,8400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOVESIC1',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+120 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,NA,-78.24444,-78.20515
+17280,11557,"Lovesick Lake",36917,"Interpolated",9500,120,9840,-50,9400,9600,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOVESIC1',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+120 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,NA,-78.24444,-78.20515

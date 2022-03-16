@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+831,807,"First",2311,"Core top",-34,0.5,180,-40,-35,-30,"NAPD 1","top date of -40, one C14 date",FALSE,326,-75.03053,-75.02358
+831,807,"First",2312,"Biostratigraphic, pollen",150,51,180,-40,130,170,"NAPD 1","top date of -40, one C14 date",FALSE,326,-75.03053,-75.02358

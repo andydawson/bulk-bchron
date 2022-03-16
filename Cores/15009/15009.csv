@@ -1,0 +1,559 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15009,10026,"Jemima Pond",32152,"Lead-210",-42.5,4,2930,-50,-43.899590552,-41.100409448,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32153,"Lead-210",-35.3,8,2930,-50,-36.89781671,-33.70218329,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32154,"Lead-210",-26.7,12,2930,-50,-28.63009418,-24.76990582,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32155,"Lead-210",-13.6,16,2930,-50,-16.277294334,-10.922705666,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32156,"Lead-210",6.9,20,2930,-50,2.116164742,11.683835258,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32157,"Lead-210",30,24,2930,-50,20.373386368,39.626613632,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32158,"Lead-210",44.9,28,2930,-50,29.602124728,60.197875272,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32159,"Lead-210",53,32,2930,-50,33.229177826,72.770822174,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32160,"Lead-210",66.2,36,2930,-50,35.83159872,96.56840128,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32161,"Lead-210",78.7,40,2930,-50,32.47598428,124.92401572,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32162,"Lead-210",93.6,44,2930,-50,15.10115074,172.09884926,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32163,"Radiocarbon",612,77,2930,-50,538,686,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32164,"Radiocarbon",926,91,2930,-50,800,1052,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32165,"Radiocarbon",1458,111,2930,-50,1386,1530,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32166,"Radiocarbon",1735,125,2930,-50,1649,1821,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32167,"Radiocarbon",1962,139,2930,-50,1886,2038,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32168,"Core top",-49,0,2930,-50,-50,-48,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355
+15009,10026,"Jemima Pond",32169,"European settlement horizon",250,68,2930,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('JEMIMA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+139 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3,-69.98585,-69.98355

@@ -1,0 +1,151 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14498,9798,"Dog Lake",30893,"Core top",-45,0,10040,10,-46,-44,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DOGLKBC',depths.file=TRUE)
+
+0 #d.min
+252 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1183,-115.93464,-115.9249
+14498,9798,"Dog Lake",30894,"Tephra",3400,54,10040,10,3300,3500,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DOGLKBC',depths.file=TRUE)
+
+0 #d.min
+252 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1183,-115.93464,-115.9249
+14498,9798,"Dog Lake",30895,"Radiocarbon",4140,84,10040,10,4070,4210,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DOGLKBC',depths.file=TRUE)
+
+0 #d.min
+252 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1183,-115.93464,-115.9249
+14498,9798,"Dog Lake",30896,"Tephra",6730,188.5,10040,10,6690,6770,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DOGLKBC',depths.file=TRUE)
+
+0 #d.min
+252 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1183,-115.93464,-115.9249
+14498,9798,"Dog Lake",30897,"Radiocarbon",9010,252,10040,10,8050,9070,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DOGLKBC',depths.file=TRUE)
+
+0 #d.min
+252 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1183,-115.93464,-115.9249

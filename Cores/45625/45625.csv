@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+45625,26165,"Sandstone 1",93794,"North American archaeological time scale",NA,NA,1050,800,800,1050,"Weir 1976",NA,FALSE,2080,-108.89158,-108.82258

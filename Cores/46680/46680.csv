@@ -1,0 +1,10 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+46680,26658,"West LaSalle",101070,"Core top",-61,0,11301,-61,-61,-61,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117
+46680,26658,"West LaSalle",101071,"Radiocarbon",775,39.5,11301,-61,735,815,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117
+46680,26658,"West LaSalle",101072,"Radiocarbon",1335,87.5,11301,-61,1305,1365,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117
+46680,26658,"West LaSalle",101073,"Radiocarbon",1965,123.5,11301,-61,1935,1995,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117
+46680,26658,"West LaSalle",101074,"Radiocarbon",4330,214.5,11301,-61,4260,4400,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117
+46680,26658,"West LaSalle",101075,"Radiocarbon",5185,286.5,11301,-61,5155,5215,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117
+46680,26658,"West LaSalle",101076,"Radiocarbon",6780,378,11301,-61,6750,6810,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117
+46680,26658,"West LaSalle",101077,"Radiocarbon",9095,420,11301,-61,9060,9130,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117
+46680,26658,"West LaSalle",101078,"Radiocarbon",9890,452,11301,-61,9845,9935,"Gavin.et.al.",NA,FALSE,878,-120.68095,-120.67117

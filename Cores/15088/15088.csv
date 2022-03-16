@@ -1,0 +1,404 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15088,203,"Anderson Pond",32352,"Radiocarbon",115,67,25640,-40,45,185,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32353,"Radiocarbon",12050,110,25640,-40,11930,12170,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32354,"Radiocarbon",12050,118,25640,-40,11910,12190,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32355,"Radiocarbon",12550,174,25640,-40,12250,12850,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32356,"Radiocarbon",12850,209,25640,-40,12700,13000,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32357,"Radiocarbon",14250,314,25640,-40,13910,14590,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32358,"Radiocarbon",14500,346,25640,-40,14280,14720,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32359,"Radiocarbon",15900,406,25640,-40,15680,16120,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32360,"Radiocarbon",16550,478,25640,-40,16310,16790,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32361,"Radiocarbon",17350,498,25640,-40,17200,17500,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32362,"Radiocarbon",19100,635,25640,-40,18910,19290,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32363,"Radiocarbon",17300,681,25640,-40,17060,17540,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868
+15088,203,"Anderson Pond",32364,"Radiocarbon",20950,732,25640,-40,20850,21050,"Neotoma 1","Bacon age model with the same priors as the Liu et al. (2013) Bacon age model but based on the IntCal13 calibration curve. The ages for depths 3-94 cm based on linear interpolation from the surface (0 cm, -50 BP) to the date OS-77549, 115±35 BP at 67 cm, which calibrates to median 119 (272-11 95.4% range).
+
+Bacon command line: Bacon('ANDERS07',thick=5,acc.mean=25,acc.shape=2,d.min=0,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+732 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,303,-85.50396,-85.49868

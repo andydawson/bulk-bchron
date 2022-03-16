@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+47599,27022,"Mobile Bay, MB0810-GC20",103026,"Core top",-60,0,3570,-70,-65,-55,"Jones et al. 2020",NA,FALSE,0,-87.883,30.291
+47599,27022,"Mobile Bay, MB0810-GC20",103027,"Radiocarbon",660,64,3570,-70,625,695,"Jones et al. 2020",NA,FALSE,0,-87.883,30.291
+47599,27022,"Mobile Bay, MB0810-GC20",103028,"Radiocarbon",1980,160.5,3570,-70,1945,2015,"Jones et al. 2020",NA,FALSE,0,-87.883,30.291
+47599,27022,"Mobile Bay, MB0810-GC20",103029,"Radiocarbon",2630,200.5,3570,-70,2600,2660,"Jones et al. 2020",NA,FALSE,0,-87.883,30.291
+47599,27022,"Mobile Bay, MB0810-GC20",103030,"Radiocarbon",3450,238.5,3570,-70,3415,3485,"Jones et al. 2020",NA,FALSE,0,-87.883,30.291

@@ -1,0 +1,187 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15627,10298,"Portage Lake",33873,"Core top",-45,0,10260,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PORTAGAK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+59.1 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+200 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,78,-150.536,-150.53
+15627,10298,"Portage Lake",33874,"Radiocarbon",2227,17.5,10260,-50,2153,2301,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PORTAGAK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+59.1 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+200 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,78,-150.536,-150.53
+15627,10298,"Portage Lake",33875,"Radiocarbon",3813,25.5,10260,-50,3735,3891,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PORTAGAK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+59.1 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+200 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,78,-150.536,-150.53
+15627,10298,"Portage Lake",33876,"Radiocarbon",7994,45.5,10260,-50,7898,8090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PORTAGAK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+59.1 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+200 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,78,-150.536,-150.53
+15627,10298,"Portage Lake",33877,"Radiocarbon",9160,58.5,10260,-50,8780,9540,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PORTAGAK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+59.1 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+200 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,78,-150.536,-150.53
+15627,10298,"Portage Lake",33878,"Radiocarbon",8355,59.1,10260,-50,8245,8465,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PORTAGAK',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+59.1 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+200 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,78,-150.536,-150.53

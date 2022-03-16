@@ -1,0 +1,385 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48363,27193,"Choquette Lake",104993,"Core top",-56,0,11890,-50,-57,-55,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",104994,"Isotopic excursion",-13,4,11890,-50,-16,-10,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",104995,"Lead-210",1,8,11890,-50,-1.8,3.8,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",104996,"Lead-210",15,10,11890,-50,11.6,18.4,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",104997,"Lead-210",30,12,11890,-50,25.7,34.3,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",104998,"Radiocarbon",310,20.5,11890,-50,262,358,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",104999,"Radiocarbon",1385,38,11890,-50,1360,1410,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",105000,"Radiocarbon",2575,72.25,11890,-50,2550,2600,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",105001,"Radiocarbon",4215,113.5,11890,-50,4190,4240,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",105002,"Radiocarbon",6085,170.5,11890,-50,6065,6105,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",105003,"Radiocarbon",8195,202,11890,-50,8165,8225,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886
+48363,27193,"Choquette Lake",105004,"Radiocarbon",9875,233,11890,-50,9855,9895,"SKOPE","Based on IntCal13 calibration curve. A hiatus was introduced at 12 cm to accommodate the kink in accumulation rate.
+
+Bacon command line:
+Bacon(""CL-06"",thick=2.5,acc.mean=c(10,50),hiatus.depths=12,hiatus.mean=2,d.max=245.25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+245.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+12 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,517,-151.1123,-151.10886

@@ -1,0 +1,204 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14624,9866,"Big Reed Pond Hollow",31249,"Radiocarbon",840,23.25,6570,30,800,880,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon('BIGREED1',thick=2,acc.mean=100,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+58 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,370,-69.05276,-69.05064
+14624,9866,"Big Reed Pond Hollow",31250,"Radiocarbon",1170,32.25,6570,30,1110,1230,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon('BIGREED1',thick=2,acc.mean=100,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+58 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,370,-69.05276,-69.05064
+14624,9866,"Big Reed Pond Hollow",31251,"Radiocarbon",5550,55.25,6570,30,5500,5600,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon('BIGREED1',thick=2,acc.mean=100,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+58 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,370,-69.05276,-69.05064
+14624,9866,"Big Reed Pond Hollow",31252,"Radiocarbon",5490,58,6570,30,5420,5560,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon('BIGREED1',thick=2,acc.mean=100,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+58 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,370,-69.05276,-69.05064
+14624,9866,"Big Reed Pond Hollow",31253,"Tsuga decline",4750,43.75,6570,30,4700,4800,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon('BIGREED1',thick=2,acc.mean=100,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+58 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,370,-69.05276,-69.05064
+14624,9866,"Big Reed Pond Hollow",31254,"Ambrosia rise",200,NA,6570,30,175,225,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon('BIGREED1',thick=2,acc.mean=100,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+58 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,370,-69.05276,-69.05064
+14624,9866,"Big Reed Pond Hollow",31255,"Core top",-44,0,6570,30,-45,-43,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon('BIGREED1',thick=2,acc.mean=100,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+58 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,370,-69.05276,-69.05064

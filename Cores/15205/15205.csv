@@ -1,0 +1,404 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15205,10109,"Chesapeake Bay (MD99-2207)",32840,"Core top",-49,0,23310,910,-50,-48,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32841,"Ambrosia rise",55,160,23310,910,40,70,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32842,"Radiocarbon",855,221.5,23310,910,830,880,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32843,"Radiocarbon",4100,387.5,23310,910,4055,4145,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32844,"Radiocarbon",4470,573.5,23310,910,4425,4515,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32845,"Radiocarbon",4590,687.5,23310,910,4535,4645,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32846,"Tsuga decline",5400,730,23310,910,5300,5500,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32847,"Radiocarbon",6130,777,23310,910,6075,6185,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32848,"Radiocarbon",6430,833.5,23310,910,6365,6495,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32849,"Radiocarbon",6540,901,23310,910,6495,6585,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32850,"Radiocarbon",7080,993,23310,910,7020,7140,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32851,"Radiocarbon",8800,1249,23310,910,8760,8840,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028
+15205,10109,"Chesapeake Bay (MD99-2207)",32852,"Biostratigraphic, pollen",10500,2069,23310,910,10400,10600,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+2069 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-76.21444,38.03028

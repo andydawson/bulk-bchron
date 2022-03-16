@@ -1,0 +1,18 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+19937,13350,"Spicer Lake",39908,"Core top",-55,0,12750,-60,-56,-53,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39909,"Ambrosia rise",130,32.5,12750,-60,120,140,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39910,"Radiocarbon",2260,121.5,12750,-60,2230,2290,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39911,"Radiocarbon",3770,228.5,12750,-60,3725,3815,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39912,"Radiocarbon",5170,443.5,12750,-60,5145,5195,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39913,"Radiocarbon",5370,494.5,12750,-60,5335,5405,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39914,"Radiocarbon",5270,498.5,12750,-60,5140,5400,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39915,"Radiocarbon",6210,583.5,12750,-60,6175,6245,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39916,"Radiocarbon",9470,861.5,12750,-60,9410,9530,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39917,"Radiocarbon",5060,887.5,12750,-60,4900,5220,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39918,"Radiocarbon",6730,887.5,12750,-60,6430,7030,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39919,"Radiocarbon",10100,888.5,12750,-60,9960,10240,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39920,"Radiocarbon",7620,914.5,12750,-60,7340,7900,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39921,"Radiocarbon",8940,914.5,12750,-60,8860,9020,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39922,"Radiocarbon",10090,915.5,12750,-60,10030,10150,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39923,"Radiocarbon",12410,957.5,12750,-60,12375,12445,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127
+19937,13350,"Spicer Lake",39924,"Radiocarbon",12740,1056.5,12750,-60,12705,12775,"Wang et al. 2016",NA,FALSE,242,-86.52289,-86.52127

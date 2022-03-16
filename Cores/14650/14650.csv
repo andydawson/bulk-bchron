@@ -1,0 +1,171 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14650,9878,"San Luis Lake",31409,"Core top",-37,0,960,-40,-38,-36,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages >90 cm based on a linear fit to the Bacon ages from 63 to 91 cm.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2293,-105.73723,-105.7121
+14650,9878,"San Luis Lake",31410,"Radiocarbon",56,15,960,-40,39,73,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages >90 cm based on a linear fit to the Bacon ages from 63 to 91 cm.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2293,-105.73723,-105.7121
+14650,9878,"San Luis Lake",31411,"Radiocarbon",570,44,960,-40,510,630,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages >90 cm based on a linear fit to the Bacon ages from 63 to 91 cm.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2293,-105.73723,-105.7121
+14650,9878,"San Luis Lake",31412,"Radiocarbon",928,70,960,-40,883,973,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages >90 cm based on a linear fit to the Bacon ages from 63 to 91 cm.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2293,-105.73723,-105.7121
+14650,9878,"San Luis Lake",31413,"Radiocarbon",920,90,960,-40,860,980,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages >90 cm based on a linear fit to the Bacon ages from 63 to 91 cm.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANLUIS',depths.file=TRUE)
+
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2293,-105.73723,-105.7121

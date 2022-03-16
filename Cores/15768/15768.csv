@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15768,10364,"Lost Lake",34311,"Core top",-50,0,7490,-60,-56,-44,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTLKOR',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+458 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,452,-123.581,-123.5776
+15768,10364,"Lost Lake",34312,"Radiocarbon",1154,109.5,7490,-60,1114,1194,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTLKOR',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+458 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,452,-123.581,-123.5776
+15768,10364,"Lost Lake",34313,"Radiocarbon",1990,149.5,7490,-60,1040,2040,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTLKOR',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+458 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,452,-123.581,-123.5776
+15768,10364,"Lost Lake",34314,"Radiocarbon",2454,200.5,7490,-60,2412,2496,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTLKOR',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+458 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,452,-123.581,-123.5776
+15768,10364,"Lost Lake",34315,"Radiocarbon",4058,309,7490,-60,4014,4102,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTLKOR',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+458 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,452,-123.581,-123.5776
+15768,10364,"Lost Lake",34316,"Tephra",6730,438.5,7490,-60,6690,6770,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTLKOR',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+458 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,452,-123.581,-123.5776
+15768,10364,"Lost Lake",34317,"Radiocarbon",7680,458,7490,-60,7610,7750,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTLKOR',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+458 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,452,-123.581,-123.5776

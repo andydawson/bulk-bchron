@@ -1,0 +1,31 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15191,10103,"Fort Bragg (core PAW2)",32810,"Radiocarbon",1930,42.5,11450,-50,1850,2010,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PAW2',depths.file=TRUE)
+
+Bacon settings:",FALSE,54,-79.09388,-79.08573
+15191,10103,"Fort Bragg (core PAW2)",32811,"Radiocarbon",5280,97.5,11450,-50,5180,5380,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PAW2',depths.file=TRUE)
+
+Bacon settings:",FALSE,54,-79.09388,-79.08573
+15191,10103,"Fort Bragg (core PAW2)",32812,"Radiocarbon",8950,130,11450,-50,8870,9030,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PAW2',depths.file=TRUE)
+
+Bacon settings:",FALSE,54,-79.09388,-79.08573
+15191,10103,"Fort Bragg (core PAW2)",32813,"Radiocarbon",8470,184,11450,-50,8370,8570,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PAW2',depths.file=TRUE)
+
+Bacon settings:",FALSE,54,-79.09388,-79.08573
+15191,10103,"Fort Bragg (core PAW2)",32814,"Radiocarbon",9150,246,11450,-50,9070,9230,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PAW2',depths.file=TRUE)
+
+Bacon settings:",FALSE,54,-79.09388,-79.08573
+15191,10103,"Fort Bragg (core PAW2)",32815,"Core top",-50,0,11450,-50,-51,-49,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PAW2',depths.file=TRUE)
+
+Bacon settings:",FALSE,54,-79.09388,-79.08573

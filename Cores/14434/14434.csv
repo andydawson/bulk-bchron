@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14434,9761,"Twelve Mile Coulee",30795,"Core top",-24,0,70,-30,-25,-23,"Neotoma 1",NA,FALSE,790,-111.68427,-111.60049
+14434,9761,"Twelve Mile Coulee",30796,"European settlement horizon",40,11,70,-30,30,50,"Neotoma 1",NA,FALSE,790,-111.68427,-111.60049

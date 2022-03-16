@@ -1,0 +1,225 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20922,13714,"East Glacier Lake",42740,"Radiocarbon",400,7,16120,-60,360,440,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('EGLACIER',thick=5,acc.mean=70,d.max=228,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+228 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+70 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3282,-106.25685,-106.25396
+20922,13714,"East Glacier Lake",42741,"Radiocarbon",1450,9,16120,-60,1410,1490,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('EGLACIER',thick=5,acc.mean=70,d.max=228,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+228 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+70 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3282,-106.25685,-106.25396
+20922,13714,"East Glacier Lake",42742,"Radiocarbon",4450,59,16120,-60,4410,4490,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('EGLACIER',thick=5,acc.mean=70,d.max=228,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+228 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+70 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3282,-106.25685,-106.25396
+20922,13714,"East Glacier Lake",42743,"Radiocarbon",5090,75,16120,-60,5050,5130,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('EGLACIER',thick=5,acc.mean=70,d.max=228,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+228 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+70 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3282,-106.25685,-106.25396
+20922,13714,"East Glacier Lake",42744,"Radiocarbon",9860,154,16120,-60,9820,9900,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('EGLACIER',thick=5,acc.mean=70,d.max=228,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+228 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+70 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3282,-106.25685,-106.25396
+20922,13714,"East Glacier Lake",42745,"Radiocarbon",12760,215,16120,-60,12720,12800,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('EGLACIER',thick=5,acc.mean=70,d.max=228,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+228 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+70 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3282,-106.25685,-106.25396
+20922,13714,"East Glacier Lake",42746,"Core top",-56,0,16120,-60,-57,-55,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('EGLACIER',thick=5,acc.mean=70,d.max=228,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+228 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+70 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3282,-106.25685,-106.25396

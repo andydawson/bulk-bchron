@@ -1,0 +1,15 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+873,844,"Giles",2529,"Core top",-34,0.5,400,-40,-35,-30,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2530,"Lead-210",-32,1,400,-40,-33,-31,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2531,"Lead-210",-19.2,4,400,-40,-20.44,-17.96,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2532,"Lead-210",-5.9,7,400,-40,-7.58,-4.22,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2533,"Lead-210",6,10,400,-40,3.69,8.31,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2534,"Lead-210",15.9,13,400,-40,12.82,18.98,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2535,"Lead-210",26.9,16,400,-40,22.64,31.16,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2536,"Lead-210",43.5,19,400,-40,36.43,50.57,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2537,"Lead-210",66.8,22,400,-40,52.32,81.28,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2538,"Lead-210",93,25,400,-40,60.33,125.67,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2539,"Lead-210",121.6,28,400,-40,42.29,200.91,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2540,"Biostratigraphic, pollen",150,43,400,-40,130,170,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2541,"Radiocarbon, calibrated",218,59,400,-40,-5,477,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756
+873,844,"Giles",2542,"Radiocarbon, calibrated",399,61,400,-40,1,653,"NAPD 2","top date of -34, one date at registered ambrosia rise, two calibrated C14 dates",FALSE,732,-75.09881,-75.08756

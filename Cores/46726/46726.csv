@@ -1,0 +1,11 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+46726,26676,"North of Clough Island",101659,"Core top",-64,0,10,-70,-64,-64,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101660,"Lead-210",-55,10,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101661,"Lead-210",-50,17,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101662,"Lead-210",-40,28,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101663,"Lead-210",-30,40,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101664,"Lead-210",-20,52.5,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101665,"Lead-210",-13,60,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101666,"Lead-210",-10,64,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101667,"Lead-210",0,75,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181
+46726,26676,"North of Clough Island",101668,"Lead-210",7,83,10,-70,NA,NA,"Neotoma 1",NA,FALSE,193,-92.1925,-92.181

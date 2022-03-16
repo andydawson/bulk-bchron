@@ -1,0 +1,466 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15635,10303,"Oldman Bog",33917,"Core top",-39,0,6500,240,-42,-35,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33918,"Radiocarbon",280,34.5,6500,240,100,460,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33919,"Radiocarbon",870,46.5,6500,240,710,1030,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33920,"Radiocarbon",990,64.5,6500,240,850,1130,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33921,"Radiocarbon",1010,71.5,6500,240,870,1150,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33922,"Radiocarbon",1520,99.5,6500,240,1380,1660,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33923,"Radiocarbon",2940,139,6500,240,2800,3080,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33924,"Radiocarbon",2010,160.5,6500,240,1870,2150,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33925,"Radiocarbon",2610,202.5,6500,240,2470,2750,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33926,"Radiocarbon",3060,257.5,6500,240,2880,3240,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33927,"Radiocarbon",3690,296,6500,240,3550,3830,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33928,"Radiocarbon",4910,352.5,6500,240,4710,5110,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33929,"Radiocarbon",5310,371.5,6500,240,5150,5470,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33930,"Radiocarbon",5980,415,6500,240,5780,6180,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371
+15635,10303,"Oldman Bog",33931,"Radiocarbon",5920,443.5,6500,240,5740,6100,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OLDMAN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+415 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,103,-84.605,-84.371

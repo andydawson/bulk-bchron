@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16046,10469,"Lower Lake",35258,"Core top",-29,0,150,-30,-29,-29,"Neotoma 1","Chron1 is based on a top date and two pollen stratigraphic dates (Eucalyptus and Rumex/Plantago).",FALSE,228,-123.30533,-123.30463
+16046,10469,"Lower Lake",35259,"Biostratigraphic, pollen",80,5,150,-30,60,100,"Neotoma 1","Chron1 is based on a top date and two pollen stratigraphic dates (Eucalyptus and Rumex/Plantago).",FALSE,228,-123.30533,-123.30463
+16046,10469,"Lower Lake",35260,"Biostratigraphic, pollen",150,20,150,-30,130,170,"Neotoma 1","Chron1 is based on a top date and two pollen stratigraphic dates (Eucalyptus and Rumex/Plantago).",FALSE,228,-123.30533,-123.30463

@@ -1,0 +1,545 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+25551,246,"Beef Pasture",57653,"Core top",-55,0,2070,-60,-56,-54,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57654,"Radiocarbon",94,18.5,2070,-60,57,131,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57655,"Radiocarbon",422,28.5,2070,-60,387,457,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57656,"Radiocarbon",426,33.5,2070,-60,389,463,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57657,"Radiocarbon",496,38.5,2070,-60,460,532,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57658,"Radiocarbon",780,49.5,2070,-60,730,830,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57659,"Radiocarbon",846,58.5,2070,-60,808,884,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57660,"Radiocarbon",914,68.5,2070,-60,880,948,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57661,"Radiocarbon",1079,78.5,2070,-60,1042,1116,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57662,"Radiocarbon",1190,84,2070,-60,1100,1280,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57663,"Radiocarbon",1342,88.5,2070,-60,1305,1379,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57664,"Radiocarbon",1567,98.5,2070,-60,1530,1604,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57665,"Radiocarbon",1743,108.5,2070,-60,1706,1780,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57666,"Radiocarbon",1740,119.5,2070,-60,1660,1820,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57667,"Radiocarbon",1914,128.5,2070,-60,1874,1954,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57668,"Radiocarbon",1929,138.5,2070,-60,1890,1968,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224
+25551,246,"Beef Pasture",57669,"Radiocarbon",2150,142.75,2070,-60,2090,2210,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BEEF2005',thick=2,acc.mean=15,d.max=144.5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3060,-108.16851,-108.15224

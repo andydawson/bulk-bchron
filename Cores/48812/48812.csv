@@ -1,0 +1,156 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48812,27281,"Benfield Lake",106639,"Radiocarbon",1086,32,5780,240,1040,1132,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BENFIELD"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+253 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,343,-92.60553,-92.60553
+48812,27281,"Benfield Lake",106640,"Radiocarbon",1871,83,5780,240,1835,1907,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BENFIELD"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+253 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,343,-92.60553,-92.60553
+48812,27281,"Benfield Lake",106641,"Radiocarbon",2468,123,5780,240,2432,2504,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BENFIELD"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+253 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,343,-92.60553,-92.60553
+48812,27281,"Benfield Lake",106643,"Core top",-55,0,5780,240,-55,-55,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BENFIELD"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+253 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,343,-92.60553,-92.60553
+48812,27281,"Benfield Lake",106642,"Radiocarbon",5046,253,5780,240,5002,5090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BENFIELD"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+253 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,343,-92.60553,-92.60553

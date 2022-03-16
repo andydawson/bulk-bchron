@@ -1,0 +1,67 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48893,27313,"Partridge Lake",106882,"Core top",-50,0,450,-30,-50,-50,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""PARTRDG0"")
+
+Bacon settings: 
+0 #d.min
+87 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,301,-88.00947,-88.00947
+48893,27313,"Partridge Lake",106883,"Radiocarbon",480,87,450,-30,440,520,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""PARTRDG0"")
+
+Bacon settings: 
+0 #d.min
+87 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,301,-88.00947,-88.00947

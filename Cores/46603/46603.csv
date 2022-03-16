@@ -1,0 +1,301 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+46603,26632,"Baldwin Lake",99487,"Radiocarbon",10010,152,103710,14600,9690,10330,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99488,"Radiocarbon",21150,262,103710,14600,20340,21960,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99489,"Radiocarbon",25170,389,103710,14600,24890,25450,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99490,"Radiocarbon",25990,440,103710,14600,25850,26130,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99491,"Radiocarbon",27240,529,103710,14600,27060,27420,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99492,"Radiocarbon",35710,745,103710,14600,34920,36500,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99493,"Radiocarbon",41010,815,103710,14600,40310,41710,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99494,"Infrared Stimulated Luminescence (IRSL)",87800,2075,103710,14600,81700,93900,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99495,"Infrared Stimulated Luminescence (IRSL)",109000,2570,103710,14600,101000,117000,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319
+46603,26632,"Baldwin Lake",99496,"Infrared Stimulated Luminescence (IRSL)",124000,2700,103710,14600,116000,132000,"Glover et al., 2020","Bacon 2.2 used IntCal13
+This age model is untuned, in contrast to the one used in a prior publication (Glover et al., 2017)
+
+Bacon settings file:
+0 #d.min
+2700 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2060,-116.81963,-116.79319

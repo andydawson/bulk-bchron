@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+20001,13377,"Crocker Lake",39974,"Core top",-43,0,12300,-43,NA,NA,"Gavin & Brubaker 2015",NA,FALSE,54,-122.8844,-122.87723
+20001,13377,"Crocker Lake",39975,"Radiocarbon",1780,205,12300,-43,1710,1850,"Gavin & Brubaker 2015",NA,FALSE,54,-122.8844,-122.87723
+20001,13377,"Crocker Lake",39976,"Radiocarbon",4760,455,12300,-43,4680,4840,"Gavin & Brubaker 2015",NA,FALSE,54,-122.8844,-122.87723
+20001,13377,"Crocker Lake",39977,"Tephra",7627,613.5,12300,-43,7477,7777,"Gavin & Brubaker 2015",NA,FALSE,54,-122.8844,-122.87723
+20001,13377,"Crocker Lake",39978,"Biostratigraphic, pollen",11600,900,12300,-43,11700,NA,"Gavin & Brubaker 2015",NA,FALSE,54,-122.8844,-122.87723
+20001,13377,"Crocker Lake",39979,"Radiocarbon",10420,1174,12300,-43,10360,10480,"Gavin & Brubaker 2015",NA,FALSE,54,-122.8844,-122.87723

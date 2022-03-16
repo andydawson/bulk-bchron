@@ -1,0 +1,193 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14951,10000,"Bear Lake",87358,"Core top",-45,197,13460,130,-46,-44,"SKOPE","Based on IntCal13 calibration curve. A hiatus was set at 804.5 cm to account for the kink in accumulation rate. 
+
+Bacon command line:
+Bacon(""BEARAZ"",thick=10,acc.mean=c(20,2),hiatus.depths=804.5,hiatus.mean=2,d.max=999,depths.file=TRUE)
+
+Bacon settings file:
+197 #d.min
+999 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 2 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+804.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2778,-112.14744,-112.14691
+14951,10000,"Bear Lake",87359,"Radiocarbon",3830,312.5,13460,130,3770,3890,"SKOPE","Based on IntCal13 calibration curve. A hiatus was set at 804.5 cm to account for the kink in accumulation rate. 
+
+Bacon command line:
+Bacon(""BEARAZ"",thick=10,acc.mean=c(20,2),hiatus.depths=804.5,hiatus.mean=2,d.max=999,depths.file=TRUE)
+
+Bacon settings file:
+197 #d.min
+999 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 2 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+804.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2778,-112.14744,-112.14691
+14951,10000,"Bear Lake",87360,"Radiocarbon",6590,605.5,13460,130,6530,6650,"SKOPE","Based on IntCal13 calibration curve. A hiatus was set at 804.5 cm to account for the kink in accumulation rate. 
+
+Bacon command line:
+Bacon(""BEARAZ"",thick=10,acc.mean=c(20,2),hiatus.depths=804.5,hiatus.mean=2,d.max=999,depths.file=TRUE)
+
+Bacon settings file:
+197 #d.min
+999 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 2 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+804.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2778,-112.14744,-112.14691
+14951,10000,"Bear Lake",87361,"Radiocarbon",8770,680.5,13460,130,8700,8840,"SKOPE","Based on IntCal13 calibration curve. A hiatus was set at 804.5 cm to account for the kink in accumulation rate. 
+
+Bacon command line:
+Bacon(""BEARAZ"",thick=10,acc.mean=c(20,2),hiatus.depths=804.5,hiatus.mean=2,d.max=999,depths.file=TRUE)
+
+Bacon settings file:
+197 #d.min
+999 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 2 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+804.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2778,-112.14744,-112.14691
+14951,10000,"Bear Lake",87362,"Radiocarbon",10990,804.5,13460,130,10930,11050,"SKOPE","Based on IntCal13 calibration curve. A hiatus was set at 804.5 cm to account for the kink in accumulation rate. 
+
+Bacon command line:
+Bacon(""BEARAZ"",thick=10,acc.mean=c(20,2),hiatus.depths=804.5,hiatus.mean=2,d.max=999,depths.file=TRUE)
+
+Bacon settings file:
+197 #d.min
+999 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 2 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+804.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2778,-112.14744,-112.14691
+14951,10000,"Bear Lake",87363,"Radiocarbon",11560,1000.5,13460,130,11500,11620,"SKOPE","Based on IntCal13 calibration curve. A hiatus was set at 804.5 cm to account for the kink in accumulation rate. 
+
+Bacon command line:
+Bacon(""BEARAZ"",thick=10,acc.mean=c(20,2),hiatus.depths=804.5,hiatus.mean=2,d.max=999,depths.file=TRUE)
+
+Bacon settings file:
+197 #d.min
+999 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 2 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+804.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2778,-112.14744,-112.14691

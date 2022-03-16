@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+7844,6487,"Roberts Creek CCEH-1",5959,"Radiocarbon",5060,12,5200,4920,4920,5200,"NAPD 1",NA,FALSE,308,-91.50028,42.98611

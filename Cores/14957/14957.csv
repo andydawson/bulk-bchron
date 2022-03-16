@@ -1,0 +1,289 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14957,10003,"Appleman Lake",94047,"Radiocarbon",7310,618.5,18260,8180,7260,7360,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764
+14957,10003,"Appleman Lake",94048,"Radiocarbon",7600,627.5,18260,8180,7560,7640,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764
+14957,10003,"Appleman Lake",94049,"Radiocarbon",10550,796.5,18260,8180,10440,10660,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764
+14957,10003,"Appleman Lake",94050,"Radiocarbon",11070,796.5,18260,8180,10930,11210,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764
+14957,10003,"Appleman Lake",94051,"Radiocarbon",10137,797.5,18260,8180,10067,10207,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764
+14957,10003,"Appleman Lake",94052,"Radiocarbon",10430,818.5,18260,8180,10290,10570,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764
+14957,10003,"Appleman Lake",94053,"Radiocarbon",12330,830.5,18260,8180,12290,12370,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764
+14957,10003,"Appleman Lake",94054,"Radiocarbon",12530,848.5,18260,8180,12380,12680,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764
+14957,10003,"Appleman Lake",94055,"Radiocarbon",12580,848.5,18260,8180,12470,12690,"Jensen et al.","Jensen et al. 2019 (in prep)
+
+606.5 #d.min
+1082.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A.Jensen. Data entered and uploaded by A.Jensen.  
+This chronology run for both pollen and charcoal data; charcoal data were added after Neotoma1 age model created.",FALSE,294,-85.21653,-85.20764

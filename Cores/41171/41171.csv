@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41171,23775,"Hinman Lake",81606,"Lead-210",-28.2,16,1510,-50,-28.88,-27.52,"Calder et al. 2015","Based on IntCal13 calibration curve",FALSE,2501,-106.82932,-106.82586
+41171,23775,"Hinman Lake",81607,"Lead-210",3,20,1510,-50,2.06,3.94,"Calder et al. 2015","Based on IntCal13 calibration curve",FALSE,2501,-106.82932,-106.82586
+41171,23775,"Hinman Lake",81608,"Lead-210",62.6,24,1510,-50,60.03,65.17,"Calder et al. 2015","Based on IntCal13 calibration curve",FALSE,2501,-106.82932,-106.82586
+41171,23775,"Hinman Lake",81609,"Lead-210",131.5,26,1510,-50,119.28,143.72,"Calder et al. 2015","Based on IntCal13 calibration curve",FALSE,2501,-106.82932,-106.82586
+41171,23775,"Hinman Lake",81610,"Radiocarbon",1085,69.5,1510,-50,1070,1100,"Calder et al. 2015","Based on IntCal13 calibration curve",FALSE,2501,-106.82932,-106.82586
+41171,23775,"Hinman Lake",81611,"Radiocarbon",1315,88.5,1510,-50,1295,1335,"Calder et al. 2015","Based on IntCal13 calibration curve",FALSE,2501,-106.82932,-106.82586
+41171,23775,"Hinman Lake",81612,"Radiocarbon",1820,95,1510,-50,1805,1835,"Calder et al. 2015","Based on IntCal13 calibration curve",FALSE,2501,-106.82932,-106.82586
+41171,23775,"Hinman Lake",81613,"Core top",-62,11,1510,-50,-63,-61,"Calder et al. 2015","Based on IntCal13 calibration curve",FALSE,2501,-106.82932,-106.82586

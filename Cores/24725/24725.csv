@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+24725,16025,"Corpus Christi Bay",NA,NA,NA,NA,11290,1620,NA,NA,"Author provided","Age model and dates are as yet unpublished for this particular dataset. Author provided age model.",FALSE,-10,-97.38419,-97.30453

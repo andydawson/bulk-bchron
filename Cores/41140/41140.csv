@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41140,23763,"Gem Lake",87432,"Core top",-62,4.5,1440,-30,-63,-61,"Calder et al. 2015",NA,FALSE,3101,-106.7355,-106.73256
+41140,23763,"Gem Lake",87433,"Radiocarbon",595,31.25,1440,-30,570,620,"Calder et al. 2015",NA,FALSE,3101,-106.7355,-106.73256
+41140,23763,"Gem Lake",87434,"Radiocarbon",785,54.75,1440,-30,760,810,"Calder et al. 2015",NA,FALSE,3101,-106.7355,-106.73256
+41140,23763,"Gem Lake",87435,"Radiocarbon",1170,74.75,1440,-30,1150,1190,"Calder et al. 2015",NA,FALSE,3101,-106.7355,-106.73256
+41140,23763,"Gem Lake",87436,"Radiocarbon",1640,100.25,1440,-30,1620,1660,"Calder et al. 2015",NA,FALSE,3101,-106.7355,-106.73256

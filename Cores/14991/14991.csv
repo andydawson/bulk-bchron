@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14991,10017,"Lake Louise",32037,"Core top",-49,0,1370,-50,-50,-48,"Neotoma1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOUISEMB',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+64 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,240,-97.23214,-97.22772
+14991,10017,"Lake Louise",32038,"European settlement horizon",70,30,1370,-50,20,120,"Neotoma1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOUISEMB',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+64 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,240,-97.23214,-97.22772
+14991,10017,"Lake Louise",32039,"Radiocarbon",1604,64,1370,-50,1524,1684,"Neotoma1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOUISEMB',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+64 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,240,-97.23214,-97.22772

@@ -1,0 +1,436 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14803,9947,"Burnt Knob Lake",31629,"Core top",-50,0,14660,-40,-52,-48,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31630,"Historical fire",67,8,14660,-40,66,68,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31631,"Historical fire",131,23,14660,-40,130,312,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31632,"Historical fire",370,32,14660,-40,368,372,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31633,"Historical fire",423,39,14660,-40,418,428,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31634,"Radiocarbon",2220,70.5,14660,-40,2175,2265,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31635,"Radiocarbon",3795,104.5,14660,-40,3715,3875,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31636,"Radiocarbon",4485,135.5,14660,-40,4435,4535,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31637,"Radiocarbon",5915,181,14660,-40,5860,5970,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31638,"Radiocarbon",6830,207,14660,-40,6735,6925,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31639,"Tephra",7627,213,14660,-40,7477,7777,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31640,"Radiocarbon",8300,240,14660,-40,8200,8400,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31641,"Radiocarbon",10270,314,14660,-40,10190,10350,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31642,"Tephra",11600,332,14660,-40,11550,11650,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216
+14803,9947,"Burnt Knob Lake",31643,"Radiocarbon",11922,340,14660,-40,11839,12005,"Neotoma 1","Based on the IntCal13 calibration curve.
+Bacon command line: Bacon('BURNTKNB',acc.mean=50,depths.file=TRUE)
+Bacon settings file:
+0 #d.min
+340 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2250,-114.98364,-114.98216

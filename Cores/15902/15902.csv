@@ -1,0 +1,156 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15902,10421,"Woods Lake",41455,"Radiocarbon",1604,19.5,13840,20,1568,1640,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon('WOODSBC',thick=5,acc.mean=50,d.max=282,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+282 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-127.27054,-127.26811
+15902,10421,"Woods Lake",41456,"Radiocarbon",3758,110,13840,20,3729,3787,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon('WOODSBC',thick=5,acc.mean=50,d.max=282,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+282 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-127.27054,-127.26811
+15902,10421,"Woods Lake",41457,"Radiocarbon",7176,143.5,13840,20,7132,7220,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon('WOODSBC',thick=5,acc.mean=50,d.max=282,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+282 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-127.27054,-127.26811
+15902,10421,"Woods Lake",41458,"Radiocarbon",11820,268.5,13840,20,11730,11910,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon('WOODSBC',thick=5,acc.mean=50,d.max=282,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+282 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-127.27054,-127.26811
+15902,10421,"Woods Lake",41459,"Core top",-53,0,13840,20,-56,-50,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon('WOODSBC',thick=5,acc.mean=50,d.max=282,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+282 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-127.27054,-127.26811

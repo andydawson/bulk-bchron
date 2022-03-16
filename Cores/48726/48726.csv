@@ -1,0 +1,187 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+48726,27242,"Forestdale Valley",106389,"Radiocarbon",518,125,760,10,454,582,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""FOREST10"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+303 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1830,-110.11945,-110.11945
+48726,27242,"Forestdale Valley",106391,"Radiocarbon",672,248,760,10,637,707,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""FOREST10"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+303 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1830,-110.11945,-110.11945
+48726,27242,"Forestdale Valley",106390,"Radiocarbon",619,183,760,10,581,657,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""FOREST10"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+303 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1830,-110.11945,-110.11945
+48726,27242,"Forestdale Valley",106388,"Radiocarbon",371,33,760,10,337,405,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""FOREST10"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+303 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1830,-110.11945,-110.11945
+48726,27242,"Forestdale Valley",106393,"Core top",-55,0,760,10,-55,-55,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""FOREST10"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+303 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1830,-110.11945,-110.11945
+48726,27242,"Forestdale Valley",106392,"Radiocarbon",800,303,760,10,703,897,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""FOREST10"",depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+303 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1830,-110.11945,-110.11945

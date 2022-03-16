@@ -1,0 +1,63 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41374,23866,"Old Crow Flats (Core VB)",83198,"Radiocarbon",NA,76,1090,120,880,1140,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OCFVB',d.max=98,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+98 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,299,-139.31373,-139.17777
+41374,23866,"Old Crow Flats (Core VB)",83199,"Core top",-31,0,1090,120,-31,-31,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OCFVB',d.max=98,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+98 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,299,-139.31373,-139.17777

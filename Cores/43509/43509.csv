@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+43509,24469,"Holly Ruin Group",92633,"North American archaeological time scale",NA,NA,1200,600,600,800,"Weir 1976",NA,FALSE,1624,-109.0425,-109.04052
+43509,24469,"Holly Ruin Group",92634,"North American archaeological time scale",NA,NA,1200,600,1050,1200,"Weir 1976",NA,FALSE,1624,-109.0425,-109.04052

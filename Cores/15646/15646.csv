@@ -1,0 +1,11 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15646,10309,"Bluff Lake",33942,"Core top",-45,0,13450,260,-45,-45,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33943,"Radiocarbon",1720,37,13450,260,1670,1770,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33944,"Radiocarbon",2720,66,13450,260,2660,2780,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33945,"Radiocarbon",4220,113,13450,260,4165,4275,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33946,"Radiocarbon",5675,141,13450,260,5620,5730,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33947,"Radiocarbon",7960,193,13450,260,7860,8060,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33948,"Radiocarbon",9025,227,13450,260,8955,9095,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33949,"Radiocarbon",9940,313,13450,260,9865,10015,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33950,"Radiocarbon",11550,364,13450,260,11460,11640,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884
+15646,10309,"Bluff Lake",33951,"Radiocarbon",NA,371,13450,260,NA,NA,"Neotoma 1","Chron1 is based on a top age and eight C14 dates. Date at 371 cm was rejected.",FALSE,1926,-122.5609,-122.55884

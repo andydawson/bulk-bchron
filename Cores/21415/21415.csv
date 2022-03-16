@@ -1,0 +1,225 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+21415,13920,"Newark Valley Pond",44938,"Radiocarbon",4770,100.5,22440,-60,4720,4820,"Neotoma 1","Based on IntCal13 calibration curve. Set a 2-yr at hiatus at 20.5 cm to force the memory to zero to account for the post-Eurosettlement kink in accumulation rate.
+
+Bacon command line:
+Bacon('NEWARKVP',thick=5,acc.mean=c(10,50),hiatus.depths=20.5,hiatus.mean=2,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+340.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+20.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1750,-115.77536,-115.7726
+21415,13920,"Newark Valley Pond",44939,"Radiocarbon",150,20.5,22440,-60,110,190,"Neotoma 1","Based on IntCal13 calibration curve. Set a 2-yr at hiatus at 20.5 cm to force the memory to zero to account for the post-Eurosettlement kink in accumulation rate.
+
+Bacon command line:
+Bacon('NEWARKVP',thick=5,acc.mean=c(10,50),hiatus.depths=20.5,hiatus.mean=2,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+340.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+20.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1750,-115.77536,-115.7726
+21415,13920,"Newark Valley Pond",44940,"Radiocarbon",650,31.5,22440,-60,610,690,"Neotoma 1","Based on IntCal13 calibration curve. Set a 2-yr at hiatus at 20.5 cm to force the memory to zero to account for the post-Eurosettlement kink in accumulation rate.
+
+Bacon command line:
+Bacon('NEWARKVP',thick=5,acc.mean=c(10,50),hiatus.depths=20.5,hiatus.mean=2,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+340.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+20.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1750,-115.77536,-115.7726
+21415,13920,"Newark Valley Pond",44941,"Radiocarbon",1200,42.5,22440,-60,1160,1240,"Neotoma 1","Based on IntCal13 calibration curve. Set a 2-yr at hiatus at 20.5 cm to force the memory to zero to account for the post-Eurosettlement kink in accumulation rate.
+
+Bacon command line:
+Bacon('NEWARKVP',thick=5,acc.mean=c(10,50),hiatus.depths=20.5,hiatus.mean=2,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+340.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+20.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1750,-115.77536,-115.7726
+21415,13920,"Newark Valley Pond",44942,"Radiocarbon",4170,70.5,22440,-60,4130,4210,"Neotoma 1","Based on IntCal13 calibration curve. Set a 2-yr at hiatus at 20.5 cm to force the memory to zero to account for the post-Eurosettlement kink in accumulation rate.
+
+Bacon command line:
+Bacon('NEWARKVP',thick=5,acc.mean=c(10,50),hiatus.depths=20.5,hiatus.mean=2,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+340.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+20.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1750,-115.77536,-115.7726
+21415,13920,"Newark Valley Pond",44943,"Core top",-51,0,22440,-60,-52,-50,"Neotoma 1","Based on IntCal13 calibration curve. Set a 2-yr at hiatus at 20.5 cm to force the memory to zero to account for the post-Eurosettlement kink in accumulation rate.
+
+Bacon command line:
+Bacon('NEWARKVP',thick=5,acc.mean=c(10,50),hiatus.depths=20.5,hiatus.mean=2,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+340.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+20.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1750,-115.77536,-115.7726
+21415,13920,"Newark Valley Pond",44944,"Radiocarbon",NA,340.5,22440,-60,NA,NA,"Neotoma 1","Based on IntCal13 calibration curve. Set a 2-yr at hiatus at 20.5 cm to force the memory to zero to account for the post-Eurosettlement kink in accumulation rate.
+
+Bacon command line:
+Bacon('NEWARKVP',thick=5,acc.mean=c(10,50),hiatus.depths=20.5,hiatus.mean=2,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+340.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 50 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+20.5 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1750,-115.77536,-115.7726

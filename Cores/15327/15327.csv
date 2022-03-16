@@ -1,0 +1,16 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15327,10172,"Black Gum Swamp",33337,"Core top",-54,0,13990,10290,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKGMS',thick=10,depths.file=TRUE)
+
+Bacon settings:",FALSE,358,-72.1862,-72.1796
+15327,10172,"Black Gum Swamp",33338,"Radiocarbon",9580,295,13990,10290,9530,9630,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKGMS',thick=10,depths.file=TRUE)
+
+Bacon settings:",FALSE,358,-72.1862,-72.1796
+15327,10172,"Black Gum Swamp",33339,"Radiocarbon",12190,403.5,13990,10290,12130,12250,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKGMS',thick=10,depths.file=TRUE)
+
+Bacon settings:",FALSE,358,-72.1862,-72.1796

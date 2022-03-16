@@ -1,0 +1,99 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2394,2310,"Siseebakwet South",77826,"Core top",-32,0,100,-10,-37,-27,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(SISEEBA, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)
+
+Bacon settings file:
+0 #d.min
+41 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,436,-93.68333,47.13333
+2394,2310,"Siseebakwet South",77827,"Pre-EuroAmerican settlement horizon",81,41,100,-10,31,131,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(SISEEBA, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)
+
+Bacon settings file:
+0 #d.min
+41 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,436,-93.68333,47.13333

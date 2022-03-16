@@ -1,0 +1,652 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16075,10483,"Grass Lake",35306,"Core top",-41,0,35480,450,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35307,"Tephra",NA,1390,35480,450,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35308,"Tephra",71500,1639,35480,450,65000,78000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35309,"Radiocarbon",6640,143.5,35480,450,6570,6710,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35310,"Radiocarbon",3640,292.5,35480,450,3570,3710,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35311,"Radiocarbon",18980,324,35480,450,18900,19060,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35312,"Radiocarbon",15310,369.5,35480,450,15220,15400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35313,"Radiocarbon",23510,383.5,35480,450,23380,23640,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35314,"Radiocarbon",12810,409.5,35480,450,12700,12920,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35315,"Radiocarbon",16160,485.5,35480,450,15990,16330,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35316,"Radiocarbon",15680,556.5,35480,450,15590,15770,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35317,"Radiocarbon",24720,563,35480,450,24560,24880,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35318,"Radiocarbon",15710,572,35480,450,15040,16380,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35319,"Radiocarbon",19840,612.5,35480,450,19760,19920,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35320,"Radiocarbon",22990,630,35480,450,22580,23400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35321,"Radiocarbon",27690,657.5,35480,450,27500,27880,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35322,"Radiocarbon",25640,675,35480,450,25060,26220,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35323,"Radiocarbon",28010,710.5,35480,450,27810,28210,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35324,"Radiocarbon",24550,765,35480,450,24400,24700,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35325,"Radiocarbon",29490,875,35480,450,29040,29940,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378
+16075,10483,"Grass Lake",35326,"Radiocarbon",29080,877.5,35480,450,28880,29280,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRASSCA',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1639 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1537,-122.1965,-122.1378

@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15967,10449,"Stoneman Lake",104634,"Radiocarbon",1500,52,10200,-65,1390,1610,"Wang et al. 2019",NA,FALSE,2047,-111.52408,-111.51147
+15967,10449,"Stoneman Lake",104635,"Radiocarbon",1220,42,10200,-65,1120,1320,"Wang et al. 2019",NA,FALSE,2047,-111.52408,-111.51147
+15967,10449,"Stoneman Lake",104636,"Radiocarbon",730,93,10200,-65,650,810,"Wang et al. 2019",NA,FALSE,2047,-111.52408,-111.51147
+15967,10449,"Stoneman Lake",104637,"Radiocarbon",2090,112.5,10200,-65,2020,2160,"Wang et al. 2019",NA,FALSE,2047,-111.52408,-111.51147
+15967,10449,"Stoneman Lake",104638,"Radiocarbon",4600,132.5,10200,-65,4470,4730,"Wang et al. 2019",NA,FALSE,2047,-111.52408,-111.51147
+15967,10449,"Stoneman Lake",104639,"Radiocarbon",6260,152.5,10200,-65,6170,6350,"Wang et al. 2019",NA,FALSE,2047,-111.52408,-111.51147
+15967,10449,"Stoneman Lake",104640,"Radiocarbon",8450,187,10200,-65,8320,8580,"Wang et al. 2019",NA,FALSE,2047,-111.52408,-111.51147
+15967,10449,"Stoneman Lake",104641,"Core top",-42,0,10200,-65,-44,-40,"Wang et al. 2019",NA,FALSE,2047,-111.52408,-111.51147

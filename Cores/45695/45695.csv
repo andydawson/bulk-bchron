@@ -1,0 +1,249 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+45695,26209,"Triangle Lake Bog",94056,"Radiocarbon",4015,215.5,16770,9250,4000,4030,"Jensen et al. 2019 (in prep)","Jensen et al. 2019 (in prep)
+
+215.5 #d.min
+1301.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A. Jensen. Data entered and uploaded by A. Jensen.",FALSE,330,-81.26195,-81.26072
+45695,26209,"Triangle Lake Bog",94057,"Radiocarbon",9275,672.5,16770,9250,9255,9295,"Jensen et al. 2019 (in prep)","Jensen et al. 2019 (in prep)
+
+215.5 #d.min
+1301.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A. Jensen. Data entered and uploaded by A. Jensen.",FALSE,330,-81.26195,-81.26072
+45695,26209,"Triangle Lake Bog",94058,"Radiocarbon",10200,814.5,16770,9250,9930,10470,"Jensen et al. 2019 (in prep)","Jensen et al. 2019 (in prep)
+
+215.5 #d.min
+1301.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A. Jensen. Data entered and uploaded by A. Jensen.",FALSE,330,-81.26195,-81.26072
+45695,26209,"Triangle Lake Bog",94059,"Radiocarbon",10750,900,16770,9250,10725,10775,"Jensen et al. 2019 (in prep)","Jensen et al. 2019 (in prep)
+
+215.5 #d.min
+1301.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A. Jensen. Data entered and uploaded by A. Jensen.",FALSE,330,-81.26195,-81.26072
+45695,26209,"Triangle Lake Bog",94060,"Radiocarbon",12370,963.5,16770,9250,12340,12400,"Jensen et al. 2019 (in prep)","Jensen et al. 2019 (in prep)
+
+215.5 #d.min
+1301.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A. Jensen. Data entered and uploaded by A. Jensen.",FALSE,330,-81.26195,-81.26072
+45695,26209,"Triangle Lake Bog",94061,"Radiocarbon",12600,1085.5,16770,9250,12130,13070,"Jensen et al. 2019 (in prep)","Jensen et al. 2019 (in prep)
+
+215.5 #d.min
+1301.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A. Jensen. Data entered and uploaded by A. Jensen.",FALSE,330,-81.26195,-81.26072
+45695,26209,"Triangle Lake Bog",94062,"Radiocarbon",14310,1260.5,16770,9250,14280,14340,"Jensen et al. 2019 (in prep)","Jensen et al. 2019 (in prep)
+
+215.5 #d.min
+1301.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A. Jensen. Data entered and uploaded by A. Jensen.",FALSE,330,-81.26195,-81.26072
+45695,26209,"Triangle Lake Bog",94063,"Radiocarbon",14220,1301.5,16770,9250,14190,14250,"Jensen et al. 2019 (in prep)","Jensen et al. 2019 (in prep)
+
+215.5 #d.min
+1301.5 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by A. Jensen. Data entered and uploaded by A. Jensen.",FALSE,330,-81.26195,-81.26072

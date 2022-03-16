@@ -1,0 +1,577 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+42161,24132,"Unit Lake",86408,"Core top",-53,0,7980,-60,-54,-52,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86409,"Lead-210",-30,4,7980,-60,-30.98,-29.02,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86410,"Lead-210",2,6,7980,-60,1.15,2.85,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86411,"Lead-210",17,7,7980,-60,15.97,18.03,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86412,"Lead-210",33,8,7980,-60,31.8,34.2,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86413,"Lead-210",68,9,7980,-60,66.45,69.55,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86414,"Lead-210",94,10,7980,-60,91.49,96.51,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86415,"Lead-210",124,11,7980,-60,118.71,129.29,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86416,"Lead-210",147,12,7980,-60,137.71,156.29,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86417,"Lead-210",179,13,7980,-60,161.6,196.4,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86418,"Radiocarbon",1070,28,7980,-60,1030,1110,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86419,"Radiocarbon",2120,98,7980,-60,2070,2170,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86420,"Radiocarbon",2350,106,7980,-60,2290,2410,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86421,"Radiocarbon",2650,131,7980,-60,2605,2695,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86422,"Radiocarbon",3180,157,7980,-60,3135,3225,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86423,"Radiocarbon",3795,217.5,7980,-60,3755,3835,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86424,"Radiocarbon",4815,271,7980,-60,4775,4855,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311
+42161,24132,"Unit Lake",86425,"Radiocarbon",7050,362,7980,-60,6910,7190,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""UNITLAKE"",thick=5,acc.mean=20,d.max=397,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+397 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,294,-97.4968,-97.48311

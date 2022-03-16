@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+14792,9942,"Yahoo Lake",31590,"Core top",-43,0,13790,300,-44,-42,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('YAHOO',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+408 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,709,-124.02015,-124.01702
+14792,9942,"Yahoo Lake",31591,"Radiocarbon",3620,110,13790,300,3570,3670,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('YAHOO',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+408 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,709,-124.02015,-124.01702
+14792,9942,"Yahoo Lake",31592,"Radiocarbon",5845,198.5,13790,300,5785,5905,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('YAHOO',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+408 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,709,-124.02015,-124.01702
+14792,9942,"Yahoo Lake",31593,"Tephra",7627,230.5,13790,300,7477,7777,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('YAHOO',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+408 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,709,-124.02015,-124.01702
+14792,9942,"Yahoo Lake",31594,"Radiocarbon",8175,294,13790,300,8065,8285,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('YAHOO',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+408 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,709,-124.02015,-124.01702
+14792,9942,"Yahoo Lake",31595,"Radiocarbon",9980,356.5,13790,300,9865,10095,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('YAHOO',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+408 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,709,-124.02015,-124.01702
+14792,9942,"Yahoo Lake",31596,"Radiocarbon",11915,408,13790,300,11820,12010,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('YAHOO',depths.file=TRUE)
+
+Bacon settings:
+0 #d.min
+408 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,709,-124.02015,-124.01702

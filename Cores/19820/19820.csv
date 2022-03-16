@@ -1,0 +1,57 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+19820,13290,"Killebrew Lake Fen",39708,"Core top",-31,0,12650,220,-32,-30,"Leopold et al. 2016","Based on the IntCal13 calibration curve.
+
+Bacon priors:
+thick = 20
+acc.mean = 10
+acc.shape = 1.5
+mem.strength = 4
+mem.mean = 0.7",FALSE,88,-122.90448,-122.89842
+19820,13290,"Killebrew Lake Fen",39709,"Radiocarbon",2420,407.5,12650,220,2340,2500,"Leopold et al. 2016","Based on the IntCal13 calibration curve.
+
+Bacon priors:
+thick = 20
+acc.mean = 10
+acc.shape = 1.5
+mem.strength = 4
+mem.mean = 0.7",FALSE,88,-122.90448,-122.89842
+19820,13290,"Killebrew Lake Fen",39710,"Tephra",7627,805,12650,220,7477,7777,"Leopold et al. 2016","Based on the IntCal13 calibration curve.
+
+Bacon priors:
+thick = 20
+acc.mean = 10
+acc.shape = 1.5
+mem.strength = 4
+mem.mean = 0.7",FALSE,88,-122.90448,-122.89842
+19820,13290,"Killebrew Lake Fen",39711,"Radiocarbon",8670,907.5,12650,220,8600,8740,"Leopold et al. 2016","Based on the IntCal13 calibration curve.
+
+Bacon priors:
+thick = 20
+acc.mean = 10
+acc.shape = 1.5
+mem.strength = 4
+mem.mean = 0.7",FALSE,88,-122.90448,-122.89842
+19820,13290,"Killebrew Lake Fen",39712,"Radiocarbon",9610,1015.5,12650,220,9540,9680,"Leopold et al. 2016","Based on the IntCal13 calibration curve.
+
+Bacon priors:
+thick = 20
+acc.mean = 10
+acc.shape = 1.5
+mem.strength = 4
+mem.mean = 0.7",FALSE,88,-122.90448,-122.89842
+19820,13290,"Killebrew Lake Fen",39713,"Radiocarbon",10180,1107.5,12650,220,10120,10240,"Leopold et al. 2016","Based on the IntCal13 calibration curve.
+
+Bacon priors:
+thick = 20
+acc.mean = 10
+acc.shape = 1.5
+mem.strength = 4
+mem.mean = 0.7",FALSE,88,-122.90448,-122.89842
+19820,13290,"Killebrew Lake Fen",39714,"Radiocarbon",11020,1208.5,12650,220,10950,11090,"Leopold et al. 2016","Based on the IntCal13 calibration curve.
+
+Bacon priors:
+thick = 20
+acc.mean = 10
+acc.shape = 1.5
+mem.strength = 4
+mem.mean = 0.7",FALSE,88,-122.90448,-122.89842

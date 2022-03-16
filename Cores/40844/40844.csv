@@ -1,0 +1,20 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+40844,23609,"Deep-Taunton Pond",79797,"Core top",-63,0,13400,120,-63,-63,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79798,"European settlement horizon",313,64.5,13400,120,313,313,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79799,"Radiocarbon",1660,172.5,13400,120,1635,1685,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79800,"Radiocarbon",2360,232.5,13400,120,2335,2385,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79801,"Radiocarbon",2280,274.5,13400,120,2255,2305,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79802,"Radiocarbon",3020,348.5,13400,120,2990,3050,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79803,"Radiocarbon",3490,420.5,13400,120,3465,3515,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79804,"Radiocarbon",4110,474.5,13400,120,4085,4135,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79805,"Radiocarbon",4510,554.5,13400,120,4480,4540,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79806,"Radiocarbon",5640,650.5,13400,120,5615,5665,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79807,"Radiocarbon",6140,676.5,13400,120,6110,6170,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79808,"Radiocarbon",6690,692.5,13400,120,6660,6720,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79809,"Radiocarbon",6720,730.5,13400,120,6675,6765,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79810,"Radiocarbon",8620,800.5,13400,120,8585,8655,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79811,"Radiocarbon",9050,892.5,13400,120,9010,9090,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79812,"Radiocarbon",9150,946.5,13400,120,9100,9200,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79813,"Radiocarbon",9640,1004.5,13400,120,9590,9690,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79814,"Radiocarbon",9800,1030.5,13400,120,9750,9850,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107
+40844,23609,"Deep-Taunton Pond",79815,"Radiocarbon",13400,1122.5,13400,120,13325,13475,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,4,-71.0133,-71.0107

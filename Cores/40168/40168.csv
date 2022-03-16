@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+40168,2520,"Stotzel-Leis Site",77686,"Radiocarbon",6990,122,18657,39,6965,7015,"Neotoma 1",NA,FALSE,309,-84.68944,40.21667
+40168,2520,"Stotzel-Leis Site",77687,"Radiocarbon",9440,465.5,18657,39,9410,9470,"Neotoma 1",NA,FALSE,309,-84.68944,40.21667
+40168,2520,"Stotzel-Leis Site",77688,"Radiocarbon",9390,469.5,18657,39,9350,9430,"Neotoma 1",NA,FALSE,309,-84.68944,40.21667
+40168,2520,"Stotzel-Leis Site",77689,"Radiocarbon",9820,542.5,18657,39,9785,9855,"Neotoma 1",NA,FALSE,309,-84.68944,40.21667
+40168,2520,"Stotzel-Leis Site",77690,"Radiocarbon",13250,769,18657,39,13215,13285,"Neotoma 1",NA,FALSE,309,-84.68944,40.21667
+40168,2520,"Stotzel-Leis Site",77691,"Radiocarbon",13500,866,18657,39,13460,13540,"Neotoma 1",NA,FALSE,309,-84.68944,40.21667
+40168,2520,"Stotzel-Leis Site",77692,"Radiocarbon",15450,1028,18657,39,15405,15495,"Neotoma 1",NA,FALSE,309,-84.68944,40.21667
+40168,2520,"Stotzel-Leis Site",77693,"Core top",-64,0,18657,39,-65,-63,"Neotoma 1",NA,FALSE,309,-84.68944,40.21667

@@ -1,0 +1,11 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41025,23713,"Ware Pond",80714,"Core top",-64,0,11220,-70,-64,-64,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80715,"European settlement horizon",225,170.5,11220,-70,225,225,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80716,"Radiocarbon",1170,250.5,11220,-70,1150,1190,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80717,"Radiocarbon",2410,370.5,11220,-70,2390,2430,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80718,"Radiocarbon",3660,470.5,11220,-70,3635,3685,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80719,"Radiocarbon",4690,580.5,11220,-70,4670,4710,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80720,"Radiocarbon",5740,640.5,11220,-70,5715,5765,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80721,"Radiocarbon",7180,720.5,11220,-70,7150,7210,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80722,"Radiocarbon",8200,800.5,11220,-70,8170,8230,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815
+41025,23713,"Ware Pond",80723,"Radiocarbon",10350,890.5,11220,-70,10305,10395,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,3,-70.883,-70.8815

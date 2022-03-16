@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+7854,6497,"Roberts Creek AB34",5969,"Radiocarbon",10700,22,10920,10480,10480,10920,"NAPD 1",NA,FALSE,308,-91.50028,42.98611

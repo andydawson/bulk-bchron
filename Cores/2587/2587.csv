@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+2587,2503,"Splains Gulch",6730,"Radiocarbon, calibrated",5078,41,NA,NA,4662,5454,"NAPD 1","Chron uses 4 radiocarbon dates calibrated with CALIB 4.4. Calibrated dates are the 50% median probability.",FALSE,3150,-107.06889,38.83278
+2587,2503,"Splains Gulch",6731,"Radiocarbon, calibrated",6418,89,NA,NA,6001,6733,"NAPD 1","Chron uses 4 radiocarbon dates calibrated with CALIB 4.4. Calibrated dates are the 50% median probability.",FALSE,3150,-107.06889,38.83278
+2587,2503,"Splains Gulch",6732,"Radiocarbon, calibrated",8145,141,NA,NA,7667,8625,"NAPD 1","Chron uses 4 radiocarbon dates calibrated with CALIB 4.4. Calibrated dates are the 50% median probability.",FALSE,3150,-107.06889,38.83278
+2587,2503,"Splains Gulch",6733,"Radiocarbon, calibrated",9609,195,NA,NA,8193,11164,"NAPD 1","Chron uses 4 radiocarbon dates calibrated with CALIB 4.4. Calibrated dates are the 50% median probability.",FALSE,3150,-107.06889,38.83278

@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+25491,16384,"Lignumvitae Key",57559,"Radiocarbon",NA,11.5,2120,-30,185,235,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LIGNUMV',d.max=100,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.70531,-80.69286
+25491,16384,"Lignumvitae Key",57560,"Radiocarbon",NA,22.5,2120,-30,220,280,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LIGNUMV',d.max=100,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.70531,-80.69286
+25491,16384,"Lignumvitae Key",57561,"Radiocarbon",NA,55,2120,-30,575,625,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LIGNUMV',d.max=100,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.70531,-80.69286
+25491,16384,"Lignumvitae Key",57562,"Radiocarbon",NA,77.5,2120,-30,1005,1075,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LIGNUMV',d.max=100,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.70531,-80.69286
+25491,16384,"Lignumvitae Key",57563,"Radiocarbon",NA,NA,2120,-30,2570,2650,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LIGNUMV',d.max=100,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.70531,-80.69286
+25491,16384,"Lignumvitae Key",57564,"Radiocarbon",NA,98,2120,-30,2240,2340,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LIGNUMV',d.max=100,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.70531,-80.69286
+25491,16384,"Lignumvitae Key",57565,"Core top",-43,0,2120,-30,-44,-42,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LIGNUMV',d.max=100,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.70531,-80.69286

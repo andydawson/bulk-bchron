@@ -1,0 +1,404 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+17320,11571,"Idavain Lake",37039,"Core top",NA,NA,16850,20,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37040,"Radiocarbon",5280,144.5,16850,20,5220,5340,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37041,"Radiocarbon",1960,212.5,16850,20,1900,2020,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37042,"Radiocarbon",4270,283.5,16850,20,4220,4320,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37043,"Radiocarbon",8540,535,16850,20,8480,8600,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37044,"Radiocarbon",9320,604,16850,20,9240,9400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37045,"Radiocarbon",10180,710.5,16850,20,10120,10240,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37046,"Radiocarbon",11410,806.5,16850,20,11350,11470,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37047,"Radiocarbon",12050,875,16850,20,11980,12120,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37048,"Radiocarbon",12280,953,16850,20,12220,12340,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37049,"Radiocarbon",12070,1040,16850,20,11580,12560,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37050,"Radiocarbon",14100,1197.5,16850,20,14040,14160,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776
+17320,11571,"Idavain Lake",37051,"Radiocarbon",13440,1204.5,16850,20,13350,13530,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('IDAVAIN',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1204.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,223,-156.00243,-155.88776

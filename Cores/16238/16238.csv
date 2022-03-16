@@ -1,0 +1,342 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16238,10538,"Tukuto Lake",35821,"Core top",-46,0,34780,10,-47,-45,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35822,"Radiocarbon",1240,18,34780,10,1180,1300,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35823,"Radiocarbon",2240,37,34780,10,2160,2320,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35824,"Radiocarbon",2030,53,34780,10,1790,2270,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35825,"Radiocarbon",4350,104.5,34780,10,4260,4440,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35826,"Radiocarbon",4250,123,34780,10,4110,4390,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35827,"Radiocarbon",7280,141.5,34780,10,7230,7330,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35828,"Radiocarbon",12830,212.5,34780,10,12730,12930,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35829,"Radiocarbon",13190,240.5,34780,10,13130,13250,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35830,"Radiocarbon",23050,276.5,34780,10,22830,23270,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026
+16238,10538,"Tukuto Lake",35831,"Radiocarbon",30410,365.5,34780,10,30110,30710,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUKUTO',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+365.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,505,-157.0576,-157.0026

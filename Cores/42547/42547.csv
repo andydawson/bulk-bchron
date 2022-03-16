@@ -1,0 +1,161 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+42547,24183,"Antler Pond",87154,"Core top",-46,0,1290,-50,-47,-45,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command lline:
+Bacon(""ANTLER"",thick=1,acc.mean=25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+55.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3128,-107.12024,-107.11851
+42547,24183,"Antler Pond",87155,"Isotopic excursion",-14,4.5,1290,-50,-16,-12,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command lline:
+Bacon(""ANTLER"",thick=1,acc.mean=25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+55.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3128,-107.12024,-107.11851
+42547,24183,"Antler Pond",87156,"Lead-210",40,14,1290,-50,38,42,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command lline:
+Bacon(""ANTLER"",thick=1,acc.mean=25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+55.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3128,-107.12024,-107.11851
+42547,24183,"Antler Pond",87157,"Radiocarbon",950,43.75,1290,-50,910,990,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command lline:
+Bacon(""ANTLER"",thick=1,acc.mean=25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+55.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3128,-107.12024,-107.11851
+42547,24183,"Antler Pond",87158,"Radiocarbon",1530,55.25,1290,-50,1490,1570,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command lline:
+Bacon(""ANTLER"",thick=1,acc.mean=25,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+55.25 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3128,-107.12024,-107.11851

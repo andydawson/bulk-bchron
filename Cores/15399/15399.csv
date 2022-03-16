@@ -1,0 +1,31 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15399,10209,"Long Last Lake",33533,"Core top",-39,0,10200,-40,-40,-38,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LONGLAST',depths.file=TRUE)
+
+Bacon settings:",FALSE,985,-137.317,-137.14
+15399,10209,"Long Last Lake",33534,"Tephra",1250,34,10200,-40,1150,1350,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LONGLAST',depths.file=TRUE)
+
+Bacon settings:",FALSE,985,-137.317,-137.14
+15399,10209,"Long Last Lake",33535,"Radiocarbon",5110,119,10200,-40,5020,5200,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LONGLAST',depths.file=TRUE)
+
+Bacon settings:",FALSE,985,-137.317,-137.14
+15399,10209,"Long Last Lake",33536,"Radiocarbon",7310,191,10200,-40,7240,7380,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LONGLAST',depths.file=TRUE)
+
+Bacon settings:",FALSE,985,-137.317,-137.14
+15399,10209,"Long Last Lake",33537,"Radiocarbon",8940,229,10200,-40,8850,9030,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LONGLAST',depths.file=TRUE)
+
+Bacon settings:",FALSE,985,-137.317,-137.14
+15399,10209,"Long Last Lake",33538,"Radiocarbon",8870,240,10200,-40,8780,8960,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LONGLAST',depths.file=TRUE)
+
+Bacon settings:",FALSE,985,-137.317,-137.14

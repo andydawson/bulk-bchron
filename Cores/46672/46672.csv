@@ -1,0 +1,385 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+46672,26651,"Hummingbird Lake",100833,"Core top",-50,0,15000,-40,-51,-49,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100834,"Radiocarbon",5340,85,15000,-40,5310,5370,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100835,"Radiocarbon",4265,145,15000,-40,4230,4300,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100836,"Radiocarbon",5235,175,15000,-40,5200,5270,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100837,"Radiocarbon",6580,205,15000,-40,6545,6615,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100838,"Radiocarbon",7800,235,15000,-40,7765,7835,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100839,"Radiocarbon",8215,245,15000,-40,8185,8245,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100840,"Radiocarbon",9145,285,15000,-40,9110,9180,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100841,"Radiocarbon",10055,325,15000,-40,10020,10090,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100842,"Radiocarbon",10500,355,15000,-40,10440,10560,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100843,"Radiocarbon",10985,365,15000,-40,10955,11015,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984
+46672,26651,"Hummingbird Lake",100844,"Radiocarbon",12660,396,15000,-40,12606,12714,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUMBIRD"",thick=5,acc.mean=40,d.max=400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,46,-135.01426,-135.00984

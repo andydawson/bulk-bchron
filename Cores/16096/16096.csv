@@ -1,0 +1,125 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+16096,10493,"Cook Bank",35368,"Radiocarbon",9940,25,12470,12210,9865,10015,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('COOKBANK',depths.file=TRUE)
+
+Bacon settings: 
+25 #d.min
+84.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-128.43,-128.37
+16096,10493,"Cook Bank",35369,"Radiocarbon",10485,41,12470,12210,10415,10555,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('COOKBANK',depths.file=TRUE)
+
+Bacon settings: 
+25 #d.min
+84.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-128.43,-128.37
+16096,10493,"Cook Bank",35370,"Radiocarbon",10290,54.5,12470,12210,10210,10370,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('COOKBANK',depths.file=TRUE)
+
+Bacon settings: 
+25 #d.min
+84.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-128.43,-128.37
+16096,10493,"Cook Bank",35371,"Radiocarbon",10650,84.5,12470,12210,10300,11000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('COOKBANK',depths.file=TRUE)
+
+Bacon settings: 
+25 #d.min
+84.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-128.43,-128.37

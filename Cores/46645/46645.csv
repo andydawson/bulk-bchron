@@ -1,0 +1,417 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+46645,26641,"Lower Paintrock Lake",100344,"Core top",-60,0,13700,-20,-61,-59,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100345,"Radiocarbon",1200,29,13700,-20,1175,1225,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100346,"Radiocarbon",1670,69,13700,-20,1645,1695,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100347,"Radiocarbon",1305,70,13700,-20,1290,1320,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100348,"Radiocarbon",3240,130,13700,-20,3225,3255,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100349,"Radiocarbon",4030,163,13700,-20,4000,4060,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100350,"Radiocarbon",4160,185,13700,-20,4130,4190,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100351,"Radiocarbon",4905,238,13700,-20,4865,4945,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100352,"Radiocarbon",10150,360,13700,-20,10110,10190,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100353,"Radiocarbon",10100,361,13700,-20,10075,10125,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100354,"Radiocarbon",11650,382,13700,-20,11605,11695,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100355,"Radiocarbon",11350,392,13700,-20,11300,11400,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968
+46645,26641,"Lower Paintrock Lake",100356,"Radiocarbon",17050,451,13700,-20,16920,17180,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""LPAINTRK"",thick=5,acc.mean=30,d.max=465)
+
+Bacon settings file:
+0 #d.min
+465 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2798,-107.38399,-107.37968

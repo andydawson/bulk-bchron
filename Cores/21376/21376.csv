@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+21376,13906,"Graben Dome, Diamond Craters",44906,"Radiocarbon, calibrated",3629,NA,3840,3440,3450,3835,"Neotoma 1",NA,FALSE,1400,-118.76,-118.747

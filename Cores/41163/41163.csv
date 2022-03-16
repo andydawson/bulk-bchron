@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+41163,23772,"Hidden Lake",81583,"Radiocarbon",1005,50,2210,40,985,1025,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2704,-106.60876,-106.60632
+41163,23772,"Hidden Lake",81584,"Radiocarbon",2815,155,2210,40,2790,2840,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2704,-106.60876,-106.60632
+41163,23772,"Hidden Lake",81585,"Radiocarbon",2145,99,2210,40,2125,2165,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2704,-106.60876,-106.60632
+41163,23772,"Hidden Lake",81586,"Core top",-55,0,2210,40,-56,-54,"Calder et al. 2015","Based on IntCal13 calibration curve.",FALSE,2704,-106.60876,-106.60632

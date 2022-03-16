@@ -1,0 +1,373 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude"
+15939,10436,"SRM-1",34929,"Core top",-60,0,6420,-60,-61,-59,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34930,"Radiocarbon",145,56,6420,-60,120,170,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34931,"Radiocarbon",1180,139,6420,-60,1150,1210,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34932,"Radiocarbon",1940,179,6420,-60,1910,1970,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34933,"Radiocarbon",2860,243,6420,-60,2830,2890,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34934,"Radiocarbon",2240,260,6420,-60,2210,2270,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34935,"Radiocarbon",3540,300,6420,-60,3505,3575,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34936,"Radiocarbon",2940,374,6420,-60,2910,2970,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34937,"Radiocarbon",4160,374,6420,-60,4130,4190,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34938,"Radiocarbon",4060,446,6420,-60,4030,4090,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34939,"Radiocarbon",5800,446,6420,-60,5770,5830,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
+15939,10436,"SRM-1",34940,"Radiocarbon",6620,448,6420,-60,6360,6880,"Yao et al. 2015","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('SRM-1',thick=5,acc.mean=10,d.max=525,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+525 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-81.11444,25.35278
