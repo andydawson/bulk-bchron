@@ -76,7 +76,7 @@ set_bio_flag <- function(chron.control.meta, keep, idx){
         bio.flag = c(bio.flag, "Ambrosia rise")
       } else if (chron.control.meta$chron.control.type[idx[i]] == "European settlement horizon") {
         keep[i] = 1 
-        bio.flag = c(bio.flag, "European settlement horizon")
+        bio.flag = c(bio.flag, "European settlement horizon, Pre-EuroAmerican settlement horizon")
       } else if (chron.control.meta$chron.control.type[idx[i]] == "Tsuga decline") {
         keep[i] = 1 
         bio.flag = c(bio.flag, "Tsuga decline")
@@ -107,6 +107,8 @@ set_missing_control_errors <- function(geochron, mod_radio, mod_lead){
         geochron$error[error.na[i]] = 250
       } else if (geochron$type[error.na[i]] %in% c('Ambrosia rise', 'European settlement horizon')) {
         geochron$error[error.na[i]] = 50
+        # else if (geochron$type[error.na[i]] %in% c('Pre-EuroAmerican settlement horizon')) {
+          # geochron$error[error.na[i]] = 50
       } else if (geochron$type[error.na[i]] %in% c('Tephra')) {
         geochron$error[error.na[i]] = 334
       } else if (geochron$type[error.na[i]] %in% c('Lead-210')) {
@@ -310,7 +312,7 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 1501:ncores){
+for (i in 1) 1:50{
   
   if (i==1429){next}
   
