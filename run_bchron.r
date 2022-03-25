@@ -12,6 +12,18 @@ library(mgcv)
 
 chron.control.types <- read.csv("chroncontrol_types-edited.csv")
 
+# Add controls not on master list
+add_euro = data.frame ('Pre-EuroAmerican settlement horizon', '0', 'NA', '0')
+write.table(add_euro, file = "chroncontrol_types-edited.csv", sep = ",",
+            append = TRUE, quote = FALSE,
+            col.names = FALSE, row.names = FALSE)
+
+picea_decline = data.frame ('IDW-2d Picea decline', '0', 'NA', '0')
+write.table(picea_decline, file = "chroncontrol_types-edited.csv", sep = ",",
+            append = TRUE, quote = FALSE,
+            col.names = FALSE, row.names = FALSE)
+
+
 
 radio = read.csv('data/radiocarbon-dates-errors.csv')
 mod_radio <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
@@ -107,8 +119,6 @@ set_missing_control_errors <- function(geochron, mod_radio, mod_lead){
         geochron$error[error.na[i]] = 250
       } else if (geochron$type[error.na[i]] %in% c('Ambrosia rise', 'European settlement horizon')) {
         geochron$error[error.na[i]] = 50
-        # else if (geochron$type[error.na[i]] %in% c('Pre-EuroAmerican settlement horizon')) {
-          # geochron$error[error.na[i]] = 50
       } else if (geochron$type[error.na[i]] %in% c('Tephra')) {
         geochron$error[error.na[i]] = 334
       } else if (geochron$type[error.na[i]] %in% c('Lead-210')) {
@@ -188,6 +198,7 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   # only keep rows with keep flag of 1
   geochron = geochron[which(keep==1),]
   
+
   # only use site if 3 or more non-biostrat dates
   # or if biostrat date is ambrosia rise, use
   types = chron.control.meta$chron.control.type[match(geochron$type, chron.control.meta$chron.control.type, nomatch=NA)]
@@ -312,8 +323,8 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 1) 1:50{
-  
+for (i in 52:100) {
+
   if (i==1429){next}
   
   core.id = core.ids[i]
@@ -333,7 +344,7 @@ for (i in 1) 1:50{
 
 
 
-# bchron.report = do.call(rbind, bchron.reports)
+ # bchron.report = do.call(rbind, bchron.reports)
 write.csv(bchron.report, paste0('bchron_report_v', version, '.csv'), row.names=FALSE)
 
 fnames = list.files('Cores', '*_bchron.pdf', recursive=TRUE)
