@@ -12,14 +12,18 @@ library(mgcv)
 
 chron.control.types <- read.csv("chroncontrol_types-edited.csv")
 
-# Add controls not on master list
+### Add controls not on master list
 add_euro = data.frame ('Pre-EuroAmerican settlement horizon', '0', 'NA', '0')
 write.table(add_euro, file = "chroncontrol_types-edited.csv", sep = ",",
             append = TRUE, quote = FALSE,
             col.names = FALSE, row.names = FALSE)
 
-picea_decline = data.frame ('IDW-2d Picea decline', '0', 'NA', '0')
+picea_decline = data.frame ('Picea decline', '0', 'NA', '0')
 write.table(picea_decline, file = "chroncontrol_types-edited.csv", sep = ",",
+            append = TRUE, quote = FALSE,
+            col.names = FALSE, row.names = FALSE)
+picea_decline2 = data.frame ('IDW-2d Picea decline', '0', 'NA', '0')
+write.table(picea_decline2, file = "chroncontrol_types-edited.csv", sep = ",",
             append = TRUE, quote = FALSE,
             col.names = FALSE, row.names = FALSE)
 
@@ -36,7 +40,7 @@ extrap = 1000
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
-version='8.0'
+version='9.0'
 
 get_sitename <- function(core.id) {
   geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE))
@@ -323,7 +327,7 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 52:100) {
+for (i in 151:200) {
 
   if (i==1429){next}
   
@@ -354,3 +358,4 @@ fname_str = paste(fname_str, collapse = ' ')
 
 sys_str = paste0("gs -sDEVICE=pdfwrite -o bchron_plots_v", version, ".pdf ", fname_str)
 system(sys_str)
+
