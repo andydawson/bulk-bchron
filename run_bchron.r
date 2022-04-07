@@ -12,22 +12,6 @@ library(mgcv)
 
 chron.control.types <- read.csv("chroncontrol_types-edited.csv")
 
-### Add controls not on master list
-add_euro = data.frame ('Pre-EuroAmerican settlement horizon', '0', 'NA', '0')
-write.table(add_euro, file = "chroncontrol_types-edited.csv", sep = ",",
-            append = TRUE, quote = FALSE,
-            col.names = FALSE, row.names = FALSE)
-
-picea_decline = data.frame ('Picea decline', '0', 'NA', '0')
-write.table(picea_decline, file = "chroncontrol_types-edited.csv", sep = ",",
-            append = TRUE, quote = FALSE,
-            col.names = FALSE, row.names = FALSE)
-picea_decline2 = data.frame ('IDW-2d Picea decline', '0', 'NA', '0')
-write.table(picea_decline2, file = "chroncontrol_types-edited.csv", sep = ",",
-            append = TRUE, quote = FALSE,
-            col.names = FALSE, row.names = FALSE)
-
-
 
 radio = read.csv('data/radiocarbon-dates-errors.csv')
 mod_radio <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
@@ -40,7 +24,7 @@ extrap = 1000
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
-version='9.0'
+version='200 - 250'
 
 get_sitename <- function(core.id) {
   geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE))
@@ -66,9 +50,14 @@ fix_geochron_errors <- function(geochron){
     geochron$type[which(geochron$chroncontrolid== 104870)] = 'Tephra'
   }
   
-  if (any(geochron$limityounger < (-70))){
-    geochron$limityounger[which(geochron$limityounger < (-70))] = -70
-  }
+  # if (any(geochron$limityounger < (-70))){
+  #   geochron$limityounger[which(geochron$limityounger < (-70))] = -70
+  # }
+  
+ if (any((!is.na(geochron$limityounger))&(geochron$limityounger < (-70)))){
+       geochron$limityounger[which(geochron$limityounger < (-70))] = -70
+     }
+  
   if (any((geochron$type == 'Lead-210') & (geochron$limitolder > 200))){
     geochron$limitolder[which((geochron$type == 'Lead-210') & (geochron$limitolder > 200))] = 200
   }
@@ -327,7 +316,7 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 151:200) {
+for (i in 201:250) {
 
   if (i==1429){next}
   
