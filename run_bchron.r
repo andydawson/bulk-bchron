@@ -24,7 +24,7 @@ extrap = 1000
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
-version='200 - 250'
+version='601 - 700'
 
 get_sitename <- function(core.id) {
   geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE))
@@ -316,7 +316,7 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 201:250) {
+for (i in 601:700) {
 
   if (i==1429){next}
   
