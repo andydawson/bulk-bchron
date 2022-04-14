@@ -8,11 +8,15 @@ data = read.csv("chroncontrol_summary_pollen_full.csv")
 # limityounger
 sum(is.na(data$limityounger))
 
-na_young = data[,c("datasetid", "limityounger")]
-filter(na_young, is.na(limityounger))
+na_young = data[,c("datasetid", "limitolder", "limityounger")]
+young.na =filter(na_young, is.na(limityounger))
+old.na = filter(na_young, is.na(limitolder))
 
 future_young = data[,c("datasetid", "limityounger")]
 filter(future_young, limityounger <= -72)
+
+dim(old.na)
+dim(young.na)
 
 # age
 sum(is.na(data$age))
