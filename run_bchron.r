@@ -12,6 +12,22 @@ library(mgcv)
 
 chron.control.types <- read.csv("chroncontrol_types-edited.csv")
 
+### Add controls not on master list
+add_euro = data.frame ('Pre-EuroAmerican settlement horizon', '0', 'NA', '0')
+write.table(add_euro, file = "chroncontrol_types-edited.csv", sep = ",",
+            append = TRUE, quote = FALSE,
+            col.names = FALSE, row.names = FALSE)
+
+picea_decline = data.frame ('Picea decline', '0', 'NA', '0')
+write.table(picea_decline, file = "chroncontrol_types-edited.csv", sep = ",",
+            append = TRUE, quote = FALSE,
+            col.names = FALSE, row.names = FALSE)
+picea_decline2 = data.frame ('IDW-2d Picea decline', '0', 'NA', '0')
+write.table(picea_decline2, file = "chroncontrol_types-edited.csv", sep = ",",
+            append = TRUE, quote = FALSE,
+            col.names = FALSE, row.names = FALSE)
+
+
 
 radio = read.csv('data/radiocarbon-dates-errors.csv')
 mod_radio <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
@@ -24,7 +40,7 @@ extrap = 1000
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
-version='601 - 700'
+version='9.0'
 
 get_sitename <- function(core.id) {
   geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE))
@@ -50,14 +66,9 @@ fix_geochron_errors <- function(geochron){
     geochron$type[which(geochron$chroncontrolid== 104870)] = 'Tephra'
   }
   
-  # if (any(geochron$limityounger < (-70))){
-  #   geochron$limityounger[which(geochron$limityounger < (-70))] = -70
-  # }
-  
- if (any((!is.na(geochron$limityounger))&(geochron$limityounger < (-70)))){
-       geochron$limityounger[which(geochron$limityounger < (-70))] = -70
-     }
-  
+  if (any(geochron$limityounger < (-70))){
+    geochron$limityounger[which(geochron$limityounger < (-70))] = -70
+  }
   if (any((geochron$type == 'Lead-210') & (geochron$limitolder > 200))){
     geochron$limitolder[which((geochron$type == 'Lead-210') & (geochron$limitolder > 200))] = 200
   }
@@ -130,7 +141,7 @@ set_missing_control_errors <- function(geochron, mod_radio, mod_lead){
 
 
 do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, extrap) {
-
+  
   # read in the geochron table for core.id
   geochron = read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE)
   
@@ -174,7 +185,7 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   # }
   
   bio.flag = set_bio_flag(chron.control.meta, keep, idx)
-
+  
   age.flag = NA
   if (any(is.na(geochron$age))) {
     age.flag = "had one or more NA ages, but ran anyway"
@@ -191,7 +202,7 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   # only keep rows with keep flag of 1
   geochron = geochron[which(keep==1),]
   
-
+  
   # only use site if 3 or more non-biostrat dates
   # or if biostrat date is ambrosia rise, use
   types = chron.control.meta$chron.control.type[match(geochron$type, chron.control.meta$chron.control.type, nomatch=NA)]
@@ -219,32 +230,33 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   if (any(geochron$error == 0)){
     stop('geochron error still set to zero')
   }
-
+  
   #if (is.na(error)) next
   
   depths = scan(paste0('Cores/', core.id, '/', core.id, '_depths.txt'))
   if (diff(range(depths)) == 0) {
     stop('diff(range(depths)) is zero')
   }
-
+  
   calCurves = rep(NA, nrow(geochron))
   calCurves[which(geochron$cc == 0)] = "normal"
   calCurves[which(geochron$cc == 1)] = "intcal20"
-
+  
   if (any(is.na(calCurves))) {
     stop('one or more calcurve values are NA')
   }
   
   #geochron$error[which(geochron$error == 0)] = 1
-
+  
   out = Bchronology(ages    = geochron$age,
-                     ageSds = geochron$error, 
-                     calCurves = calCurves,
-                     positions = geochron$depth, 
-                     positionThicknesses = rep(4,nrow(geochron)),
-                     ids = geochron$chroncontrolid, 
-                     predictPositions = depths)
-
+                    ageSds = geochron$error, 
+                    calCurves = calCurves,
+                    positions = geochron$depth, 
+                    positionThicknesses = rep(4,nrow(geochron)),
+                    ids = geochron$chroncontrolid, 
+                    predictPositions = depths,
+                    allowOutside = TRUE)
+  
   summary(out, type='convergence', na.rm=TRUE)
   
   fname = paste0('Cores/', core.id, '/', core.id, '_bchron.pdf')
@@ -253,16 +265,16 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
          x = 'Age (cal years BP)',
          y = 'Depth (cm)')
   ggsave(fname, plot=p)
-    
-
+  
+  
   
   predict_geo = predict(out, 
                         newPositions = geochron$depth)
   
   post_geo = data.frame(labid=geochron$chroncontrolid, depths=geochron$depth, t(predict_geo))
   write.table(post_geo, paste0('.', '/Cores/', core.id, '/', 
-                           core.id, '_bchron_geo_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
- 
+                               core.id, '_bchron_geo_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
+  
   post_geo_means = rowMeans(t(predict_geo))
   post_geo_old = max(post_geo_means) + extrap
   post_geo_young = ifelse((min(post_geo_means) - extrap)<(-70), -70, min(post_geo_means) - extrap)
@@ -275,16 +287,16 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   post_sample = data.frame(depths=depths[idx_reliable], matrix(t(out$thetaPredict)[idx_reliable,], nrow=length(idx_reliable)))
   
   write.table(post_sample, paste0('.', '/Cores/', core.id, '/', 
-                           core.id, '_bchron_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
-   
+                                  core.id, '_bchron_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
+  
   if (length(bio.flag) >= 1){
     stop(paste0('unreliable controls used: ', paste(bio.flag, collapse='; ' )))
   }
-
+  
   if (!is.na(age.flag)) {
     stop(age.flag)
   }
-
+  
   TRUE
 }
 
@@ -316,8 +328,8 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 601:700) {
-
+for (i in 151:200) {
+  
   if (i==1429){next}
   
   core.id = core.ids[i]
@@ -337,7 +349,7 @@ for (i in 601:700) {
 
 
 
- # bchron.report = do.call(rbind, bchron.reports)
+# bchron.report = do.call(rbind, bchron.reports)
 write.csv(bchron.report, paste0('bchron_report_v', version, '.csv'), row.names=FALSE)
 
 fnames = list.files('Cores', '*_bchron.pdf', recursive=TRUE)

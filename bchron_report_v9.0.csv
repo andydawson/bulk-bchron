@@ -1,0 +1,91 @@
+"datasetid","sitename","success","reason"
+"14839","Lake Mina",0,"Error in if (any(geochron$chroncontrolid == 105848)) { : 
+  missing value where TRUE/FALSE needed
+"
+"14884","Baker Lake",1,NA
+"14889","Tower Lake",1,NA
+"14891","Deuce Lake",1,NA
+"14911","Hoodoo Lake",1,NA
+"14923","Pintler Lake",1,NA
+"14925","Upper Soper Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Ambrosia rise
+"
+"14928","Prien Lake",1,NA
+"14930","Ogac Lake",1,NA
+"14933","Nelson Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"14935","Moose Lake",1,NA
+"14938","Martins Lake",1,NA
+"14944","Fracas Lake",0,"Error in if (stats::runif(1) < exp(logRtheta)) { : 
+  missing value where TRUE/FALSE needed
+"
+"14946","Efstadalsvatn",1,NA
+"14948","Dye Lower Water Lake (Dyer Lake)",1,NA
+"14951","Bear Lake",1,NA
+"14953","Lake Arthur",1,NA
+"14955","Lake Arthur",1,NA
+"14957","Appleman Lake",1,NA
+"14991","Lake Louise",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: European settlement horizon, Pre-EuroAmerican settlement horizon
+"
+"14995","Meade River bluff",1,NA
+"14997","Round Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Ambrosia rise
+"
+"14999","Deep Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Ambrosia rise
+"
+"15003","Icehouse Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: European settlement horizon, Pre-EuroAmerican settlement horizon
+"
+"15007","Eagle Pond",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"15009","Jemima Pond",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"15020","Sandy Hill Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: European settlement horizon, Pre-EuroAmerican settlement horizon
+"
+"15022","Fresh Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: European settlement horizon, Pre-EuroAmerican settlement horizon
+"
+"15032","Mud Lake (Ho)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Ambrosia rise
+"
+"15035","Lily Lake",1,NA
+"15074","Mumbo Lake",1,NA
+"15088","Anderson Pond",1,NA
+"15106","Lake Emma",1,NA
+"15136","Devils Lake, Creel Bay",1,NA
+"15138","Jones Lake",1,NA
+"15140","Mallard Pond",1,NA
+"15142","Makepeace Cedar Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"15146","Makepeace Cedar Swamp",1,NA
+"15148","Makepeace Cedar Swamp",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"15153","Wendel site",1,NA
+"15157","Code Lake",1,NA
+"15167","Elk Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15168","Elk Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15169","Elk Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15175","Last Chance Lake",0,"Error in if (any(geochron$limityounger < (-70))) { : 
+  missing value where TRUE/FALSE needed
+"
+"1518","Kinsman Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
+"
+"15185","Ruppert Lake",1,NA
+"15187","Wild Tussock Lake",1,NA
+"15189","Xindi Lake",1,NA
+"15191","Fort Bragg (core PAW2)",1,NA

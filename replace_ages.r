@@ -2,32 +2,30 @@ library(plyr)
 library(ggplot2)
 library(Bchron)
 
-<<<<<<< HEAD
-version = '5.0'
+version = '8.0'
 
-load('data/new_pollen_north_america_p25.rdata')
-=======
-version = '7.0'
+agedepth_version = '7.0'
 
 # type can be LC6K or ABI
 type = "LC6K"
 
 if (type == "LC6K"){
   #load('data/pollen_north_america_lc6k.rdata')
-  pollen_north_america <- read.csv("data/pollen_north_america_lc6k.csv")
+  # pollen_north_america <- read.csv(paste0("data/pollen_north_america_lc6k",  '_v', version, ".csv"))
+  pollen_north_america <- read.csv(paste0("data/pollen_north_america_lc6k2",  '_v', version, ".csv"))
 } else if (type == "ABI"){
   #load('data/pollen_north_america_p25.rdata')
-  pollen_north_america <- read.csv("data/pollen_north_america_abi.csv")
+  pollen_north_america <- read.csv(paste0("data/pollen_north_america_abi",  '_v', version, ".csv"))
 }
->>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
 
 pollen_north_america = pollen_north_america[which(!is.na(pollen_north_america$agetype)),]
 
-site_meta = read.csv('data/sites_north_america.csv')
+# site_meta = read.csv(paste0('data/sites_north_america_lc6k',  '_v', version, '.csv'))
+site_meta = read.csv(paste0('data/sites_north_america_lc6k2',  '_v', version, '.csv'))
 
-extrap = 1000
+extrap = 1500
 
-cc = read.csv('data/chroncontrol_summary_pollen_full.csv')
+cc = read.csv('data/chroncontrol_summary_v2.csv')
 
 ncontrols = ddply(cc, .(datasetid), nrow)
 
@@ -39,7 +37,6 @@ cc[which(cc$chroncontrolid == 105848),'age'] = -10
 cc[which(cc$chroncontrolid == 105849),'age'] = 12
 cc[which(cc$chroncontrolid == 105848),'limityounger'] = 1950 - cc[which(cc$chroncontrolid == 105848),'limityounger']
 cc[which(cc$chroncontrolid == 105849),'limityounger'] = 1950 - cc[which(cc$chroncontrolid == 105849),'limityounger']
-<<<<<<< HEAD
 
 cc[which(cc$chroncontrolid == 104870),'type'] = 'Tephra'
 
@@ -81,35 +78,30 @@ cc$geoagetype[which(is.na(cc$geoagetype))] = "Years BP"
 # wmean.date <- function(x) sum(x$ageGrid*x$densities / sum(x$densities))
 # compiled.cores$age[radio.years] <- sapply(calibrated, wmean.date)
 # # saveRDS(compiled.cores, 'data/compiled_cores_P25_all_times.RDS')
-=======
->>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
 
-cc[which(cc$chroncontrolid == 104870),'type'] = 'Tephra'
 
-<<<<<<< HEAD
-=======
-cc[which(cc$limityounger < (-70)), 'limityounger'] = -70
-cc[which((cc$type=="Lead-210")&(cc$limitolder>200)), 'limitolder'] = 200
-
-cc[which(is.na(cc$age)),'age'] = (cc[which(is.na(cc$age)),'limityounger'] + cc[which(is.na(cc$age)),'limitolder']) / 2
-
-cc = cc[which(!is.na(cc$age)),]
-
-rc_types = cc$type %in% c('Radiocarbon', 
-                          'Radiocarbon, reservoir correction', 
-                          'Radiocarbon, average of two or more dates', 
-                          'Radiocarbon, infinite',
-                          'Radiocarbon, calibrated from calendar years',
-                          'Radiocarbon, calibrated')
-cc$geoagetype[which(rc_types)] = 'Radiocarbon years BP'
-
-cc[which(cc$chroncontrolid == 37261),'geoagetype'] = 'Years BP'
-cc[which(cc$chroncontrolid == 50647),'geoagetype'] = 'Years BP'
-
-ar_types = cc$type %in% c('Ambrosia rise')
-cc$geoagetype[which(ar_types)] = NA
-
-cc$geoagetype[which(is.na(cc$geoagetype))] = "Years BP"
+# cc[which(cc$limityounger < (-70)), 'limityounger'] = -70
+# cc[which((cc$type=="Lead-210")&(cc$limitolder>200)), 'limitolder'] = 200
+# 
+# cc[which(is.na(cc$age)),'age'] = (cc[which(is.na(cc$age)),'limityounger'] + cc[which(is.na(cc$age)),'limitolder']) / 2
+# 
+# cc = cc[which(!is.na(cc$age)),]
+# 
+# rc_types = cc$type %in% c('Radiocarbon', 
+#                           'Radiocarbon, reservoir correction', 
+#                           'Radiocarbon, average of two or more dates', 
+#                           'Radiocarbon, infinite',
+#                           'Radiocarbon, calibrated from calendar years',
+#                           'Radiocarbon, calibrated')
+# cc$geoagetype[which(rc_types)] = 'Radiocarbon years BP'
+# 
+# cc[which(cc$chroncontrolid == 37261),'geoagetype'] = 'Years BP'
+# cc[which(cc$chroncontrolid == 50647),'geoagetype'] = 'Years BP'
+# 
+# ar_types = cc$type %in% c('Ambrosia rise')
+# cc$geoagetype[which(ar_types)] = NA
+# 
+# cc$geoagetype[which(is.na(cc$geoagetype))] = "Years BP"
 
 
 # translate any dates in radiocarbon years to calendar years
@@ -127,8 +119,6 @@ cc$geoagetype[which(is.na(cc$geoagetype))] = "Years BP"
 # compiled.cores$age[radio.years] <- sapply(calibrated, wmean.date)
 # # saveRDS(compiled.cores, 'data/compiled_cores_P25_all_times.RDS')
 
-
->>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
 # pollen_north_america
 core.ids = sort(unique(pollen_north_america$dataset_id))
 ncores = length(core.ids)
@@ -136,7 +126,7 @@ ncores = length(core.ids)
 # core.ids = list.files('Cores')
 # ncores = length(core.ids)
 
-bchron_report = read.csv(paste0('bchron_report_v', version, '.csv'))
+bchron_report = read.csv(paste0('bchron_report_v', agedepth_version, '.csv'))
 
 bchron_report$success[which(grepl("unreliable controls", bchron_report$reason, fixed=TRUE))] = 1
 
@@ -146,29 +136,26 @@ pollen_north_america = data.frame(checked = rep(0, length=nrow(pollen_north_amer
 
 count = 0 
 for (i in 1:ncores) {
-  #print(paste0("Core ", i, " of ", ncores, " cores"))
+  print(paste0("Core ", i, " of ", ncores, " cores"))
   
   
   idx_pollen = which(pollen_north_america$dataset_id == core.ids[i])
   
-  if (core.ids[i] %in% bchron_report$datasetid){
+  # is the site in the report site list?
+  if ((core.ids[i] %in% bchron_report$datasetid)&(core.ids[i] != 3076)){
     
     idx_report = which(bchron_report$datasetid == core.ids[i])
-<<<<<<< HEAD
     
     if (bchron_report$success[idx_report]==1){
       
       samps = read.csv(paste0('Cores/', core.ids[i], '/', core.ids[i], '_bchron_samples.csv'))
       age_mean = apply(samps[, 2:ncol(samps)], 1, median)
       
-      # idx_in = which(!is.na(match(pollen_north_america$depth[idx_pollen], samps$depths)))
-      # idx_out = 
-      
       for (k in 1:length(idx_pollen)){
         if (length(which(samps$depth == pollen_north_america$depth[idx_pollen[k]]))!=0){
           
           if (length(age_mean[which(samps$depth == pollen_north_america$depth[idx_pollen[k]])]) != 1){
-            print(paste0('Dataset ', i))
+            # print(paste0('Dataset ', i))
           }
           pollen_north_america$age[idx_pollen[k]] = age_mean[which(samps$depth == pollen_north_america$depth[idx_pollen[k]])][1]
           pollen_north_america$keep[idx_pollen[k]] = 1
@@ -189,65 +176,19 @@ for (i in 1:ncores) {
       
     } 
     
+  # is the site varve
   } else if (pollen_north_america$agetype[idx_pollen][1] == 'Varve years BP'){
     
     pollen_north_america$keep[idx_pollen] = rep(1, length(idx_pollen))
     pollen_north_america$checked[idx_pollen] = rep(1, length(idx_pollen))
     
   } else if (pollen_north_america$dataset_id[idx_pollen][1] == '15320') { 
-    
-=======
-    
-    if (bchron_report$success[idx_report]==1){
-      
-      samps = read.csv(paste0('Cores/', core.ids[i], '/', core.ids[i], '_bchron_samples.csv'))
-      if (nrow(samps)==0){
-        pollen_north_america$checked[idx_pollen] = 1
-        next
-      }
-      
-      age_mean = apply(samps[, 2:ncol(samps)], 1, median)
-      
-      # idx_in = which(!is.na(match(pollen_north_america$depth[idx_pollen], samps$depths)))
-      # idx_out = 
-      
-      for (k in 1:length(idx_pollen)){
-        if (length(which(samps$depth == pollen_north_america$depth[idx_pollen[k]]))!=0){
-          
-          if (length(age_mean[which(samps$depth == pollen_north_america$depth[idx_pollen[k]])]) != 1){
-            print(paste0('Dataset ', i))
-          }
-          pollen_north_america$age[idx_pollen[k]] = age_mean[which(samps$depth == pollen_north_america$depth[idx_pollen[k]])][1]
-          pollen_north_america$keep[idx_pollen[k]] = 1
-          pollen_north_america$checked[idx_pollen[k]] = 1
-        } else {
-          pollen_north_america$checked[idx_pollen[k]] = 1
-        }
-      }
-      # if (!all(pollen_north_america$depth[idx_pollen]  %in% samps$depths)){
-      #   print(paste0("Problem with dataset ", pollen_north_america$sitename[idx_pollen][1]))
-      # } #else { 
-      # #pollen_north_america$age[idx_pollen] = age_mean 
-      # #}
-      
-    } else if (bchron_report$success[idx_report]==0) {
-      
-      pollen_north_america$checked[idx_pollen] = rep(1, length(idx_pollen))
-      
-    } 
-    
-  } else if (pollen_north_america$agetype[idx_pollen][1] == 'Varve years BP'){
-    
-    pollen_north_america$keep[idx_pollen] = rep(1, length(idx_pollen))
-    pollen_north_america$checked[idx_pollen] = rep(1, length(idx_pollen))
-    
-  } else if (pollen_north_america$dataset_id[idx_pollen][1] == '15320') { 
-    
->>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
+
     pollen_north_america$checked[idx_pollen] = rep(1, length(idx_pollen))
     
     next 
     
+  # if the site is not in bchron report list, and not varve
   } else {
   
     control = cc[which(cc$datasetid == pollen_north_america$dataset_id[idx_pollen[1]]),]
@@ -258,10 +199,7 @@ for (i in 1:ncores) {
       next
     }
     if ((nrow(control) == 0)&(length(idx_pollen)>1)) {
-<<<<<<< HEAD
-=======
       count = count + 1
->>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
       control_young = pollen_north_america$ageboundyounger[idx_pollen][1]
       control_old = pollen_north_america$ageboundolder[idx_pollen][1]
       
@@ -330,15 +268,6 @@ for (i in 1:ncores) {
     pollen_north_america$checked[idx_pollen] = rep(1, length(idx_pollen))
     
   }
-
-<<<<<<< HEAD
-}
-
-sum(pollen_north_america$checked==1)/length(pollen_north_america$checked)
-sum(pollen_north_america$keep==1)/length(pollen_north_america$keep)
-
-write.csv(pollen_north_america, paste0('data/pollen_north_america_v', version, '.csv'), row.names = FALSE)
-=======
 }
 
 sum(pollen_north_america$checked==1)/length(pollen_north_america$checked)
@@ -350,5 +279,3 @@ if (type == "LC6K"){
 } else if (type == "ABI"){
   write.csv(pollen_north_america, paste0('data/pollen_north_america_ABI_v', version, '.csv'), row.names = FALSE)
 }
-
->>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
