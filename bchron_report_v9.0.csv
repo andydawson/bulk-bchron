@@ -1,4 +1,248 @@
 "datasetid","sitename","success","reason"
+"1000","Hafichuk Site",1,NA
+"1001","Hail Lake",1,NA
+"1002","Hams Lake",1,NA
+"1003","Hanging Lake",1,NA
+"1004","Hansen Marsh",1,NA
+"1006","Harding Lake",1,NA
+"1007","Lac Harriman",1,NA
+"1008","Harrie Lake",1,NA
+"1010","Hawke Hills Kettle",1,NA
+"1012","Hawley Bog Pond-1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1013","Hay Lake",1,NA
+"1024","Headwaters Lake",1,NA
+"1025","Healy Lake",1,NA
+"1028","Hebron Lake",1,NA
+"1030","Hedrick Pond",1,NA
+"1031","Helmetta Bog",1,NA
+"1032","Hemo Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1033","Tourbière de Lanoraie HENRI",1,NA
+"10967","Northeast Shark River Slough",1,NA
+"10970","South Heron Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"10971","Ocheda Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"10972","Hemlock Hollow",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"10973","Blomford Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"10974","Fawn Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"10975","Frovold Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"10976","Goose Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"10977","Olson Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"10981","Little Dyke Lake",1,NA
+"10983","Round Grove Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1104","Hidden Lake",1,NA
+"1105","High Lake",1,NA
+"1107","Honeymoon Pond",1,NA
+"1109","Blocknic Lake [Horse Pond]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1110","Horseshoe Lake",1,NA
+"1111","Hostage Lake",1,NA
+"1113","Houghton Bog",1,NA
+"1114","Howes Prairie Marsh",1,NA
+"1133","Hudson Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1134","Hug Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1135","Humber Pond 3",1,NA
+"1136","Humber Pond 5",1,NA
+"1137","Humber Pond 7",1,NA
+"1138","Hustler Lake",1,NA
+"1139","Hynes Brook Salt Marsh",1,NA
+"1140","Icehouse Bottom [40MR23]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1142","Iglutalik Lake",1,NA
+"1147","Indian Lake",1,NA
+"1148","Indian Prairie Fen",1,NA
+"1149","Inglesby Lake",1,NA
+"1151","Iola Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1152","Keystone Iron Fen",1,NA
+"1153","Irvin Lake",1,NA
+"1157","Jack Lake",1,NA
+"1160","Jackson Pond",1,NA
+"1162","Jacob Lake",1,NA
+"1163","Jacobson Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1170","January Cave [EbPp-Vp]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1171","James Bay",1,NA
+"12001","Little Dollar Lake",1,NA
+"12004","Last Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12005","Cottonwood Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12006","Monson Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12007","Deans Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12008","Lake Emily",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12009","Perch Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12010","Chub Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12011","Lake Rachel",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12012","Ziebell Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12013","Mud Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12014","Lybeck Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12015","Union Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12016","Albert Lea Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"12024","Everhart Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1254","Saint-Jean Ile d'Orléans",1,NA
+"1255","Jewell Site",1,NA
+"13029","Sharkey Lake",1,NA
+"13032","Kimble Pond",1,NA
+"13047","Irwin Smith Bog",1,NA
+"13051","West Olaf Lake",1,NA
+"13056","Oak Glen Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"13057","Camp Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"13060","Adeline Lake",1,NA
+"13069","Elevenses Lake",1,NA
+"13071","Eska Lake",1,NA
+"13073","Fallison Lake",1,NA
+"13097","Glimmerglass Lake",1,NA
+"1390","Joe Lake",1,NA
+"1391","Joes Pond",1,NA
+"1392","Johnson River Bog",1,NA
+"1393","Tourbière du lac Joncas",1,NA
+"1397","Tourbière de Lanoraie JOSEPH",1,NA
+"14104","Brewster Creek",1,NA
+"14270","Bass Lake",1,NA
+"1432","Kaiyak Lake",1,NA
+"1437","Kanaaupscow",1,NA
+"14370","Linsley Pond",1,NA
+"14403","Lake Sallie",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14410","Tower Lake",1,NA
+"14426","Chappice Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14427","Eagle Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14428","Bellshill Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14429","Gooseberry Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14430","Keiver's Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14431","Little Fish Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14432","Lloyd Lake [Red Deer Lake]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14433","Red Deer Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14434","Twelve Mile Coulee",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14435","Johnson Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"14443","Tower Lake",1,NA
+"14446","Hell Hole Lake",1,NA
+"1445","Keele Lake",1,NA
+"1446","Kegan Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1447","Kellys Hollow",1,NA
+"1448","Kellners Lake",1,NA
+"14491","Browns Island",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"14494","Roe Island",1,NA
+"14498","Dog Lake",1,NA
+"1450","Kennys Pond",1,NA
+"1451","Lac Kénogami",1,NA
+"14517","Alpine Pond",1,NA
+"1452","Kenosee Lake",1,NA
+"14535","Lily Lake",1,NA
+"14537","Kelly-Dudley Lake",1,NA
+"14539","Martha Lake",1,NA
+"14547","Alpine Pond",1,NA
+"14549","Lowder Creek Bog",1,NA
+"14614","Bates Marsh",1,NA
+"14624","Big Reed Pond Hollow",1,NA
+"14626","Minnreg",1,NA
+"14631","Amber Lake",1,NA
+"14633","Camp Lake",1,NA
+"14635","Crystal Lake",1,NA
+"14637","Fish Lake",1,NA
+"14639","Fish Lake (Sc)",1,NA
+"14641","Eagle Lake",1,NA
+"14643","Lake Emily, Northeast Basin",1,NA
+"14645","Fuller Lake",1,NA
+"14650","San Luis Lake",1,NA
+"14674","Blackwoods Hollow",1,NA
+"14676","Buckley Pond Hollow",1,NA
+"14678","Isle au Haut North Hollow",1,NA
+"14680","Isle au Haut South Hollow",1,NA
+"14682","Roque Island Hollow",1,NA
+"14684","Schoodic Peninsula Hollow",1,NA
+"14768","Conroy Lake",1,NA
+"14792","Yahoo Lake",1,NA
+"14794","Two Frog Lake",1,NA
+"14797","South Bog",1,NA
+"14799","Siesta Lake",1,NA
+"14803","Burnt Knob Lake",1,NA
 "14839","Lake Mina",0,"Error in if (any(geochron$chroncontrolid == 105848)) { : 
   missing value where TRUE/FALSE needed
 "
@@ -7,9 +251,7 @@
 "14891","Deuce Lake",1,NA
 "14911","Hoodoo Lake",1,NA
 "14923","Pintler Lake",1,NA
-"14925","Upper Soper Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: Ambrosia rise
-"
+"14925","Upper Soper Lake",1,NA
 "14928","Prien Lake",1,NA
 "14930","Ogac Lake",1,NA
 "14933","Nelson Lake",0,"Error in h(simpleError(msg, call)) : 
@@ -17,43 +259,25 @@
 "
 "14935","Moose Lake",1,NA
 "14938","Martins Lake",1,NA
-"14944","Fracas Lake",0,"Error in if (stats::runif(1) < exp(logRtheta)) { : 
-  missing value where TRUE/FALSE needed
-"
+"14944","Fracas Lake",1,NA
 "14946","Efstadalsvatn",1,NA
 "14948","Dye Lower Water Lake (Dyer Lake)",1,NA
 "14951","Bear Lake",1,NA
 "14953","Lake Arthur",1,NA
 "14955","Lake Arthur",1,NA
 "14957","Appleman Lake",1,NA
-"14991","Lake Louise",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: European settlement horizon, Pre-EuroAmerican settlement horizon
-"
+"14991","Lake Louise",1,NA
 "14995","Meade River bluff",1,NA
-"14997","Round Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: Ambrosia rise
+"14997","Round Pond",1,NA
+"14999","Deep Pond",1,NA
+"15003","Icehouse Pond",1,NA
+"15007","Eagle Pond",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
 "
-"14999","Deep Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: Ambrosia rise
-"
-"15003","Icehouse Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: European settlement horizon, Pre-EuroAmerican settlement horizon
-"
-"15007","Eagle Pond",0,"Error in if (any(geochron$limityounger < (-70))) { : 
-  missing value where TRUE/FALSE needed
-"
-"15009","Jemima Pond",0,"Error in if (any(geochron$limityounger < (-70))) { : 
-  missing value where TRUE/FALSE needed
-"
-"15020","Sandy Hill Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: European settlement horizon, Pre-EuroAmerican settlement horizon
-"
-"15022","Fresh Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: European settlement horizon, Pre-EuroAmerican settlement horizon
-"
-"15032","Mud Lake (Ho)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: Ambrosia rise
-"
+"15009","Jemima Pond",1,NA
+"15020","Sandy Hill Pond",1,NA
+"15022","Fresh Pond",1,NA
+"15032","Mud Lake (Ho)",1,NA
 "15035","Lily Lake",1,NA
 "15074","Mumbo Lake",1,NA
 "15088","Anderson Pond",1,NA
@@ -61,13 +285,9 @@
 "15136","Devils Lake, Creel Bay",1,NA
 "15138","Jones Lake",1,NA
 "15140","Mallard Pond",1,NA
-"15142","Makepeace Cedar Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
-"
+"15142","Makepeace Cedar Swamp",1,NA
 "15146","Makepeace Cedar Swamp",1,NA
-"15148","Makepeace Cedar Swamp",0,"Error in if (any(geochron$limityounger < (-70))) { : 
-  missing value where TRUE/FALSE needed
-"
+"15148","Makepeace Cedar Swamp",1,NA
 "15153","Wendel site",1,NA
 "15157","Code Lake",1,NA
 "15167","Elk Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
@@ -79,13 +299,2217 @@
 "15169","Elk Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
   one or no controls after filtering
 "
-"15175","Last Chance Lake",0,"Error in if (any(geochron$limityounger < (-70))) { : 
-  missing value where TRUE/FALSE needed
+"15175","Last Chance Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
 "
-"1518","Kinsman Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
-  unreliable controls used: Biostratigraphic, pollen; Biostratigraphic, pollen; Biostratigraphic, pollen
-"
+"1518","Kinsman Pond",1,NA
 "15185","Ruppert Lake",1,NA
 "15187","Wild Tussock Lake",1,NA
 "15189","Xindi Lake",1,NA
 "15191","Fort Bragg (core PAW2)",1,NA
+"15197","Laguna Pompal",1,NA
+"15199","South Dansville Buried Peat",1,NA
+"1520","Kirchner Marsh",1,NA
+"15201","Lost Park",1,NA
+"15203","Crawford Bog",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"15205","Chesapeake Bay (MD99-2207)",1,NA
+"15207","Chesapeake Bay (MD99-2208)",1,NA
+"15209","Chesapeake Bay (MD99-2209)",1,NA
+"15211","Chesapeake Bay (PTMC3-2)",1,NA
+"15214","Big Lake",1,NA
+"15216","Titaluk River Exposure 1",1,NA
+"15218","Titaluk River Exposure 2",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 1).
+"
+"15219","Elk Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15221","Caddo Creek (Core 1)",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15223","Caddo Creek (Core 3)",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15228","St. Clair Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1523","Kirk Lake",1,NA
+"15232","Eagle Lake",1,NA
+"1524","Kitchner Lake",1,NA
+"15242","Cowles Bog",1,NA
+"15244","Pinhook Bog",1,NA
+"15245","George (BE)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15248","Albert Lea Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15252","Ozawindib Lake",1,NA
+"15254","Little Horseshoe Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15256","Cora Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15261","Miller Woods Pond 21",1,NA
+"15263","Miller Woods Pond 32",1,NA
+"15265","Miller Woods Pond 44",1,NA
+"15266","Tamarack Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15268","Miller Woods Pond 51",1,NA
+"15269","Elk Lake",1,NA
+"15270","LaSalle Lake",1,NA
+"15272","Gaff Lake",1,NA
+"15273","Saint Olaf Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15274","Jones Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15276","Cassiope Pond",1,NA
+"15281","Williams Lake",1,NA
+"15282","Winton Bay Lake",1,NA
+"15284","Tiny Lake",1,NA
+"15286","West Hawk Lake",1,NA
+"15288","Pyrola Lake",1,NA
+"15292","Byron-Bergen Swamp (Site 2)",1,NA
+"15294","Long Lake",1,NA
+"15296","Byron-Bergen Swamp (Site 1)",1,NA
+"15298","Devlins Park",1,NA
+"15302","Emrick Lake",1,NA
+"15309","East Soldier Lake",1,NA
+"15311","Guard Lake",1,NA
+"15316","Trout Lake Bog",1,NA
+"15318","Wolsfeld Woods Marsh",1,NA
+"15320","Brother-of-Fog Lake",1,NA
+"15323","Berendon Fen",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"15325","Black Gum Swamp",1,NA
+"15327","Black Gum Swamp",1,NA
+"15333","Two Horsemen Pond",1,NA
+"15342","Skinny Lake",1,NA
+"15344","Fargher Pond",1,NA
+"15350","Balsam Lake",1,NA
+"15353","Maple Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"15354","South Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"15356","Stewart Bog",1,NA
+"15359","Spillway Pond",1,NA
+"15363","Aronow Bog",1,NA
+"15368","Blue Lake Wetlands",1,NA
+"15369","Dunbar Lake [Big Fish Lake]",1,NA
+"15371","Ridge and Slough (02-05-20-13)",1,NA
+"15377","Ridge and Slough (02-05-20-14)",1,NA
+"15379","Ridge and Slough (02-05-21-2)",1,NA
+"15381","Ridge and Slough (02-05-21-4)",1,NA
+"15383","Ridge and Slough (02-05-21-5)",1,NA
+"15385","Flycatcher Basin",1,NA
+"15392","Fog Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"15396","Las Flores Arroyo",1,NA
+"15399","Long Last Lake",1,NA
+"15403","Deep Lake",1,NA
+"15406","Jan Lake",1,NA
+"15408","Nichols Meadow",1,NA
+"1541","Kollioksak",1,NA
+"15410","Nichols Meadow",1,NA
+"15413","Paradox Lake",1,NA
+"15415","Cootes Paradise Marsh",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15417","Rasberry Bog",1,NA
+"15420","Pyramid Lake",1,NA
+"15426","Twin Lake",1,NA
+"15460","Adventure Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15462","Bass Pond",1,NA
+"15463","Benach Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15477","BlueJ Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15478","Brozie Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15479","Camp Two Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1548","Kotiranta Lake",1,NA
+"15487","Cowden Lake",1,NA
+"15489","Ferry Lake",1,NA
+"15492","Hicks Lake",1,NA
+"15494","Hual Cu Cuish Meadow",1,NA
+"15506","Little Green Valley Meadow",1,NA
+"15511","Morrison Lake",1,NA
+"15513","Nebraska Sand Hills",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1552","Kryzewinski Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15564","Chalmer's Bog (PL-78-37)",1,NA
+"15580","Van Wyck",1,NA
+"15586","McCall Fen",1,NA
+"15588","Devil's Bathtub",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15591","Skunk Cabbage Meadow",1,NA
+"15594","Taquitz Meadow",1,NA
+"15597","Albany River Bog",1,NA
+"15627","Portage Lake",1,NA
+"15628","Bear Lake",0,"Error in if (any(geochron$chroncontrolid == 105848)) { : 
+  missing value where TRUE/FALSE needed
+"
+"15630","Belec Lake Bog",1,NA
+"15635","Oldman Bog",1,NA
+"15637","Big Cypress (core 03-9-16-3)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"15639","Big Cypress (core 03-9-16-6)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"1564","Kylen Lake",1,NA
+"15641","Big Sandy Creek",1,NA
+"15646","Bluff Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15660","Buck Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  7 controls; types not in master
+"
+"15667","Buckbean Bog",1,NA
+"1568","Lacawac",1,NA
+"15680","Bunker Lake",1,NA
+"15682","Canyon Lake",1,NA
+"15684","Catahoula Lake (core CLR3)",1,NA
+"1569","Lac Colin",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  10 controls; types not in master
+"
+"15696","Catahoula Lake (core CLR3)",1,NA
+"1570","Lac Hamard",1,NA
+"15700","Clearwater Bog",1,NA
+"15702","Collins Pond Site (PL-86-56)",1,NA
+"1571","Lac Louis",1,NA
+"15713","Crater Lake",1,NA
+"15715","Dead Horse Lake",1,NA
+"15719","Donard Lake",1,NA
+"1572","Lac à Magie",1,NA
+"15724","Dune Lake",1,NA
+"15730","Fire Lake",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 4).
+"
+"15732","Goose Bay Marsh",1,NA
+"15734","Grassy Lake",1,NA
+"15738","Harris Lake",1,NA
+"1574","Ladd Lake",1,NA
+"15740","Hemlock Lake",1,NA
+"15744","Joggins Section (MS-82-44)",1,NA
+"15746","Lake Jake",1,NA
+"15750","Lake Shelby",1,NA
+"15752","Lantz Site",1,NA
+"15757","Laysan Island Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15762","Lily Lake",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 2).
+"
+"15764","Lily Pond",1,NA
+"15766","Lilypad Lake",1,NA
+"15768","Lost Lake",1,NA
+"15772","Martens Slough (PL-77-20)",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15776","McMurray Lake",1,NA
+"15778","Mono Lake",1,NA
+"15781","Moraine Bog",1,NA
+"15783","Moraine Lake",1,NA
+"15785","Stewert Point Pond",1,NA
+"15789","Caribou Lake (MS-74-15)",1,NA
+"15793","Roulston Lake (MS-78-15)",1,NA
+"15796","Blomidon Section MS-89-16",1,NA
+"1580","Lake Sixteen",1,NA
+"1581","Lake 27",1,NA
+"15811","Nutella Lake",1,NA
+"15814","Swampbuggy Lake",1,NA
+"15819","Porcupine Mountain",1,NA
+"1582","Lake 31",1,NA
+"15820","Prospect Hill II",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"15821","Prospect Hill VII",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"15825","Pascagoula Marsh",1,NA
+"15827","Rock Lake",1,NA
+"15829","Robinson Lake",1,NA
+"1583","Lake A",1,NA
+"15831","Sandy Run Creek",1,NA
+"1584","Lake Ann",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15855","Sheep Mountain Bog",1,NA
+"15856","Slab City",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"15857","Slab City",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"1586","Lake B",1,NA
+"15864","Swan Lake",1,NA
+"15866","Tannersville Bog",1,NA
+"1587","Lake BN7",1,NA
+"15870","Testalinden Lake",1,NA
+"15872","Top Lake",1,NA
+"15876","Tulare Lake",1,NA
+"15878","Tumalo Lake",1,NA
+"1588","Lake Carlson",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15882","Warner Lake",1,NA
+"15886","Crystal Lake",1,NA
+"15892","White Lake",1,NA
+"1590","Lake CH2",1,NA
+"15902","Woods Lake",1,NA
+"15904","Divers Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15909","Ballston Lake",1,NA
+"1591","Lake EC1",1,NA
+"15916","Kerr Lake",1,NA
+"15919","Crooked Lake",1,NA
+"1592","Lake EC2",1,NA
+"15922","Jay Lake",1,NA
+"15925","Lake O' Pines",1,NA
+"15929","Hiscock Site",1,NA
+"15931","Green Pond",1,NA
+"15933","Lily Warwick",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15935","Little Mirror Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15939","SRM-1",1,NA
+"1594","Lake GB1",1,NA
+"15942","Otter Pond",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15944","Silver Lake",1,NA
+"15947","Larix laricina Site 4",1,NA
+"1595","Lake GB2",1,NA
+"15950","Larix laricina Site 5",1,NA
+"15952","Larix laricina Site 10",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15965","Qually Pond",1,NA
+"15967","Stoneman Lake",1,NA
+"15970","Farewell Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"15976","Grandfather Lake",1,NA
+"1598","Lake LB1",1,NA
+"15980","Ongivinuk Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15982","Mayflower Lake",1,NA
+"15985","Itasca Bison Kill Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"15989","Itasca Bison Kill Site",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"1599","Lake LR1",1,NA
+"15992","Itasca Bison Kill Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  less than 2 non-NA ages
+"
+"15998","Itasca Bison Kill Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  less than 2 non-NA ages
+"
+"16002","Itasca Bison Kill Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  less than 2 non-NA ages
+"
+"16009","Pigeon Marsh",1,NA
+"1601","Lake LR3",1,NA
+"16012","Torren's Bog",1,NA
+"16016","Secret Valley Marsh",1,NA
+"1603","Lake LT1",1,NA
+"1604","Lake PWWL",1,NA
+"16046","Lower Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"16054","Little Willow Lake",1,NA
+"1606","Lake QC",1,NA
+"16061","Cedar Lake",1,NA
+"16063","Elkhorn Slough",1,NA
+"16065","CA-HUM-558 (Pilot Ridge)",1,NA
+"16069","Preston Lake",1,NA
+"1607","Lake Six",1,NA
+"16071","Taylor Marsh",1,NA
+"16073","Tule Lake",1,NA
+"16075","Grass Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"16077","Bradshaw Lake peat section",1,NA
+"16079","Brier Island Bog MS-85-22",1,NA
+"16081","Chance Harbour Lake",1,NA
+"16083","Lost Moose Core 128",1,NA
+"16086","Island Lake",1,NA
+"16096","Cook Bank",1,NA
+"16099","Logan Inlet",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"16101","Juan Perez Sound",1,NA
+"16103","Pye Lake",1,NA
+"16105","Silcox Core 52",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"16107","Thibaudeau",1,NA
+"16109","Patricia Bay Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"1611","L'Anse aux Meadows Site",1,NA
+"16111","Grays Lake",1,NA
+"16113","Grays Lake",1,NA
+"16115","Los Penasquitos Lagoon",1,NA
+"16124","Crawford Lake",1,NA
+"16127","Twiss Marl Pond",1,NA
+"16129","Lima Bog",1,NA
+"16131","Mission Cross Bog",1,NA
+"16133","Ruby Marsh",1,NA
+"16135","Awl Site midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16137","Awl Site midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16139","Awl Site midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1614","Langdale Pond",1,NA
+"16141","Awl Site midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16143","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16145","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16147","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16149","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1615","Tourbière de Lanoraie STJEAN",1,NA
+"16151","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16153","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16155","Nelson Basin midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16159","No Name East midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16161","No Name East midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16163","No Name East midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16165","No Name West midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16167","No Name West midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16169","No Name West midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1617","Lateral Pond",1,NA
+"16171","No Name West midden",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16173","Diamond Valley",1,NA
+"16175","Binnewater Pond",1,NA
+"16177","Hyde Park",1,NA
+"16179","Otisville",1,NA
+"16181","Pawelski Farm",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"16184","Benicia State Park",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"16186","China Camp",1,NA
+"16189","Rice Lake",1,NA
+"1619","Little Bayou Sara Site 1B",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"16191","Rice Lake",1,NA
+"16193","Rice Lake",1,NA
+"16197","Mountain Lake",1,NA
+"1620","Little Bayou Sara Site 4J",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1622","Leading Tickles",1,NA
+"16222","Black Mountain Lake",1,NA
+"16224","Sky Pond",1,NA
+"16231","Perch Lake",1,NA
+"16236","Red Green Lake",1,NA
+"16238","Tukuto Lake",1,NA
+"16241","Upper Capsule Lake",1,NA
+"16251","Horseshoe Lake",1,NA
+"16254","Horseshoe Lake",1,NA
+"16256","McGinnis Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"16257","McGinnis Lake",1,NA
+"1626","Lac à Léonard",1,NA
+"16264","Dugas Bay Bog",1,NA
+"16265","Glenora Bay",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"16267","Kilbride Swamp",1,NA
+"16269","Mark Pond",1,NA
+"16271","Preston Lake",1,NA
+"16273","Rife Swamp",1,NA
+"16275","Round Pond",1,NA
+"16278","Webbs Lake",1,NA
+"1629","Lewis Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1632","Lily Lake",1,NA
+"1633","Lily Lake",1,NA
+"1635","Lily Lake",1,NA
+"1637","Lily Lake Fen",1,NA
+"1639","Little Bass Lake",1,NA
+"1640","Little Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  8 controls; types not in master
+"
+"1642","Little Lake",1,NA
+"1643","Little Pine Lake",1,NA
+"1644","LDDsite5772",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1648","Lake Annie",1,NA
+"1649","Lake of the Clouds",1,NA
+"1650","Lake Hope Simpson",1,NA
+"1651","Little Lake",1,NA
+"1655","Lockport Gulf Section",1,NA
+"1656","Lofty Lake",1,NA
+"1657","Lone Fox Lake",1,NA
+"1658","Lonesome Lake",1,NA
+"1659","Long Lake (CA:Nunavut)",1,NA
+"1660","Long Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1661","Longswamp",1,NA
+"1663","Loon Pond",1,NA
+"1665","Lost Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1666","Lost Lake",1,NA
+"1667","Lost P.",1,NA
+"1669","Lake Louise",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1670","Louise Pond",1,NA
+"1671","Loxahatchee National Wildlife Refuge Site 1 (EPA Site 7)",1,NA
+"1684","Lynn Lake",1,NA
+"1685","Lake Mabel",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1689","Main-à-Dieu",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1691","Tourbière du lac Malbaie",1,NA
+"1693","Maligne Lake",1,NA
+"1697","Mangrove Lake",1,NA
+"1698","Mansell Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  12 controls; types not in master
+"
+"1701","Maplehurst Lake",1,NA
+"1703","Lac Marcotte",1,NA
+"1704","M Lake",1,NA
+"1705","Marion Lake",1,NA
+"1707","Mariposa Lake",1,NA
+"1708","Martin Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1709","Lac Martyne",1,NA
+"1712","Mashapaug Pond",1,NA
+"1715","Wapizagonke",1,NA
+"1716","Sud du Lac du Noyer",1,NA
+"1717","Mayberry Well",1,NA
+"1718","Mayflower Lake",1,NA
+"1719","McCarston's Lake",1,NA
+"1720","McCraney Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1723","McLaughlan Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  4 controls; types not in master
+"
+"1724","McMaster Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1725","McNearney Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"17280","Lovesick Lake",1,NA
+"17281","Lovesick Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"17283","Lovesick Lake",1,NA
+"17285","Little Salt Spring",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"17289","Hestvatn",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"17290","Vestra Gislholtsvatn",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"17292","Cycloid Lake",1,NA
+"17296","Lake Cleveland",1,NA
+"17298","Middle Butte Cave",1,NA
+"17300","Rattlesnake Cave",1,NA
+"17304","Capitola Lake",1,NA
+"1732","Medicine Lake",1,NA
+"17320","Idavain Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"17322","Snipe Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"17324","Imnavait Creek",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"17326","Oil Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"17328","Sands of Time Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"1733","Lac Mélèze",1,NA
+"17338","Sithylemenkat Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"17340","St. Lawrence Section 2",1,NA
+"17345","North Killeak Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"17347","St. Lawrence Island Section 3",1,NA
+"1735","Lake Mendota",1,NA
+"17352","Windmill Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"17354","Blair Lakes",1,NA
+"17355","Circle Lake",1,NA
+"17357","Clam Gulch",1,NA
+"17359","Eightmile Lake",1,NA
+"17361","Grizzly Lake",1,NA
+"17363","Panthertown Creek Bog",1,NA
+"17373","Kalifonsky Beach",1,NA
+"17375","Homer Beach",1,NA
+"17377","Longmere Lake",1,NA
+"17379","Lake Minchumina",1,NA
+"17381","Mosquito Pond",1,NA
+"17383","Otto Lake",1,NA
+"17385","Watana Triangle Pond",1,NA
+"17387","Beaver Lake",1,NA
+"17389","Wiener Lake",1,NA
+"17391","Zagoskin Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"17393","Fishblue (Blue) Lake",1,NA
+"17396","Steel Lake",1,NA
+"17398","Piermont Marsh",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"1740","Mermaid Bog",1,NA
+"17400","South Lake",1,NA
+"17402","Little Swift Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"17404","Lorraine Lake",1,NA
+"17406","Penegor Lake",1,NA
+"17409","Kelly Lake",1,NA
+"17417","Big Cypress Bend [End boardwalk ""Fak10 endB""]",1,NA
+"17419","Cumbres Bog",1,NA
+"1754","Lac Mimi",1,NA
+"1755","Minakokosa Lake",1,NA
+"1757","Lake Minnie",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1759","Mirror Pool",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"17597","Benacadie 4",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"1761","Molas Lake",1,NA
+"17617","Lismore Section",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"1762","Molas Pass Bog",1,NA
+"1763","Monhegan Island Meadow",1,NA
+"1765","Lac Montagnais",1,NA
+"1766","Montezuma Well",1,NA
+"17672","Wilcox Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"1768","Moon Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  16 controls; types not in master
+"
+"17689","Spirea Wetland",1,NA
+"1769","18 [Moraine Lake]",1,NA
+"1770","Mordsger Lake",1,NA
+"17711","Lake A",1,NA
+"17713","West Naniskak Lake",1,NA
+"17715","Marl Pond",1,NA
+"17717","Silver Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"1772","Mosquito Lake Bog",1,NA
+"1773","Moulton Pond",1,NA
+"1775","Mud Creek Site 1",1,NA
+"1776","Mud Lake",1,NA
+"1777","Mud Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1778","Mud Lake",1,NA
+"1780","Munday Creek",1,NA
+"1781","Murphy Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1782","Muscotah Marsh",1,NA
+"1783","Muskox Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"17832","Kealia Pond",1,NA
+"1786","Myrtle Lake",1,NA
+"1788","Natla Bog",1,NA
+"17880","Lost Swamp",1,NA
+"1789","Natural Lake",1,NA
+"1791","Nedlouc",1,NA
+"1793","Nels Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"1794","Nelson Pond",1,NA
+"17945","Mitkof Island",1,NA
+"17947","Little Shingobee Lake",1,NA
+"1796","Neville Marsh",0,"Error in quantile.default(newX[, i], ...) : 
+  missing values and NaN's not allowed if 'na.rm' is FALSE
+"
+"1799","Nichols Brook Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  4 controls; types not in master
+"
+"17993","Tower Lake",1,NA
+"1800","Nicol Lake",1,NA
+"1806","Niliq Lake",1,NA
+"1807","Nina Lake",1,NA
+"18106","Blue Lakes",1,NA
+"18108","NEL03",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"18110","Path Lake",1,NA
+"18127","Pyatts Lake",1,NA
+"1814","No Bottom Pond",1,NA
+"1815","Nonconnah Creek [TN-1]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"18159","Mod Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  12 controls; types not in master
+"
+"1817","North Pond",1,NA
+"1818","Water Conservation Area 3B, Nuthouse Far Tail",1,NA
+"1819","Water Conservation Area 3B, Nuthouse Head",1,NA
+"1820","Nutt Lake",1,NA
+"1821","Northwest River Pond",1,NA
+"1823","Lake O'Hara",1,NA
+"1824","West Okoboji Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  12 controls; types not in master
+"
+"1826","Old Field",1,NA
+"1829","Oliver Pond",1,NA
+"1830","Lake Onamia",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1831","Ondris Pond",1,NA
+"1833","Lake Ontario, Rochester Basin",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1834","Lake Ontario, Mississauga Basin",1,NA
+"1835","Opabin Lake",1,NA
+"1840","Otto Mielke Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"1841","Lac Ouellet",1,NA
+"1847","Palace Pier Section",1,NA
+"1848","Panther Run Pond",1,NA
+"1849","Paradise Lake",1,NA
+"1852","Park Pond 1",1,NA
+"1854","Park Pond 2",1,NA
+"1856","Park Pond 3",1,NA
+"1857","Parkhill Creek",1,NA
+"1858","Parrott's Pond",1,NA
+"1859","Pasacaco Pond",1,NA
+"1861","Pasqua Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1862","Pass Lake",1,NA
+"1864","Lac Patricia",1,NA
+"1865","Patschke Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1868","Paynter Marsh",1,NA
+"1879","Peatsah Section",1,NA
+"1882","Ped Pond",1,NA
+"1883","Peggy Lake",1,NA
+"1884","Pennington Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1888","Perch Lake",1,NA
+"1890","Lac Petel",1,NA
+"1891","Peterson Slough",1,NA
+"1897","Pilot Mound Site",1,NA
+"1898","Pinckneyville Creek Site 19",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1899","Pinckneyville Creek Site 20",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1900","Pinckneyville Creek Site 21",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"1902","Pinecrest Lake",1,NA
+"1904","Pink Lake",1,NA
+"1905","Pitcher Bog",1,NA
+"1906","Pixie Lake",1,NA
+"19264","Naskak",1,NA
+"19266","Aghnaghak",1,NA
+"19316","Norwood",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"19323","TK-2 Lake",1,NA
+"1955","Pleasant Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1957","Lac Pluvieux",1,NA
+"1961","Poland Spring Pond",1,NA
+"19620","Lake Tulane",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  48 controls; types not in master
+"
+"1963","Pond Mills Pond",1,NA
+"1964","Porphyry Lake",1,NA
+"1965","Porqui Pond",1,NA
+"1966","Portage Lake",1,NA
+"1967","Portage Marsh",1,NA
+"1968","Portage Bog",1,NA
+"1970","Posy Lake",1,NA
+"1972","Potts Mountain Pond",1,NA
+"1974","Powers Fort Swale",1,NA
+"1975","Chesapeake Bay, Parker Creek",1,NA
+"1978","Princeville",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"1980","Protection Bog",1,NA
+"1981","Point Escuminac",1,NA
+"19812","Madelia",1,NA
+"19814","Trout Lake",1,NA
+"1982","Chesapeake Bay, Potomac River",1,NA
+"19820","Killebrew Lake Fen",1,NA
+"19834","Fox Lake",1,NA
+"1984","Chesapeake Bay, Patuxent River (2-P-5)",1,NA
+"19842","Lac Brule",1,NA
+"19846","Lac Noir",1,NA
+"1987","Puyuk Lake",1,NA
+"19931","Lone Star Lake",1,NA
+"19933","Lily Lake",1,NA
+"19937","Spicer Lake",1,NA
+"19967","Mary Lake",1,NA
+"19993","Cooley Lake",1,NA
+"19995","Gerry Lake",1,NA
+"19997","Wentworth Lake",1,NA
+"20001","Crocker Lake",1,NA
+"2001","Pyle Site",1,NA
+"20014","Cedar Swamp",1,NA
+"2003","Quarles Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2004","Queens Lake",1,NA
+"2006","Quicksand Pond",1,NA
+"2007","Quillin Site",1,NA
+"2011","Radtke Lake",1,NA
+"2013","Rivière-aux-Feuilles 1",1,NA
+"2015","Rivière-aux-Feuilles 2",1,NA
+"2016","Tourbière de la Rivière-aux-Feuilles",1,NA
+"20188","Lake Hill",1,NA
+"20194","Kettle Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  47 controls; types not in master
+"
+"202","Anderson Lake",1,NA
+"2022","Ra Lake",1,NA
+"2023","Ramsay Lake",1,NA
+"2025","Ranger Lake",1,NA
+"2026","Rapid Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2028","Rattle Lake",1,NA
+"20281","Dragonfly Lake",1,NA
+"20287","Haircut Lake",1,NA
+"20289","Marcella Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"20295","Salmo Lake",1,NA
+"203","Anderson Pond",1,NA
+"2030","Rayburn's Dome",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"20304","Hunters Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  11 controls; types not in master
+"
+"20306","Dailey Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  16 controls; types not in master
+"
+"20308","Blacktail Pond",1,NA
+"20311","Elk Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  4 controls; types not in master
+"
+"20316","Fish Lake",1,NA
+"20372","Swanson Fen",1,NA
+"20397","South Rhody peatland",1,NA
+"204","Andree Bog",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 1).
+"
+"2045","Rebel Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2047","Redondo Lake",1,NA
+"2048","Vallée de l'Albion",1,NA
+"2049","Redrock Lake",1,NA
+"20495","Ogaromtoc Lake",1,NA
+"205","Andrus Lake",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"2050","Redstone Lake",1,NA
+"2051","Reichow Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"20512","Minden Bog",1,NA
+"20515","Lake Grinnell",1,NA
+"2053","Reidel Lake",1,NA
+"2054","Reindeer Lake",1,NA
+"206","Andy Lake",1,NA
+"20609","Eleanor Lake",1,NA
+"2061","Chesapeake Bay, Rhode River",1,NA
+"20613","Plan B Pond",1,NA
+"20616","Bison Lake",1,NA
+"20618","Quag Pond",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"2062","Rholl Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"20620","Little Bolton",1,NA
+"20627","Snake Pond",1,NA
+"2063","Rhule Fen",1,NA
+"20631","Lake Pleasant",1,NA
+"20643","Pine Lake",1,NA
+"20647","Lake JR01",1,NA
+"20649","Lake KR02 (unofficial name)",1,NA
+"2065","Rice Lake",1,NA
+"20651","Upper Fly Lake",1,NA
+"20653","Lake MB01",1,NA
+"2066","Rice Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  4 controls; types not in master
+"
+"20676","Lake SL06",1,NA
+"20678","Patterson Lake",1,NA
+"2068","R Lake",1,NA
+"20695","Crooked Lake",1,NA
+"20697","Crooked Lake",1,NA
+"20758","Bolan Lake",1,NA
+"208","Angal Lake",1,NA
+"20833","Chihuahueños Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  10 controls; types not in master
+"
+"20836","Drizzle Bog",1,NA
+"20838","Purple Lake",1,NA
+"20872","Screaming Lynx Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"20883","Star Meadows",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  14 controls; types not in master
+"
+"209","Lac à l'Ange",1,NA
+"20922","East Glacier Lake",1,NA
+"210","Antelope Playa",1,NA
+"21314","Corser Bog",1,NA
+"21319","Lac Triangle",1,NA
+"21334","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21338","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21342","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21349","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21353","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21357","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21361","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21365","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21372","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21376","Graben Dome, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21383","Nolf Crater, Diamond Craters",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21389","Petit lac Bouchard",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 4).
+"
+"21393","Catlow Rim",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"21396","Catlow Rim",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"214","Arrington Marsh",1,NA
+"21404","Petit lac Bouchard",1,NA
+"21406","Petit lac Bouchard",1,NA
+"21415","Newark Valley Pond",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"21418","Kingston Meadow",1,NA
+"21422","Upper Squaw Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  7 controls; types not in master
+"
+"21577","Stoll Lake",1,NA
+"21600","Tawny Pond",1,NA
+"21770","Hippa Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for Collection date
+"
+"21772","Misty Lake",1,NA
+"21774","Port McNeill Bog",1,NA
+"21788","Roe Lake",1,NA
+"21792","Horseshoe Lake",1,NA
+"21800","Grassy Lake",1,NA
+"21822","Sunwapta Pass Bog 6",1,NA
+"21826","Sunwapta Pass Bog 1",1,NA
+"21830","Lake AT01",1,NA
+"21844","Mission Cross Bog",1,NA
+"21893","ODP Hole 893A",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"219","Lac des Atocas",1,NA
+"221","Axe Lake",1,NA
+"22103","Upper Cumberland Plateau Pond",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"22119","Cienega de San Bernadino",1,NA
+"22238","Ochlockonee River",1,NA
+"22244","Quidi Vidi Lake",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 11).
+"
+"223","Bad Medicine Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"22376","Round Pond",1,NA
+"22379","Upper Susitna River Valley",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"22397","Doolittle Ranch Meadow",1,NA
+"224","Baird Inlet [Rock Basin Lake]",1,NA
+"22400","Echo Lake",1,NA
+"22407","Breitenbush Lake",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"2262","L'Anse aux Meadows Road Cut Bog",1,NA
+"2265","Lac à Robin",1,NA
+"2266","Robinson's Pond",1,NA
+"2267","Lac des Roches Moutonnées",1,NA
+"2270","Rogers Lake",1,NA
+"228","Balsam Meadow",1,NA
+"2286","Lac Romer",1,NA
+"2287","Rose Swamp",1,NA
+"2288","Rosebud",0,"Error in quantile.default(newX[, i], ...) : 
+  missing values and NaN's not allowed if 'na.rm' is FALSE
+"
+"2289","Rose Lake",1,NA
+"2290","Rossburg Bog",1,NA
+"2292","Ross Pond",1,NA
+"2293","Rostock Mammoth Site",1,NA
+"22948","Leonora Curtin",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"22969","Long Lake",1,NA
+"2297","Lake RS29",1,NA
+"2303","Lake RS36",1,NA
+"2309","Ruby Lake",1,NA
+"2311","Ruppert Lake",1,NA
+"2314","Rutz Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  11 controls; types not in master
+"
+"2318","Ryerse Lake",1,NA
+"2319","Lac au Sable",1,NA
+"232","Barchampe Lake",1,NA
+"2320","Sagehen Marsh",1,NA
+"2324","Sakana Lake",1,NA
+"2332","Lac à Sam",1,NA
+"2337","Sandy Cove Pond",1,NA
+"2338","San Joaquin Marsh",1,NA
+"234","Barrett Lake",1,NA
+"2340","San Agustin Plains",1,NA
+"2341","Sarnia Elk Site Section",1,NA
+"2342","Lac Manitou",1,NA
+"2343","Lac aux Quenouilles",1,NA
+"2345","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"2346","Sierra Bacha 3",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"2347","Lake Site South Burin Peninsula",1,NA
+"2348","SC1 Pond",1,NA
+"2349","Scott Lake",1,NA
+"235","Barry Lake",1,NA
+"2351","Screaming Yellowlegs Pond",1,NA
+"2352","Seagull Lake",1,NA
+"2353","Kettle's Lake [Second Lake]",1,NA
+"2354","Sedivy Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2355","Seidel",1,NA
+"236","Baseball Bog",1,NA
+"2366","Seminary Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2367","LD Lake",1,NA
+"237","Basin Pond",1,NA
+"2372","Sewell Lake",1,NA
+"2373","Saint-Francois de Sales",1,NA
+"2374","Shady Valley Bog",1,NA
+"2375","Shagawa Lake",1,NA
+"2376","Shangri-La Bog",1,NA
+"2377","Shaws Bog",1,NA
+"2378","Mont Shefford",1,NA
+"238","Lac Bastien",1,NA
+"2380","Sheley Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2381","Sherd Lake",1,NA
+"2382","Shouldice Lake",1,NA
+"2383","Silver Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2384","Silver Lake",1,NA
+"2385","Silver Lake",1,NA
+"2386","Silver",1,NA
+"239","Battle Ground Lake",1,NA
+"2391","Sinkhole Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2393","Sioux Pond",1,NA
+"2394","Siseebakwet South",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"24","Alexander Lake",1,NA
+"240","Battaglia Bog",1,NA
+"241","Black Bass Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"24354","North Flat Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"244","Beach Lake",1,NA
+"24425","L03",1,NA
+"245","Bear Bog",1,NA
+"246","Beaver Lake",1,NA
+"24608","Rondeau Bay (R34)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  less than 2 non-NA ages
+"
+"24665","Trinity River bayhead",1,NA
+"24686","Trinity River Valley",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 5).
+"
+"247","Bechan Cave",1,NA
+"24725","Corpus Christi Bay",0,"Error in if (any(geochron$chroncontrolid == 105848)) { : 
+  missing value where TRUE/FALSE needed
+"
+"2476","Sleet Lake",1,NA
+"249","Beckman Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"25","Alexis Lake",1,NA
+"250","Beef Pasture",1,NA
+"25147","St. Shotts",1,NA
+"25186","St. Shotts",1,NA
+"25188","St. Shotts",1,NA
+"25190","St. Shotts",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 2).
+"
+"25192","St. Shotts",1,NA
+"25207","St. Shotts",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 2).
+"
+"25209","St. Shotts",1,NA
+"25268","St. Shotts",1,NA
+"253","Bell's Lake",1,NA
+"25306","Otter Lake",1,NA
+"25337","Leaky Lake",1,NA
+"25340","Waccamaw River, Turkey Creek Oligohaline Marsh",1,NA
+"25349","Waccamaw River, Turkey Creek, Heavily Salt Impacted Swamp",1,NA
+"25368","Waccamaw River, Butler Island, Moderately Salt Impacted",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"25378","Battery Lake",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 2).
+"
+"25388","Pine Lake",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 2).
+"
+"254","Belmont Bog",1,NA
+"25491","Lignumvitae Key",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 5).
+"
+"25514","East Whitewater Bay",1,NA
+"25551","Beef Pasture",1,NA
+"25605","Cotton Key",1,NA
+"25609","Water Conservation Area 3B",1,NA
+"25683","Levee L67A",1,NA
+"25749","Rocky Glades",1,NA
+"2576","Slough Creek Pond",1,NA
+"2577","Slow River",1,NA
+"2578","Smoot Lake Bog",1,NA
+"25786","Cobweb Swamp (Sawgrass Core)",1,NA
+"258","Bereziuk",1,NA
+"2580","Snowshoe Lake",1,NA
+"25806","Cobweb Swamp (Canal Fill Core)",1,NA
+"2581","Solum Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2584","South Stanchfield Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2585","Spectacle Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2586","Spirit Lake",1,NA
+"2587","Splains Gulch",1,NA
+"2588","Splains Lake",1,NA
+"2590","Spring Lake",1,NA
+"2591","Spring Lake",1,NA
+"2593","Spruce Pond",1,NA
+"2598","Stages Pond",1,NA
+"2599","Starkweather Pond",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"260","Berry Pond",1,NA
+"2600","St. Catherines Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2603","Saint John Island Pond",1,NA
+"2604","Stockbridge Bowl",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2605","Stone Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2607","Stone Lake Tamarack Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2609","Stotzel-Leis Site",1,NA
+"2610","Sugarloaf Pond",1,NA
+"2611","Sulphur Lake",1,NA
+"2613","Sunfish Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2615","Surprise Lake",1,NA
+"2617","Sutherland Pond",1,NA
+"2619","Swamp Lake",1,NA
+"2620","Swan Lake",1,NA
+"2621","Swartswood Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2622","Sweet Little Lake",1,NA
+"2623","Szabo Pond",1,NA
+"2624","Tamarack Creek",1,NA
+"26246","Roe Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"2625","Tangle Lakes",1,NA
+"2626","Tannersville Bog",1,NA
+"2628","Williams Street Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  4 controls; types not in master
+"
+"2629","Taupawshas Bog",1,NA
+"2630","Taylor Creek Site 2",1,NA
+"2631","Taylor Lake",1,NA
+"26313","Quamichan Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"26315","Florence Lake",1,NA
+"2632","Taylor Slough Site 15",1,NA
+"2633","Taylor Slough Site 7",1,NA
+"2634","Telegraph Creek",1,NA
+"2636","Ten Lakes",1,NA
+"2637","Ten Mile Lake",1,NA
+"2638","Quallen Lake [Terhell Pond]",1,NA
+"2639","Petit Lac Terrien",1,NA
+"2640","Thompson Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2642","Tiinkdhul Lake",1,NA
+"2644","Tioga Pass Pond",1,NA
+"2645","Titicut Swamp",1,NA
+"2646","Thompson Landing",1,NA
+"2647","Toboggan Lake",1,NA
+"2648","Toenjes Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2651","Tonawa Lake",1,NA
+"2652","Tonquin Creek",1,NA
+"2654","Lac à la Tortue",1,NA
+"26606","Lake 239",1,NA
+"2661","Tuktoyaktuk 5",1,NA
+"2663","Lake Tulane",1,NA
+"26630","Lake Tahoe",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 1).
+"
+"2667","Tunica Bayou Site 22",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"26673","St. Jones River (SJB6)",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 1).
+"
+"26675","St. Jones River (SJC6)",1,NA
+"2668","Tunica Bayou Site 23",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"2669","Tunturi Lake",1,NA
+"267","Banks Island 74MS11",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2671","Lac Turcotte",1,NA
+"2673","Tuskegee Pond",1,NA
+"268","Banks Island 74MS12",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"269","Banks Island 74MS15",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"27","Aliuk Pond",1,NA
+"271","Biggsville [Cessford Quarry]",1,NA
+"272","Big John Pond",1,NA
+"274","Big Pond",1,NA
+"275","Billy's Lake",1,NA
+"276","Bishops Falls",1,NA
+"278","Black Pond",1,NA
+"279","Blacktail Pond",1,NA
+"280","Blandin Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"281","BL-Tombigbee",1,NA
+"282","Blackhoof Site",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"287","Blue Mounds Creek",1,NA
+"2879","Twin Lakes (CA:British Columbia)",1,NA
+"2880","Twin Lakes",1,NA
+"2881","Twin Lakes",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2882","Tyrrell Lake",1,NA
+"2886","Unknown Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2888","Upper Graven Lake",1,NA
+"2890","Upper Mallot Lake",1,NA
+"2892","Upper South Branch Pond",1,NA
+"2897","Utricularia Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"29","Lake Allie",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2902","Valhalla Hollow",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  4 controls; types not in master
+"
+"2903","Van Nostrand Lake",1,NA
+"2912","Baie du Diana",1,NA
+"2919","Volo Bog",1,NA
+"2922","Walker Lake",1,NA
+"2925","Watchtower Basin",1,NA
+"2926","Waubashene Nippissing Transgression Site",1,NA
+"2943","Water Conservation Area 2A, Site 2 (Site F1)",1,NA
+"2944","Water Conservation Area 2A, Site 3 (Site U3)",1,NA
+"2945","Water Conservation Area 3A, Site 4 (CA315 (AAS))",1,NA
+"2947","Wells Mastodon Site",1,NA
+"2948","Wentzel's Pond",1,NA
+"2949","Weslemkoon Lake",1,NA
+"295","Bob Black Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2950","Whiskey Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2951","Whitney's Gulch",1,NA
+"2952","White Lily Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2953","Whyac Lake",1,NA
+"2954","Wien Lake",1,NA
+"2955","Wilcox Pass",1,NA
+"2956","Willow River Pond",1,NA
+"2957","Windsor Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2959","Winneconnet Pond",1,NA
+"296","Bob Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"2960","Winter Gulf Site",1,NA
+"2961","Wintergreen Lake",1,NA
+"2962","Wild Spear Lake",1,NA
+"298","Bog D Pond",1,NA
+"30","Almora Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"300","Bondi Section",1,NA
+"302","Boone Lake",1,NA
+"3029","Wolf Creek",1,NA
+"303","Border Beacon",1,NA
+"3031","Wolsfeld Lake",1,NA
+"3032","Wolverine Lake",1,NA
+"3033","Wonder Lake",1,NA
+"3034","Woodcliff Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3035","Wood Lake",1,NA
+"3036","Woodworth Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3038","Point Woronzof Peat Section",1,NA
+"3039","Woski Pond",1,NA
+"304","Boriack Bog",1,NA
+"3041","Wylde Bog",1,NA
+"3042","Wylde Lake",1,NA
+"3046","Lac Yelle",1,NA
+"3047","Yellow Dog Pond",1,NA
+"3048","Yesterday Lake",1,NA
+"305","Bossuot Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3050","Zuehl Farm Site",1,NA
+"3051","Found Lake",0,"Error in if (any(geochron$chroncontrolid == 105848)) { : 
+  missing value where TRUE/FALSE needed
+"
+"3054","Head Lake",1,NA
+"3056","Como Lake",1,NA
+"3058","Basswood Road Lake/Splan Pond",1,NA
+"306","Lac Boucané",1,NA
+"3060","Bechan Cave",1,NA
+"3062","Beckman Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3067","Boney Spring",1,NA
+"307","Boundary Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3076","Toadlena Lake [Dead Man Lake]",1,NA
+"308","Boundary Pond",1,NA
+"3081","Disterhaft Farm Bog",1,NA
+"309","Brandreth Bog",1,NA
+"311","Brisay 2",1,NA
+"312","Brophy Ditch",1,NA
+"3125","E Lake",1,NA
+"3126","Ferndale Bog",1,NA
+"3127","Floating Island Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"313","Brown Lake",1,NA
+"3130","Heart Lake",1,NA
+"3131","Hells Kitchen Lake",1,NA
+"3132","Hershop Bog",1,NA
+"3138","Jacobson Lake",1,NA
+"314","Brown's Bay, Lake Minnetonka",1,NA
+"3149","John Klondike Bog",1,NA
+"315","Brown Lake",1,NA
+"316","Browns Pond",1,NA
+"318","Buckbean Fen",1,NA
+"319","Buck Lake",1,NA
+"321","Bucyrus Bog",1,NA
+"32258","Kearney McKean-2",1,NA
+"324","Burden Lake",1,NA
+"325","Burntside Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"326","Lac à la Busque",1,NA
+"328","Cahaba Pond",1,NA
+"329","Saint-Calixte",1,NA
+"331","Camel Lake",1,NA
+"332","Camp 11 Lake",1,NA
+"333","Camp 12 Lake",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"334","Campbell Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"336","Candelabra Lake",1,NA
+"337","Tourbière Caribou",1,NA
+"338","Carbuncle Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"339","Lac Caribou",1,NA
+"340","Caribou Bog",1,NA
+"341","Caribou Hill",1,NA
+"343","Carp Lake",1,NA
+"345","Carter Site",1,NA
+"3452","Kellys Hollow",1,NA
+"3454","Marais de Keswick",1,NA
+"3455","Kirchner Marsh",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 2).
+"
+"346","Lac Castor",1,NA
+"3468","Lake Ann",1,NA
+"3469","Lake Ann",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"347","Cascade Fen [Engineer Mountain Bog]",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3471","Lake BI2",1,NA
+"3473","Lake Mary",1,NA
+"3482","Lake of the Clouds",1,NA
+"3483","Lake of the Clouds",0,"Error in if (any(geochron$chroncontrolid == 105848)) { : 
+  missing value where TRUE/FALSE needed
+"
+"3484","Lake Louise",1,NA
+"3485","McNearney Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"3486","McNearney Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"3487","Medicine Lake",1,NA
+"3488","Lake Mendota",1,NA
+"3492","Lake Minnie",1,NA
+"3493","Mohawk Pond",1,NA
+"3495","Muscotah Marsh",1,NA
+"3497","Nichols Brook Site",1,NA
+"3500","Patschke Bog",1,NA
+"3501","Pittsburg Basin",1,NA
+"352","Cedar Bog",1,NA
+"3541","Pogonia Bog Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3542","Pickerel Lake",1,NA
+"3558","Pogonia Bog Pond",1,NA
+"3559","Portage Marsh",1,NA
+"3560","Potato Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3561","Potato Lake",1,NA
+"3563","Pretty Lake",1,NA
+"3565","Saint-Raymond",1,NA
+"3568","Rice Lake",1,NA
+"3582","Rockyhock Bay",1,NA
+"3583","Rosebud",1,NA
+"3608","Sagehen Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3609","Sagehen Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"361","Chase Pond",1,NA
+"3611","San Agustin Plains",1,NA
+"3612","San Agustin Plains",1,NA
+"3613","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3614","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3615","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3616","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3617","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3618","Sierra Bacha 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"3620","Seidel",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"367","Cheyenne Bottoms",1,NA
+"369","Chippewa Bog",1,NA
+"371","Chism 1",1,NA
+"373","Chism 2",1,NA
+"375","Chatsworth Bog",1,NA
+"3771","Snow Lake",1,NA
+"3772","South Soefje Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3774","Spiritwood Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  12 controls; types not in master
+"
+"3775","Basswood Road Lake/Splan Pond",1,NA
+"3780","Stone Lake Tamarack Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3781","Stewart's Dark Lake",1,NA
+"3782","Taylor Creek Site 2",1,NA
+"3784","Third Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3786","Third Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3788","Third Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"3789","Tom Swamp",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3790","Tom Swamp",1,NA
+"381","Lac Ciel Blanc",1,NA
+"382","Cindy Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3830","Upper Wallface Pond",1,NA
+"3831","Vestaburg Bog",1,NA
+"3837","Weber Lake",1,NA
+"3839","Weslemkoon Lake",1,NA
+"3840","White Pond",1,NA
+"3841","White Lily Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"3858","West Sand Lake Peat Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"39181","Black Point Pond",1,NA
+"39190","Deep Bottom Cove",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"39192","Muddy Cove Pond",1,NA
+"39221","Long Cove Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  less than 2 non-NA ages
+"
+"39335","Saltville Quarry",0,"Error in if (any(geochron$chroncontrolid == 105848)) { : 
+  missing value where TRUE/FALSE needed
+"
+"39348","Watcha Pond",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"39355","Jobs Neck Pond",1,NA
+"39474","Mathews Pond",1,NA
+"39749","Big Moose Lake",1,NA
+"40111","White Pond",1,NA
+"40168","Stotzel-Leis Site",1,NA
+"40519","Jane's Cove",1,NA
+"40591","Mashacket Cove",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  less than 2 non-NA ages
+"
+"40600","Slough Cove",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  less than 2 non-NA ages
+"
+"40620","Lagoon Pond",0,"Error in set_missing_control_errors(geochron) : 
+  an na chron control error could not be assigned for NA
+"
+"40625","Lake Tashmoo",1,NA
+"40666","Cedar Tree Neck Bog",1,NA
+"40791","Benson Pond",1,NA
+"40793","Berry Pond",1,NA
+"40795","Black Pond",1,NA
+"40797","Blaney's Pond",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"40799","Blood Pond",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"40803","Deep-Falmouth Pond",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"40844","Deep-Taunton Pond",1,NA
+"40854","Doe Pond",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"40861","Green Pond",1,NA
+"40875","Guilder Pond",1,NA
+"40914","Knob Hill Pond",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"40976","Grant's Bog",1,NA
+"40988","Little Royalston Pond",1,NA
+"40992","Little Willey Pond",1,NA
+"41001","Sears Pond",1,NA
+"41016","Umpawaug Pond",1,NA
+"41018","Uncle Seth's Pond",1,NA
+"41025","Ware Pond",1,NA
+"41027","West Side Pond",1,NA
+"41030","Glenmire",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  10 controls; types not in master
+"
+"41032","Henrys Fork (lower exposure)",1,NA
+"41034","Henrys Fork (upper exposure)",1,NA
+"41036","Mission Cross Bog",1,NA
+"41098","Lake Billyakh",1,NA
+"41138","Lake Billyakh",1,NA
+"41140","Gem Lake",1,NA
+"41146","Summit Lake",1,NA
+"41159","Seven Lakes",1,NA
+"41161","Gold Creek Lake",1,NA
+"41163","Hidden Lake",1,NA
+"41171","Hinman Lake",1,NA
+"41183","Goat Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  18 controls; types not in master
+"
+"41370","Old Crow Flats (Core XVI)",1,NA
+"41372","Old Crow Flats (Core XV)",1,NA
+"41374","Old Crow Flats (Core VB)",1,NA
+"41405","Old Crow Flats (Core VI)",1,NA
+"41407","Old Crow Flats (Core VI)",1,NA
+"41443","Old Crow Flats (Core IX)",1,NA
+"41463","Old Crow Flats (Core IX)",1,NA
+"41495","Old Crow Flats (Core BB)",1,NA
+"41497","Old Crow Flats (Core CB)",1,NA
+"41499","Old Crow Flats (Core KE)",1,NA
+"41537","Lake Elsinore",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  30 controls; types not in master
+"
+"41580","Hermit Lake",1,NA
+"41585","BC2",1,NA
+"41606","Sunset Lake",1,NA
+"41612","Dead Spruce Lake",1,NA
+"41614","Emerald Lake",1,NA
+"41762","Foy Lake",1,NA
+"41864","Lake WA01",1,NA
+"42001","Beaverhouse Lake",1,NA
+"42161","Unit Lake",1,NA
+"42197","Greylock Bog",1,NA
+"42379","US 2 Bog",1,NA
+"42537","Carnegie Trail Pond",1,NA
+"42547","Antler Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  5 controls; types not in master
+"
+"42559","Whitebark Moraine Pond",1,NA
+"42645","Soldier Creek Meadow",1,NA
+"42663","Northwest Gander River",1,NA
+"42675","West Side Pond",1,NA
+"42677","Dogfish Bank",1,NA
+"42679","Pool's Cove Pond",1,NA
+"42712","Moose Pond",1,NA
+"42722","Conne River",1,NA
+"42745","Keyhold Pond",1,NA
+"42879","Twin Lakes",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 1).
+"
+"43291","Cutthroat Ruin Group",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"43509","Holly Ruin Group",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"43510","Cajon Ruin Group",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"43521","Square Tower Ruin Group",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"44729","Cajon Ruin Group",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"44761","McElmo",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45081","Big Ruin",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45089","Big Ruin",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"45090","Big Ruin",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"45125","Big Ruin Canyon",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"45126","Big Ruin Canyon",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"45127","Big Ruin Canyon",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"45128","Big Ruin Canyon",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"45129","Big Ruin Canyon",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"45130","Big Ruin Canyon",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"45131","Climax",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45132","Climax",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45133","Climax",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45138","Climax",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45139","Climax",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45140","Climax",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45141","Climax",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45262","Cutthroat Ruin Group",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45317","Cutthroat Ruin Group",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45318","Cutthroat Ruin Group",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45332","Hovenweep Ruin",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45537","Painted Hand Pueblo",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45538","Painted Hand Pueblo",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"4557","Aino Pond",1,NA
+"4558","Dead Frog Pond",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"45625","Sandstone 1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"45652","Kilgii Pond",1,NA
+"45655","Mirror Lake",1,NA
+"45695","Triangle Lake Bog",1,NA
+"45816","Bonnett Lake",1,NA
+"46131","Sweeton Pond",1,NA
+"46290","Anthony Lake",1,NA
+"46292","Twin Lakes",1,NA
+"46603","Baldwin Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  10 controls; types not in master
+"
+"46611","Little Windy Hill Pond",1,NA
+"46630","Begbie Lake",1,NA
+"46645","Lower Paintrock Lake",1,NA
+"46659","Rainbow Lake",1,NA
+"46672","Hummingbird Lake",1,NA
+"46680","West LaSalle",1,NA
+"46682","Paisley Cave 2",1,NA
+"46684","Paisley Cave 2",1,NA
+"46716","Billings Park",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"46718","North Bay",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"46720","Minnesota Point",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"46722","Pokegama Bay",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"46726","North of Clough Island",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"46730","Beauty Lake",1,NA
+"46801","Hospital Flat Meadow",1,NA
+"46803","Mica Lake",1,NA
+"47259","Hall's Cave",1,NA
+"47506","Seal Beach wetland",1,NA
+"47527","Blackwood Sinkhole",1,NA
+"47535","Nunalleq",1,NA
+"47555","Cupola Pond",1,NA
+"47557","Cupola Pond",1,NA
+"47599","Mobile Bay, MB0810-GC20",1,NA
+"47602","St. Catherines Island (Northwest Marsh)",1,NA
+"47610","Chickaree Lake",1,NA
+"47621","Pearson's Pond",1,NA
+"47687","Swan Lake",1,NA
+"47754","Croton Springs",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  12 controls; types not in master
+"
+"47758","Croton Springs",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  2 controls; types not in master
+"
+"48361","Sunken Island Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  21 controls; types not in master
+"
+"48363","Choquette Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  12 controls; types not in master
+"
+"48549","Wawona Meadow",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  4 controls; types not in master
+"
+"48616","Morkill Lake",1,NA
+"48630","Lower Sitka Sound [EW0408-40JC]",1,NA
+"48685","Nelson Lake",1,NA
+"48708","Day Wash #14",1,NA
+"48712","Forestdale Valley",1,NA
+"48717","Gund Ranch",1,NA
+"48719","Forestdale Valley",1,NA
+"48721","Emile Lake",1,NA
+"48723","Cheney Lake",1,NA
+"48726","Forestdale Valley",1,NA
+"48728","Forestdale Valley",1,NA
+"48730","Cheney Lake",1,NA
+"48740","Dune Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  11 controls; types not in master
+"
+"48750","Rocky Draw",1,NA
+"48771","Sharp Hollow",1,NA
+"48812","Benfield Lake",1,NA
+"48814","Borden Lake",1,NA
+"48816","Ackerman Lake",1,NA
+"48818","Hells Kitchen Lake",1,NA
+"48843","BB01",1,NA
+"48846","BB02",1,NA
+"48849","CBS3",1,NA
+"48857","MCA4",1,NA
+"48861","Ackerman Lake",1,NA
+"48873","South Kratt Lake",1,NA
+"48879","Trout Lake",1,NA
+"48881","Wichser Lake",1,NA
+"48887","Young Lake",1,NA
+"48889","Young Lake",1,NA
+"48893","Partridge Lake",1,NA
+"48895","Partridge Lake",1,NA
+"489","Clear Lake",1,NA
+"48906","Lake Ann",1,NA
+"48907","Lake Ann",1,NA
+"48908","Lake Ann",1,NA
+"48909","Lake Ann",1,NA
+"48911","Etang Fer-de-Lance",1,NA
+"48912","Etang Fer-de-Lance",1,NA
+"490","Clear Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"492","Clear Pond",1,NA
+"493","Clearwater Lake",1,NA
+"494","Clear Pond",1,NA
+"496","Coghill Lake",1,NA
+"497","Colo Marsh",1,NA
+"498","Columbine Ranch Fen",1,NA
+"500","Comb Lake",1,NA
+"501","Compass Pond",1,NA
+"502","Conklin Quarry",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"503","Conroy Lake",1,NA
+"506","Copley Lake",1,NA
+"507","Coppermine Saddleback",1,NA
+"508","Lac Côté",1,NA
+"510","Tourbière de Lanoraie COTEAU JAUNE",1,NA
+"513","Cottonwood Lake",1,NA
+"514","Cottonwood Pass Pond",1,NA
+"515","Cottonwood Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"516","Cranberry Lake",1,NA
+"517","Crane Lake",1,NA
+"518","Cranberry Glades",1,NA
+"519","Crates Lake",1,NA
+"520","Crawford Lake",1,NA
+"521","Crazy Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"522","Creditview Wetland",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"523","Crider's Pond",1,NA
+"524","Cristal Lake",1,NA
+"525","Crowfoot Lake",1,NA
+"527","Crowsnest Lake",1,NA
+"532","Cub Lake",1,NA
+"533","Cub Creek Pond",1,NA
+"534","Cub Lake",1,NA
+"538","Cummins Pond",1,NA
+"539","Cupola Pond",1,NA
+"543","Cygnet Lake Fen",1,NA
+"545","Dalton Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"546","Dark Lake",1,NA
+"549","Daumont",1,NA
+"550","Davis Lake",1,NA
+"671","Toadlena Lake [Dead Man Lake]",0,"Error in quantile.default(newX[, i], ...) : 
+  missing values and NaN's not allowed if 'na.rm' is FALSE
+"
+"672","Decoy Lake",1,NA
+"673","Deer Lake Bog",1,NA
+"675","Delorme 1",1,NA
+"677","Delorme 2",1,NA
+"678","Lac Demain",1,NA
+"679","Demont Lake",1,NA
+"681","Denton Lake",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_lead"" is missing, with no default
+"
+"683","Devils Lake, Main Bay",1,NA
+"684","Devils Lake",1,NA
+"685","Devon Island Glacier",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"688","Diana 375",1,NA
+"691","Lac du Diable",1,NA
+"693","Dinkey Meadow",1,NA
+"699","Dismal Swamp (91)",1,NA
+"7","Three Pines Bog",1,NA
+"700","Disterhaft Farm Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"701","Divide Lake",1,NA
+"717","Dogfish Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"719","Dome Creek Meadow",1,NA
+"721","Donut Pond Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"722","Dosquet",1,NA
+"772","Duck Pond",1,NA
+"773","Lac Dufresne",1,NA
+"774","Dunnigan Lake",0,"Error in if (any((geochron$type == ""Lead-210"") & (geochron$limitolder >  : 
+  missing value where TRUE/FALSE needed
+"
+"776","Eagle Lake Bog",1,NA
+"777","Eagle Lake",1,NA
+"778","Eaglenest Lake",1,NA
+"781","East Twin Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"782","East Baltic Bog",1,NA
+"7829","Natural Bridges National Monument",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"7834","Roberts Creek AB32",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7835","Roberts Creek AB35LH",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7836","Roberts Creek AB30",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7837","Roberts Creek CCLH-2",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7838","Roberts Creek DPS-8",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7839","Roberts Creek AB21",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7840","Roberts Creek DPS-9",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7841","Roberts Creek DPS-2LH",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7842","Roberts Creek F-45",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7843","Roberts Creek F-45A",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7844","Roberts Creek CCEH-1",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7845","Roberts Creek CCEH-1A",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7846","Roberts Creek CCEH-2(2)B",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7847","Roberts Creek RCBS",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7848","Roberts Creek AB33",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7849","Roberts Creek AB35",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"785","Edward Lake",1,NA
+"7850","Roberts Creek AB44",1,NA
+"7852","Roberts Creek AB51",1,NA
+"7854","Roberts Creek AB34",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7855","Roberts Creek AB22A",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"7856","Roberts Creek CCLG-1A",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  only 1 control before filtering
+"
+"786","Eggert Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"790","Eldora Fen",1,NA
+"795","Ely Lake",1,NA
+"796","Emerald Lake",1,NA
+"8","Abalone Rocks Marsh",1,NA
+"802","Ennadai Lake, 1972 Site",1,NA
+"803","Ennadai Lake",1,NA
+"805","Lake Erie",1,NA
+"806","Ernst Brother's Pit",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"808","East Sooke Fen",1,NA
+"810","Lac à la Fourche",1,NA
+"811","Etivlik Lake",1,NA
+"813","East Twin Lake",1,NA
+"815","Excelsior Basin",1,NA
+"816","Exchequer Meadow",1,NA
+"817","Faith Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"818","Fallback Lake",1,NA
+"820","Lac Faribault",1,NA
+"821","Tourbière de Farnham",1,NA
+"822","Farquar Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"823","Fawn Lake (CA:Ontario)",1,NA
+"824","Fawn Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"826","Fernbank Interglacial",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  9 controls; types not in master
+"
+"828","Ferndale Bog",1,NA
+"829","Fiddler's Pond",1,NA
+"831","First",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"832","Fish Lake",1,NA
+"834","Beaverhouse Lake",1,NA
+"835","Floating Island Lake",1,NA
+"841","Forest Pond 1",1,NA
+"843","Forest Pond 2",1,NA
+"844","Forest Lake",1,NA
+"845","Forge Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"846","Fox Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"847","Frains Lake",1,NA
+"849","Hayes Lake",1,NA
+"850","French Lake",1,NA
+"851","Frenchmens Bay",1,NA
+"852","Fresh Pond",1,NA
+"853","Frying Pan Lake",1,NA
+"855","Fudger Lake",1,NA
+"856","Furnival Lake",1,NA
+"857","Saint-Gabriel",1,NA
+"859","Gardiner's Hole",1,NA
+"860","Gass Lake",1,NA
+"861","Gause Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"862","Georgian Bay, Lake Huron (1)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"863","Georgian Bay, Lake Huron (2)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"865","Lac Geai",1,NA
+"869","George (BE)",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"871","Lac à St-Germain",1,NA
+"873","Giles",1,NA
+"874","Upper Gillies Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"875","Glacial Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"878","Jones Lake [Glenboro site]",1,NA
+"965","Goff Lake",1,NA
+"966","Gold Lake Bog",1,NA
+"967","Goldsmith Lake",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"969","Goshen Springs",1,NA
+"971","Gould Pond",1,NA
+"972","Gould's Bog",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"973","Graham Lake",1,NA
+"974","Grand Rapids",1,NA
+"975","Grant Lake",1,NA
+"976","Lac Gras",1,NA
+"978","Gravel Ridge",1,NA
+"981","Green Point Pond",1,NA
+"982","Green Lake",0,"Error in BchronCheck(ages = ages, ageSds = ageSds, positions = positions,  : 
+  Assertion on 'positions' failed: Contains missing values (element 1).
+"
+"983","Green Pond",1,NA
+"985","Greenwater Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"986","Grenadier Pond",1,NA
+"987","Grey Islands",1,NA
+"990","Grice Pond",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  one or no controls after filtering
+"
+"991","Guardipee Lake",1,NA
+"992","Water Conservation Area 3B, Gumbo Limbo Dry Head",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  3 controls; types not in master
+"
+"993","Water Conservation Area 3B, Gumbo Limbo Far Tail",1,NA
+"994","Water Conservation Area 3B, Gumbo Limbo Marsh",0,"Error in do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead,  : 
+  5 controls; types not in master
+"
+"995","Water Conservation Area 3B, Gumbo Limbo Near Tail",0,"Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'mean': argument ""mod_radio"" is missing, with no default
+"
+"996","Water Conservation Area 3B, Gumbo Limbo Wet Head",1,NA
+"999","Hack Pond",1,NA
