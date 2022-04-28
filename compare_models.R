@@ -1,7 +1,9 @@
 wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
 
-site_meta = read.csv('bchron_report_v8.0.csv', stringsAsFactors = FALSE)
+site_meta = read.csv('bchron_report_v9.0.csv', stringsAsFactors = FALSE)
 
+
+# there are 444 values for datasetid in wang_fc
 which(wang_fc$datasetid %in% site_meta$datasetid)
 
 
