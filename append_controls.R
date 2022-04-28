@@ -30,14 +30,19 @@
 #             append = TRUE, quote = FALSE,
 #             col.names = FALSE, row.names = FALSE)
 
+# 
+# marine  = data.frame ('Marine isotope stage event', '0', 'NA', '0')
+#  write.table(marine, file = "chroncontrol_types-edited.csv", sep = ",",
+#           append = TRUE, quote = FALSE,
+#            col.names = FALSE, row.names = FALSE)
+# 
+#  
+# lumin  = data.frame ('Infrared Stimulated Luminescence (IRSL)', '0', 'NA', '0')
+#  write.table(lumin, file = "chroncontrol_types-edited.csv", sep = ",",
+#              append = TRUE, quote = FALSE,
+#              col.names = FALSE, row.names = FALSE)
 
-marine  = data.frame ('Marine isotope stage event', '0', 'NA', '0')
- write.table(marine, file = "chroncontrol_types-edited.csv", sep = ",",
-          append = TRUE, quote = FALSE,
-           col.names = FALSE, row.names = FALSE)
-
- 
-lumin  = data.frame ('Infrared Stimulated Luminescence (IRSL)', '0', 'NA', '0')
- write.table(lumin, file = "chroncontrol_types-edited.csv", sep = ",",
-             append = TRUE, quote = FALSE,
-             col.names = FALSE, row.names = FALSE)
+# biostrat = data.frame ('Biostratigraphic', '0', 'NA', '0')
+# write.table(biostrat, file = "chroncontrol_types-edited.csv", sep = ",",
+#             append = TRUE, quote=  FALSE,
+#             col.names = FALSE, row.names = FALSE)

@@ -1,9 +1,16 @@
 library(stringr)
 
+
 wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
 
 wang_cores  = list.files('wang/Cores_full')
 wang_ncores = length(wang_cores)
+
+site_meta = read.csv('bchron_report_v9.0.csv', stringsAsFactors = FALSE)
+
+
+# there are 444 values for datasetid in wang_fc
+which(wang_fc$datasetid %in% site_meta$datasetid)
 
 
 site_meta = read.csv('bchron_report_v9.0.csv', stringsAsFactors = FALSE)
