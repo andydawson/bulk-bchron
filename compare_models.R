@@ -1,4 +1,6 @@
 library(stringr)
+library(ggplot2)
+
 
 
 wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
@@ -64,3 +66,36 @@ for (i in 1:N_datasetids){
                            age_means))
 
 }
+
+
+ggplot(data = diffs) +
+  geom_point(aes(x = depths, y = age_b), color = 'blue', alpha = .2) +
+  geom_point(aes(x = depths, y = age_w), color = 'red', alpha = .2)
+
+
+
+
+
+
+
+
+
+
+# ###Try overlap function###
+# library(reshape2)
+# library(overlapping)
+
+# olap = data.frame(datasetid = numeric(0),
+#                   depths = numeric(0),
+#                   overlap = numeric(0))
+# 
+# for (j in 1:N_datasetids){
+#   d_list = list(as.numeric(wang_mean[j,2:ncol(wang_mean)]), as.numeric(bchron_mean[j,2:ncol(bchron_mean)]))
+#   
+#   olap_index = overlap(d_list, plot=TRUE)$OV
+#   
+#   olap = rbind(olap,
+#                olap_site)
+# 
+# 
+#   }
