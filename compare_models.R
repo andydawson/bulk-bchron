@@ -1,6 +1,6 @@
 library(stringr)
 library(ggplot2)
-
+library(overlapping)
 
 
 wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
@@ -73,6 +73,61 @@ ggplot(data = diffs) +
   geom_point(aes(x = depths, y = age_w), color = 'red', alpha = .2)
 
 
+diffs$age_diff = diffs$age_b - diffs$age_w
+
+ggplot(data=diffs) +
+  geom_histogram(aes(x=age_diff, y=..density..), bins=100)
+
+summary(diffs$age_diff)
+
+
+
+dsid = datasetids[1]
+idx_dsid = which(wang_fc$datasetid == dsid)
+
+files = list.files(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid]))                
+idx_file = which(str_sub(files,-8,-1) == 'rout.csv')
+wang_posts = read.csv(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', files[idx_file]))
+wang_depths =  scan(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_depths.txt'))
+wang_posts = data.frame(depths = wang_depths, wang_posts)
+
+bchron_posts = read.csv(paste0('Cores/', dsid, '/', dsid, '_bchron_samples.csv'))
+
+n_depths = nrow(bchron_posts)
+
+
+olap = data.frame(datasetid = numeric(0),
+                  depths = numeric(0),
+                  overlap = numeric(0))
+
+for (i in 1:n_depths){
+  
+  # print(i)
+  
+  depth = bchron_posts[i,1]
+  
+  print(depth)
+  
+
+  bchron_sub = bchron_posts[i,]
+  wang_sub   = wang_posts[i,]
+
+  if (any(is.na(wang_sub))) {
+    next
+  }
+
+  if (any(is.na(bchron_sub))) {
+    next
+  }
+
+  d_list = list(wang = as.numeric(wang_sub)[-1], bchron = as.numeric(bchron_sub)[-1])
+  olap_index = overlap(d_list, plot=TRUE)$OV
+
+  olap_site = data.frame(datasetid = dsid, depths = depth, overlap = olap_index)
+
+    olap = rbind(olap,
+                 olap_site)
+}
 
 
 
@@ -83,11 +138,20 @@ ggplot(data = diffs) +
 
 # ###Try overlap function###
 # library(reshape2)
-# library(overlapping)
 
-# olap = data.frame(datasetid = numeric(0),
-#                   depths = numeric(0),
-#                   overlap = numeric(0))
+
+olap = data.frame(datasetid = numeric(0),
+                  depths = numeric(0),
+                  overlap = numeric(0))
+
+
+
+bchron_sub = bchron_posts[6,]
+wang_sub   = wang_posts[6,]
+
+d_list = list(wang = as.numeric(wang_sub)[-1], bchron = as.numeric(bchron_sub)[-1])
+olap_index = overlap(d_list, plot=TRUE)$OV
+
 # 
 # for (j in 1:N_datasetids){
 #   d_list = list(as.numeric(wang_mean[j,2:ncol(wang_mean)]), as.numeric(bchron_mean[j,2:ncol(bchron_mean)]))
