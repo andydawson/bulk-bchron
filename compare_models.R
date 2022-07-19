@@ -1,7 +1,7 @@
 library(stringr)
 library(ggplot2)
 library(overlapping)
-
+library(reshape2)
 
 wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
 
@@ -47,7 +47,43 @@ for (i in 1:N_datasetids){
   
   wang_depths =  scan(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_depths.txt'))
   
-  wang_posts = data.frame(depths = wang_depths, wang_posts)
+  # wang_posts = data.frame(depths = wang_depths, wang_posts)
+  wang_posts = data.frame(depths = wang_depths, wang_posts[,2:101])
+  
+  wang_posts_long = melt(wang_posts, id.vars = "depths")
+  colnames(wang_posts_long) = c('depths', 'iter', 'age')
+  
+  # wang_posts_long$iter 
+  
+  ggplot() +
+    geom_point(data = wang_posts, aes(x = depths, y = V1)) +
+    geom_point(data = wang_posts, aes(x = depths, y = V2))
+  
+  ggplot() +
+    geom_point(data = wang_posts_long, aes(x = depths, y = age))
+  
+  ggplot() +
+    geom_line(data = wang_posts_long, aes(x = depths, y = age))
+  
+  ggplot() +
+    geom_line(data = wang_posts_long, aes(x = depths, y = age, group = iter))
+  
+  
+  quantile(wang_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
+  
+  wang_quants_row = apply(wang_posts[,2:ncol(wang_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
+  wang_quants = data.frame(depths = wang_posts[,1], t(wang_quants_row))
+  colnames(wang_quants) = c('depths', 'ylo', 'ymid', 'yhi')
+  
+  
+  ggplot() +
+    geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "pink") +
+    geom_line(data = wang_quants, aes(x = depths, y = ymid))
+    
+  
+  
+  ###
+  
   wang_mean = data.frame(depths=wang_posts[,'depths'], age_w = rowMeans(wang_posts[,2:ncol(wang_posts)]))
   
   bchron_posts = read.csv(paste0('Cores/', dsid, '/', dsid, '_bchron_samples.csv'))
@@ -56,6 +92,9 @@ for (i in 1:N_datasetids){
     print(paste0('No posterior samples for dataset id: ', dsid))
     next
   }
+  
+  
+  
   
   bchron_mean = data.frame(depths=bchron_posts[,'depths'], age_b = rowMeans(bchron_posts[,2:ncol(bchron_posts)]))
   
