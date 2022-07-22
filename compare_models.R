@@ -14,6 +14,8 @@ site_meta = read.csv('bchron_report_v9.0.csv', stringsAsFactors = FALSE)
 # there are 444 values for datasetid in wang_fc
 which(wang_fc$datasetid %in% site_meta$datasetid)
 
+length(unique(wang_fc$datasetid))
+
 
 site_meta = read.csv('bchron_report_v9.0.csv', stringsAsFactors = FALSE)
 site_meta = site_meta[which(site_meta$success == 1),]
@@ -30,11 +32,15 @@ diffs = data.frame(dsid = numeric(0),
                    age_b  = numeric(0),
                    age_w  = numeric(0))
 
+i = 1
+
 for (i in 1:N_datasetids){
   
   dsid = datasetids[i]
   
   idx_dsid = which(wang_fc$datasetid == dsid)
+  
+  controls = read.csv(paste0('Cores/', dsid, '/', dsid, '.csv'))
   
   if (length(idx_dsid) == 0){
     print(paste0('No Bacon age-depth model for dataset id: ', dsid))
@@ -55,18 +61,18 @@ for (i in 1:N_datasetids){
   
   # wang_posts_long$iter 
   
-  ggplot() +
-    geom_point(data = wang_posts, aes(x = depths, y = V1)) +
-    geom_point(data = wang_posts, aes(x = depths, y = V2))
-  
-  ggplot() +
-    geom_point(data = wang_posts_long, aes(x = depths, y = age))
-  
-  ggplot() +
-    geom_line(data = wang_posts_long, aes(x = depths, y = age))
-  
-  ggplot() +
-    geom_line(data = wang_posts_long, aes(x = depths, y = age, group = iter))
+  # ggplot() +
+  #   geom_point(data = wang_posts, aes(x = depths, y = V1)) +
+  #   geom_point(data = wang_posts, aes(x = depths, y = V2))
+  # 
+  # ggplot() +
+  #   geom_point(data = wang_posts_long, aes(x = depths, y = age))
+  # 
+  # ggplot() +
+  #   geom_line(data = wang_posts_long, aes(x = depths, y = age))
+  # 
+  # ggplot() +
+  #   geom_line(data = wang_posts_long, aes(x = depths, y = age, group = iter))
   
   
   quantile(wang_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
@@ -107,10 +113,14 @@ for (i in 1:N_datasetids){
     geom_line(data = bchron_quants, aes(x = depths, y = ymid, color = "Bchron"), size = 1.5) +
     geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
     geom_line(data = wang_quants, aes(x = depths, y = ymid, color = "Bacon"), size = 1.5) +
+    # geom_point(data = controls, aes(x = depth, y = age)) +
     labs(title = "Bchron vs. Bacon", x = "Depths (cm)", y = "50th Quantile Age", color = "Legend") +
     scale_color_manual(values = colors)
     
+  ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
+  
   ###
+  
   
   wang_mean = data.frame(depths=wang_posts[,'depths'], age_w = rowMeans(wang_posts[,2:ncol(wang_posts)]))
   
@@ -134,10 +144,10 @@ for (i in 1:N_datasetids){
 
 }
 
-
-ggplot(data = diffs) +
-  geom_point(aes(x = depths, y = age_b), color = 'blue', alpha = .2) +
-  geom_point(aes(x = depths, y = age_w), color = 'red', alpha = .2)
+# 
+# ggplot(data = diffs) +
+#   geom_point(aes(x = depths, y = age_b), color = 'blue', alpha = .2) +
+#   geom_point(aes(x = depths, y = age_w), color = 'red', alpha = .2)
 
 
 diffs$age_diff = diffs$age_b - diffs$age_w
