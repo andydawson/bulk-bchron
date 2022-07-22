@@ -110,9 +110,6 @@ for (i in 1:N_datasetids){
     labs(title = "Bchron vs. Bacon", x = "Depths (cm)", y = "50th Quantile Age", color = "Legend") +
     scale_color_manual(values = colors)
     
-   
-  
-  
   ###
   
   wang_mean = data.frame(depths=wang_posts[,'depths'], age_w = rowMeans(wang_posts[,2:ncol(wang_posts)]))
