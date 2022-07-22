@@ -75,11 +75,42 @@ for (i in 1:N_datasetids){
   wang_quants = data.frame(depths = wang_posts[,1], t(wang_quants_row))
   colnames(wang_quants) = c('depths', 'ylo', 'ymid', 'yhi')
   
+  adjustcolor( "red", alpha.f = 0.2)
   
   ggplot() +
-    geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "pink") +
+    geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
     geom_line(data = wang_quants, aes(x = depths, y = ymid))
     
+# ### Now do the same with bchron ### #
+  
+  bchron_posts_long = melt(bchron_posts, id.vars = "depths")
+  colnames(bchron_posts_long) = c('depths', 'iter', 'age')
+  
+  quantile(wang_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
+  
+  bchron_quants_row = apply(bchron_posts[,2:ncol(bchron_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
+  bchron_quants = data.frame(depths = bchron_posts[,1], t(bchron_quants_row))
+  colnames(bchron_quants) = c('depths', 'ylo', 'ymid', 'yhi')
+  
+  adjustcolor( "blue", alpha.f = 0.2)
+  
+  ggplot() +
+    geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
+    geom_line(data = bchron_quants, aes(x = depths, y = ymid))
+  
+# Now bchron and Bacon on one plot #
+  
+  colors = c("Bchron" = "blue", "Bacon" = "red")
+  
+  ggplot() +
+    geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
+    geom_line(data = bchron_quants, aes(x = depths, y = ymid, color = "Bchron"), size = 1.5) +
+    geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
+    geom_line(data = wang_quants, aes(x = depths, y = ymid, color = "Bacon"), size = 1.5) +
+    labs(title = "Bchron vs. Bacon", x = "Depths (cm)", y = "50th Quantile Age", color = "Legend") +
+    scale_color_manual(values = colors)
+    
+   
   
   
   ###
