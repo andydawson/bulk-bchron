@@ -3,6 +3,8 @@ library(ggplot2)
 library(overlapping)
 library(reshape2)
 
+chron_control_types <- read.csv("chroncontrol_types-edited.csv")
+
 wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
 
 wang_cores  = list.files('wang/Cores_full')
@@ -40,7 +42,43 @@ for (i in 1:N_datasetids){
   
   idx_dsid = which(wang_fc$datasetid == dsid)
   
-  controls = read.csv(paste0('Cores/', dsid, '/', dsid, '.csv'))
+  geochron = read.csv(paste0('Cores/', dsid, '/', dsid, '.csv'))
+  
+  
+  # match core.id control types to master list
+  # STOP if any types not in master list
+  idx <- match(geochron$type, chron_control_types$chron.control.type, nomatch=NA)
+  if (any(is.na(idx))) {
+    stop(paste0(nrow(geochron), " controls; types not in master"))
+  }
+  
+  # define an error column
+  # half the distance between the limitolder and limityounger
+  geochron$error = abs(geochron$limitolder-geochron$limityounger) / 2
+  
+  
+  # idx should index all rows
+  # above statement: STOP if any don't match master control type list
+  # add the calibrated column to geochron file
+  # make a keep vector; we will modify this according to our rules for inclusion
+  geochron$cc = chron_control_types$cc[idx]
+  
+  ageSds = geochron$error
+  calCurves = rep(NA, nrow(geochron))
+  calCurves[which(geochron$cc == 1)] = 'intcal20'
+  calCurves[which(geochron$cc == 0)] = 'normal'
+  
+  geochron_cal <- BchronCalibrate(ages = geochron$age,
+                            ageSds = ageSds,
+                            calCurves = calCurves)
+  # # #  we want the weighted means from "calibrated"
+  # wmean.date <- function(x) sum(x$ageGrid*x$densities / sum(x$densities))
+  # control_young = wmean.date(cal)
+  
+  geochron_samples = sampleAges(geochron_cal)
+  geochron_quants = t(apply(geochron_samples, 2, quantile, prob=c(0.025, 0.5, 0.975)))
+  colnames(geochron_quants) = c('ylo', 'ymid', 'yhi')
+  geochron_quants = data.frame(depth = geochron$depth, geochron_quants)
   
   if (length(idx_dsid) == 0){
     print(paste0('No Bacon age-depth model for dataset id: ', dsid))
@@ -86,8 +124,8 @@ for (i in 1:N_datasetids){
   ggplot() +
     geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
     geom_line(data = wang_quants, aes(x = depths, y = ymid))
-    
-# ### Now do the same with bchron ### #
+  
+  # ### Now do the same with bchron ### #
   
   bchron_posts_long = melt(bchron_posts, id.vars = "depths")
   colnames(bchron_posts_long) = c('depths', 'iter', 'age')
@@ -104,7 +142,7 @@ for (i in 1:N_datasetids){
     geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
     geom_line(data = bchron_quants, aes(x = depths, y = ymid))
   
-# Now bchron and Bacon on one plot #
+  # Now bchron and Bacon on one plot #
   
   colors = c("Bchron" = "blue", "Bacon" = "red")
   
@@ -113,10 +151,12 @@ for (i in 1:N_datasetids){
     geom_line(data = bchron_quants, aes(x = depths, y = ymid, color = "Bchron"), size = 1.5) +
     geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
     geom_line(data = wang_quants, aes(x = depths, y = ymid, color = "Bacon"), size = 1.5) +
+    geom_point(data = geochron_quants, aes(x = depth, y = ymid)) +
+    geom_linerange(data = geochron_quants, aes(x = depth, ymin = ylo, ymax = yhi)) +
     # geom_point(data = controls, aes(x = depth, y = age)) +
     labs(title = "Bchron vs. Bacon", x = "Depths (cm)", y = "50th Quantile Age", color = "Legend") +
     scale_color_manual(values = colors)
-    
+  
   ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
   
   ###
@@ -141,7 +181,7 @@ for (i in 1:N_datasetids){
   diffs = rbind(diffs,
                 data.frame(dsid = rep(dsid),
                            age_means))
-
+  
 }
 
 # 
@@ -185,25 +225,25 @@ for (i in 1:n_depths){
   
   print(depth)
   
-
+  
   bchron_sub = bchron_posts[i,]
   wang_sub   = wang_posts[i,]
-
+  
   if (any(is.na(wang_sub))) {
     next
   }
-
+  
   if (any(is.na(bchron_sub))) {
     next
   }
-
+  
   d_list = list(wang = as.numeric(wang_sub)[-1], bchron = as.numeric(bchron_sub)[-1])
   olap_index = overlap(d_list, plot=TRUE)$OV
-
+  
   olap_site = data.frame(datasetid = dsid, depths = depth, overlap = olap_index)
-
-    olap = rbind(olap,
-                 olap_site)
+  
+  olap = rbind(olap,
+               olap_site)
 }
 
 
