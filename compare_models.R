@@ -2,6 +2,7 @@ library(stringr)
 library(ggplot2)
 library(overlapping)
 library(reshape2)
+library(Bchron)
 
 chron_control_types <- read.csv("chroncontrol_types-edited.csv")
 
@@ -127,6 +128,12 @@ for (i in 1:N_datasetids){
   
   # ### Now do the same with bchron ### #
   
+  bchron_posts = read.csv(paste0('Cores/', dsid, '/', dsid, '_bchron_samples.csv'))
+  
+  if (nrow(bchron_posts)==0){
+    print(paste0('No posterior samples for dataset id: ', dsid))
+    next
+  }
   bchron_posts_long = melt(bchron_posts, id.vars = "depths")
   colnames(bchron_posts_long) = c('depths', 'iter', 'age')
   
@@ -154,7 +161,7 @@ for (i in 1:N_datasetids){
     geom_point(data = geochron_quants, aes(x = depth, y = ymid)) +
     geom_linerange(data = geochron_quants, aes(x = depth, ymin = ylo, ymax = yhi)) +
     # geom_point(data = controls, aes(x = depth, y = age)) +
-    labs(title = "Bchron vs. Bacon", x = "Depths (cm)", y = "50th Quantile Age", color = "Legend") +
+    labs(title = "Bchron vs. Bacon", x = "Depths (cm)", y = "Age", color = "Legend") +
     scale_color_manual(values = colors)
   
   ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
@@ -163,16 +170,6 @@ for (i in 1:N_datasetids){
   
   
   wang_mean = data.frame(depths=wang_posts[,'depths'], age_w = rowMeans(wang_posts[,2:ncol(wang_posts)]))
-  
-  bchron_posts = read.csv(paste0('Cores/', dsid, '/', dsid, '_bchron_samples.csv'))
-  
-  if (nrow(bchron_posts)==0){
-    print(paste0('No posterior samples for dataset id: ', dsid))
-    next
-  }
-  
-  
-  
   
   bchron_mean = data.frame(depths=bchron_posts[,'depths'], age_b = rowMeans(bchron_posts[,2:ncol(bchron_posts)]))
   
