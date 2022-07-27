@@ -39,31 +39,15 @@ i = 1
 
 for (i in 1:N_datasetids){
   
+  print(i)
+  
   dsid = datasetids[i]
   
   idx_dsid = which(wang_fc$datasetid == dsid)
   
-  geochron = read.csv(paste0('Cores/', dsid, '/', dsid, '.csv'))
-  
-  
-  # match core.id control types to master list
-  # STOP if any types not in master list
-  idx <- match(geochron$type, chron_control_types$chron.control.type, nomatch=NA)
-  if (any(is.na(idx))) {
-    stop(paste0(nrow(geochron), " controls; types not in master"))
-  }
-  
-  # define an error column
-  # half the distance between the limitolder and limityounger
-  geochron$error = abs(geochron$limitolder-geochron$limityounger) / 2
-  
-  
-  # idx should index all rows
-  # above statement: STOP if any don't match master control type list
-  # add the calibrated column to geochron file
-  # make a keep vector; we will modify this according to our rules for inclusion
-  geochron$cc = chron_control_types$cc[idx]
-  
+  geochron = read.csv(paste0('Cores/', dsid, '/', dsid, '_prepared.csv'))
+  geochron = geochron[which(geochron$keep == 1),]
+
   ageSds = geochron$error
   calCurves = rep(NA, nrow(geochron))
   calCurves[which(geochron$cc == 1)] = 'intcal20'
@@ -93,7 +77,7 @@ for (i in 1:N_datasetids){
   wang_depths =  scan(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_depths.txt'))
   
   # wang_posts = data.frame(depths = wang_depths, wang_posts)
-  wang_posts = data.frame(depths = wang_depths, wang_posts[,2:101])
+  wang_posts = data.frame(depths = wang_depths, wang_posts[,1:100])
   
   wang_posts_long = melt(wang_posts, id.vars = "depths")
   colnames(wang_posts_long) = c('depths', 'iter', 'age')

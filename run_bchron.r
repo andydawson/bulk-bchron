@@ -10,40 +10,15 @@ library(mgcv)
 # source('R/config.r')
 # source('R/utils/helpers.r')
 
-chron.control.types <- read.csv("chroncontrol_types-edited.csv")
-
-### Add controls not on master list
-add_euro = data.frame ('Pre-EuroAmerican settlement horizon', '0', 'NA', '0')
-write.table(add_euro, file = "chroncontrol_types-edited.csv", sep = ",",
-            append = TRUE, quote = FALSE,
-            col.names = FALSE, row.names = FALSE)
-
-picea_decline = data.frame ('Picea decline', '0', 'NA', '0')
-write.table(picea_decline, file = "chroncontrol_types-edited.csv", sep = ",",
-            append = TRUE, quote = FALSE,
-            col.names = FALSE, row.names = FALSE)
-picea_decline2 = data.frame ('IDW-2d Picea decline', '0', 'NA', '0')
-write.table(picea_decline2, file = "chroncontrol_types-edited.csv", sep = ",",
-            append = TRUE, quote = FALSE,
-            col.names = FALSE, row.names = FALSE)
-
-
-
-radio = read.csv('data/radiocarbon-dates-errors.csv')
-mod_radio <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
-
-lead = read.csv('data/lead-dates-errors.csv')
-mod_lead <- gam(error ~ s(age, k=4), data=lead, method='REML', family=Gamma(link="log"))
-
 extrap = 1000
 
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
-version='9.0'
+version='10.0'
 
 get_sitename <- function(core.id) {
-  geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE))
+  geochron <- try(read.table(paste0('Cores/', core.id, '/', core.id, '_prepared.csv'), sep=',', header=TRUE))
   if(is(geochron, "try-error")) {
     return(NA)
   }
@@ -51,110 +26,26 @@ get_sitename <- function(core.id) {
 }
 
 
-fix_geochron_errors <- function(geochron){
-  
-  # fix some errors in data
-  if (any(geochron$chroncontrolid== 105848)){
-    geochron$age[which(geochron$chroncontrolid== 105848)] = -10
-    geochron$limityounger[which(geochron$chroncontrolid== 105848)] = 1950 - geochron[which(geochron$chroncontrolid == 105848),'limityounger']
-  }
-  if (any(geochron$chroncontrolid== 105849)){
-    geochron$age[which(geochron$chroncontrolid== 105849)] = -12
-    geochron$limityounger[which(geochron$chroncontrolid== 105849)] = 1950 - geochron[which(geochron$chroncontrolid == 105849),'limityounger']
-  }
-  if (any(geochron$chroncontrolid== 104870)){
-    geochron$type[which(geochron$chroncontrolid== 104870)] = 'Tephra'
-  }
-  
-  if (any(geochron$limityounger < (-70))){
-    geochron$limityounger[which(geochron$limityounger < (-70))] = -70
-  }
-  if (any((geochron$type == 'Lead-210') & (geochron$limitolder > 200))){
-    geochron$limitolder[which((geochron$type == 'Lead-210') & (geochron$limitolder > 200))] = 200
-  }
-  if (any(is.na(geochron$age))){
-    geochron$age[which(is.na(geochron$age))] = (geochron$limityounger[which(is.na(geochron$age))] + geochron$limitolder[which(is.na(geochron$age))])/2
-  }
-  
-  return(geochron)
-}
-
-set_bio_flag <- function(chron.control.meta, keep, idx){
-  
-  bio.flag = c()
-  if (any(keep != 1)) {
-    for (i in 1:length(idx)){
-      if (chron.control.meta$chron.control.type[idx[i]] == "Biostratigraphic, pollen") {
-        keep[i] = 1 
-        bio.flag = c(bio.flag, "Biostratigraphic, pollen")
-      } else if (chron.control.meta$chron.control.type[idx[i]] == "Ambrosia rise") {
-        keep[i] = 1 
-        bio.flag = c(bio.flag, "Ambrosia rise")
-      } else if (chron.control.meta$chron.control.type[idx[i]] == "European settlement horizon") {
-        keep[i] = 1 
-        bio.flag = c(bio.flag, "European settlement horizon, Pre-EuroAmerican settlement horizon")
-      } else if (chron.control.meta$chron.control.type[idx[i]] == "Tsuga decline") {
-        keep[i] = 1 
-        bio.flag = c(bio.flag, "Tsuga decline")
-      }
-    }
-  }
-  
-  return(bio.flag)
-}
-
-
-set_missing_control_errors <- function(geochron, mod_radio, mod_lead){
-  
-  if (any(is.na(geochron$error)|(geochron$error == 0))){
-    error.na = which(is.na(geochron$error)|(geochron$error == 0))
-    
-    for (i in 1:length(error.na)){
-      if (geochron$type[error.na[i]] %in% c('Radiocarbon', 'Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')) {
-        geochron$error[error.na[i]] = round(mean(predict.gam(mod_radio, new_age=data.frame(age=geochron$age[error.na[i]]), type='response', se.fit=TRUE)$fit))
-      } else if (geochron$type[error.na[i]] %in% c('Core top')) {
-        geochron$error[error.na[i]] = 32#.27
-        #} else if (geochron$type[error.na[i]] %in% c('Radiocarbon, average of two or more dates', 'Radiocarbon, reservoir correction')){
-        #  geochron$error[error.na[i]] = 50
-        # >>>>>>> 904b764fa902585d4b72f3c53a83ce22e4271314
-      } else if (geochron$type[error.na[i]] %in% c('Annual laminations (varves)')) {
-        geochron$error[error.na[i]] = (geochron$age[error.na[i]]+70)*0.05
-      } else if (geochron$type[error.na[i]] %in% c('Biostratigraphic, pollen', 'Tsuga decline')) {
-        geochron$error[error.na[i]] = 250
-      } else if (geochron$type[error.na[i]] %in% c('Ambrosia rise', 'European settlement horizon')) {
-        geochron$error[error.na[i]] = 50
-      } else if (geochron$type[error.na[i]] %in% c('Tephra')) {
-        geochron$error[error.na[i]] = 334
-      } else if (geochron$type[error.na[i]] %in% c('Lead-210')) {
-        geochron$error[error.na[i]] = round(mean(predict.gam(mod_lead, new_age=data.frame(age=geochron$radio[error.na[i]]), type='response', se.fit=TRUE)$fit))
-      } else if (geochron$type[error.na[i]] %in% c('Other dating methods')) {
-        geochron$error[error.na[i]] = 350
-      } else {
-        stop(paste0('an na chron control error could not be assigned for ', geochron$type[error.na[i]]))
-      }
-    }
-  }
-  
-  return(geochron)
-  
-}
-
+# do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead, extrap)
 
 do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, extrap) {
   
   # read in the geochron table for core.id
-  geochron = read.table(paste0('Cores/', core.id, '/', core.id, '.csv'), sep=',', header=TRUE)
+  geochron = read.table(paste0('Cores/', core.id, '/', core.id, '_prepared.csv'), sep=',', header=TRUE)
   
   # remove duplicated rows (rare)
   geochron <- unique(geochron)
   
-  # fix some specific errors
-  geochron = fix_geochron_errors(geochron)
+  geochron <- geochron[which(!is.na(geochron$depth)),]
   
   # STOP if only one control
-  if (nrow(geochron) == 1) {
+  if (nrow(geochron) <= 1) {
     stop("only 1 control before filtering")
   }  
+  
+  # fix some specific errors
+  geochron = fix_geochron_errors(geochron)
+
   
   # STOP if no controls
   if (nrow(geochron) < 1) {
@@ -191,17 +82,16 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
     age.flag = "had one or more NA ages, but ran anyway"
   }
   
+  # discard unreliable controls
+  # only keep rows with keep flag of 1
+  geochron = geochron[which(keep==1),]
+  
   # remove rows from geochron that have NA ages
   # STOP if fewer than 2 ages left
   geochron = geochron[!is.na(geochron$age),]
   if (nrow(geochron) < 2) {
     stop("less than 2 non-NA ages")
   }
-  
-  # discard unreliable controls
-  # only keep rows with keep flag of 1
-  geochron = geochron[which(keep==1),]
-  
   
   # only use site if 3 or more non-biostrat dates
   # or if biostrat date is ambrosia rise, use
@@ -217,7 +107,7 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   
   # for any NA or 0 control errors, set them to informed value
   # positive error required for Bchron
-  geochron = set_missing_control_errors(geochron)
+  geochron = set_missing_control_errors(geochron, mod_radio, mod_lead)
   
   if (nrow(geochron) <= 1) {
     stop("one or no controls after filtering")
@@ -289,14 +179,6 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   write.table(post_sample, paste0('.', '/Cores/', core.id, '/', 
                                   core.id, '_bchron_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
   
-  if (length(bio.flag) >= 1){
-    stop(paste0('unreliable controls used: ', paste(bio.flag, collapse='; ' )))
-  }
-  
-  if (!is.na(age.flag)) {
-    stop(age.flag)
-  }
-  
   TRUE
 }
 
@@ -328,7 +210,7 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 151:200) {
+for (i in 1:ncores) {
   
   if (i==1429){next}
   
