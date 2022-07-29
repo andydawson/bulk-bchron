@@ -2,6 +2,8 @@ library(maps)
 library(mapdata)
 library(ggplot2)
 
+
+# Maps #
 dat =  read.csv('data/chroncontrol_summary_pollen_full.csv', stringsAsFactors = FALSE)
 dat =  dat[which(dat$longitude<100),]
 
@@ -70,3 +72,13 @@ ggplot() +
   ylab ("Latitude")
 
 ggsave('figures/bacon_only_map.png')
+
+# ### Tables ### #
+# Frequency of each control type #
+chron_control_types <- read.csv("chroncontrol_types-edited.csv")
+all_sites = read.csv("data/chroncontrol_summary_pollen_full.csv")
+
+control_freq = table(all_sites$type)
+
+# ID + Position #
+
