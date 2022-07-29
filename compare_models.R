@@ -37,7 +37,8 @@ diffs = data.frame(dsid = numeric(0),
 
 i = 1
 
-for (i in 1:N_datasetids){
+pdf('figures/age_depth_compare.pdf', width=10, height=6)
+for (i in 1:5){#N_datasetids){
   
   print(i)
   
@@ -77,7 +78,7 @@ for (i in 1:N_datasetids){
   wang_depths =  scan(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_depths.txt'))
   
   # wang_posts = data.frame(depths = wang_depths, wang_posts)
-  wang_posts = data.frame(depths = wang_depths, wang_posts[,1:100])
+  wang_posts = data.frame(depths = wang_depths, wang_posts)#[,1:100])
   
   wang_posts_long = melt(wang_posts, id.vars = "depths")
   colnames(wang_posts_long) = c('depths', 'iter', 'age')
@@ -137,7 +138,7 @@ for (i in 1:N_datasetids){
   
   colors = c("Bchron" = "blue", "Bacon" = "red")
   
-  ggplot() +
+  p <- ggplot() +
     geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
     geom_line(data = bchron_quants, aes(x = depths, y = ymid, color = "Bchron"), size = 1.5) +
     geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
@@ -145,10 +146,12 @@ for (i in 1:N_datasetids){
     geom_point(data = geochron_quants, aes(x = depth, y = ymid)) +
     geom_linerange(data = geochron_quants, aes(x = depth, ymin = ylo, ymax = yhi)) +
     # geom_point(data = controls, aes(x = depth, y = age)) +
-    labs(title = "Bchron vs. Bacon", x = "Depths (cm)", y = "Age", color = "Legend") +
+    labs(title = paste0(dsid, '; ',  wang_fc$handle[idx_dsid]), x = "Depths (cm)", y = "Age", color = "Legend") +
     scale_color_manual(values = colors)
   
-  ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
+  print(p)
+  
+  # ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
   
   ###
   
@@ -164,6 +167,7 @@ for (i in 1:N_datasetids){
                            age_means))
   
 }
+dev.off()
 
 # 
 # ggplot(data = diffs) +
