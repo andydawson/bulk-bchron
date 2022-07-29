@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+19967,13362,"Mary Lake",39935,"Core top",0,970,9020,0,0,0,"Bennett 1992","Replicates the age model published by Bennett (1992).",TRUE,236,-81.00585,-80.99927,32,0,1
+19967,13362,"Mary Lake",39936,"Radiocarbon",2560,1666,9020,0,2500,2620,"Bennett 1992","Replicates the age model published by Bennett (1992).",TRUE,236,-81.00585,-80.99927,60,1,1
+19967,13362,"Mary Lake",39937,"Radiocarbon",3210,1728,9020,0,3140,3280,"Bennett 1992","Replicates the age model published by Bennett (1992).",TRUE,236,-81.00585,-80.99927,70,1,1
+19967,13362,"Mary Lake",39938,"Tsuga decline",4700,1822,9020,0,4600,4800,"Bennett 1992","Replicates the age model published by Bennett (1992).",TRUE,236,-81.00585,-80.99927,100,0,0
+19967,13362,"Mary Lake",39939,"Radiocarbon",9020,1890,9020,0,8920,9120,"Bennett 1992","Replicates the age model published by Bennett (1992).",TRUE,236,-81.00585,-80.99927,100,1,1

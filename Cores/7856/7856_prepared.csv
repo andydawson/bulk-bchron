@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+7856,6499,"Roberts Creek CCLG-1A",5971,"Radiocarbon",12510,24,12750,12270,12270,12750,"NAPD 1",NA,FALSE,308,-91.50028,42.98611,0,240,1

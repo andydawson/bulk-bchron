@@ -1,0 +1,151 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14948,9999,"Dye Lower Water Lake (Dyer Lake)",31908,"Core top",-43,0,10460,-40,-44,-42,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DYER',depths.file=TRUE)
+
+0 #d.min
+159 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,323,-61.65087,-61.64763,1,0,1
+14948,9999,"Dye Lower Water Lake (Dyer Lake)",31909,"Radiocarbon",2380,34.5,10460,-40,2310,2450,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DYER',depths.file=TRUE)
+
+0 #d.min
+159 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,323,-61.65087,-61.64763,70,1,1
+14948,9999,"Dye Lower Water Lake (Dyer Lake)",31910,"Radiocarbon",6880,140.5,10460,-40,6790,6970,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DYER',depths.file=TRUE)
+
+0 #d.min
+159 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,323,-61.65087,-61.64763,90,1,1
+14948,9999,"Dye Lower Water Lake (Dyer Lake)",31911,"Radiocarbon",8510,159,10460,-40,8440,8580,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DYER',depths.file=TRUE)
+
+0 #d.min
+159 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,323,-61.65087,-61.64763,70,1,1
+14948,9999,"Dye Lower Water Lake (Dyer Lake)",31912,"Radiocarbon",8690,159,10460,-40,8620,8760,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DYER',depths.file=TRUE)
+
+0 #d.min
+159 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,323,-61.65087,-61.64763,70,1,1

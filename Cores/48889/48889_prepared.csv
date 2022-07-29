@@ -1,0 +1,265 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+48889,27311,"Young Lake",106864,"Radiocarbon",1789,101,9940,630,1747,1831,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+381 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,281,-85.71733,-85.71733,42,1,1
+48889,27311,"Young Lake",106870,"Radiocarbon",8920,379,9940,630,8861,8979,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+381 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,281,-85.71733,-85.71733,59,1,1
+48889,27311,"Young Lake",106865,"Radiocarbon",1199,71,9940,630,1165,1233,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+381 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,281,-85.71733,-85.71733,34,1,1
+48889,27311,"Young Lake",106866,"Radiocarbon",7155,316,9940,630,7105,7205,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+381 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,281,-85.71733,-85.71733,50,1,1
+48889,27311,"Young Lake",106867,"Core top",-50,0,9940,630,-50,-50,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+381 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,281,-85.71733,-85.71733,32,0,1
+48889,27311,"Young Lake",106869,"Radiocarbon",3774,196,9940,630,3737,3811,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+381 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,281,-85.71733,-85.71733,37,1,1
+48889,27311,"Young Lake",106871,"Radiocarbon",2785,152,9940,630,2744,2826,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+381 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,281,-85.71733,-85.71733,41,1,1
+48889,27311,"Young Lake",106868,"Radiocarbon",4830,236,9940,630,4770,4890,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""TASHMOO"")
+
+Bacon settings: 
+0 #d.min
+381 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,281,-85.71733,-85.71733,60,1,1

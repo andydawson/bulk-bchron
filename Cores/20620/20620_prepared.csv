@@ -1,0 +1,838 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20620,13630,"Little Bolton",105264,"Radiocarbon",920,76,1500,-60,860,980,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,60,1,1
+20620,13630,"Little Bolton",105265,"Radiocarbon",1300,90,1500,-60,1240,1360,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,60,1,1
+20620,13630,"Little Bolton",105266,"Lead-210",-39,1,1500,-60,-40,-38,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,1,0,1
+20620,13630,"Little Bolton",105267,"Lead-210",-36,2,1500,-60,-37,-35,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,1,0,1
+20620,13630,"Little Bolton",105268,"Lead-210",-33,3,1500,-60,-34,-32,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,1,0,1
+20620,13630,"Little Bolton",105269,"Lead-210",-29,4,1500,-60,-30,-28,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,1,0,1
+20620,13630,"Little Bolton",105270,"Lead-210",-22,5,1500,-60,-23,-21,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,1,0,1
+20620,13630,"Little Bolton",105271,"Lead-210",-16,6,1500,-60,-18,-14,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,2,0,1
+20620,13630,"Little Bolton",105272,"Lead-210",-8,7,1500,-60,-11,-5,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,3,0,1
+20620,13630,"Little Bolton",105273,"Lead-210",0.6,8,1500,-60,-3.4,4.6,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,4,0,1
+20620,13630,"Little Bolton",105274,"Lead-210",4,9,1500,-60,0,8,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,4,0,1
+20620,13630,"Little Bolton",105275,"Lead-210",12,10,1500,-60,7,17,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,5,0,1
+20620,13630,"Little Bolton",105276,"Lead-210",30,11,1500,-60,22,38,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,8,0,1
+20620,13630,"Little Bolton",105277,"Lead-210",35,12,1500,-60,26,44,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,9,0,1
+20620,13630,"Little Bolton",105278,"Lead-210",42,13,1500,-60,31,53,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,11,0,1
+20620,13630,"Little Bolton",105279,"Lead-210",45,14,1500,-60,33,57,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,12,0,1
+20620,13630,"Little Bolton",105280,"Lead-210",49,15,1500,-60,36,62,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,13,0,1
+20620,13630,"Little Bolton",105281,"Lead-210",52,16,1500,-60,39,65,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,13,0,1
+20620,13630,"Little Bolton",105282,"Lead-210",57,17,1500,-60,42,72,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,15,0,1
+20620,13630,"Little Bolton",105283,"Lead-210",61,18,1500,-60,45,77,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,16,0,1
+20620,13630,"Little Bolton",105284,"Lead-210",66,19,1500,-60,49,83,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,17,0,1
+20620,13630,"Little Bolton",105285,"Lead-210",71,20,1500,-60,52,90,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,19,0,1
+20620,13630,"Little Bolton",105286,"Lead-210",78,21,1500,-60,57,99,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,21,0,1
+20620,13630,"Little Bolton",105287,"Lead-210",82,23,1500,-60,60,104,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,22,0,1
+20620,13630,"Little Bolton",105288,"Lead-210",87,24,1500,-60,63,111,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,24,0,1
+20620,13630,"Little Bolton",105289,"Core top",-44,0,1500,-60,-45,-43,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,1,0,1
+20620,13630,"Little Bolton",105290,"Ambrosia rise",206,39,1500,-60,150,262,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,99,-71.5897,-71.585,56,0,0

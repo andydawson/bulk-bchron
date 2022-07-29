@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+4558,3530,"Dead Frog Pond",103566,"Lead-210",1982,2,3800,-45,NA,NA,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+1 #d.min
+61 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,80,-72.50861,42.57444,18,0,1
+4558,3530,"Dead Frog Pond",103567,"Lead-210",1966,4,3800,-45,NA,NA,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+1 #d.min
+61 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,80,-72.50861,42.57444,18,0,1
+4558,3530,"Dead Frog Pond",103568,"Lead-210",1950,6,3800,-45,NA,NA,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+1 #d.min
+61 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,80,-72.50861,42.57444,18,0,1
+4558,3530,"Dead Frog Pond",103569,"Lead-210",1943,8,3800,-45,NA,NA,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+1 #d.min
+61 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,80,-72.50861,42.57444,18,0,1
+4558,3530,"Dead Frog Pond",103570,"Lead-210",1932,10,3800,-45,NA,NA,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+1 #d.min
+61 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,80,-72.50861,42.57444,18,0,1
+4558,3530,"Dead Frog Pond",103571,"Radiocarbon",2180,45,3800,-45,2010,2350,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+1 #d.min
+61 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,80,-72.50861,42.57444,170,1,1
+4558,3530,"Dead Frog Pond",103572,"Core top",-42,0,3800,-45,-43,-41,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+1 #d.min
+61 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,80,-72.50861,42.57444,1,0,1

@@ -1,0 +1,18 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40803,23586,"Deep-Falmouth Pond",79492,"Core top",-49,0,15420,-50,-49,-49,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,32,0,1
+40803,23586,"Deep-Falmouth Pond",79493,"Lead-210",85,38.5,15420,-50,85,85,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,18,0,1
+40803,23586,"Deep-Falmouth Pond",79494,"European settlement horizon",290,84.5,15420,-50,290,290,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,50,0,0
+40803,23586,"Deep-Falmouth Pond",79495,"Radiocarbon",700,110.5,15420,-50,660,740,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,40,1,1
+40803,23586,"Deep-Falmouth Pond",79496,"Radiocarbon",1090,130.5,15420,-50,1050,1130,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,40,1,1
+40803,23586,"Deep-Falmouth Pond",79497,"Radiocarbon",1780,169.5,15420,-50,1740,1820,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,40,1,1
+40803,23586,"Deep-Falmouth Pond",79498,"Radiocarbon",2310,235.5,15420,-50,2260,2360,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,50,1,1
+40803,23586,"Deep-Falmouth Pond",79499,"Radiocarbon",2900,307.5,15420,-50,2870,2930,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,30,1,1
+40803,23586,"Deep-Falmouth Pond",79500,"Radiocarbon",3820,400.5,15420,-50,3800,3840,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,20,1,1
+40803,23586,"Deep-Falmouth Pond",79501,"Radiocarbon",4420,475.5,15420,-50,4380,4460,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,40,1,1
+40803,23586,"Deep-Falmouth Pond",79502,"Radiocarbon",4830,487.5,15420,-50,4750,4910,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,80,1,1
+40803,23586,"Deep-Falmouth Pond",79503,"Radiocarbon",4700,499.5,15420,-50,4685,4715,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,15,1,1
+40803,23586,"Deep-Falmouth Pond",79504,"Radiocarbon",5910,600.5,15420,-50,5870,5950,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,40,1,1
+40803,23586,"Deep-Falmouth Pond",79505,"Radiocarbon",7360,700.5,15420,-50,7310,7410,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,50,1,1
+40803,23586,"Deep-Falmouth Pond",79506,"Radiocarbon",8810,775.5,15420,-50,8760,8860,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,50,1,1
+40803,23586,"Deep-Falmouth Pond",79507,"Radiocarbon",10080,800.5,15420,-50,10030,10130,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,50,1,1
+40803,23586,"Deep-Falmouth Pond",79508,"Radiocarbon",12840,820.5,15420,-50,12780,12900,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,18,-70.63644,-70.63502,60,1,1

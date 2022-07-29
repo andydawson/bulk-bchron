@@ -1,0 +1,10 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1697,1642,"Mangrove Lake",4526,"Biostratigraphic, pollen",0,180,9820,0,-20,100,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,60,0,0
+1697,1642,"Mangrove Lake",4527,"Radiocarbon",970,255,9820,0,830,1110,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,140,1,1
+1697,1642,"Mangrove Lake",4528,"Radiocarbon",2690,455,9820,0,2550,2830,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,140,1,1
+1697,1642,"Mangrove Lake",4529,"Radiocarbon",3170,655,9820,0,3030,3310,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,140,1,1
+1697,1642,"Mangrove Lake",4530,"Radiocarbon",4240,855,9820,0,4100,4380,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,140,1,1
+1697,1642,"Mangrove Lake",4531,"Radiocarbon",4940,1055,9820,0,4780,5100,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,160,1,1
+1697,1642,"Mangrove Lake",4532,"Radiocarbon",6020,1255,9820,0,5860,6180,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,160,1,1
+1697,1642,"Mangrove Lake",4533,"Radiocarbon",7310,1455,9820,0,7150,7470,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,160,1,1
+1697,1642,"Mangrove Lake",4534,"Radiocarbon",9260,1614.5,9820,0,9080,9440,"NAPD 1","Linear interpolation between 8 C14 dates and core-top.",TRUE,0,-64.75,32.3,180,1,1

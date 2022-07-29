@@ -1,0 +1,280 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16231,1823,"Perch Lake",35795,"Core top",-18,0,11010,0,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,32,0,1
+16231,1823,"Perch Lake",35796,"Ambrosia rise",120,33,11010,0,70,170,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,50,0,0
+16231,1823,"Perch Lake",35797,"Radiocarbon",1340,105,11010,0,1240,1440,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,100,1,1
+16231,1823,"Perch Lake",35798,"Radiocarbon",2510,205,11010,0,2380,2640,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,130,1,1
+16231,1823,"Perch Lake",35799,"Radiocarbon",3790,305,11010,0,3670,3910,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,120,1,1
+16231,1823,"Perch Lake",35800,"Radiocarbon",5780,405,11010,0,5620,5940,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,160,1,1
+16231,1823,"Perch Lake",35801,"Radiocarbon",7800,505,11010,0,7500,8100,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,300,1,1
+16231,1823,"Perch Lake",35802,"Radiocarbon",9030,555,11010,0,8810,9250,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,220,1,1
+16231,1823,"Perch Lake",35803,"Radiocarbon",9830,597,11010,0,9580,10080,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('PERCH',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+597 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,160,-77.34,46.03,250,1,1

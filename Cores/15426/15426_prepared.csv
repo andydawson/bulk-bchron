@@ -1,0 +1,15 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15426,10220,"Twin Lake",33611,"Core top",-25,0,720,-30,-25,-25,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,32,0,1
+15426,10220,"Twin Lake",33612,"Annual laminations (varves)",35,10,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,5.25,0,1
+15426,10220,"Twin Lake",33613,"Annual laminations (varves)",85,22,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,7.75,0,1
+15426,10220,"Twin Lake",33614,"Annual laminations (varves)",157,30,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,11.35,0,1
+15426,10220,"Twin Lake",33615,"Annual laminations (varves)",237,40,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,15.35,0,1
+15426,10220,"Twin Lake",33616,"Annual laminations (varves)",332,50,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,20.1,0,1
+15426,10220,"Twin Lake",33617,"Annual laminations (varves)",432,60,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,25.1,0,1
+15426,10220,"Twin Lake",33618,"Annual laminations (varves)",542,70,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,30.6,0,1
+15426,10220,"Twin Lake",33619,"Annual laminations (varves)",627,80,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,34.85,0,1
+15426,10220,"Twin Lake",33620,"Annual laminations (varves)",650,83.5,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,36,0,1
+15426,10220,"Twin Lake",33621,"Annual laminations (varves)",651,85.5,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,36.05,0,1
+15426,10220,"Twin Lake",33622,"Annual laminations (varves)",668,86.5,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,36.9,0,1
+15426,10220,"Twin Lake",33623,"Annual laminations (varves)",669,87,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,36.95,0,1
+15426,10220,"Twin Lake",33624,"Annual laminations (varves)",718,95,720,-30,NA,NA,"NAPD1 - varve years","C14 dates were rejected. Varves were used to date this core.",FALSE,800,-119.73,-119.72,39.4,0,1

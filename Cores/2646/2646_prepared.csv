@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2646,2555,"Thompson Landing",7070,"Radiocarbon",2980,4,6220,2900,2800,3160,"NAPD 1","Chron uses four C14 dates.",TRUE,180,-110.79167,63.06667,180,1,1
+2646,2555,"Thompson Landing",7071,"Radiocarbon",3380,24,6220,2900,3170,3590,"NAPD 1","Chron uses four C14 dates.",TRUE,180,-110.79167,63.06667,210,1,1
+2646,2555,"Thompson Landing",7072,"Radiocarbon",4300,75,6220,2900,4100,4500,"NAPD 1","Chron uses four C14 dates.",TRUE,180,-110.79167,63.06667,200,1,1
+2646,2555,"Thompson Landing",7073,"Radiocarbon",6170,158,6220,2900,5910,6430,"NAPD 1","Chron uses four C14 dates.",TRUE,180,-110.79167,63.06667,260,1,1

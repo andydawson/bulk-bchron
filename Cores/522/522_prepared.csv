@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+522,509,"Creditview Wetland",1559,"Guess",9000,5,11760,9000,8500,9500,"NAPD 1","Chron uses 2 estimates by McAndrews and one C14 date.",TRUE,144,-79.6,43.6,500,NA,0
+522,509,"Creditview Wetland",1560,"Biostratigraphic, pollen",10400,100,11760,9000,9900,10900,"NAPD 1","Chron uses 2 estimates by McAndrews and one C14 date.",TRUE,144,-79.6,43.6,500,0,0
+522,509,"Creditview Wetland",1561,"Radiocarbon",11710,158,11760,9000,11424,11996,"NAPD 1","Chron uses 2 estimates by McAndrews and one C14 date.",TRUE,144,-79.6,43.6,286,1,0

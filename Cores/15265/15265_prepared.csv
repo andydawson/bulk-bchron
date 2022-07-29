@@ -1,0 +1,63 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15265,10139,"Miller Woods Pond 44",33093,"Core top",-33,0,2490,520,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MILLER44',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+102 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,182,-87.29582,-87.29045,32,0,1
+15265,10139,"Miller Woods Pond 44",33094,"Radiocarbon",2400,102,2490,520,2330,2470,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MILLER44',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+102 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,182,-87.29582,-87.29045,70,1,1

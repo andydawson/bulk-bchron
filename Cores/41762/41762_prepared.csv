@@ -1,0 +1,528 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+41762,24040,"Foy Lake",85575,"Lead-210",-48,0.5,10300,-20,-51.88,-44.12,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,3.88,0,1
+41762,24040,"Foy Lake",85576,"Lead-210",-37,3.5,10300,-20,-41.63,-32.37,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,4.63,0,1
+41762,24040,"Foy Lake",85577,"Lead-210",-30,5.5,10300,-20,-34.91,-25.09,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,4.91,0,1
+41762,24040,"Foy Lake",85578,"Lead-210",-19,8.5,10300,-20,-23.65,-14.35,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,4.65,0,1
+41762,24040,"Foy Lake",85579,"Lead-210",-12,10,10300,-20,-17.31,-6.69,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,5.31,0,1
+41762,24040,"Foy Lake",85580,"Lead-210",5,12.5,10300,-20,-2.96,12.96,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,7.96,0,1
+41762,24040,"Foy Lake",85581,"Lead-210",15,14,10300,-20,5.04,24.96,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,9.96,0,1
+41762,24040,"Foy Lake",85582,"Lead-210",28,16,10300,-20,13.26,42.74,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,14.74,0,1
+41762,24040,"Foy Lake",85583,"Lead-210",70,19,10300,-20,15.7,124.3,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,54.3,0,1
+41762,24040,"Foy Lake",85584,"Radiocarbon",925,74,10300,-20,890,960,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,35,1,1
+41762,24040,"Foy Lake",85585,"Radiocarbon",3670,209,10300,-20,3630,3710,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,40,1,1
+41762,24040,"Foy Lake",85586,"Radiocarbon",4270,297,10300,-20,4235,4305,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,35,1,1
+41762,24040,"Foy Lake",85587,"Radiocarbon",6260,576,10300,-20,6205,6315,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,55,1,1
+41762,24040,"Foy Lake",85588,"Radiocarbon",7700,731,10300,-20,7650,7750,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,50,1,1
+41762,24040,"Foy Lake",85589,"Radiocarbon",8270,835,10300,-20,8230,8310,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,40,1,1
+41762,24040,"Foy Lake",85590,"Radiocarbon",9820,975,10300,-20,9725,9915,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,95,1,1
+41762,24040,"Foy Lake",85591,"Core top",-50,0,10300,-20,-50,-50,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FOYMT',d.max=1086,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1086 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1006,-114.37266,-114.34974,32,0,1

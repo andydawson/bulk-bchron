@@ -1,0 +1,217 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+13071,8573,"Eska Lake",80818,"Radiocarbon",640,65,2080,-50,610,670,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+270 #d.max
+1 #d.by
+1 #depths.file
+ #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+17.5 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Model run by Allison Stegner. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-90.61,-90.606,30,1,1
+13071,8573,"Eska Lake",80819,"Radiocarbon",1510,137,2080,-50,1480,1540,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+270 #d.max
+1 #d.by
+1 #depths.file
+ #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+17.5 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Model run by Allison Stegner. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-90.61,-90.606,30,1,1
+13071,8573,"Eska Lake",80820,"Radiocarbon",1860,151,2080,-50,1830,1890,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+270 #d.max
+1 #d.by
+1 #depths.file
+ #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+17.5 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Model run by Allison Stegner. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-90.61,-90.606,30,1,1
+13071,8573,"Eska Lake",80821,"Radiocarbon",3200,270,2080,-50,3170,3230,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+270 #d.max
+1 #d.by
+1 #depths.file
+ #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+17.5 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Model run by Allison Stegner. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-90.61,-90.606,30,1,1
+13071,8573,"Eska Lake",80822,"Pre-EuroAmerican settlement horizon",43,17.5,2080,-50,-7,93,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+270 #d.max
+1 #d.by
+1 #depths.file
+ #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+17.5 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Model run by Allison Stegner. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-90.61,-90.606,50,0,0
+13071,8573,"Eska Lake",80823,"Core top",-60,0,2080,-50,-63,-57,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon settings file:
+0 #d.min
+270 #d.max
+1 #d.by
+1 #depths.file
+ #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+17.5 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Model run by Allison Stegner. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-90.61,-90.606,3,0,1

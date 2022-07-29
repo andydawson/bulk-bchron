@@ -1,0 +1,249 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15344,10184,"Fargher Pond",33392,"Core top",-47,0,46880,18750,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FARGHER',thick=10,depths.file=TRUE)
+
+Settings:
+0 #d.min
+655.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,202,-122.52151,-122.51687,32,0,1
+15344,10184,"Fargher Pond",33393,"Radiocarbon",18050,179.5,46880,18750,17940,18160,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FARGHER',thick=10,depths.file=TRUE)
+
+Settings:
+0 #d.min
+655.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,202,-122.52151,-122.51687,110,1,1
+15344,10184,"Fargher Pond",33394,"Radiocarbon",21500,271.5,46880,18750,21340,21660,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FARGHER',thick=10,depths.file=TRUE)
+
+Settings:
+0 #d.min
+655.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,202,-122.52151,-122.51687,160,1,1
+15344,10184,"Fargher Pond",33395,"Radiocarbon",25620,360,46880,18750,25260,25980,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FARGHER',thick=10,depths.file=TRUE)
+
+Settings:
+0 #d.min
+655.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,202,-122.52151,-122.51687,360,1,1
+15344,10184,"Fargher Pond",33396,"Radiocarbon",32100,463.5,46880,18750,31830,32370,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FARGHER',thick=10,depths.file=TRUE)
+
+Settings:
+0 #d.min
+655.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,202,-122.52151,-122.51687,270,1,1
+15344,10184,"Fargher Pond",33397,"Radiocarbon",34200,471,46880,18750,33530,34870,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FARGHER',thick=10,depths.file=TRUE)
+
+Settings:
+0 #d.min
+655.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,202,-122.52151,-122.51687,670,1,1
+15344,10184,"Fargher Pond",33398,"Radiocarbon",39500,571.5,46880,18750,39030,39970,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FARGHER',thick=10,depths.file=TRUE)
+
+Settings:
+0 #d.min
+655.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,202,-122.52151,-122.51687,470,1,1
+15344,10184,"Fargher Pond",33399,"Radiocarbon",38700,655.5,46880,18750,38080,39320,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FARGHER',thick=10,depths.file=TRUE)
+
+Settings:
+0 #d.min
+655.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,202,-122.52151,-122.51687,620,1,1

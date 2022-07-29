@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2671,2577,"Lac Turcotte",7178,"Core top",0,0,10350,0,0,0,"NAPD 1","Basal age estimated from Dyke and Prest (1987) map.",TRUE,447,-65.76278,49.15778,32,0,1
+2671,2577,"Lac Turcotte",7179,"Radiocarbon",4730,164,10350,0,4660,4800,"NAPD 1","Basal age estimated from Dyke and Prest (1987) map.",TRUE,447,-65.76278,49.15778,70,1,1
+2671,2577,"Lac Turcotte",7180,"Radiocarbon",7230,267,10350,0,7080,7380,"NAPD 1","Basal age estimated from Dyke and Prest (1987) map.",TRUE,447,-65.76278,49.15778,150,1,1
+2671,2577,"Lac Turcotte",7181,"Radiocarbon",9010,295,10350,0,8940,9080,"NAPD 1","Basal age estimated from Dyke and Prest (1987) map.",TRUE,447,-65.76278,49.15778,70,1,1
+2671,2577,"Lac Turcotte",7182,"Radiocarbon",10360,340,10350,0,10190,10530,"NAPD 1","Basal age estimated from Dyke and Prest (1987) map.",TRUE,447,-65.76278,49.15778,170,1,1
+2671,2577,"Lac Turcotte",7183,"Core bottom",11000,428,10350,0,10500,12000,"NAPD 1","Basal age estimated from Dyke and Prest (1987) map.",TRUE,447,-65.76278,49.15778,750,0,1

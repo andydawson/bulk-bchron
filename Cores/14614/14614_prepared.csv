@@ -1,0 +1,187 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14614,9862,"Bates Marsh",31206,"Core top",-52,0,5130,-20,-53,-51,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BATESON',depths.file=TRUE)
+
+Settings:
+0 #d.min
+327.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,175,-81.85132,-81.83802,1,0,1
+14614,9862,"Bates Marsh",31207,"Ambrosia rise",100,27.5,5130,-20,50,150,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BATESON',depths.file=TRUE)
+
+Settings:
+0 #d.min
+327.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,175,-81.85132,-81.83802,50,0,0
+14614,9862,"Bates Marsh",31208,"Radiocarbon",1490,90,5130,-20,1460,1520,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BATESON',depths.file=TRUE)
+
+Settings:
+0 #d.min
+327.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,175,-81.85132,-81.83802,30,1,1
+14614,9862,"Bates Marsh",31209,"Radiocarbon",2610,170,5130,-20,2570,2650,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BATESON',depths.file=TRUE)
+
+Settings:
+0 #d.min
+327.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,175,-81.85132,-81.83802,40,1,1
+14614,9862,"Bates Marsh",31210,"Radiocarbon",3920,260,5130,-20,3890,3950,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BATESON',depths.file=TRUE)
+
+Settings:
+0 #d.min
+327.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,175,-81.85132,-81.83802,30,1,1
+14614,9862,"Bates Marsh",31211,"Radiocarbon",4220,327.5,5130,-20,4160,4280,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BATESON',depths.file=TRUE)
+
+Settings:
+0 #d.min
+327.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,175,-81.85132,-81.83802,60,1,1

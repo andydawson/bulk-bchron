@@ -1,0 +1,451 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+45816,26222,"Bonnett Lake",94492,"Radiocarbon",6720,846.5,17950,9170,6640,6800,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,80,1,1
+45816,26222,"Bonnett Lake",94493,"Radiocarbon",8985,940,17950,9170,8960,9010,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,25,1,1
+45816,26222,"Bonnett Lake",94494,"Radiocarbon",8920,988,17950,9170,8900,8940,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,20,1,1
+45816,26222,"Bonnett Lake",94495,"Radiocarbon",9150,1033,17950,9170,9130,9170,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,20,1,1
+45816,26222,"Bonnett Lake",94496,"Radiocarbon",9545,1105,17950,9170,9525,9565,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,20,1,1
+45816,26222,"Bonnett Lake",94497,"Radiocarbon",9600,1125.5,17950,9170,9480,9720,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,120,1,1
+45816,26222,"Bonnett Lake",94498,"Radiocarbon",11845,1187,17950,9170,11815,11875,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,30,1,1
+45816,26222,"Bonnett Lake",94499,"Radiocarbon",13630,1247.5,17950,9170,13290,13970,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,340,1,1
+45816,26222,"Bonnett Lake",94500,"Radiocarbon",13560,1255.5,17950,9170,13300,13820,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,260,1,1
+45816,26222,"Bonnett Lake",94501,"Radiocarbon",14355,1306.5,17950,9170,14325,14385,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,30,1,1
+45816,26222,"Bonnett Lake",94502,"Radiocarbon",14755,1364,17950,9170,14720,14790,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,35,1,1
+45816,26222,"Bonnett Lake",94503,"Radiocarbon",14780,1366.5,17950,9170,14750,14810,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,30,1,1
+45816,26222,"Bonnett Lake",94504,"Radiocarbon",14780,1375.5,17950,9170,14750,14810,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,30,1,1
+45816,26222,"Bonnett Lake",94505,"Radiocarbon",14800,1389,17950,9170,14755,14845,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,45,1,1
+45816,26222,"Bonnett Lake",94506,"Radiocarbon",14850,1402,17950,9170,14805,14895,"Fastovich et al. 2020","Bacon settings file:
+
+846.5 #d.min
+1402 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,285,-82.14116,-82.1332,45,1,1

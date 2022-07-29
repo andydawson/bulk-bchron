@@ -1,0 +1,590 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+46630,26638,"Begbie Lake",100260,"Core top",-64,0,13810,-70,-64,-64,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,32,0,1
+46630,26638,"Begbie Lake",100261,"Lead-210",-63.1,0.75,13810,-70,-64.32,-61.88,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,1.22,0,1
+46630,26638,"Begbie Lake",100262,"Lead-210",-57.4,2.5,13810,-70,-57.88,-56.92,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,0.48,0,1
+46630,26638,"Begbie Lake",100263,"Lead-210",-51.6,4.5,13810,-70,-52.24,-50.96,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,0.640000000000001,0,1
+46630,26638,"Begbie Lake",100264,"Lead-210",-35.8,6,13810,-70,-36.28,-35.32,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,0.48,0,1
+46630,26638,"Begbie Lake",100265,"Lead-210",-16.8,8,13810,-70,-17.48,-16.12,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,0.68,0,1
+46630,26638,"Begbie Lake",100266,"Lead-210",-5,9.5,13810,-70,-5.32,-4.68,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,0.32,0,1
+46630,26638,"Begbie Lake",100267,"Lead-210",6.9,11,13810,-70,6.65,7.15,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,0.25,0,1
+46630,26638,"Begbie Lake",100268,"Radiocarbon",280,29,13810,-70,260,300,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,20,1,1
+46630,26638,"Begbie Lake",100269,"Radiocarbon",1435,76,13810,-70,1415,1455,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,20,1,1
+46630,26638,"Begbie Lake",100270,"Radiocarbon",1875,104,13810,-70,1850,1900,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,25,1,1
+46630,26638,"Begbie Lake",100271,"Radiocarbon",3075,168.5,13810,-70,3055,3095,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,20,1,1
+46630,26638,"Begbie Lake",100272,"Radiocarbon",3935,239,13810,-70,3915,3955,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,20,1,1
+46630,26638,"Begbie Lake",100273,"Radiocarbon",5785,345,13810,-70,5765,5805,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,20,1,1
+46630,26638,"Begbie Lake",100274,"Tephra",7627,406,13810,-70,7477,7777,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,150,0,1
+46630,26638,"Begbie Lake",100275,"Radiocarbon",8205,471,13810,-70,8180,8230,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,25,1,1
+46630,26638,"Begbie Lake",100276,"Radiocarbon",8885,513.5,13810,-70,8860,8910,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,25,1,1
+46630,26638,"Begbie Lake",100277,"Radiocarbon",10240,575,13810,-70,10210,10270,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,30,1,1
+46630,26638,"Begbie Lake",100278,"Radiocarbon",11960,621.5,13810,-70,11930,11990,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""BEGBIE"",d.max=624,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+624 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,188,-123.68572,-123.68014,30,1,1

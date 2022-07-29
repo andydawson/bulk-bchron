@@ -1,0 +1,435 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15003,10023,"Icehouse Pond",32109,"Core top",-50,0,1480,-50,-51,-49,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,1,0,1
+15003,10023,"Icehouse Pond",32110,"European settlement horizon",300,140,1480,-50,250,350,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,50,0,0
+15003,10023,"Icehouse Pond",32111,"Lead-210",-39.9,1,1480,-50,-41.693266526,-38.106733474,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,1.793266526,0,1
+15003,10023,"Icehouse Pond",32112,"Lead-210",-28.2,4,1480,-50,-30.459412374,-25.940587626,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,2.259412374,0,1
+15003,10023,"Icehouse Pond",32113,"Lead-210",-16,8,1480,-50,-18.970360418,-13.029639582,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,2.970360418,0,1
+15003,10023,"Icehouse Pond",32114,"Lead-210",-8.1,12,1480,-50,-11.676000498,-4.523999502,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,3.576000498,0,1
+15003,10023,"Icehouse Pond",32115,"Lead-210",-1,16,1480,-50,-5.18324671,3.18324671,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,4.18324671,0,1
+15003,10023,"Icehouse Pond",32116,"Lead-210",8,24,1480,-50,2.922894414,13.077105586,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,5.077105586,0,1
+15003,10023,"Icehouse Pond",32117,"Lead-210",22.2,32,1480,-50,15.389081272,29.010918728,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,6.810918728,0,1
+15003,10023,"Icehouse Pond",32118,"Lead-210",39.8,40,1480,-50,30.20366631,49.39633369,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,9.59633369,0,1
+15003,10023,"Icehouse Pond",32119,"Lead-210",84.2,56,1480,-50,66.384762844,102.015237156,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,17.815237156,0,1
+15003,10023,"Icehouse Pond",32120,"Radiocarbon",541,179,1480,-50,471,611,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,70,1,1
+15003,10023,"Icehouse Pond",32121,"Radiocarbon",1309,219,1480,-50,1235,1383,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,74,1,1
+15003,10023,"Icehouse Pond",32122,"Radiocarbon",2190,271,1480,-50,2082,2298,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+271 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,19,-69.9615,-69.95965,108,1,1

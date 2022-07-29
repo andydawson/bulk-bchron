@@ -1,0 +1,505 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1138,1105,"Hustler Lake",77828,"Lead-210",-33,0.75,110,-40,-35,-31,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,2,0,1
+1138,1105,"Hustler Lake",77829,"Lead-210",-32,1.75,110,-40,-34,-30,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,2,0,1
+1138,1105,"Hustler Lake",77830,"Lead-210",-30,3.25,110,-40,-32,-28,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,2,0,1
+1138,1105,"Hustler Lake",77831,"Lead-210",-23,5.75,110,-40,-25,-21,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,2,0,1
+1138,1105,"Hustler Lake",77832,"Lead-210",-14,8.75,110,-40,-16,-12,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,2,0,1
+1138,1105,"Hustler Lake",77833,"Lead-210",-4,11.75,110,-40,-7,-1,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,3,0,1
+1138,1105,"Hustler Lake",77834,"Lead-210",9,14.75,110,-40,6,12,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,3,0,1
+1138,1105,"Hustler Lake",77835,"Lead-210",19,17.75,110,-40,15,23,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,4,0,1
+1138,1105,"Hustler Lake",77836,"Lead-210",29,20.75,110,-40,24,34,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,5,0,1
+1138,1105,"Hustler Lake",77837,"Lead-210",43,23.75,110,-40,37,49,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,6,0,1
+1138,1105,"Hustler Lake",77838,"Lead-210",61,26.75,110,-40,52,70,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,9,0,1
+1138,1105,"Hustler Lake",77839,"Pre-EuroAmerican settlement horizon",56,26.75,110,-40,6,106,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Bacon command line:
+' Bacon(HUSTLER, 
+            acc.mean  = 3.02, 
+            acc.shape = 0.53,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 5,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = NA)'
+
+0.75 #d.min
+26.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 #acc.mean
+0.53 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,401,-92.16932,-92.15078,50,0,0

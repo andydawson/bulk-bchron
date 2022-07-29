@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2634,2544,"Telegraph Creek",7004,"Core top",-27,0,11320,-30,0,-27,"NAPD 1","Chron uses top and two tephra dates. Mazama ash at 6850±150 years B.P. and Glacier Peak ash at 11200±250 years B.P.",TRUE,2130,-112.39556,46.53111,13.5,0,1
+2634,2544,"Telegraph Creek",7005,"Tephra",6850,198,11320,-30,6700,7000,"NAPD 1","Chron uses top and two tephra dates. Mazama ash at 6850±150 years B.P. and Glacier Peak ash at 11200±250 years B.P.",TRUE,2130,-112.39556,46.53111,150,0,1
+2634,2544,"Telegraph Creek",7006,"Tephra",11200,506,11320,-30,11150,11450,"NAPD 1","Chron uses top and two tephra dates. Mazama ash at 6850±150 years B.P. and Glacier Peak ash at 11200±250 years B.P.",TRUE,2130,-112.39556,46.53111,150,0,1

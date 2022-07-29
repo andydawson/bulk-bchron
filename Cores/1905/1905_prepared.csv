@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1905,1841,"Pitcher Bog",5411,"Core top",-30,0,3640,-30,-30,-10,"NAPD 1","Chron uses top, Ambrosia rise, and one C14 date.",TRUE,220,-79.98,44.82,10,0,1
+1905,1841,"Pitcher Bog",5412,"Biostratigraphic, pollen",150,75,3640,-30,125,175,"NAPD 1","Chron uses top, Ambrosia rise, and one C14 date.",TRUE,220,-79.98,44.82,25,0,0
+1905,1841,"Pitcher Bog",5413,"Radiocarbon",3485,422,3640,-30,3255,3715,"NAPD 1","Chron uses top, Ambrosia rise, and one C14 date.",TRUE,220,-79.98,44.82,230,1,1

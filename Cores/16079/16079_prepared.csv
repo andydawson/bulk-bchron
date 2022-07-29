@@ -1,0 +1,156 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16079,10485,"Brier Island Bog MS-85-22",35329,"Core top",-35,0,13890,11560,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BRIERISL',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+770 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-66.39472,-66.34083,32,0,1
+16079,10485,"Brier Island Bog MS-85-22",35330,"Radiocarbon",10300,632.5,13890,11560,10180,10420,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BRIERISL',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+770 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-66.39472,-66.34083,120,1,1
+16079,10485,"Brier Island Bog MS-85-22",35331,"Radiocarbon",11100,666.5,13890,11560,10980,11220,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BRIERISL',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+770 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-66.39472,-66.34083,120,1,1
+16079,10485,"Brier Island Bog MS-85-22",35332,"Radiocarbon",13100,726.5,13890,11560,12710,13490,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BRIERISL',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+770 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-66.39472,-66.34083,390,1,1
+16079,10485,"Brier Island Bog MS-85-22",35333,"Radiocarbon",13200,770,13890,11560,13070,13330,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BRIERISL',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+770 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-66.39472,-66.34083,130,1,1

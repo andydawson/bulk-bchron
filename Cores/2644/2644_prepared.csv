@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2644,2553,"Tioga Pass Pond",7051,"Core top",0,0,9920,20,-30,30,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP). Ages extrapolated below bottommost date.",TRUE,3018,-119.25833,37.90833,30,0,1
+2644,2553,"Tioga Pass Pond",7052,"Radiocarbon",1910,53,9920,20,1750,2070,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP). Ages extrapolated below bottommost date.",TRUE,3018,-119.25833,37.90833,160,1,1
+2644,2553,"Tioga Pass Pond",7053,"Radiocarbon",4060,153,9920,20,3740,4380,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP). Ages extrapolated below bottommost date.",TRUE,3018,-119.25833,37.90833,320,1,1
+2644,2553,"Tioga Pass Pond",7054,"Radiocarbon",6100,238.5,9920,20,5820,6380,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP). Ages extrapolated below bottommost date.",TRUE,3018,-119.25833,37.90833,280,1,1
+2644,2553,"Tioga Pass Pond",7055,"Radiocarbon",8760,298,9920,20,8280,9240,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP). Ages extrapolated below bottommost date.",TRUE,3018,-119.25833,37.90833,480,1,1

@@ -1,0 +1,161 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+48630,27219,"Lower Sitka Sound [EW0408-40JC]",105725,"Radiocarbon",10881,96,13640,12620,10820,10942,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""EW040885JC"",thick=20,acc.mean=1,d.min=7,d.max=1135,depths.file=TRUE)
+
+Bacon settings file:
+7 #d.min
+1135 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+1 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-135.47757,56.98573,61,1,1
+48630,27219,"Lower Sitka Sound [EW0408-40JC]",105726,"Radiocarbon",10952,189,13640,12620,10897,11007,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""EW040885JC"",thick=20,acc.mean=1,d.min=7,d.max=1135,depths.file=TRUE)
+
+Bacon settings file:
+7 #d.min
+1135 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+1 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-135.47757,56.98573,55,1,1
+48630,27219,"Lower Sitka Sound [EW0408-40JC]",105727,"Radiocarbon",10987,375,13640,12620,10931,11043,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""EW040885JC"",thick=20,acc.mean=1,d.min=7,d.max=1135,depths.file=TRUE)
+
+Bacon settings file:
+7 #d.min
+1135 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+1 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-135.47757,56.98573,56,1,1
+48630,27219,"Lower Sitka Sound [EW0408-40JC]",105728,"Radiocarbon",11126,594,13640,12620,11067,11185,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""EW040885JC"",thick=20,acc.mean=1,d.min=7,d.max=1135,depths.file=TRUE)
+
+Bacon settings file:
+7 #d.min
+1135 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+1 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-135.47757,56.98573,59,1,1
+48630,27219,"Lower Sitka Sound [EW0408-40JC]",105729,"Radiocarbon",11522,861,13640,12620,11464,11580,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""EW040885JC"",thick=20,acc.mean=1,d.min=7,d.max=1135,depths.file=TRUE)
+
+Bacon settings file:
+7 #d.min
+1135 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+1 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-135.47757,56.98573,58,1,1

@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2348,2268,"SC1 Pond",6378,"Core top",0,0,7130,90,-40,40,"NAPD 1","Chron uses top (0 BP) plus 3 radiocarbon dates.",TRUE,550,-131.90667,54.41667,40,0,1
+2348,2268,"SC1 Pond",6379,"Radiocarbon",3460,92.5,7130,90,3260,3660,"NAPD 1","Chron uses top (0 BP) plus 3 radiocarbon dates.",TRUE,550,-131.90667,54.41667,200,1,1
+2348,2268,"SC1 Pond",6380,"Radiocarbon",6090,197.5,7130,90,5910,6270,"NAPD 1","Chron uses top (0 BP) plus 3 radiocarbon dates.",TRUE,550,-131.90667,54.41667,180,1,1
+2348,2268,"SC1 Pond",6381,"Radiocarbon",7180,260.75,7130,90,7070,7290,"NAPD 1","Chron uses top (0 BP) plus 3 radiocarbon dates.",TRUE,550,-131.90667,54.41667,110,1,1

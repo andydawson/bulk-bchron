@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1902,1838,"Pinecrest Lake",5398,"Core top",0,0,11000,80,-20,20,"NAPD 1","Chron uses surface (0 BP), Mazama ash (6850 BP), and basal radiocarbon date.",TRUE,320,-121.43286,-121.43127,20,0,1
+1902,1838,"Pinecrest Lake",5399,"Tephra",6850,387,11000,80,6700,7000,"NAPD 1","Chron uses surface (0 BP), Mazama ash (6850 BP), and basal radiocarbon date.",TRUE,320,-121.43286,-121.43127,150,0,1
+1902,1838,"Pinecrest Lake",5400,"Radiocarbon",11000,455,11000,80,10660,11340,"NAPD 1","Chron uses surface (0 BP), Mazama ash (6850 BP), and basal radiocarbon date.",TRUE,320,-121.43286,-121.43127,340,1,1

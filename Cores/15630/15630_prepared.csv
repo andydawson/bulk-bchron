@@ -1,0 +1,249 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15630,10300,"Belec Lake Bog",33883,"Core top",-39,0,4500,230,-42,-35,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BELEC',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+233.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,64,-82.316,-82.27,3.5,0,1
+15630,10300,"Belec Lake Bog",33884,"Radiocarbon",900,38.5,4500,230,830,970,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BELEC',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+233.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,64,-82.316,-82.27,70,1,1
+15630,10300,"Belec Lake Bog",33885,"Radiocarbon",1350,51,4500,230,1290,1410,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BELEC',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+233.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,64,-82.316,-82.27,60,1,1
+15630,10300,"Belec Lake Bog",33886,"Radiocarbon",2280,74.5,4500,230,2230,2330,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BELEC',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+233.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,64,-82.316,-82.27,50,1,1
+15630,10300,"Belec Lake Bog",33887,"Radiocarbon",2770,97.5,4500,230,2700,2840,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BELEC',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+233.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,64,-82.316,-82.27,70,1,1
+15630,10300,"Belec Lake Bog",33888,"Radiocarbon",3070,147.5,4500,230,3000,3140,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BELEC',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+233.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,64,-82.316,-82.27,70,1,1
+15630,10300,"Belec Lake Bog",33889,"Radiocarbon",3430,197.5,4500,230,3320,3540,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BELEC',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+233.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,64,-82.316,-82.27,110,1,1
+15630,10300,"Belec Lake Bog",33890,"Radiocarbon",3960,233.5,4500,230,3900,4020,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BELEC',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+233.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,64,-82.316,-82.27,60,1,1

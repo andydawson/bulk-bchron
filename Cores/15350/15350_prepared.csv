@@ -1,0 +1,257 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15350,10186,"Balsam Lake",47414,"Radiocarbon",650,100,14920,-30,550,750,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BALSAM',thick=10,acc.mean=30,d.max=880,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+880 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,762,-74.60706,-74.60135,100,1,1
+15350,10186,"Balsam Lake",47415,"Radiocarbon",2590,300,14920,-30,2450,2730,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BALSAM',thick=10,acc.mean=30,d.max=880,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+880 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,762,-74.60706,-74.60135,140,1,1
+15350,10186,"Balsam Lake",47416,"Radiocarbon",4430,400,14920,-30,3890,4970,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BALSAM',thick=10,acc.mean=30,d.max=880,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+880 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,762,-74.60706,-74.60135,540,1,1
+15350,10186,"Balsam Lake",47417,"Radiocarbon",6425,500,14920,-30,6205,6645,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BALSAM',thick=10,acc.mean=30,d.max=880,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+880 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,762,-74.60706,-74.60135,220,1,1
+15350,10186,"Balsam Lake",47418,"Radiocarbon",6940,600,14920,-30,6685,7195,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BALSAM',thick=10,acc.mean=30,d.max=880,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+880 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,762,-74.60706,-74.60135,255,1,1
+15350,10186,"Balsam Lake",47419,"Radiocarbon",11140,700,14920,-30,10740,11540,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BALSAM',thick=10,acc.mean=30,d.max=880,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+880 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,762,-74.60706,-74.60135,400,1,1
+15350,10186,"Balsam Lake",47420,"Radiocarbon",12600,750,14920,-30,11900,13300,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BALSAM',thick=10,acc.mean=30,d.max=880,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+880 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,762,-74.60706,-74.60135,700,1,1
+15350,10186,"Balsam Lake",47421,"Core top",-28,0,14920,-30,-29,-27,"Neotoma 2","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('BALSAM',thick=10,acc.mean=30,d.max=880,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+880 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,762,-74.60706,-74.60135,1,0,1

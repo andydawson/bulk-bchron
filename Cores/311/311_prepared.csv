@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+311,304,"Brisay 2",757,"Core top",0,0,5960,0,0,0,"NAPD 1",NA,TRUE,595,-70.35778,54.35583,32,0,1
+311,304,"Brisay 2",758,"Radiocarbon",4350,97.5,5960,0,4250,4450,"NAPD 1",NA,TRUE,595,-70.35778,54.35583,100,1,1
+311,304,"Brisay 2",759,"Radiocarbon",5980,140.5,5960,0,5740,6220,"NAPD 1",NA,TRUE,595,-70.35778,54.35583,240,1,1

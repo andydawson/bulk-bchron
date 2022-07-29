@@ -1,0 +1,13 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1961,1896,"Poland Spring Pond",5450,"Core top",-30,335,13030,-30,-30,0,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,15,0,1
+1961,1896,"Poland Spring Pond",5451,"Biostratigraphic, pollen",200,390,13030,-30,150,250,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,50,0,0
+1961,1896,"Poland Spring Pond",5452,"Radiocarbon",2040,507.5,13030,-30,1960,2120,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,80,1,1
+1961,1896,"Poland Spring Pond",5453,"Radiocarbon",3545,617.5,13030,-30,3470,3620,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,75,1,1
+1961,1896,"Poland Spring Pond",5454,"Radiocarbon",4850,717.5,13030,-30,4760,4940,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,90,1,1
+1961,1896,"Poland Spring Pond",5455,"Radiocarbon",5310,812.5,13030,-30,5215,5405,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,95,1,1
+1961,1896,"Poland Spring Pond",5456,"Radiocarbon",5430,907.5,13030,-30,5335,5525,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,95,1,1
+1961,1896,"Poland Spring Pond",5457,"Radiocarbon",6460,977.5,13030,-30,6350,6570,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,110,1,1
+1961,1896,"Poland Spring Pond",5458,"Radiocarbon",8055,1072.5,13030,-30,7955,8155,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,100,1,1
+1961,1896,"Poland Spring Pond",5459,"Radiocarbon",9400,1157.5,13030,-30,9280,9520,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,120,1,1
+1961,1896,"Poland Spring Pond",5460,"Radiocarbon",10915,1247.5,13030,-30,10815,11015,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,100,1,1
+1961,1896,"Poland Spring Pond",5461,"Radiocarbon",12860,1305,13030,-30,12535,13185,"Jacobson et al. (MS)","Follows Jacobson et al. (MS).",TRUE,94,-70.35,44.03333,325,1,1

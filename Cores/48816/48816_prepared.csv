@@ -1,0 +1,311 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+48816,27283,"Ackerman Lake",106651,"Radiocarbon",540,76,8050,540,500,580,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,40,1,1
+48816,27283,"Ackerman Lake",106652,"Radiocarbon",3110,156,8050,540,3070,3150,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,40,1,1
+48816,27283,"Ackerman Lake",106653,"Radiocarbon",1960,116,8050,540,1920,2000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,40,1,1
+48816,27283,"Ackerman Lake",106654,"Radiocarbon",2528,135,8050,540,2491,2565,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,37,1,1
+48816,27283,"Ackerman Lake",106655,"Radiocarbon",5655,235,8050,540,5614,5696,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,41,1,1
+48816,27283,"Ackerman Lake",106656,"Radiocarbon",3320,175,8050,540,3280,3360,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,40,1,1
+48816,27283,"Ackerman Lake",106657,"Radiocarbon",3919,195,8050,540,3870,3968,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,49,1,1
+48816,27283,"Ackerman Lake",106659,"Radiocarbon",7120,276,8050,540,7080,7160,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,40,1,1
+48816,27283,"Ackerman Lake",106658,"Core top",-51,0,8050,540,-51,-51,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,32,0,1
+48816,27283,"Ackerman Lake",106660,"Radiocarbon",5690,235,8050,540,5650,5730,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""ACKERMAN"",d.max=310,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+310 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,287,-86.79965,-86.79965,40,1,1

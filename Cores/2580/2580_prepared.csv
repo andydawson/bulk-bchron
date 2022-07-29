@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2580,2496,"Snowshoe Lake",6697,"Core top",-33,0,11230,-30,-33,0,"NAPD 1",NA,TRUE,900,-120.66667,57.45,16.5,0,1
+2580,2496,"Snowshoe Lake",6698,"Radiocarbon",3490,98,11230,-30,3420,3560,"NAPD 1",NA,TRUE,900,-120.66667,57.45,70,1,1
+2580,2496,"Snowshoe Lake",6699,"Radiocarbon",6130,208,11230,-30,6040,6220,"NAPD 1",NA,TRUE,900,-120.66667,57.45,90,1,1
+2580,2496,"Snowshoe Lake",6700,"Radiocarbon",8150,282,11230,-30,8050,8250,"NAPD 1",NA,TRUE,900,-120.66667,57.45,100,1,1
+2580,2496,"Snowshoe Lake",6701,"Radiocarbon",9550,349.5,11230,-30,9450,9650,"NAPD 1",NA,TRUE,900,-120.66667,57.45,100,1,1
+2580,2496,"Snowshoe Lake",6702,"Radiocarbon",10400,375,11230,-30,10260,10540,"NAPD 1",NA,TRUE,900,-120.66667,57.45,140,1,1

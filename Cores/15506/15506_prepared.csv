@@ -1,0 +1,156 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15506,10248,"Little Green Valley Meadow",33704,"Core top",-50,0,1900,1610,-51,-49,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LITGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+191.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2225,-117.05259,-117.05024,1,0,1
+15506,10248,"Little Green Valley Meadow",33705,"Radiocarbon",1400,94,1900,1610,1310,1490,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LITGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+191.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2225,-117.05259,-117.05024,90,1,1
+15506,10248,"Little Green Valley Meadow",33706,"Radiocarbon",3010,127,1900,1610,2050,3070,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LITGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+191.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2225,-117.05259,-117.05024,510,1,1
+15506,10248,"Little Green Valley Meadow",33707,"Radiocarbon",3070,153,1900,1610,3010,4030,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LITGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+191.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2225,-117.05259,-117.05024,510,1,1
+15506,10248,"Little Green Valley Meadow",33708,"Radiocarbon",2360,191.5,1900,1610,2320,2400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LITGREEN',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+191.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2225,-117.05259,-117.05024,40,1,1

@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1716,1660,"Sud du Lac du Noyer",4646,"Core top",0,0,9590,230,0,0,"NAPD 1",NA,TRUE,270,-72.83778,46.78778,32,0,1
+1716,1660,"Sud du Lac du Noyer",4647,"Radiocarbon",5145,227.5,9590,230,4990,5300,"NAPD 1",NA,TRUE,270,-72.83778,46.78778,155,1,1
+1716,1660,"Sud du Lac du Noyer",4648,"Radiocarbon",5745,322.5,9590,230,5510,5980,"NAPD 1",NA,TRUE,270,-72.83778,46.78778,235,1,1
+1716,1660,"Sud du Lac du Noyer",4649,"Radiocarbon",8230,427.5,9590,230,7960,8500,"NAPD 1",NA,TRUE,270,-72.83778,46.78778,270,1,1
+1716,1660,"Sud du Lac du Noyer",4650,"Radiocarbon",9205,442.5,9590,230,8820,9590,"NAPD 1",NA,TRUE,270,-72.83778,46.78778,385,1,1
+1716,1660,"Sud du Lac du Noyer",4651,"Radiocarbon",9670,451.5,9590,230,9480,9860,"NAPD 1",NA,TRUE,270,-72.83778,46.78778,190,1,1

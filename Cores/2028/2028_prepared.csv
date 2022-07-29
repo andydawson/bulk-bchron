@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2028,1957,"Rattle Lake",5801,"Core top",0,525,11400,5750,-40,40,"NAPD 1","Chron uses 6 C14 dates, top, plus age of deglaciation (see Björck 1985).",TRUE,460,-92.7,49.35,40,0,1
+2028,1957,"Rattle Lake",5802,"Radiocarbon",6500,1027.5,11400,5750,6340,6660,"NAPD 1","Chron uses 6 C14 dates, top, plus age of deglaciation (see Björck 1985).",TRUE,460,-92.7,49.35,160,1,1
+2028,1957,"Rattle Lake",5803,"Radiocarbon",7150,1072.5,11400,5750,6990,7310,"NAPD 1","Chron uses 6 C14 dates, top, plus age of deglaciation (see Björck 1985).",TRUE,460,-92.7,49.35,160,1,1
+2028,1957,"Rattle Lake",5804,"Radiocarbon",8420,1207.5,11400,5750,8240,8600,"NAPD 1","Chron uses 6 C14 dates, top, plus age of deglaciation (see Björck 1985).",TRUE,460,-92.7,49.35,180,1,1
+2028,1957,"Rattle Lake",5805,"Radiocarbon",10150,1243.5,11400,5750,9950,10350,"NAPD 1","Chron uses 6 C14 dates, top, plus age of deglaciation (see Björck 1985).",TRUE,460,-92.7,49.35,200,1,1
+2028,1957,"Rattle Lake",5806,"Radiocarbon",10850,1256.5,11400,5750,10650,11050,"NAPD 1","Chron uses 6 C14 dates, top, plus age of deglaciation (see Björck 1985).",TRUE,460,-92.7,49.35,200,1,1
+2028,1957,"Rattle Lake",5807,"Radiocarbon",11110,1268.5,11400,5750,10910,11310,"NAPD 1","Chron uses 6 C14 dates, top, plus age of deglaciation (see Björck 1985).",TRUE,460,-92.7,49.35,200,1,1
+2028,1957,"Rattle Lake",5808,"Deglaciation",11400,1380,11400,5750,11300,11500,"NAPD 1","Chron uses 6 C14 dates, top, plus age of deglaciation (see Björck 1985).",TRUE,460,-92.7,49.35,100,0,1

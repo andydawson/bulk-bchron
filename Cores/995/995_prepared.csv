@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+995,964,"Water Conservation Area 3B, Gumbo Limbo Near Tail",2778,"Core top",-48,0,3490,120,-48,-48,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.56139,25.88694,32,0,1
+995,964,"Water Conservation Area 3B, Gumbo Limbo Near Tail",2779,"Radiocarbon",2510,22,3490,120,2440,2580,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.56139,25.88694,70,1,1
+995,964,"Water Conservation Area 3B, Gumbo Limbo Near Tail",2780,"Radiocarbon",3470,41,3490,120,3420,3520,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.56139,25.88694,50,1,1
+995,964,"Water Conservation Area 3B, Gumbo Limbo Near Tail",2781,"Radiocarbon",3510,67,3490,120,3510,3510,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.56139,25.88694,146,1,1

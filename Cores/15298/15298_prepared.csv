@@ -1,0 +1,225 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15298,10158,"Devlins Park",87599,"Radiocarbon",15230,266.5,28240,16750,14920,15560,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DEVLINS"",thick=20,acc.mean=8,d.min=0,d.max=1400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2953,-105.56156,40.00076,320,1,1
+15298,10158,"Devlins Park",87600,"Radiocarbon",18620,549,28240,16750,18325,18915,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DEVLINS"",thick=20,acc.mean=8,d.min=0,d.max=1400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2953,-105.56156,40.00076,295,1,1
+15298,10158,"Devlins Park",87601,"Radiocarbon",17460,853.5,28240,16750,16530,18510,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DEVLINS"",thick=20,acc.mean=8,d.min=0,d.max=1400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2953,-105.56156,40.00076,990,1,1
+15298,10158,"Devlins Park",87602,"Radiocarbon",22040,967.5,28240,16750,21300,22860,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DEVLINS"",thick=20,acc.mean=8,d.min=0,d.max=1400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2953,-105.56156,40.00076,780,1,1
+15298,10158,"Devlins Park",87603,"Radiocarbon",21640,1088,28240,16750,21030,22290,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DEVLINS"",thick=20,acc.mean=8,d.min=0,d.max=1400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2953,-105.56156,40.00076,630,1,1
+15298,10158,"Devlins Park",87604,"Radiocarbon",22400,1280,28240,16750,21330,23630,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DEVLINS"",thick=20,acc.mean=8,d.min=0,d.max=1400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2953,-105.56156,40.00076,1150,1,1
+15298,10158,"Devlins Park",87605,"Radiocarbon",10890,759,28240,16750,10520,11270,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""DEVLINS"",thick=20,acc.mean=8,d.min=0,d.max=1400,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1400 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2953,-105.56156,40.00076,375,1,1

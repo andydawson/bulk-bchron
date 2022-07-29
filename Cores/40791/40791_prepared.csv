@@ -1,0 +1,14 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40791,23579,"Benson Pond",79416,"Core top",-54,0,14490,-60,-54,-54,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,32,0,1
+40791,23579,"Benson Pond",79417,"European settlement horizon",171,20.5,14490,-60,171,171,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,50,0,0
+40791,23579,"Benson Pond",79418,"Radiocarbon",2480,84.5,14490,-60,2435,2525,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,45,1,1
+40791,23579,"Benson Pond",79419,"Radiocarbon",3870,149.5,14490,-60,3825,3915,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,45,1,1
+40791,23579,"Benson Pond",79420,"Radiocarbon",4590,225,14490,-60,4550,4630,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,40,1,1
+40791,23579,"Benson Pond",79421,"Radiocarbon",4550,235.5,14490,-60,4525,4575,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,25,1,1
+40791,23579,"Benson Pond",79422,"Radiocarbon",4700,239.5,14490,-60,4675,4725,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,25,1,1
+40791,23579,"Benson Pond",79423,"Radiocarbon",4630,247.5,14490,-60,4600,4660,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,30,1,1
+40791,23579,"Benson Pond",79424,"Radiocarbon",6270,308.5,14490,-60,6240,6300,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,30,1,1
+40791,23579,"Benson Pond",79425,"Radiocarbon",7840,386.5,14490,-60,7795,7885,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,45,1,1
+40791,23579,"Benson Pond",79426,"Radiocarbon",9510,427.5,14490,-60,9460,9560,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,50,1,1
+40791,23579,"Benson Pond",79427,"Radiocarbon",9480,430.5,14490,-60,9445,9515,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,35,1,1
+40791,23579,"Benson Pond",79428,"Radiocarbon",12800,478.5,14490,-60,12640,12960,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,160,1,1

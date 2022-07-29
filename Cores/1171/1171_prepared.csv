@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1171,1136,"James Bay",3296,"Core top",-30,0,2980,-20,-30,-10,"NAPD 1","Chron uses top and three C14 dates.",TRUE,NA,-80.2,50.22,10,0,1
+1171,1136,"James Bay",3297,"Radiocarbon",330,24,2980,-20,90,570,"NAPD 1","Chron uses top and three C14 dates.",TRUE,NA,-80.2,50.22,240,1,1
+1171,1136,"James Bay",3298,"Radiocarbon",2040,58,2980,-20,1740,2340,"NAPD 1","Chron uses top and three C14 dates.",TRUE,NA,-80.2,50.22,300,1,1
+1171,1136,"James Bay",3299,"Radiocarbon",2830,93.5,2980,-20,2370,3290,"NAPD 1","Chron uses top and three C14 dates.",TRUE,NA,-80.2,50.22,460,1,1

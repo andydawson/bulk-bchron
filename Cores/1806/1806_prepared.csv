@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1806,1748,"Niliq Lake",5012,"Core top",0,0,14050,1180,-34,500,"NAPD 1","Chron uses 5 radiocarbon dates plus sediment surface date (0 BP).",TRUE,274,-160.43333,67.86667,267,0,1
+1806,1748,"Niliq Lake",5013,"Radiocarbon",2520,15,14050,1180,2440,2600,"NAPD 1","Chron uses 5 radiocarbon dates plus sediment surface date (0 BP).",TRUE,274,-160.43333,67.86667,80,1,1
+1806,1748,"Niliq Lake",5014,"Radiocarbon",6350,85,14050,1180,6230,6470,"NAPD 1","Chron uses 5 radiocarbon dates plus sediment surface date (0 BP).",TRUE,274,-160.43333,67.86667,120,1,1
+1806,1748,"Niliq Lake",5015,"Radiocarbon",8890,135,14050,1180,8730,9050,"NAPD 1","Chron uses 5 radiocarbon dates plus sediment surface date (0 BP).",TRUE,274,-160.43333,67.86667,160,1,1
+1806,1748,"Niliq Lake",5016,"Radiocarbon",10880,245,14050,1180,10780,10980,"NAPD 1","Chron uses 5 radiocarbon dates plus sediment surface date (0 BP).",TRUE,274,-160.43333,67.86667,100,1,1
+1806,1748,"Niliq Lake",5017,"Radiocarbon",13880,333,14050,1180,13760,14000,"NAPD 1","Chron uses 5 radiocarbon dates plus sediment surface date (0 BP).",TRUE,274,-160.43333,67.86667,120,1,1

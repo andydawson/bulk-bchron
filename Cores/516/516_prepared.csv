@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+516,503,"Cranberry Lake",1531,"Core top",-30,0,12250,-30,-30,-10,"NAPD 1","Chron uses top, six C14 dates, and 13000±500 for age of glacial Lake Iroquois.",TRUE,170,-78.1,44.1,10,0,1
+516,503,"Cranberry Lake",1532,"Radiocarbon",961,206,12250,-30,831,1091,"NAPD 1","Chron uses top, six C14 dates, and 13000±500 for age of glacial Lake Iroquois.",TRUE,170,-78.1,44.1,130,1,1
+516,503,"Cranberry Lake",1533,"Radiocarbon",2361,410,12250,-30,2227,2495,"NAPD 1","Chron uses top, six C14 dates, and 13000±500 for age of glacial Lake Iroquois.",TRUE,170,-78.1,44.1,134,1,1
+516,503,"Cranberry Lake",1534,"Radiocarbon",4903,650,12250,-30,4673,5133,"NAPD 1","Chron uses top, six C14 dates, and 13000±500 for age of glacial Lake Iroquois.",TRUE,170,-78.1,44.1,230,1,1
+516,503,"Cranberry Lake",1535,"Radiocarbon",6322,710,12250,-30,6142,6502,"NAPD 1","Chron uses top, six C14 dates, and 13000±500 for age of glacial Lake Iroquois.",TRUE,170,-78.1,44.1,180,1,1
+516,503,"Cranberry Lake",1536,"Radiocarbon",9934,825,12250,-30,9640,10228,"NAPD 1","Chron uses top, six C14 dates, and 13000±500 for age of glacial Lake Iroquois.",TRUE,170,-78.1,44.1,294,1,1
+516,503,"Cranberry Lake",1537,"Radiocarbon",12237,839,12250,-30,11701,12773,"NAPD 1","Chron uses top, six C14 dates, and 13000±500 for age of glacial Lake Iroquois.",TRUE,170,-78.1,44.1,536,1,1
+516,503,"Cranberry Lake",1538,"Core bottom",13000,980,12250,-30,12500,13500,"NAPD 1","Chron uses top, six C14 dates, and 13000±500 for age of glacial Lake Iroquois.",TRUE,170,-78.1,44.1,500,0,1

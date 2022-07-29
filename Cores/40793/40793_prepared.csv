@@ -1,0 +1,12 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40793,23580,"Berry Pond",79429,"Core top",-51,0,13270,-60,-51,-51,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,32,0,1
+40793,23580,"Berry Pond",79430,"European settlement horizon",306,68.5,13270,-60,306,306,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,50,0,0
+40793,23580,"Berry Pond",79431,"Radiocarbon",750,101.5,13270,-60,710,790,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,40,1,1
+40793,23580,"Berry Pond",79432,"Radiocarbon",1310,159.5,13270,-60,1270,1350,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,40,1,1
+40793,23580,"Berry Pond",79433,"Radiocarbon",2560,283.5,13270,-60,2510,2610,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,50,1,1
+40793,23580,"Berry Pond",79434,"Radiocarbon",3460,381.5,13270,-60,3410,3510,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,50,1,1
+40793,23580,"Berry Pond",79435,"Radiocarbon",4620,510.5,13270,-60,4580,4660,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,40,1,1
+40793,23580,"Berry Pond",79436,"Radiocarbon",5490,608.5,13270,-60,5430,5550,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,60,1,1
+40793,23580,"Berry Pond",79437,"Radiocarbon",6670,690.5,13270,-60,6620,6720,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,50,1,1
+40793,23580,"Berry Pond",79438,"Radiocarbon",8640,936.5,13270,-60,8600,8680,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,40,1,1
+40793,23580,"Berry Pond",79439,"Radiocarbon",12230,1192.5,13270,-60,12160,12300,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,39,-71.08776,-71.08585,70,1,1

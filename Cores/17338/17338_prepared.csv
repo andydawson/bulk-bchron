@@ -1,0 +1,156 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+17338,11579,"Sithylemenkat Lake",37196,"Radiocarbon",2140,20,15330,170,2050,2230,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SITHYLEM',d.max=455,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+455 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,213,-151.4267,-151.35641,90,1,1
+17338,11579,"Sithylemenkat Lake",37197,"Radiocarbon",4690,150,15330,170,4590,4790,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SITHYLEM',d.max=455,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+455 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,213,-151.4267,-151.35641,100,1,1
+17338,11579,"Sithylemenkat Lake",37198,"Radiocarbon",8090,230,15330,170,7980,8200,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SITHYLEM',d.max=455,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+455 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,213,-151.4267,-151.35641,110,1,1
+17338,11579,"Sithylemenkat Lake",37199,"Radiocarbon",10290,320,15330,170,10170,10410,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SITHYLEM',d.max=455,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+455 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,213,-151.4267,-151.35641,120,1,1
+17338,11579,"Sithylemenkat Lake",37200,"Radiocarbon",13830,450,15330,170,13670,13990,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SITHYLEM',d.max=455,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+455 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,213,-151.4267,-151.35641,160,1,1

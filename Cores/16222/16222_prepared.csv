@@ -1,0 +1,931 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16222,10531,"Black Mountain Lake",35733,"Core top",-48,0,14950,8970,-49,-40,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,4.5,0,1
+16222,10531,"Black Mountain Lake",35734,"Radiocarbon",1960,37,14950,8970,1910,2010,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35735,"Radiocarbon",1730,47,14950,8970,1680,1780,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35736,"Radiocarbon",2090,59.5,14950,8970,2040,2140,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35737,"Radiocarbon",3050,99,14950,8970,3010,3090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,40,1,1
+16222,10531,"Black Mountain Lake",35738,"Radiocarbon",3260,101,14950,8970,3210,3310,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35739,"Radiocarbon",4230,131,14950,8970,4180,4280,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35740,"Radiocarbon",5000,159,14950,8970,4960,5040,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,40,1,1
+16222,10531,"Black Mountain Lake",35741,"Radiocarbon",4980,160,14950,8970,4910,5050,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,70,1,1
+16222,10531,"Black Mountain Lake",35742,"Radiocarbon",5140,160.1,14950,8970,5090,5190,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35743,"Radiocarbon",6150,188,14950,8970,6100,6200,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35744,"Radiocarbon",8480,228,14950,8970,8400,8560,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,80,1,1
+16222,10531,"Black Mountain Lake",35745,"Radiocarbon",8890,238,14950,8970,8820,8960,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,70,1,1
+16222,10531,"Black Mountain Lake",35746,"Radiocarbon",8910,238.1,14950,8970,8860,8960,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35747,"Radiocarbon",9520,238.2,14950,8970,9480,9560,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,40,1,1
+16222,10531,"Black Mountain Lake",35748,"Radiocarbon",9370,253,14950,8970,9260,9480,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,110,1,1
+16222,10531,"Black Mountain Lake",35749,"Radiocarbon",9870,257,14950,8970,9820,9920,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35750,"Radiocarbon",9910,259,14950,8970,9850,9970,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,60,1,1
+16222,10531,"Black Mountain Lake",35751,"Radiocarbon",9930,259.1,14950,8970,9860,10000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,70,1,1
+16222,10531,"Black Mountain Lake",35752,"Radiocarbon",10120,267,14950,8970,10080,10160,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,40,1,1
+16222,10531,"Black Mountain Lake",35753,"Radiocarbon",10350,274,14950,8970,10300,10400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35754,"Radiocarbon",10420,278,14950,8970,10370,10470,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35755,"Radiocarbon",10840,283,14950,8970,10790,10890,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35756,"Radiocarbon",11430,293,14950,8970,11360,11500,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,70,1,1
+16222,10531,"Black Mountain Lake",35757,"Radiocarbon",11640,293.1,14950,8970,11590,11690,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35758,"Radiocarbon",12040,293.2,14950,8970,11990,12090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,50,1,1
+16222,10531,"Black Mountain Lake",35759,"Radiocarbon",15650,347.5,14950,8970,15530,15770,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,120,1,1
+16222,10531,"Black Mountain Lake",35760,"Radiocarbon",16040,440,14950,8970,15970,16110,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,70,1,1
+16222,10531,"Black Mountain Lake",35761,"Radiocarbon",17060,581,14950,8970,16990,17130,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,70,1,1
+16222,10531,"Black Mountain Lake",35762,"Radiocarbon",25060,772,14950,8970,24700,25420,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLACKMTN',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+772 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3413,-107.23672,-107.234,360,1,1

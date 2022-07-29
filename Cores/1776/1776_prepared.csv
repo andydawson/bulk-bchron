@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1776,1719,"Mud Lake",4873,"Core top",0,40,8860,0,-20,20,"NAPD 1","Chron uses top plus 3 radiocarbon dates. The 2280±200 date from Bradley (1966).",TRUE,9,-81.87499,-81.85703,20,0,1
+1776,1719,"Mud Lake",4874,"Radiocarbon",2280,135,8860,0,2080,2480,"NAPD 1","Chron uses top plus 3 radiocarbon dates. The 2280±200 date from Bradley (1966).",TRUE,9,-81.87499,-81.85703,200,1,1
+1776,1719,"Mud Lake",4875,"Radiocarbon",5070,240,8860,0,4920,5220,"NAPD 1","Chron uses top plus 3 radiocarbon dates. The 2280±200 date from Bradley (1966).",TRUE,9,-81.87499,-81.85703,150,1,1
+1776,1719,"Mud Lake",4876,"Radiocarbon",8160,423.5,8860,0,7960,8360,"NAPD 1","Chron uses top plus 3 radiocarbon dates. The 2280±200 date from Bradley (1966).",TRUE,9,-81.87499,-81.85703,200,1,1

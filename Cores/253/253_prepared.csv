@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+253,248,"Bell's Lake",506,"Core top",0,0,11450,0,-40,40,"NAPD 1","Chron uses surface (0 BP) plus 5 AMS radiocarbon dates.",TRUE,580,-127.48333,65.01667,40,0,1
+253,248,"Bell's Lake",507,"Radiocarbon",2340,108,11450,0,2220,2460,"NAPD 1","Chron uses surface (0 BP) plus 5 AMS radiocarbon dates.",TRUE,580,-127.48333,65.01667,120,1,1
+253,248,"Bell's Lake",508,"Radiocarbon",4430,240,11450,0,4290,4570,"NAPD 1","Chron uses surface (0 BP) plus 5 AMS radiocarbon dates.",TRUE,580,-127.48333,65.01667,140,1,1
+253,248,"Bell's Lake",509,"Radiocarbon",5600,319,11450,0,5460,5740,"NAPD 1","Chron uses surface (0 BP) plus 5 AMS radiocarbon dates.",TRUE,580,-127.48333,65.01667,140,1,1
+253,248,"Bell's Lake",510,"Radiocarbon",8740,395,11450,0,8580,8900,"NAPD 1","Chron uses surface (0 BP) plus 5 AMS radiocarbon dates.",TRUE,580,-127.48333,65.01667,160,1,1
+253,248,"Bell's Lake",511,"Radiocarbon",10230,406,11450,0,9930,10530,"NAPD 1","Chron uses surface (0 BP) plus 5 AMS radiocarbon dates.",TRUE,580,-127.48333,65.01667,300,1,1

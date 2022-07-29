@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+3062,245,"Beckman Lake",7701,"Core top",-29,0,430,-30,-29,-9,"NAPD 1","Chron uses top and Ambrosia rise.",TRUE,278,-93.18333,45.425,10,0,0
+3062,245,"Beckman Lake",7702,"Biostratigraphic, pollen",95,32.5,430,-30,70,120,"NAPD 1","Chron uses top and Ambrosia rise.",TRUE,278,-93.18333,45.425,25,0,0

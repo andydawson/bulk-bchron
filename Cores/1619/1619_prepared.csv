@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+1619,1573,"Little Bayou Sara Site 1B",3994,"Radiocarbon",23935,0,23940,23930,22865,25005,"Jackson 1994","Spruce wood date (GX-18803). Entity is a ""snapshot"" exposure.",TRUE,40,-91.44278,30.92583,0,1070,1

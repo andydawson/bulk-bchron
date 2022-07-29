@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2023,1954,"Ramsay Lake",5757,"Core top",-30,0,10940,-30,-30,-10,"NAPD 1","Chron uses top, Ambrosia rise, and four C13 dates.",TRUE,200,-76.1,45.6,10,0,1
+2023,1954,"Ramsay Lake",5758,"Biostratigraphic, pollen",150,22.5,10940,-30,100,200,"NAPD 1","Chron uses top, Ambrosia rise, and four C13 dates.",TRUE,200,-76.1,45.6,50,0,0
+2023,1954,"Ramsay Lake",5759,"Radiocarbon",3210,313,10940,-30,3030,3390,"NAPD 1","Chron uses top, Ambrosia rise, and four C13 dates.",TRUE,200,-76.1,45.6,180,1,1
+2023,1954,"Ramsay Lake",5760,"Radiocarbon",6420,545,10940,-30,6040,6700,"NAPD 1","Chron uses top, Ambrosia rise, and four C13 dates.",TRUE,200,-76.1,45.6,330,1,1
+2023,1954,"Ramsay Lake",5761,"Radiocarbon",10200,862,10940,-30,9380,11020,"NAPD 1","Chron uses top, Ambrosia rise, and four C13 dates.",TRUE,200,-76.1,45.6,820,1,1
+2023,1954,"Ramsay Lake",5762,"Radiocarbon",10800,936,10940,-30,10440,11160,"NAPD 1","Chron uses top, Ambrosia rise, and four C13 dates.",TRUE,200,-76.1,45.6,360,1,1

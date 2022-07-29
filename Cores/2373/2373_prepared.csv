@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2373,2291,"Saint-Francois de Sales",6473,"Core top",0,0,8890,120,0,0,"NAPD 1","Basal date of 10000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,358,-72.14694,48.29389,32,0,1
+2373,2291,"Saint-Francois de Sales",6474,"Radiocarbon",2705,107.5,8890,120,2585,2825,"NAPD 1","Basal date of 10000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,358,-72.14694,48.29389,120,1,1
+2373,2291,"Saint-Francois de Sales",6475,"Radiocarbon",7965,407.5,8890,120,7840,8090,"NAPD 1","Basal date of 10000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,358,-72.14694,48.29389,125,1,1
+2373,2291,"Saint-Francois de Sales",6476,"Radiocarbon",8955,453,8890,120,8755,9155,"NAPD 1","Basal date of 10000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,358,-72.14694,48.29389,200,1,1
+2373,2291,"Saint-Francois de Sales",6477,"Deglaciation",10000,576,8890,120,9500,10500,"NAPD 1","Basal date of 10000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,358,-72.14694,48.29389,500,0,1

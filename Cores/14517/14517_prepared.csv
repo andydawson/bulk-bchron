@@ -1,0 +1,61 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14517,9814,"Alpine Pond",30948,"Core top",-42,0,3000,360,-44,-40,"Neotoma 1","Based on IntCal13 calibration curve.
+The ages from depths 270-290 cm were extrapolated from the deposition time between 250 and 260 cm.
+Bacon command line: Bacon(""ALPINE12"",thick=20,depths.file=TRUE)
+Settings file:
+0 #d.min
+260 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3200,-112.8248,-112.82412,2,0,1
+14517,9814,"Alpine Pond",30949,"Radiocarbon",2640,260,3000,360,2510,2770,"Neotoma 1","Based on IntCal13 calibration curve.
+The ages from depths 270-290 cm were extrapolated from the deposition time between 250 and 260 cm.
+Bacon command line: Bacon(""ALPINE12"",thick=20,depths.file=TRUE)
+Settings file:
+0 #d.min
+260 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3200,-112.8248,-112.82412,130,1,1

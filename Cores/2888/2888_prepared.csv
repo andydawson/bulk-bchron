@@ -1,0 +1,295 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2888,2792,"Upper Graven Lake",77871,"Core top",-34,111,9950,90,-39,-29,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(UPGRAVEN, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 160)
+
+Bacon settings file:
+111 #d.min
+594 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+160 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,446,-95.30694,46.18444,5,0,1
+2888,2792,"Upper Graven Lake",77872,"Pre-EuroAmerican settlement horizon",79,160,9950,90,29,129,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(UPGRAVEN, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 160)
+
+Bacon settings file:
+111 #d.min
+594 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+160 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,446,-95.30694,46.18444,50,0,0
+2888,2792,"Upper Graven Lake",77873,"Radiocarbon, reservoir correction",940,190,9950,90,800,1080,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(UPGRAVEN, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 160)
+
+Bacon settings file:
+111 #d.min
+594 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+160 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,446,-95.30694,46.18444,140,1,1
+2888,2792,"Upper Graven Lake",77874,"Radiocarbon, reservoir correction",3490,320,9950,90,3330,3650,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(UPGRAVEN, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 160)
+
+Bacon settings file:
+111 #d.min
+594 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+160 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,446,-95.30694,46.18444,160,1,1
+2888,2792,"Upper Graven Lake",77875,"Radiocarbon, reservoir correction",7740,527,9950,90,7560,7920,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(UPGRAVEN, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 160)
+
+Bacon settings file:
+111 #d.min
+594 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+160 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,446,-95.30694,46.18444,180,1,1
+2888,2792,"Upper Graven Lake",77876,"Radiocarbon, reservoir correction",10310,594,9950,90,10090,10530,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(UPGRAVEN, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 160)
+
+Bacon settings file:
+111 #d.min
+594 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+160 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,446,-95.30694,46.18444,220,1,1

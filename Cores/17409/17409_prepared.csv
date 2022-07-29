@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+17409,11613,"Kelly Lake",37531,"Core top",-48,0,0,-50,NA,NA,"NAPD1-Cs137","Chron1 is based on a top age and three Cs137 dates",FALSE,254,-81.09567,-81.04082,32,0,1
+17409,11613,"Kelly Lake",37532,"Other dating methods",-36,45,0,-50,NA,NA,"NAPD1-Cs137","Chron1 is based on a top age and three Cs137 dates",FALSE,254,-81.09567,-81.04082,350,0,1
+17409,11613,"Kelly Lake",37533,"Other dating methods",-13,80,0,-50,NA,NA,"NAPD1-Cs137","Chron1 is based on a top age and three Cs137 dates",FALSE,254,-81.09567,-81.04082,350,0,1
+17409,11613,"Kelly Lake",37534,"Other dating methods",-4,100,0,-50,NA,NA,"NAPD1-Cs137","Chron1 is based on a top age and three Cs137 dates",FALSE,254,-81.09567,-81.04082,350,0,1

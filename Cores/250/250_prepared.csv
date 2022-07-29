@@ -1,0 +1,11 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+250,246,"Beef Pasture",456,"Core top",0,0,5340,0,0,0,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,32,0,1
+250,246,"Beef Pasture",457,"Biostratigraphic, pollen",60,10.5,5340,0,50,70,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,10,0,0
+250,246,"Beef Pasture",458,"Radiocarbon",780,52.5,5340,0,600,960,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,180,1,1
+250,246,"Beef Pasture",459,"Radiocarbon",1540,122.5,5340,0,1380,1700,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,160,1,1
+250,246,"Beef Pasture",460,"Radiocarbon",2680,202.5,5340,0,2660,2840,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,90,1,1
+250,246,"Beef Pasture",461,"Radiocarbon",2825,237.5,5340,0,2695,2955,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,130,1,1
+250,246,"Beef Pasture",462,"Radiocarbon",3635,277.5,5340,0,3475,3795,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,160,1,1
+250,246,"Beef Pasture",463,"Radiocarbon",4150,301.5,5340,0,3950,4350,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,200,1,1
+250,246,"Beef Pasture",464,"Radiocarbon",4645,346.5,5340,0,4455,4835,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,190,1,1
+250,246,"Beef Pasture",465,"Radiocarbon",5010,370.5,5340,0,4790,5230,"NAPD 2","Chron uses top, pollen stratigraphic date (onset of logging), and 8 radiocarbon dates.",TRUE,3060,-108.16851,-108.15224,220,1,1

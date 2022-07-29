@@ -1,0 +1,1770 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15136,9717,"Devils Lake, Creel Bay",32566,"Core top",-36,700,14340,-40,-37,-35,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,1,0,1
+15136,9717,"Devils Lake, Creel Bay",32567,"Lead-210",-34,701,14340,-40,-36,-32,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,2,0,1
+15136,9717,"Devils Lake, Creel Bay",32568,"Lead-210",-33,703,14340,-40,-35,-31,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,2,0,1
+15136,9717,"Devils Lake, Creel Bay",32569,"Lead-210",-30,705,14340,-40,-32,-28,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,2,0,1
+15136,9717,"Devils Lake, Creel Bay",32570,"Lead-210",-28,707,14340,-40,-30,-26,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,2,0,1
+15136,9717,"Devils Lake, Creel Bay",32571,"Lead-210",-24,709,14340,-40,-28,-20,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,4,0,1
+15136,9717,"Devils Lake, Creel Bay",32572,"Lead-210",-19,711,14340,-40,-23,-15,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,4,0,1
+15136,9717,"Devils Lake, Creel Bay",32573,"Lead-210",-15,713,14340,-40,-19,-11,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,4,0,1
+15136,9717,"Devils Lake, Creel Bay",32574,"Lead-210",-10,715,14340,-40,-14,-6,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,4,0,1
+15136,9717,"Devils Lake, Creel Bay",32575,"Lead-210",-4,717,14340,-40,-8,0,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,4,0,1
+15136,9717,"Devils Lake, Creel Bay",32576,"Lead-210",2,719,14340,-40,-2,6,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,4,0,1
+15136,9717,"Devils Lake, Creel Bay",32577,"Lead-210",11,721,14340,-40,7,15,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,4,0,1
+15136,9717,"Devils Lake, Creel Bay",32578,"Lead-210",21,723,14340,-40,16,26,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,5,0,1
+15136,9717,"Devils Lake, Creel Bay",32579,"Lead-210",35,725,14340,-40,29,41,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,6,0,1
+15136,9717,"Devils Lake, Creel Bay",32580,"Lead-210",61,728,14340,-40,47,75,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,14,0,1
+15136,9717,"Devils Lake, Creel Bay",32581,"Lead-210",69,729,14340,-40,51,87,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,18,0,1
+15136,9717,"Devils Lake, Creel Bay",32582,"Lead-210",73,730,14340,-40,51,95,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,22,0,1
+15136,9717,"Devils Lake, Creel Bay",32583,"Lead-210",77,731,14340,-40,53,101,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,24,0,1
+15136,9717,"Devils Lake, Creel Bay",32584,"Lead-210",80,732,14340,-40,54,106,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,26,0,1
+15136,9717,"Devils Lake, Creel Bay",32585,"Lead-210",84,733,14340,-40,54,114,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,30,0,1
+15136,9717,"Devils Lake, Creel Bay",32586,"Lead-210",90,734,14340,-40,54,126,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,36,0,1
+15136,9717,"Devils Lake, Creel Bay",32587,"Lead-210",97,735,14340,-40,51,143,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,46,0,1
+15136,9717,"Devils Lake, Creel Bay",32588,"Lead-210",111,737,14340,-40,39,183,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,72,0,1
+15136,9717,"Devils Lake, Creel Bay",32589,"Lead-210",127,739,14340,-40,15,200,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,92.5,0,1
+15136,9717,"Devils Lake, Creel Bay",32590,"Lead-210",150,741,14340,-40,-70,200,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,135,0,1
+15136,9717,"Devils Lake, Creel Bay",32591,"Radiocarbon",955,812,14340,-40,715,1195,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,240,1,1
+15136,9717,"Devils Lake, Creel Bay",32592,"Radiocarbon",3950,1699,14340,-40,3650,4250,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,300,1,1
+15136,9717,"Devils Lake, Creel Bay",32593,"Radiocarbon",6855,2211,14340,-40,6635,7075,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,220,1,1
+15136,9717,"Devils Lake, Creel Bay",32594,"Radiocarbon",10580,2835,14340,-40,10260,10900,"Neotoma 1","Based on the IntCal13 calibration curve. Two separate Bacon age models were done. The first age model included all age controls; however, the fit for the surface core was poor. Ages from this age model were assigned to all samples ≥750 cm depth. The second age model incuded only the core top and lead-210 dates; these ages were assigned to depths 700-744 cm. 
+
+Age Model 1 Bacon command line: Bacon('CREELBAY',thick=30,acc.mean=8,d.max=3077,depths.file=TRUE)
+
+Age Model 1 Bacon settings file:
+700 #d.min
+3077 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+8 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Age Model 2 command lline: Bacon('CREELBAYSURF',thick=2,acc.mean=4,d.max=744,depths.file=TRUE)
+
+Age Model 2 settings file:
+700 #d.min
+744 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+4 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,443,-98.95643,-98.90227,320,1,1

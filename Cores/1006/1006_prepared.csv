@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1006,975,"Harding Lake",2912,"Core top",-25,0,13900,20,-5,-25,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-146.9075,64.44444,10,0,1
+1006,975,"Harding Lake",2913,"Radiocarbon",8680,170,13900,20,8460,8900,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-146.9075,64.44444,220,1,1
+1006,975,"Harding Lake",2914,"Radiocarbon",9860,210,13900,20,9620,10100,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-146.9075,64.44444,240,1,1
+1006,975,"Harding Lake",2915,"Radiocarbon",11300,275,13900,20,11000,11600,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-146.9075,64.44444,300,1,1
+1006,975,"Harding Lake",2916,"Radiocarbon",13690,407.5,13900,20,12690,14690,"NAPD 1","Chron uses top and four C14 dates.",TRUE,NA,-146.9075,64.44444,1000,1,1

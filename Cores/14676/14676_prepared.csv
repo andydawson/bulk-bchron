@@ -1,0 +1,280 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14676,9890,"Buckley Pond Hollow",31451,"Core top",-44,0,8920,110,NA,NA,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,32,0,1
+14676,9890,"Buckley Pond Hollow",31452,"Radiocarbon",460,17.25,8920,110,410,510,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,50,1,1
+14676,9890,"Buckley Pond Hollow",31453,"Radiocarbon",1220,24.25,8920,110,1160,1280,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,60,1,1
+14676,9890,"Buckley Pond Hollow",31454,"Radiocarbon",2350,29.25,8920,110,2300,2400,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,50,1,1
+14676,9890,"Buckley Pond Hollow",31455,"Radiocarbon",3380,40.25,8920,110,3330,3430,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,50,1,1
+14676,9890,"Buckley Pond Hollow",31456,"Radiocarbon",6540,69.25,8920,110,6490,6590,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,50,1,1
+14676,9890,"Buckley Pond Hollow",31457,"Radiocarbon",9550,77.75,8920,110,9440,9660,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,110,1,1
+14676,9890,"Buckley Pond Hollow",31458,"Ambrosia rise",200,11.5,8920,110,180,220,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,20,0,0
+14676,9890,"Buckley Pond Hollow",31459,"Tsuga decline",4750,49,8920,110,4700,4800,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+77.75 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+140 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,360,-69.05036,-69.04847,50,0,0

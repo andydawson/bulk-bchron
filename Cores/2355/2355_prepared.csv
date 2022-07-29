@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2355,2274,"Seidel",6413,"Radiocarbon",8680,1265,12930,8420,8500,8860,"NAPD 1","Chron uses four C14 dates, 3 C14 dates from core 180-2, 11.6k date from core 180-3 for Abies rise.",TRUE,211,-87.51556,44.45,180,1,1
+2355,2274,"Seidel",6414,"Radiocarbon",9225,1317.5,12930,8420,9065,9385,"NAPD 1","Chron uses four C14 dates, 3 C14 dates from core 180-2, 11.6k date from core 180-3 for Abies rise.",TRUE,211,-87.51556,44.45,160,1,1
+2355,2274,"Seidel",6415,"Radiocarbon",10440,1365,12930,8420,10250,10630,"NAPD 1","Chron uses four C14 dates, 3 C14 dates from core 180-2, 11.6k date from core 180-3 for Abies rise.",TRUE,211,-87.51556,44.45,190,1,1
+2355,2274,"Seidel",6416,"Radiocarbon",11620,1419.5,12930,8420,11400,11840,"NAPD 1","Chron uses four C14 dates, 3 C14 dates from core 180-2, 11.6k date from core 180-3 for Abies rise.",TRUE,211,-87.51556,44.45,220,1,1

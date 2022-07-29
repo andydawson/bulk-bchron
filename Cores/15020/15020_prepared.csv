@@ -1,0 +1,435 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15020,10028,"Sandy Hill Pond",32181,"Lead-210",-38,4,2420,-50,-39.496755656,-36.503244344,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,1.496755656,0,1
+15020,10028,"Sandy Hill Pond",32182,"Lead-210",-28.8,8,2420,-50,-30.399132524,-27.200867476,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,1.599132524,0,1
+15020,10028,"Sandy Hill Pond",32183,"Lead-210",-20.1,12,2420,-50,-22.202070872,-17.997929128,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,2.102070872,0,1
+15020,10028,"Sandy Hill Pond",32184,"Lead-210",-8.5,16,2420,-50,-10.902485328,-6.097514672,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,2.402485328,0,1
+15020,10028,"Sandy Hill Pond",32185,"Lead-210",13.2,20,2420,-50,7.201653636,19.198346364,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,5.998346364,0,1
+15020,10028,"Sandy Hill Pond",32186,"Lead-210",51.5,24,2420,-50,44.624395604,58.375604396,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,6.875604396,0,1
+15020,10028,"Sandy Hill Pond",32187,"Lead-210",88.6,28,2420,-50,81.356911042,95.843088958,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,7.243088958,0,1
+15020,10028,"Sandy Hill Pond",32188,"Radiocarbon",633,63,2420,-50,561,705,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,72,1,1
+15020,10028,"Sandy Hill Pond",32189,"Radiocarbon",862,71,2420,-50,786,938,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,76,1,1
+15020,10028,"Sandy Hill Pond",32190,"Radiocarbon",932,85,2420,-50,850,1014,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,82,1,1
+15020,10028,"Sandy Hill Pond",32191,"Radiocarbon",1138,101,2420,-50,1062,1214,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,76,1,1
+15020,10028,"Sandy Hill Pond",32192,"Radiocarbon",2014,147,2420,-50,1892,2136,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,122,1,1
+15020,10028,"Sandy Hill Pond",32193,"Core top",-49,0,2420,-50,-50,-48,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,1,0,1
+15020,10028,"Sandy Hill Pond",32194,"European settlement horizon",250,52,2420,-50,200,300,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SANDY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+147 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,16,-70.36595,-70.36219,50,0,0

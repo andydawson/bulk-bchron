@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+849,823,"Hayes Lake",2374,"Core top",0,1,10000,100,-30,30,"COHMAP chron 2","Basal date set by McAndrews, P.C. Age bounds for application of the model: top = 100; bottom = 10000.",TRUE,391,-93.75,49.58333,30,0,1
+849,823,"Hayes Lake",2375,"Biostratigraphic, pollen",100,10,10000,100,50,150,"COHMAP chron 2","Basal date set by McAndrews, P.C. Age bounds for application of the model: top = 100; bottom = 10000.",TRUE,391,-93.75,49.58333,50,0,0
+849,823,"Hayes Lake",2376,"Radiocarbon",4685,215,10000,100,4555,4815,"COHMAP chron 2","Basal date set by McAndrews, P.C. Age bounds for application of the model: top = 100; bottom = 10000.",TRUE,391,-93.75,49.58333,130,1,1
+849,823,"Hayes Lake",2377,"Radiocarbon",6970,415,10000,100,6855,7085,"COHMAP chron 2","Basal date set by McAndrews, P.C. Age bounds for application of the model: top = 100; bottom = 10000.",TRUE,391,-93.75,49.58333,115,1,1
+849,823,"Hayes Lake",2378,"Radiocarbon, reservoir correction",9800,565,10000,100,9500,10100,"COHMAP chron 2","Basal date set by McAndrews, P.C. Age bounds for application of the model: top = 100; bottom = 10000.",TRUE,391,-93.75,49.58333,300,1,1

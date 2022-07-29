@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2045,1973,"Rebel Lake",5824,"Core top",0,0,14430,0,30,500,"PALE Author's preferred",NA,TRUE,914,-149.8,67.41667,235,0,0
+2045,1973,"Rebel Lake",5825,"Biostratigraphic, pollen",7300,125,14430,0,7160,7440,"PALE Author's preferred",NA,TRUE,914,-149.8,67.41667,140,0,0
+2045,1973,"Rebel Lake",5826,"Biostratigraphic, pollen",8000,160,14430,0,7900,8100,"PALE Author's preferred",NA,TRUE,914,-149.8,67.41667,100,0,0
+2045,1973,"Rebel Lake",5827,"Biostratigraphic, pollen",13000,230,14430,0,12800,13200,"PALE Author's preferred",NA,TRUE,914,-149.8,67.41667,200,0,0

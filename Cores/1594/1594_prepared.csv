@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1594,1553,"Lake GB1",3878,"Core top",-40,0,5590,-10,-40,0,"NAPD 1 (radiocarbon years)",NA,TRUE,325,-75.24889,55.11083,20,0,1
+1594,1553,"Lake GB1",3879,"Radiocarbon",1710,24,5590,-10,1620,1800,"NAPD 1 (radiocarbon years)",NA,TRUE,325,-75.24889,55.11083,90,1,1
+1594,1553,"Lake GB1",3880,"Radiocarbon",3230,55,5590,-10,3120,3340,"NAPD 1 (radiocarbon years)",NA,TRUE,325,-75.24889,55.11083,110,1,1
+1594,1553,"Lake GB1",3881,"Radiocarbon",5610,100.5,5590,-10,5450,5770,"NAPD 1 (radiocarbon years)",NA,TRUE,325,-75.24889,55.11083,160,1,1

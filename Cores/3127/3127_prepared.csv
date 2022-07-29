@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+3127,811,"Floating Island Lake",7791,"Biostratigraphic, pollen",8530,1000,9800,8530,8330,8730,"NAPD 2","Based on pollen stratigraphic correlation with Core 1 (FLOATIL1), Chron 2.",TRUE,2609,-107.46667,44.55,200,0,0
+3127,811,"Floating Island Lake",7792,"Biostratigraphic, pollen",9290,1060,9800,8530,9090,9490,"NAPD 2","Based on pollen stratigraphic correlation with Core 1 (FLOATIL1), Chron 2.",TRUE,2609,-107.46667,44.55,200,0,0
+3127,811,"Floating Island Lake",7793,"Biostratigraphic, pollen",9540,1080,9800,8530,9340,9740,"NAPD 2","Based on pollen stratigraphic correlation with Core 1 (FLOATIL1), Chron 2.",TRUE,2609,-107.46667,44.55,200,0,0
+3127,811,"Floating Island Lake",7794,"Biostratigraphic, pollen",9800,1148,9800,8530,9600,10000,"NAPD 2","Based on pollen stratigraphic correlation with Core 1 (FLOATIL1), Chron 2.",TRUE,2609,-107.46667,44.55,200,0,0

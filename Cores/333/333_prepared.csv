@@ -1,0 +1,435 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+333,326,"Camp 12 Lake",79549,"Lead-210",1983,0.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79550,"Lead-210",1978,1.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79551,"Lead-210",1970,2.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79552,"Lead-210",1962,3.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79553,"Lead-210",1955,4.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79554,"Lead-210",1948,5.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79555,"Lead-210",1942,6.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79556,"Lead-210",1936,7.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79557,"Lead-210",1930,8.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79558,"Lead-210",1927,9.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79559,"Lead-210",1913,11.75,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79560,"Lead-210",1907,12.75,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79561,"Lead-210",1894,15.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1
+333,326,"Camp 12 Lake",79562,"Lead-210",1884,17.25,100,-40,NA,NA,"Wang et al","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+Bacon settings file: 
+0.25 #d.min
+39.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Jack Williams.",FALSE,505,-89.38467,-89.37462,18,0,1

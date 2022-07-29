@@ -1,0 +1,249 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16175,10515,"Binnewater Pond",35522,"Core top",-40,0,16830,-50,-50,-30,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BINNEWTR',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1255.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,256,-74.55597,-74.5467,10,0,1
+16175,10515,"Binnewater Pond",35523,"Radiocarbon",8900,1005,16830,-50,8850,8950,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BINNEWTR',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1255.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,256,-74.55597,-74.5467,50,1,1
+16175,10515,"Binnewater Pond",35524,"Radiocarbon",11494,1074,16830,-50,11403,11585,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BINNEWTR',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1255.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,256,-74.55597,-74.5467,91,1,1
+16175,10515,"Binnewater Pond",35525,"Radiocarbon",11654,1086,16830,-50,11571,11737,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BINNEWTR',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1255.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,256,-74.55597,-74.5467,83,1,1
+16175,10515,"Binnewater Pond",35526,"Radiocarbon",12283,1095.5,16830,-50,12200,12366,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BINNEWTR',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1255.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,256,-74.55597,-74.5467,83,1,1
+16175,10515,"Binnewater Pond",35527,"Radiocarbon",12526,1105.5,16830,-50,12432,12620,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BINNEWTR',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1255.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,256,-74.55597,-74.5467,94,1,1
+16175,10515,"Binnewater Pond",35528,"Radiocarbon",13210,1125.5,16830,-50,13120,13300,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BINNEWTR',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1255.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,256,-74.55597,-74.5467,90,1,1
+16175,10515,"Binnewater Pond",35529,"Radiocarbon",22870,1255.5,16830,-50,22780,22960,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BINNEWTR',thick=20,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1255.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,256,-74.55597,-74.5467,90,1,1

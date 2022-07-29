@@ -1,0 +1,13 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+324,317,"Burden Lake",865,"Guess",500,4,8840,1840,450,550,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,50,NA,0
+324,317,"Burden Lake",866,"Radiocarbon",1600,52.5,8840,1840,1460,1740,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,140,1,0
+324,317,"Burden Lake",867,"Radiocarbon",2500,152.5,8840,1840,2360,2640,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,140,1,0
+324,317,"Burden Lake",868,"Radiocarbon",2870,253,8840,1840,2730,3010,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,140,1,0
+324,317,"Burden Lake",869,"Radiocarbon",4000,422.5,8840,1840,3860,4140,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,140,1,0
+324,317,"Burden Lake",870,"Radiocarbon",4630,523,8840,1840,4490,4770,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,140,1,0
+324,317,"Burden Lake",871,"Radiocarbon",4820,582.5,8840,1840,4680,4960,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,140,1,0
+324,317,"Burden Lake",872,"Radiocarbon",5510,652.5,8840,1840,5350,5670,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,160,1,0
+324,317,"Burden Lake",873,"Radiocarbon",6700,753,8840,1840,6540,6860,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,160,1,0
+324,317,"Burden Lake",874,"Radiocarbon",7340,822.5,8840,1840,7180,7500,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,160,1,0
+324,317,"Burden Lake",875,"Radiocarbon",8250,942.5,8840,1840,8070,8430,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,180,1,0
+324,317,"Burden Lake",876,"Radiocarbon",8730,983,8840,1840,8550,8910,"NAPD 1","Chron uses 11 C14 dates and guess for top based on lack of a European cultural horizon.",TRUE,192,-73.5711,-73.55241,180,1,0

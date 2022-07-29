@@ -1,0 +1,1521 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15855,10399,"Sheep Mountain Bog",106296,"Core top",-27,0,13890,-30,-28,-26,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,1,0,1
+15855,10399,"Sheep Mountain Bog",106297,"Radiocarbon",3910,597.5,13890,-30,3850,3970,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,60,1,1
+15855,10399,"Sheep Mountain Bog",106298,"Radiocarbon",4150,658,13890,-30,4030,4270,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,120,1,1
+15855,10399,"Sheep Mountain Bog",106299,"Radiocarbon",4640,685.95,13890,-30,4580,4700,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,60,1,1
+15855,10399,"Sheep Mountain Bog",106301,"Radiocarbon",4740,723.95,13890,-30,4645,4835,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,95,1,1
+15855,10399,"Sheep Mountain Bog",106308,"Tephra",7627,771,13890,-30,7477,7777,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,150,0,1
+15855,10399,"Sheep Mountain Bog",106310,"Biostratigraphic, pollen",11740,938,13890,-30,11440,12040,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,300,0,0
+15855,10399,"Sheep Mountain Bog",106305,"Radiocarbon",980,195,13890,-30,835,1125,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,145,1,1
+15855,10399,"Sheep Mountain Bog",106300,"Historical fire",450,137,13890,-30,448,452,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,2,1,1
+15855,10399,"Sheep Mountain Bog",106302,"Historical fire",116,73,13890,-30,114,118,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,2,1,1
+15855,10399,"Sheep Mountain Bog",106303,"Radiocarbon",3015,387.5,13890,-30,2955,3075,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,60,1,1
+15855,10399,"Sheep Mountain Bog",106304,"Radiocarbon",2360,290,13890,-30,2295,2425,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,65,1,1
+15855,10399,"Sheep Mountain Bog",106307,"Radiocarbon",500,152,13890,-30,390,610,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,110,1,1
+15855,10399,"Sheep Mountain Bog",106306,"Historical fire",31,51,13890,-30,29,33,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,2,1,1
+15855,10399,"Sheep Mountain Bog",106309,"Radiocarbon",3550,497.5,13890,-30,3495,3605,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,55,1,1
+15855,10399,"Sheep Mountain Bog",106311,"Historical fire",193,85,13890,-30,191,195,"SKOPE","OxCal P_Sequence model based on IntCal20 calibration curve. 
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""SHEEPMTN"",1,0.1,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=1110.5;
+   };
+   C_Date(""Biostratigraphic pollen"",11740,300)
+   {
+    z=938;
+   };
+   C_Date(""Mazama tephra"",7627,150)
+   {
+    z=771;
+   };
+   R_Date(""Radiocarbon"",4740,95)
+   {
+    z=723.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4640,60)
+   {
+    z=685.95;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",4150,120)
+   {
+    z=658;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3910,60)
+   {
+    z=597.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3550,55)
+   {
+    z=497.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",3015,60)
+   {
+    z=387.5;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",2360,65)
+   {
+    z=290;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",980,145)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   R_Date(""Radiocarbon"",500,110)
+   {
+    z=152;
+    Outlier(0.05);
+   };
+   C_Date(""Historical fire"",450,2)
+   {
+    z=137;
+   };
+   C_Date(""Historical fire"",193,2)
+   {
+    z=85;
+   };
+   C_Date(""Historical fire"",116,2)
+   {
+    z=73;
+   };
+   C_Date(""Historical fire"",31,2)
+   {
+    z=51;
+   };
+   Boundary(""Top"", C_Date(-27,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,1920,-113.79265,-113.79119,2,1,1

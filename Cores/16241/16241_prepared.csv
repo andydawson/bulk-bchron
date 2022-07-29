@@ -1,0 +1,311 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16241,10539,"Upper Capsule Lake",35832,"Core top",-47,0,11800,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,32,0,1
+16241,10539,"Upper Capsule Lake",35833,"Radiocarbon",1670,75.5,11800,-50,1620,1720,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,50,1,1
+16241,10539,"Upper Capsule Lake",35834,"Radiocarbon",650,100.5,11800,-50,570,730,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,80,1,1
+16241,10539,"Upper Capsule Lake",35835,"Radiocarbon",3705,156,11800,-50,3638,3772,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,67,1,1
+16241,10539,"Upper Capsule Lake",35836,"Radiocarbon",1070,207.5,11800,-50,1020,1120,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,50,1,1
+16241,10539,"Upper Capsule Lake",35837,"Radiocarbon",6610,230.5,11800,-50,6550,6670,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,60,1,1
+16241,10539,"Upper Capsule Lake",35838,"Radiocarbon",8200,250.5,11800,-50,8150,8250,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,50,1,1
+16241,10539,"Upper Capsule Lake",35839,"Radiocarbon",8220,260.5,11800,-50,8170,8270,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,50,1,1
+16241,10539,"Upper Capsule Lake",35840,"Radiocarbon",9957,310.5,11800,-50,9925,9989,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,32,1,1
+16241,10539,"Upper Capsule Lake",35841,"Radiocarbon",9790,325.5,11800,-50,9740,9840,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERCAP',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+325.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,805,-149.42149,-149.41236,50,1,1

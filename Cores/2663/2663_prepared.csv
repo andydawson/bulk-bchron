@@ -1,0 +1,18 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2663,2570,"Lake Tulane",7148,"Core top",-34,2267,51980,-40,-34,-34,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,32,0,1
+2663,2570,"Lake Tulane",7149,"Radiocarbon",1670,2380,51980,-40,1610,1730,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,60,1,1
+2663,2570,"Lake Tulane",7150,"Radiocarbon",3440,2498,51980,-40,3360,3520,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,80,1,1
+2663,2570,"Lake Tulane",7151,"Radiocarbon",4650,2597,51980,-40,4580,4720,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,70,1,1
+2663,2570,"Lake Tulane",7152,"Radiocarbon",7330,2697,51980,-40,7240,7420,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,90,1,1
+2663,2570,"Lake Tulane",7153,"Radiocarbon",9810,2803,51980,-40,9720,9900,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,90,1,1
+2663,2570,"Lake Tulane",7154,"Radiocarbon",10940,2897,51980,-40,10820,11060,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,120,1,1
+2663,2570,"Lake Tulane",7155,"Radiocarbon",13730,3057,51980,-40,13600,13860,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,130,1,1
+2663,2570,"Lake Tulane",7156,"Radiocarbon",17170,3157,51980,-40,16960,17380,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,210,1,1
+2663,2570,"Lake Tulane",7157,"Radiocarbon",20380,3257,51980,-40,20150,20610,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,230,1,1
+2663,2570,"Lake Tulane",7158,"Radiocarbon",24240,3357,51980,-40,23840,24640,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,400,1,1
+2663,2570,"Lake Tulane",7159,"Radiocarbon",26120,3457,51980,-40,25680,26560,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,440,1,1
+2663,2570,"Lake Tulane",7160,"Radiocarbon",32300,3522,51980,-40,31850,32750,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,450,1,1
+2663,2570,"Lake Tulane",7161,"Radiocarbon",35700,3602,51980,-40,35050,36350,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,650,1,1
+2663,2570,"Lake Tulane",7162,"Radiocarbon",35600,3667,51980,-40,35200,36000,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,400,1,1
+2663,2570,"Lake Tulane",7163,"Radiocarbon",39600,3881,51980,-40,39100,40100,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,500,1,1
+2663,2570,"Lake Tulane",7164,"Radiocarbon",46000,3997,51980,-40,45500,46500,"Grimm et al. 1993","This chron used by Grimm et al. (1993)",TRUE,32,-81.50634,-81.50045,500,1,1

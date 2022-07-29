@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+844,818,"Forest Lake",2349,"Core top",-27,0,12050,-30,0,-27,"NAPD 1","Chron uses top and two tephra dates. Mazama ash at 6850±150 years B.P. and Glacier Peak ash at 11200±250 years B.P.",TRUE,1895,-112.16583,46.45167,13.5,0,1
+844,818,"Forest Lake",2350,"Tephra",6850,80.5,12050,-30,6700,7000,"NAPD 1","Chron uses top and two tephra dates. Mazama ash at 6850±150 years B.P. and Glacier Peak ash at 11200±250 years B.P.",TRUE,1895,-112.16583,46.45167,150,0,1
+844,818,"Forest Lake",2351,"Tephra",11200,147,12050,-30,11150,11450,"NAPD 1","Chron uses top and two tephra dates. Mazama ash at 6850±150 years B.P. and Glacier Peak ash at 11200±250 years B.P.",TRUE,1895,-112.16583,46.45167,150,0,1

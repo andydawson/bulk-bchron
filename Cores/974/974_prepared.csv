@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+974,944,"Grand Rapids",2670,"Core top",0,0,7000,300,-50,50,"COHMAP chron 1","3 C-14 dates, no herb rise at top. Age bounds for application of the model: top = 300; bottom = 7000.",TRUE,350,-98.25,53,50,0,1
+974,944,"Grand Rapids",2671,"Radiocarbon",4035,65,7000,300,3940,4130,"COHMAP chron 1","3 C-14 dates, no herb rise at top. Age bounds for application of the model: top = 300; bottom = 7000.",TRUE,350,-98.25,53,95,1,1
+974,944,"Grand Rapids",2672,"Radiocarbon",6150,135,7000,300,6040,6260,"COHMAP chron 1","3 C-14 dates, no herb rise at top. Age bounds for application of the model: top = 300; bottom = 7000.",TRUE,350,-98.25,53,110,1,1
+974,944,"Grand Rapids",2673,"Radiocarbon",7220,205,7000,300,7100,7340,"COHMAP chron 1","3 C-14 dates, no herb rise at top. Age bounds for application of the model: top = 300; bottom = 7000.",TRUE,350,-98.25,53,120,1,1

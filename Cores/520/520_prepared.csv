@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+520,507,"Crawford Lake",1554,"Annual laminations (varves)",-19,1,1500,0,-21,-17,"COHMAP chron 1","Varved sediment lake. Varved dates from 1970 AD. Age bounds for application of the model: top = 0; bottom = 1500.",FALSE,278,-79.94957,-79.94787,2,0,1
+520,507,"Crawford Lake",1555,"Annual laminations (varves)",0,20,1500,0,-5,5,"COHMAP chron 1","Varved sediment lake. Varved dates from 1970 AD. Age bounds for application of the model: top = 0; bottom = 1500.",FALSE,278,-79.94957,-79.94787,5,0,1
+520,507,"Crawford Lake",1556,"Annual laminations (varves)",1738,1758,1500,0,1698,1778,"COHMAP chron 1","Varved sediment lake. Varved dates from 1970 AD. Age bounds for application of the model: top = 0; bottom = 1500.",FALSE,278,-79.94957,-79.94787,40,0,1

@@ -1,0 +1,737 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+42559,24187,"Whitebark Moraine Pond",87218,"Lead-210",-60.6,0,7880,-10,-61.6,-59.6,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,1,0,1
+42559,24187,"Whitebark Moraine Pond",87219,"Lead-210",-59.7,0.25,7880,-10,-60.7,-58.7,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,1,0,1
+42559,24187,"Whitebark Moraine Pond",87220,"Lead-210",-58.3,1,7880,-10,-59.3,-57.3,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,1,0,1
+42559,24187,"Whitebark Moraine Pond",87221,"Lead-210",-55.3,1.5,7880,-10,-56.3,-54.3,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,1,0,1
+42559,24187,"Whitebark Moraine Pond",87222,"Lead-210",-52.1,2,7880,-10,-53.1,-51.1,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,1,0,1
+42559,24187,"Whitebark Moraine Pond",87223,"Lead-210",-47.8,2.5,7880,-10,-48.8,-46.8,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,1,0,1
+42559,24187,"Whitebark Moraine Pond",87224,"Lead-210",-44,3,7880,-10,-45,-43,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,1,0,1
+42559,24187,"Whitebark Moraine Pond",87225,"Lead-210",-40,3.5,7880,-10,-41,-39,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,1,0,1
+42559,24187,"Whitebark Moraine Pond",87226,"Lead-210",-36,4,7880,-10,-38,-34,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,2,0,1
+42559,24187,"Whitebark Moraine Pond",87227,"Lead-210",-33,4.5,7880,-10,-35,-31,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,2,0,1
+42559,24187,"Whitebark Moraine Pond",87228,"Lead-210",-28,5,7880,-10,-30,-26,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,2,0,1
+42559,24187,"Whitebark Moraine Pond",87229,"Lead-210",-21,6,7880,-10,-25,-17,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,4,0,1
+42559,24187,"Whitebark Moraine Pond",87230,"Lead-210",-11,8,7880,-10,-22,0,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,11,0,1
+42559,24187,"Whitebark Moraine Pond",87231,"Lead-210",7,12,7880,-10,-5,19,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,12,0,1
+42559,24187,"Whitebark Moraine Pond",87232,"Lead-210",22,14,7880,-10,-1,45,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,23,0,1
+42559,24187,"Whitebark Moraine Pond",87233,"Lead-210",37,16,7880,-10,-2,76,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,39,0,1
+42559,24187,"Whitebark Moraine Pond",87234,"Lead-210",77,20,7880,-10,-43,197,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,120,0,1
+42559,24187,"Whitebark Moraine Pond",87235,"Radiocarbon",555,25.75,7880,-10,540,570,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,15,1,1
+42559,24187,"Whitebark Moraine Pond",87236,"Radiocarbon",1185,35.75,7880,-10,1170,1200,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,15,1,1
+42559,24187,"Whitebark Moraine Pond",87237,"Radiocarbon",4675,108.25,7880,-10,4655,4695,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,20,1,1
+42559,24187,"Whitebark Moraine Pond",87238,"Radiocarbon",5685,128.75,7880,-10,5665,5705,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,20,1,1
+42559,24187,"Whitebark Moraine Pond",87239,"Tephra",7627,156.25,7880,-10,7477,7777,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,150,0,1
+42559,24187,"Whitebark Moraine Pond",87240,"Radiocarbon",6960,160.25,7880,-10,6940,6980,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""WHITBARK"",thick=2,acc.mean=50,d.max=163,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+163 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2801,-110.7949,-110.79355,20,1,1

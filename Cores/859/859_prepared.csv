@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+859,832,"Gardiner's Hole",2440,"Core top",0,0,13850,0,-30,30,"NAPD 1","Chron uses 1 radiocarbon date near base, Mazama ash (6850±150 BP), and surface (0 BP).",TRUE,2215,-110.73333,44.91667,30,0,1
+859,832,"Gardiner's Hole",2441,"Tephra",6850,212,13850,0,6700,7000,"NAPD 1","Chron uses 1 radiocarbon date near base, Mazama ash (6850±150 BP), and surface (0 BP).",TRUE,2215,-110.73333,44.91667,150,0,1
+859,832,"Gardiner's Hole",2442,"Radiocarbon",13530,410.5,13850,0,13270,13790,"NAPD 1","Chron uses 1 radiocarbon date near base, Mazama ash (6850±150 BP), and surface (0 BP).",TRUE,2215,-110.73333,44.91667,260,1,1

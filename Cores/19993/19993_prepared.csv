@@ -1,0 +1,187 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+19993,13375,"Cooley Lake",105062,"Radiocarbon",1590,95.25,7900,-700,1540,1640,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+2 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1515,-117.64692,-117.64347,50,1,1
+19993,13375,"Cooley Lake",105063,"Radiocarbon",2530,171.5,7900,-700,2485,2575,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+2 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1515,-117.64692,-117.64347,45,1,1
+19993,13375,"Cooley Lake",105064,"Radiocarbon",3010,199.5,7900,-700,2950,3070,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+2 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1515,-117.64692,-117.64347,60,1,1
+19993,13375,"Cooley Lake",105065,"Radiocarbon",5195,326.5,7900,-700,5155,5235,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+2 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1515,-117.64692,-117.64347,40,1,1
+19993,13375,"Cooley Lake",105066,"Tephra",7627,377,7900,-700,7477,7777,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+2 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1515,-117.64692,-117.64347,150,0,1
+19993,13375,"Cooley Lake",105067,"Tephra",468,50.9,7900,-700,467,469,"Wang et al. 2019","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America. Scientific Data 6: 176.
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Claire Rubbelke.
+
+Bacon settings file:
+2 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1515,-117.64692,-117.64347,1,0,1

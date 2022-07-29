@@ -1,0 +1,609 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20616,13628,"Bison Lake",78180,"Lead-210",89.2,21,12900,-60,74.25,104.15,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,14.95,0,1
+20616,13628,"Bison Lake",78181,"Radiocarbon",765,58,12900,-60,730,800,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,35,1,1
+20616,13628,"Bison Lake",78182,"Radiocarbon",1545,82,12900,-60,1530,1560,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,15,1,1
+20616,13628,"Bison Lake",78183,"Radiocarbon",3960,172,12900,-60,3940,3980,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,20,1,1
+20616,13628,"Bison Lake",78184,"Radiocarbon",5465,210,12900,-60,5445,5485,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,20,1,1
+20616,13628,"Bison Lake",78185,"Radiocarbon",10760,372,12900,-60,10720,10800,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,40,1,1
+20616,13628,"Bison Lake",78186,"Lead-210",-59.1,1,12900,-60,-60.82,-57.38,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,1.72,0,1
+20616,13628,"Bison Lake",78187,"Lead-210",-50,3,12900,-60,-52.03,-47.97,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,2.03,0,1
+20616,13628,"Bison Lake",78188,"Lead-210",-39.4,5,12900,-60,-41.72,-37.08,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,2.32,0,1
+20616,13628,"Bison Lake",78189,"Lead-210",-29.3,7,12900,-60,-31.42,-27.18,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,2.12,0,1
+20616,13628,"Bison Lake",78190,"Lead-210",-17.3,9,12900,-60,-19.91,-14.69,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,2.61,0,1
+20616,13628,"Bison Lake",78191,"Lead-210",-10.3,10,12900,-60,-13.42,-7.18,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,3.12,0,1
+20616,13628,"Bison Lake",78192,"Lead-210",-2.3,11,12900,-60,-6.16,1.56,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,3.86,0,1
+20616,13628,"Bison Lake",78193,"Lead-210",9.8,13,12900,-60,7.65,11.95,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,2.15,0,1
+20616,13628,"Bison Lake",78194,"Lead-210",17,14,12900,-60,14.51,19.49,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,2.49,0,1
+20616,13628,"Bison Lake",78195,"Lead-210",29.3,15,12900,-60,25.99,32.61,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,3.31,0,1
+20616,13628,"Bison Lake",78196,"Lead-210",38.6,16,12900,-60,34.4,42.8,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,4.2,0,1
+20616,13628,"Bison Lake",78197,"Lead-210",47.5,17,12900,-60,42.19,52.81,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,5.31,0,1
+20616,13628,"Bison Lake",78198,"Lead-210",66.4,19,12900,-60,58.35,74.45,"SKOPE","Based on IntCal13 calibration curve. The mean ages differ little from the Anderson et al. 2015 chronology. The bottommost 14C date at 379 cm on bulk organics, regarded as too old by Anderson et al. (2015), is not used.
+
+Bacon command line:
+Bacon(""BISONCO"",thick=5,acc.mean=35,d.max=378,depths.file=TRUE)
+
+Bacon settings file:
+1 #d.min
+378 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3255,-107.34939,-107.34226,8.05,0,1

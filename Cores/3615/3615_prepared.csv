@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+3615,2265,"Sierra Bacha 1",8344,"Radiocarbon",2585,2585,2590,2580,2415,2755,"Anderson 1995",NA,TRUE,220,-112.57639,29.77083,0,170,1

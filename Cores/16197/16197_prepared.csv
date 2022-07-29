@@ -1,0 +1,249 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16197,10522,"Mountain Lake",35578,"Core top",-49,0,1770,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MOUNTAIN',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+590 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,37,-122.472,-122.46953,32,0,1
+16197,10522,"Mountain Lake",35579,"Biostratigraphic, pollen",60,170,1770,-50,50,70,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MOUNTAIN',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+590 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,37,-122.472,-122.46953,10,0,0
+16197,10522,"Mountain Lake",35580,"Biostratigraphic, pollen",90,175,1770,-50,85,95,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MOUNTAIN',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+590 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,37,-122.472,-122.46953,5,0,0
+16197,10522,"Mountain Lake",35581,"Biostratigraphic, pollen",110,185,1770,-50,105,115,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MOUNTAIN',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+590 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,37,-122.472,-122.46953,5,0,0
+16197,10522,"Mountain Lake",35582,"Biostratigraphic, pollen",150,195,1770,-50,130,170,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MOUNTAIN',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+590 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,37,-122.472,-122.46953,20,0,0
+16197,10522,"Mountain Lake",35583,"Radiocarbon",510,302,1770,-50,440,580,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MOUNTAIN',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+590 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,37,-122.472,-122.46953,70,1,1
+16197,10522,"Mountain Lake",35584,"Radiocarbon",1310,455,1770,-50,1250,1370,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MOUNTAIN',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+590 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,37,-122.472,-122.46953,60,1,1
+16197,10522,"Mountain Lake",35585,"Radiocarbon",1750,590,1770,-50,1680,1820,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MOUNTAIN',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+590 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,37,-122.472,-122.46953,70,1,1

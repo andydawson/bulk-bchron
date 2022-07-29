@@ -1,0 +1,225 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+19323,11928,"TK-2 Lake",38912,"Core top",-45,0,9560,100,-50,-40,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('TK-2',thick=4,acc.mean=25,d.max=198,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,234,-104.94659,-104.94488,5,0,1
+19323,11928,"TK-2 Lake",38913,"Radiocarbon",2480,33,9560,100,2440,2520,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('TK-2',thick=4,acc.mean=25,d.max=198,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,234,-104.94659,-104.94488,40,1,1
+19323,11928,"TK-2 Lake",38914,"Radiocarbon",3870,61,9560,100,3830,3910,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('TK-2',thick=4,acc.mean=25,d.max=198,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,234,-104.94659,-104.94488,40,1,1
+19323,11928,"TK-2 Lake",38915,"Radiocarbon",5670,97,9560,100,5630,5710,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('TK-2',thick=4,acc.mean=25,d.max=198,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,234,-104.94659,-104.94488,40,1,1
+19323,11928,"TK-2 Lake",38916,"Radiocarbon",7370,132,9560,100,7290,7450,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('TK-2',thick=4,acc.mean=25,d.max=198,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,234,-104.94659,-104.94488,80,1,1
+19323,11928,"TK-2 Lake",38917,"Radiocarbon",7740,142,9560,100,7650,7830,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('TK-2',thick=4,acc.mean=25,d.max=198,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,234,-104.94659,-104.94488,90,1,1
+19323,11928,"TK-2 Lake",38918,"Radiocarbon",7780,174,9560,100,7710,7850,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon('TK-2',thick=4,acc.mean=25,d.max=198,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+25 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,234,-104.94659,-104.94488,70,1,1

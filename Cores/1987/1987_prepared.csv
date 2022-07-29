@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1987,1920,"Puyuk Lake",5653,"Core top",-29,0,15930,20,-9,-29,"NAPD 1","Chron uses top and two C14 dates.",TRUE,15,-162.2,63.5,10,0,1
+1987,1920,"Puyuk Lake",5654,"Radiocarbon",7630,140,15930,20,7490,7770,"NAPD 1","Chron uses top and two C14 dates.",TRUE,15,-162.2,63.5,140,1,1
+1987,1920,"Puyuk Lake",5655,"Radiocarbon",15610,332.5,15930,20,15170,16050,"NAPD 1","Chron uses top and two C14 dates.",TRUE,15,-162.2,63.5,440,1,1

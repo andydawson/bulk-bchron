@@ -1,0 +1,417 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+26315,16614,"Florence Lake",103168,"Core top",-54,0,500,-60,-54.5,-53.5,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,0.5,0,1
+26315,16614,"Florence Lake",103169,"Radiocarbon",460,113,500,-60,420,500,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,40,1,1
+26315,16614,"Florence Lake",103170,"Lead-210",-52,2,500,-60,-52.1,-51.9,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,0.100000000000001,0,1
+26315,16614,"Florence Lake",103171,"Lead-210",-48,4,500,-60,-48.5,-47.5,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,0.5,0,1
+26315,16614,"Florence Lake",103172,"Lead-210",-44,6,500,-60,-44.8,-43.2,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,0.799999999999997,0,1
+26315,16614,"Florence Lake",103173,"Lead-210",-38,8,500,-60,-38.9,-37.1,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,0.899999999999999,0,1
+26315,16614,"Florence Lake",103174,"Lead-210",-28,11,500,-60,-46,-10,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,18,0,1
+26315,16614,"Florence Lake",103175,"Lead-210",-15,15,500,-60,-19.5,-10.5,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,4.5,0,1
+26315,16614,"Florence Lake",103176,"Lead-210",0,19,500,-60,-7,7,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,7,0,1
+26315,16614,"Florence Lake",103177,"Lead-210",17,23,500,-60,5,29,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,12,0,1
+26315,16614,"Florence Lake",103178,"Lead-210",35,27,500,-60,14,56,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,21,0,1
+26315,16614,"Florence Lake",103179,"Lead-210",72,33,500,-60,36,108,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,36,0,1
+26315,16614,"Florence Lake",103180,"Lead-210",118,38,500,-60,19,200,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""FLORBC"",thick=2,acc.mean=5,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+113 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,81,-123.5159,-123.51019,90.5,0,1

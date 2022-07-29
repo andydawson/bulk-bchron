@@ -1,0 +1,113 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14631,9869,"Amber Lake",99366,"Core top",-43,0,1080,-40,-44,-42,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+0 #d.min
+181 #d.max
+3.02 5 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+58 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,351,-94.4786,-94.46869,1,0,1
+14631,9869,"Amber Lake",99367,"European settlement horizon",90,58,1080,-40,80,100,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+0 #d.min
+181 #d.max
+3.02 5 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+58 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,351,-94.4786,-94.46869,10,0,0
+14631,9869,"Amber Lake",99368,"Radiocarbon",400,109,1080,-40,350,450,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+0 #d.min
+181 #d.max
+3.02 5 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+58 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,351,-94.4786,-94.46869,50,1,1
+14631,9869,"Amber Lake",99369,"Radiocarbon",970,181,1080,-40,930,1010,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+0 #d.min
+181 #d.max
+3.02 5 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+58 #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,351,-94.4786,-94.46869,40,1,1

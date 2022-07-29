@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1147,1113,"Indian Lake",3182,"Core top",0,200,9660,5110,-50,50,"NAPD 1","Chron uses 3 C14 dates, and top at 200 cm.",TRUE,383,-90.45,50.91667,50,0,1
+1147,1113,"Indian Lake",3183,"Radiocarbon",6560,732.5,9660,5110,6400,6720,"NAPD 1","Chron uses 3 C14 dates, and top at 200 cm.",TRUE,383,-90.45,50.91667,160,1,1
+1147,1113,"Indian Lake",3184,"Radiocarbon",7300,812.5,9660,5110,7140,7460,"NAPD 1","Chron uses 3 C14 dates, and top at 200 cm.",TRUE,383,-90.45,50.91667,160,1,1
+1147,1113,"Indian Lake",3185,"Radiocarbon",9140,885.5,9660,5110,8940,9340,"NAPD 1","Chron uses 3 C14 dates, and top at 200 cm.",TRUE,383,-90.45,50.91667,200,1,1

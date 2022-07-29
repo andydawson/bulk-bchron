@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1789,1732,"Natural Lake",4949,"Core top",-27,0,NA,NA,-27,-7,"NAPD 1","Chron uses top and three C14 dates.",TRUE,170,-95.38611,34.66333,10,0,1
+1789,1732,"Natural Lake",4950,"Radiocarbon",620,5.5,NA,NA,520,720,"NAPD 1","Chron uses top and three C14 dates.",TRUE,170,-95.38611,34.66333,100,1,1
+1789,1732,"Natural Lake",4951,"Radiocarbon",1040,55.5,NA,NA,860,1180,"NAPD 1","Chron uses top and three C14 dates.",TRUE,170,-95.38611,34.66333,160,1,1
+1789,1732,"Natural Lake",4952,"Radiocarbon",2460,105.5,NA,NA,1000,3920,"NAPD 1","Chron uses top and three C14 dates.",TRUE,170,-95.38611,34.66333,1460,1,1

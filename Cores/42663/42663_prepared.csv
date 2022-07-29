@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+42663,24237,"Northwest Gander River",87606,"Radiocarbon",10200,187.5,11720,7390,9960,10440,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('NWGANDR',d.max=230,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+230 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,164,-55.42079,-55.41057,240,1,1
+42663,24237,"Northwest Gander River",87607,"Radiocarbon",8960,162.5,11720,7390,8840,9080,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('NWGANDR',d.max=230,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+230 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,164,-55.42079,-55.41057,120,1,1
+42663,24237,"Northwest Gander River",87608,"Core top",-39,0,11720,7390,-39,-39,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('NWGANDR',d.max=230,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+230 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,164,-55.42079,-55.41057,32,0,1

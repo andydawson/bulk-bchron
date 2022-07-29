@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+258,252,"Bereziuk",531,"Core top",0,0,6520,80,0,0,"NAPD 1","Basal date of 7700±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,205,-76.12028,54.04722,32,0,1
+258,252,"Bereziuk",532,"Radiocarbon",3230,192.5,6520,80,3050,3410,"NAPD 1","Basal date of 7700±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,205,-76.12028,54.04722,180,1,1
+258,252,"Bereziuk",533,"Radiocarbon",4160,317.5,6520,80,4005,4315,"NAPD 1","Basal date of 7700±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,205,-76.12028,54.04722,155,1,1
+258,252,"Bereziuk",534,"Radiocarbon",6630,430,6520,80,6460,6800,"NAPD 1","Basal date of 7700±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,205,-76.12028,54.04722,170,1,1
+258,252,"Bereziuk",535,"Deglaciation",7700,500,6520,80,7200,8200,"NAPD 1","Basal date of 7700±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,205,-76.12028,54.04722,500,0,1

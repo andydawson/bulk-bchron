@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+39355,22655,"Jobs Neck Pond",77349,"Core top",-40,0,-50,-50,-45,-35,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLKPNT',d.max=220,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-70.58828,-70.58,5,0,1
+39355,22655,"Jobs Neck Pond",77350,"European settlement horizon",308,33,-50,-50,306,310,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLKPNT',d.max=220,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-70.58828,-70.58,2,0,0
+39355,22655,"Jobs Neck Pond",77351,"Radiocarbon",1090,82.5,-50,-50,1010,1170,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BLKPNT',d.max=220,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-70.58828,-70.58,80,1,1

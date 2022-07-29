@@ -1,0 +1,11 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2593,2508,"Spruce Pond",6773,"Core top",0,0,12410,120,0,-20,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,10,0,1
+2593,2508,"Spruce Pond",6774,"Radiocarbon",2100,175,12410,120,1960,2240,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,140,1,1
+2593,2508,"Spruce Pond",6775,"Radiocarbon",3540,290,12410,120,3400,3680,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,140,1,1
+2593,2508,"Spruce Pond",6776,"Radiocarbon",5270,380,12410,120,5190,5350,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,80,1,1
+2593,2508,"Spruce Pond",6777,"Radiocarbon",6230,480,12410,120,6110,6350,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,120,1,1
+2593,2508,"Spruce Pond",6778,"Radiocarbon",7860,640,12410,120,7740,7980,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,120,1,1
+2593,2508,"Spruce Pond",6779,"Radiocarbon",9750,785,12410,120,9630,9870,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,120,1,1
+2593,2508,"Spruce Pond",6780,"Radiocarbon",10230,805,12410,120,10110,10350,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,120,1,1
+2593,2508,"Spruce Pond",6781,"Radiocarbon",10720,830,12410,120,10540,10880,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,170,1,1
+2593,2508,"Spruce Pond",6782,"Radiocarbon",12410,850,12410,120,12270,12550,"NAPD 1","Chron uses top, and nine AMS dates.",TRUE,223,-74.18424,-74.18236,140,1,1

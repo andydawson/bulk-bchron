@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1599,1557,"Lake LR1",3906,"Core top",0,0,6690,90,-27,50,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,170,-75.25,58.58333,38.5,0,1
+1599,1557,"Lake LR1",3907,"Radiocarbon",1410,16,6690,90,1210,1610,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,170,-75.25,58.58333,200,1,1
+1599,1557,"Lake LR1",3908,"Radiocarbon",3350,29,6690,90,3110,3590,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,170,-75.25,58.58333,240,1,1
+1599,1557,"Lake LR1",3909,"Radiocarbon",4760,85,6690,90,4540,4980,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,170,-75.25,58.58333,220,1,1
+1599,1557,"Lake LR1",3910,"Radiocarbon",6740,125,6690,90,6340,7140,"Gajewski 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,170,-75.25,58.58333,400,1,1

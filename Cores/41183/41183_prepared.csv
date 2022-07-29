@@ -1,0 +1,577 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+41183,23778,"Goat Lake",81651,"Core top",-54,0,8950,-50,-55,-53,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,1,0,1
+41183,23778,"Goat Lake",81652,"Other absolute dating methods",50,3,8950,-50,45,55,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,5,0,0
+41183,23778,"Goat Lake",81653,"Radiocarbon",1995,34,8950,-50,1960,2030,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81654,"Radiocarbon",245,34,8950,-50,210,280,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81655,"Radiocarbon",2980,37.5,8950,-50,2945,3015,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81656,"Radiocarbon",1300,42.5,8950,-50,1255,1345,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,45,1,1
+41183,23778,"Goat Lake",81657,"Radiocarbon",1250,58.5,8950,-50,1215,1285,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81658,"Radiocarbon",1290,81,8950,-50,1255,1325,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81659,"Radiocarbon",1500,91.5,8950,-50,1465,1535,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81660,"Radiocarbon",2260,108.5,8950,-50,2225,2295,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81661,"Radiocarbon",3090,142.5,8950,-50,3055,3125,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81662,"Radiocarbon",4220,171.5,8950,-50,4185,4255,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81663,"Radiocarbon",4020,191.5,8950,-50,3985,4055,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81664,"Radiocarbon",5085,225.25,8950,-50,5050,5120,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81665,"Radiocarbon",5380,231.5,8950,-50,5350,5410,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,30,1,1
+41183,23778,"Goat Lake",81666,"Radiocarbon",5750,240.5,8950,-50,5715,5785,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81667,"Radiocarbon",6205,263.5,8950,-50,6170,6240,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,35,1,1
+41183,23778,"Goat Lake",81668,"Radiocarbon",7415,273.5,8950,-50,7375,7455,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""GOATLAKE"",thick=5,acc.mean=30,d.max=298,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+298 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+30 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,550,-149.91417,-149.90275,40,1,1

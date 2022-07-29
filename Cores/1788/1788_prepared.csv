@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1788,1731,"Natla Bog",4938,"Tephra",1250,10,10080,860,1200,1300,"NAPD 3","Chron uses one tephra date and six C14 dates (coefs: 866.1, 38.3871).",TRUE,1380,-128.8,63.01667,50,0,1
+1788,1731,"Natla Bog",4939,"Radiocarbon",2980,30,10080,860,2880,3080,"NAPD 3","Chron uses one tephra date and six C14 dates (coefs: 866.1, 38.3871).",TRUE,1380,-128.8,63.01667,100,1,1
+1788,1731,"Natla Bog",4940,"Radiocarbon",5450,90,10080,860,5310,5590,"NAPD 3","Chron uses one tephra date and six C14 dates (coefs: 866.1, 38.3871).",TRUE,1380,-128.8,63.01667,140,1,1
+1788,1731,"Natla Bog",4941,"Radiocarbon",7720,150,10080,860,7540,7900,"NAPD 3","Chron uses one tephra date and six C14 dates (coefs: 866.1, 38.3871).",TRUE,1380,-128.8,63.01667,180,1,1
+1788,1731,"Natla Bog",4942,"Radiocarbon",9400,200,10080,860,9140,9660,"NAPD 3","Chron uses one tephra date and six C14 dates (coefs: 866.1, 38.3871).",TRUE,1380,-128.8,63.01667,260,1,1
+1788,1731,"Natla Bog",4943,"Radiocarbon",8400,220,10080,860,8240,8560,"NAPD 3","Chron uses one tephra date and six C14 dates (coefs: 866.1, 38.3871).",TRUE,1380,-128.8,63.01667,160,1,1
+1788,1731,"Natla Bog",4944,"Radiocarbon",8630,230,10080,860,8310,8950,"NAPD 3","Chron uses one tephra date and six C14 dates (coefs: 866.1, 38.3871).",TRUE,1380,-128.8,63.01667,320,1,1

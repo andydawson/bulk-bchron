@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1667,1615,"Lost P.",4372,"Core top",0,0,13480,20,0,0,"NAPD 1","Chron uses surface, Tsuga decline, and 5 radiocarbon dates.",TRUE,635,-71.25139,44.24694,32,0,1
+1667,1615,"Lost P.",4373,"Radiocarbon",2235,112.5,13480,20,2075,2395,"NAPD 1","Chron uses surface, Tsuga decline, and 5 radiocarbon dates.",TRUE,635,-71.25139,44.24694,160,1,1
+1667,1615,"Lost P.",4374,"Biostratigraphic, pollen",4600,205,13480,20,4800,4400,"NAPD 1","Chron uses surface, Tsuga decline, and 5 radiocarbon dates.",TRUE,635,-71.25139,44.24694,200,0,0
+1667,1615,"Lost P.",4375,"Radiocarbon",8320,362.5,13480,20,8060,8580,"NAPD 1","Chron uses surface, Tsuga decline, and 5 radiocarbon dates.",TRUE,635,-71.25139,44.24694,260,1,1
+1667,1615,"Lost P.",4376,"Radiocarbon",8920,400,13480,20,8600,9240,"NAPD 1","Chron uses surface, Tsuga decline, and 5 radiocarbon dates.",TRUE,635,-71.25139,44.24694,320,1,1
+1667,1615,"Lost P.",4377,"Radiocarbon",10250,454.5,13480,20,9970,10530,"NAPD 1","Chron uses surface, Tsuga decline, and 5 radiocarbon dates.",TRUE,635,-71.25139,44.24694,280,1,1
+1667,1615,"Lost P.",4378,"Radiocarbon",12870,498,13480,20,12130,13610,"NAPD 1","Chron uses surface, Tsuga decline, and 5 radiocarbon dates.",TRUE,635,-71.25139,44.24694,740,1,1

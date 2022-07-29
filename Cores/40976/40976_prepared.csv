@@ -1,0 +1,17 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40976,23680,"Grant's Bog",80423,"Radiocarbon",990,73.5,14000,-66,960,1020,"Lacourse et al. 2019","Age model in Lacourse et al 2019 based on IntCal13 and built on calendar age probability distributions and an age of −63 cal yr BP for
+the top of the core, using 10,000 iterations of a smooth spline in the ‘clam’ package",FALSE,80,-125.1271,49.7887,30,1,1
+40976,23680,"Grant's Bog",80424,"Radiocarbon",2050,159.5,14000,-66,2020,2080,"Lacourse et al. 2019","Age model in Lacourse et al 2019 based on IntCal13 and built on calendar age probability distributions and an age of −63 cal yr BP for
+the top of the core, using 10,000 iterations of a smooth spline in the ‘clam’ package",FALSE,80,-125.1271,49.7887,30,1,1
+40976,23680,"Grant's Bog",80425,"Radiocarbon",4300,231.5,14000,-66,4270,4330,"Lacourse et al. 2019","Age model in Lacourse et al 2019 based on IntCal13 and built on calendar age probability distributions and an age of −63 cal yr BP for
+the top of the core, using 10,000 iterations of a smooth spline in the ‘clam’ package",FALSE,80,-125.1271,49.7887,30,1,1
+40976,23680,"Grant's Bog",80426,"Radiocarbon",6190,353.5,14000,-66,6160,6220,"Lacourse et al. 2019","Age model in Lacourse et al 2019 based on IntCal13 and built on calendar age probability distributions and an age of −63 cal yr BP for
+the top of the core, using 10,000 iterations of a smooth spline in the ‘clam’ package",FALSE,80,-125.1271,49.7887,30,1,1
+40976,23680,"Grant's Bog",80427,"Radiocarbon",8110,491.5,14000,-66,8080,8140,"Lacourse et al. 2019","Age model in Lacourse et al 2019 based on IntCal13 and built on calendar age probability distributions and an age of −63 cal yr BP for
+the top of the core, using 10,000 iterations of a smooth spline in the ‘clam’ package",FALSE,80,-125.1271,49.7887,30,1,1
+40976,23680,"Grant's Bog",80428,"Radiocarbon",8420,626.5,14000,-66,8390,8450,"Lacourse et al. 2019","Age model in Lacourse et al 2019 based on IntCal13 and built on calendar age probability distributions and an age of −63 cal yr BP for
+the top of the core, using 10,000 iterations of a smooth spline in the ‘clam’ package",FALSE,80,-125.1271,49.7887,30,1,1
+40976,23680,"Grant's Bog",80429,"Radiocarbon",10020,695.5,14000,-66,9990,10050,"Lacourse et al. 2019","Age model in Lacourse et al 2019 based on IntCal13 and built on calendar age probability distributions and an age of −63 cal yr BP for
+the top of the core, using 10,000 iterations of a smooth spline in the ‘clam’ package",FALSE,80,-125.1271,49.7887,30,1,1
+40976,23680,"Grant's Bog",80430,"Radiocarbon",11900,741.5,14000,-66,11860,11940,"Lacourse et al. 2019","Age model in Lacourse et al 2019 based on IntCal13 and built on calendar age probability distributions and an age of −63 cal yr BP for
+the top of the core, using 10,000 iterations of a smooth spline in the ‘clam’ package",FALSE,80,-125.1271,49.7887,40,1,1

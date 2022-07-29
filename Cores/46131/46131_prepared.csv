@@ -1,0 +1,373 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+46131,26504,"Sweeton Pond",94896,"Core top",-44,0,1860,-50,-45,-43,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,1,0,1
+46131,26504,"Sweeton Pond",94897,"Radiocarbon",615,165,1860,-50,595,635,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94898,"Radiocarbon",200,184,1860,-50,180,220,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94899,"Radiocarbon",300,184,1860,-50,280,320,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94900,"Radiocarbon",255,208,1860,-50,235,275,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94901,"Radiocarbon",240,232,1860,-50,220,260,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94902,"Radiocarbon",240,233.5,1860,-50,220,260,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94903,"Radiocarbon",870,379,1860,-50,850,890,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94904,"Radiocarbon",1265,492,1860,-50,1245,1285,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94905,"Radiocarbon",1510,617,1860,-50,1490,1530,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,20,1,1
+46131,26504,"Sweeton Pond",94906,"Radiocarbon",1940,787,1860,-50,1880,2000,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,60,1,1
+46131,26504,"Sweeton Pond",94909,"Ambrosia rise",74,99.5,1860,-50,71,77,"Nanavati & Grimm 2019","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon(""SWEETON"",thick=5,acc.mean=2.5,d.max=792,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+792 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+2.5 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-92.22363,-92.22265,3,0,0

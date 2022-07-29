@@ -1,0 +1,12 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+41016,23708,"Umpawaug Pond",80626,"Core top",-56,0,9380,-60,-56,-56,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,32,0,1
+41016,23708,"Umpawaug Pond",80627,"European settlement horizon",306,60.5,9380,-60,306,306,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,50,0,0
+41016,23708,"Umpawaug Pond",80628,"Radiocarbon",1470,151.5,9380,-60,1440,1500,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,30,1,1
+41016,23708,"Umpawaug Pond",80629,"Radiocarbon",1800,190.5,9380,-60,1775,1825,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,25,1,1
+41016,23708,"Umpawaug Pond",80630,"Radiocarbon",2080,249.5,9380,-60,2045,2115,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,35,1,1
+41016,23708,"Umpawaug Pond",80631,"Radiocarbon",3380,499.5,9380,-60,3345,3415,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,35,1,1
+41016,23708,"Umpawaug Pond",80632,"Radiocarbon",3590,520.5,9380,-60,3570,3610,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,20,1,1
+41016,23708,"Umpawaug Pond",80633,"Radiocarbon",4920,720.5,9380,-60,4885,4955,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,35,1,1
+41016,23708,"Umpawaug Pond",80634,"Radiocarbon",6250,900.5,9380,-60,6225,6275,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,25,1,1
+41016,23708,"Umpawaug Pond",80635,"Radiocarbon",6600,951.5,9380,-60,6570,6630,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,30,1,1
+41016,23708,"Umpawaug Pond",80636,"Radiocarbon",8500,1160.5,9380,-60,8460,8540,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,140,-73.451,-73.448,40,1,1

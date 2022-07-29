@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+678,660,"Lac Demain",1843,"Core top",-32,0,10500,-30,-32,0,"NAPD 1",NA,TRUE,745,-118.7,62.05,16,0,1
+678,660,"Lac Demain",1844,"Radiocarbon",2570,47.5,10500,-30,2500,2640,"NAPD 1",NA,TRUE,745,-118.7,62.05,70,1,1
+678,660,"Lac Demain",1845,"Radiocarbon",3380,72.5,10500,-30,3310,3450,"NAPD 1",NA,TRUE,745,-118.7,62.05,70,1,1
+678,660,"Lac Demain",1846,"Radiocarbon",6450,102.5,10500,-30,6360,6540,"NAPD 1",NA,TRUE,745,-118.7,62.05,90,1,1
+678,660,"Lac Demain",1847,"Radiocarbon",7620,123.5,10500,-30,7440,7800,"NAPD 1",NA,TRUE,745,-118.7,62.05,180,1,1
+678,660,"Lac Demain",1848,"Radiocarbon",10500,194.5,10500,-30,10300,10700,"NAPD 1",NA,TRUE,745,-118.7,62.05,200,1,1

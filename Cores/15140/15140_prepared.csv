@@ -1,0 +1,559 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15140,10075,"Mallard Pond",32669,"Core top",-53,878,8270,-50,-54,-52,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,1,0,1
+15140,10075,"Mallard Pond",32670,"Lead-210",-43.8,882,8270,-50,-49.84,-37.76,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,6.04,0,1
+15140,10075,"Mallard Pond",32671,"Lead-210",-22.3,886,8270,-50,-31.08,-13.52,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,8.78,0,1
+15140,10075,"Mallard Pond",32672,"Lead-210",-3.5,890,8270,-50,-17.88,10.88,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,14.38,0,1
+15140,10075,"Mallard Pond",32673,"Lead-210",6.4,892,8270,-50,-12.3,25.1,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,18.7,0,1
+15140,10075,"Mallard Pond",32674,"Lead-210",26.9,894,8270,-50,-7.54,61.34,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,34.44,0,1
+15140,10075,"Mallard Pond",32675,"Lead-210",75.8,896,8270,-50,-70,200,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,135,0,1
+15140,10075,"Mallard Pond",32676,"Radiocarbon",1645,1082,8270,-50,1575,1715,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,70,1,1
+15140,10075,"Mallard Pond",32677,"Radiocarbon",1905,1145,8270,-50,1825,1985,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,80,1,1
+15140,10075,"Mallard Pond",32678,"Radiocarbon",2220,1189,8270,-50,2150,2290,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,70,1,1
+15140,10075,"Mallard Pond",32679,"Radiocarbon",2535,1242,8270,-50,2455,2615,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,80,1,1
+15140,10075,"Mallard Pond",32680,"Radiocarbon",2980,1292,8270,-50,2860,3100,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,120,1,1
+15140,10075,"Mallard Pond",32681,"Radiocarbon",3700,1364,8270,-50,3600,3800,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,100,1,1
+15140,10075,"Mallard Pond",32682,"Radiocarbon",4295,1395,8270,-50,4215,4375,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,80,1,1
+15140,10075,"Mallard Pond",32683,"Radiocarbon",4565,1443,8270,-50,4485,4645,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,80,1,1
+15140,10075,"Mallard Pond",32684,"Radiocarbon",5840,1491,8270,-50,5720,5960,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,120,1,1
+15140,10075,"Mallard Pond",32685,"Radiocarbon",6325,1528.5,8270,-50,6245,6405,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,80,1,1
+15140,10075,"Mallard Pond",32686,"Radiocarbon",7960,1565.5,8270,-50,7880,8040,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MALLARD',thick=5,acc.mean=15,depths.file=TRUE)
+
+Bacon settings file:
+878 #d.min
+1565.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,568,-101.32845,-101.32105,80,1,1

@@ -1,0 +1,449 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+46659,26644,"Rainbow Lake",100423,"Core top",-61,398,18820,-50,-62,-60,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,1,0,1
+46659,26644,"Rainbow Lake",100424,"Radiocarbon",3370,506.5,18820,-50,3350,3390,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,20,1,1
+46659,26644,"Rainbow Lake",100425,"Radiocarbon",4640,561.5,18820,-50,4620,4660,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,20,1,1
+46659,26644,"Rainbow Lake",100426,"Radiocarbon",6410,613.5,18820,-50,6380,6440,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,30,1,1
+46659,26644,"Rainbow Lake",100427,"Radiocarbon",8510,653,18820,-50,8480,8540,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,30,1,1
+46659,26644,"Rainbow Lake",100428,"Radiocarbon",9970,698.5,18820,-50,9935,10005,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,35,1,1
+46659,26644,"Rainbow Lake",100429,"Radiocarbon",10600,721.5,18820,-50,10525,10675,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,75,1,1
+46659,26644,"Rainbow Lake",100430,"Radiocarbon",11350,743.5,18820,-50,11260,11440,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,90,1,1
+46659,26644,"Rainbow Lake",100431,"Radiocarbon",13200,765.5,18820,-50,13145,13255,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,55,1,1
+46659,26644,"Rainbow Lake",100432,"Radiocarbon",13450,804.5,18820,-50,13330,13570,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,120,1,1
+46659,26644,"Rainbow Lake",100433,"Radiocarbon",13700,810.5,18820,-50,13580,13820,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,120,1,1
+46659,26644,"Rainbow Lake",100434,"Radiocarbon",13300,819.5,18820,-50,13190,13410,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,110,1,1
+46659,26644,"Rainbow Lake",100435,"Radiocarbon",14300,850.5,18820,-50,14235,14365,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,65,1,1
+46659,26644,"Rainbow Lake",100436,"Radiocarbon",16100,877.5,18820,-50,16020,16180,"SKOPE","Based on IntCal 13 calibration curve. 
+
+Bacon command line:
+Bacon(""RNBWC"",thick=5,acc.mean=40,acc.shape=2.5,d.max=890.5,depths.file=TRUE)
+
+Bacon settings file:
+398 #d.min
+890.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+40 #acc.mean
+2.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2963,-109.50237,-109.49811,80,1,1

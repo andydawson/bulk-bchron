@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16224,10532,"Sky Pond",35769,"Core top",-48,0,14050,8870,-49,-40,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SKYPOND',depths.file=TRUE)
+
+Bacon settings: 
+90 #d.min
+328.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3320,-105.67115,-105.66719,4.5,0,0
+16224,10532,"Sky Pond",35770,"Interpolated",4000,90,14050,8870,3000,5000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SKYPOND',depths.file=TRUE)
+
+Bacon settings: 
+90 #d.min
+328.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3320,-105.67115,-105.66719,1000,NA,0
+16224,10532,"Sky Pond",35771,"Radiocarbon",6350,165,14050,8870,6280,6420,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SKYPOND',depths.file=TRUE)
+
+Bacon settings: 
+90 #d.min
+328.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3320,-105.67115,-105.66719,70,1,0
+16224,10532,"Sky Pond",35772,"Radiocarbon",7770,207,14050,8870,7680,7860,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SKYPOND',depths.file=TRUE)
+
+Bacon settings: 
+90 #d.min
+328.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3320,-105.67115,-105.66719,90,1,0
+16224,10532,"Sky Pond",35773,"Radiocarbon",9970,258.5,14050,8870,9890,10050,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SKYPOND',depths.file=TRUE)
+
+Bacon settings: 
+90 #d.min
+328.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3320,-105.67115,-105.66719,80,1,0
+16224,10532,"Sky Pond",35774,"Radiocarbon",11070,296,14050,8870,11020,11120,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SKYPOND',depths.file=TRUE)
+
+Bacon settings: 
+90 #d.min
+328.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3320,-105.67115,-105.66719,50,1,0
+16224,10532,"Sky Pond",35775,"Radiocarbon",12040,328.5,14050,8870,11980,12100,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SKYPOND',depths.file=TRUE)
+
+Bacon settings: 
+90 #d.min
+328.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3320,-105.67115,-105.66719,60,1,0

@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2615,2526,"Surprise Lake",6871,"Core top",-23,0,11230,40,2,-23,"NAPD 1","Chron uses top, Mazama ash, and 5 C14 dates.",TRUE,540,-122.56279,-122.56146,12.5,0,1
+2615,2526,"Surprise Lake",6872,"Radiocarbon",1555,60,11230,40,1295,1815,"NAPD 1","Chron uses top, Mazama ash, and 5 C14 dates.",TRUE,540,-122.56279,-122.56146,260,1,1
+2615,2526,"Surprise Lake",6873,"Radiocarbon",4715,135,11230,40,4515,4915,"NAPD 1","Chron uses top, Mazama ash, and 5 C14 dates.",TRUE,540,-122.56279,-122.56146,200,1,1
+2615,2526,"Surprise Lake",6874,"Tephra",6730,245,11230,40,6630,6830,"NAPD 1","Chron uses top, Mazama ash, and 5 C14 dates.",TRUE,540,-122.56279,-122.56146,100,0,1
+2615,2526,"Surprise Lake",6875,"Radiocarbon",8275,310,11230,40,8005,8545,"NAPD 1","Chron uses top, Mazama ash, and 5 C14 dates.",TRUE,540,-122.56279,-122.56146,270,1,1
+2615,2526,"Surprise Lake",6876,"Radiocarbon",10340,460,11230,40,10030,10650,"NAPD 1","Chron uses top, Mazama ash, and 5 C14 dates.",TRUE,540,-122.56279,-122.56146,310,1,1
+2615,2526,"Surprise Lake",6877,"Radiocarbon",11230,517.5,11230,40,10770,11690,"NAPD 1","Chron uses top, Mazama ash, and 5 C14 dates.",TRUE,540,-122.56279,-122.56146,460,1,1

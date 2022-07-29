@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1105,1072,"High Lake",3031,"Core top",0,715,9490,0,0,0,"NAPD 1","Chron uses top and 7 C14 dates. SRR-4946 considered to old.",TRUE,192,-76.6,44.51667,32,0,1
+1105,1072,"High Lake",3032,"Radiocarbon",1485,830,9490,0,1395,1575,"NAPD 1","Chron uses top and 7 C14 dates. SRR-4946 considered to old.",TRUE,192,-76.6,44.51667,90,1,1
+1105,1072,"High Lake",3033,"Radiocarbon",2725,940,9490,0,2635,2815,"NAPD 1","Chron uses top and 7 C14 dates. SRR-4946 considered to old.",TRUE,192,-76.6,44.51667,90,1,1
+1105,1072,"High Lake",3034,"Radiocarbon",4060,1060,9490,0,3970,4150,"NAPD 1","Chron uses top and 7 C14 dates. SRR-4946 considered to old.",TRUE,192,-76.6,44.51667,90,1,1
+1105,1072,"High Lake",3035,"Radiocarbon",5200,1130,9490,0,5100,5300,"NAPD 1","Chron uses top and 7 C14 dates. SRR-4946 considered to old.",TRUE,192,-76.6,44.51667,100,1,1
+1105,1072,"High Lake",3036,"Radiocarbon",6865,1190,9490,0,6765,6965,"NAPD 1","Chron uses top and 7 C14 dates. SRR-4946 considered to old.",TRUE,192,-76.6,44.51667,100,1,1
+1105,1072,"High Lake",3037,"Radiocarbon",8435,1260,9490,0,8335,8535,"NAPD 1","Chron uses top and 7 C14 dates. SRR-4946 considered to old.",TRUE,192,-76.6,44.51667,100,1,1
+1105,1072,"High Lake",3038,"Radiocarbon",9415,1330,9490,0,9315,9515,"NAPD 1","Chron uses top and 7 C14 dates. SRR-4946 considered to old.",TRUE,192,-76.6,44.51667,100,1,1

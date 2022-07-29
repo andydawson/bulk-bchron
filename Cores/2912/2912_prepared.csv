@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2912,2815,"Baie du Diana",7320,"Core top",0,0,6330,250,0,0,"NAPD 1","Basal date of 7500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,50,-69.83278,60.78278,32,0,1
+2912,2815,"Baie du Diana",7321,"Radiocarbon",6460,127.5,6330,250,6300,6620,"NAPD 1","Basal date of 7500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,50,-69.83278,60.78278,160,1,1
+2912,2815,"Baie du Diana",7322,"Deglaciation",7500,200,6330,250,7000,8000,"NAPD 1","Basal date of 7500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,50,-69.83278,60.78278,500,0,1

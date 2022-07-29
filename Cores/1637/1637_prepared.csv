@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1637,1588,"Lily Lake Fen",4131,"Tephra",6850,730.5,12900,6280,6700,7000,"NAPD 1","Chron uses 5 radiocarbon dates plus the Mazama ash (6850 BP).",TRUE,2469,-110.31667,43.76667,150,0,1
+1637,1588,"Lily Lake Fen",4132,"Radiocarbon",10170,910,12900,6280,9970,10370,"NAPD 1","Chron uses 5 radiocarbon dates plus the Mazama ash (6850 BP).",TRUE,2469,-110.31667,43.76667,200,1,1
+1637,1588,"Lily Lake Fen",4133,"Radiocarbon",10770,1009.5,12900,6280,10550,10990,"NAPD 1","Chron uses 5 radiocarbon dates plus the Mazama ash (6850 BP).",TRUE,2469,-110.31667,43.76667,220,1,1
+1637,1588,"Lily Lake Fen",4134,"Radiocarbon",11130,1087,12900,6280,10910,11350,"NAPD 1","Chron uses 5 radiocarbon dates plus the Mazama ash (6850 BP).",TRUE,2469,-110.31667,43.76667,220,1,1
+1637,1588,"Lily Lake Fen",4135,"Radiocarbon",12370,1159.5,12900,6280,12130,12610,"NAPD 1","Chron uses 5 radiocarbon dates plus the Mazama ash (6850 BP).",TRUE,2469,-110.31667,43.76667,240,1,1
+1637,1588,"Lily Lake Fen",4136,"Radiocarbon",16040,1445,12900,6280,15600,16480,"NAPD 1","Chron uses 5 radiocarbon dates plus the Mazama ash (6850 BP).",TRUE,2469,-110.31667,43.76667,440,1,1

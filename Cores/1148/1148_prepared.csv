@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1148,1114,"Indian Prairie Fen",3186,"Core top",0,0,13690,350,-40,40,"Sea and Whitlock 1995","Chron uses surface (0 BP), 5 radiocarbon dates, and the Mazama O tephra.",TRUE,988,-122.575,44.63333,40,0,1
+1148,1114,"Indian Prairie Fen",3187,"Radiocarbon",2880,181,13690,350,2760,3000,"Sea and Whitlock 1995","Chron uses surface (0 BP), 5 radiocarbon dates, and the Mazama O tephra.",TRUE,988,-122.575,44.63333,120,1,1
+1148,1114,"Indian Prairie Fen",3188,"Radiocarbon",4950,235,13690,350,4830,5070,"Sea and Whitlock 1995","Chron uses surface (0 BP), 5 radiocarbon dates, and the Mazama O tephra.",TRUE,988,-122.575,44.63333,120,1,1
+1148,1114,"Indian Prairie Fen",3189,"Tephra",6850,333,13690,350,6700,7000,"Sea and Whitlock 1995","Chron uses surface (0 BP), 5 radiocarbon dates, and the Mazama O tephra.",TRUE,988,-122.575,44.63333,150,0,1
+1148,1114,"Indian Prairie Fen",3190,"Radiocarbon",8770,505,13690,350,8610,8930,"Sea and Whitlock 1995","Chron uses surface (0 BP), 5 radiocarbon dates, and the Mazama O tephra.",TRUE,988,-122.575,44.63333,160,1,1
+1148,1114,"Indian Prairie Fen",3191,"Radiocarbon",9830,595,13690,350,9690,9970,"Sea and Whitlock 1995","Chron uses surface (0 BP), 5 radiocarbon dates, and the Mazama O tephra.",TRUE,988,-122.575,44.63333,140,1,1
+1148,1114,"Indian Prairie Fen",3192,"Radiocarbon",12300,720,13690,350,12080,12520,"Sea and Whitlock 1995","Chron uses surface (0 BP), 5 radiocarbon dates, and the Mazama O tephra.",TRUE,988,-122.575,44.63333,220,1,1

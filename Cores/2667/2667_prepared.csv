@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+2667,2574,"Tunica Bayou Site 22",7172,"Radiocarbon",20615,0,20620,20610,19865,21365,"Jackson 1994","age estimate based on wood date. Entity is a ""snapshot"" exposure.",TRUE,31,-91.51944,30.96278,0,750,1

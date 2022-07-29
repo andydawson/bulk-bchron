@@ -1,0 +1,148 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2638,2548,"Quallen Lake [Terhell Pond]",77290,"Core top",-10,0,4360,70,-15,-5,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(TERHELL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 40)
+
+Bacon settings file:
+0 #d.min
+552.5 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+40 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,448,-95.79,-95.78329,5,0,1
+2638,2548,"Quallen Lake [Terhell Pond]",77291,"Pre-EuroAmerican settlement horizon",79,40,4360,70,29,129,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(TERHELL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 40)
+
+Bacon settings file:
+0 #d.min
+552.5 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+40 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,448,-95.79,-95.78329,50,0,0
+2638,2548,"Quallen Lake [Terhell Pond]",77292,"Radiocarbon",4270,552.5,4360,70,4170,4370,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(TERHELL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 40)
+
+Bacon settings file:
+0 #d.min
+552.5 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+40 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,448,-95.79,-95.78329,100,1,1

@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1831,1772,"Ondris Pond",5145,"Core top",-15,180,1560,-20,-35,5,"COHMAP chron 2","Chron uses a 560 yr carbonate correction for 2 C-14 dates based on Ambrosia rise.",TRUE,363,-94.41014,-94.40586,20,0,1
+1831,1772,"Ondris Pond",5146,"Radiocarbon, reservoir correction",100,210,1560,-20,50,150,"COHMAP chron 2","Chron uses a 560 yr carbonate correction for 2 C-14 dates based on Ambrosia rise.",TRUE,363,-94.41014,-94.40586,50,1,1
+1831,1772,"Ondris Pond",5147,"Radiocarbon, reservoir correction",975,264,1560,-20,915,1035,"COHMAP chron 2","Chron uses a 560 yr carbonate correction for 2 C-14 dates based on Ambrosia rise.",TRUE,363,-94.41014,-94.40586,60,1,1

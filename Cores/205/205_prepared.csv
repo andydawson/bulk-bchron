@@ -1,0 +1,385 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+205,205,"Andrus Lake",102498,"Lead-210",54,16.75,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,18,0,0
+205,205,"Andrus Lake",79543,"Interpolated",38,11.75,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,NA,NA,0
+205,205,"Andrus Lake",79545,"Interpolated",51,15.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,NA,NA,0
+205,205,"Andrus Lake",79547,"Interpolated",58,18.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,NA,NA,0
+205,205,"Andrus Lake",79548,"Interpolated",84,25.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,NA,NA,0
+205,205,"Andrus Lake",102492,"Lead-210",-33,0.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,18,0,0
+205,205,"Andrus Lake",102493,"Interpolated",-22,3.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,NA,NA,0
+205,205,"Andrus Lake",102494,"Lead-210",-5,6.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,18,0,0
+205,205,"Andrus Lake",102495,"Lead-210",28,10.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,18,0,0
+205,205,"Andrus Lake",102496,"Lead-210",32,10.75,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,18,0,0
+205,205,"Andrus Lake",102497,"Lead-210",40,12.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,18,0,0
+205,205,"Andrus Lake",79542,"Interpolated",35,11.25,80,80,NA,NA,"Wang et al.","This chronology is obsolete, as it is based on an incomplete set of the lead-210 dates, which was originally entered with the pollen data. The complete set was entered with the diatom data. [E.C. Grimm, 18 Mar 2020]
+
+Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America
+
+0.25 #d.min
+40.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Chronology prepared by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and David Fastovich.",FALSE,190,-85.04202,-85.03607,NA,NA,0

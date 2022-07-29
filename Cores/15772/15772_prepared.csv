@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15772,10366,"Martens Slough (PL-77-20)",34321,"Radiocarbon",8350,270,14520,1930,8150,8550,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARTENS',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+640 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,511,-106.5224,-106.2402,200,1,1
+15772,10366,"Martens Slough (PL-77-20)",34322,"Radiocarbon",10240,460,14520,1930,9990,10490,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARTENS',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+640 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,511,-106.5224,-106.2402,250,1,1
+15772,10366,"Martens Slough (PL-77-20)",34323,"Radiocarbon",11070,640,14520,1930,10825,11315,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MARTENS',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+640 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,511,-106.5224,-106.2402,245,1,1

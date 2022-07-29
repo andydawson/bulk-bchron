@@ -1,0 +1,249 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20515,13583,"Lake Grinnell",41297,"Radiocarbon",1330,62,11390,-60,1300,1360,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRINNELL',d.max=900,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+900 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,170,-74.6445,-74.63476,30,1,1
+20515,13583,"Lake Grinnell",41298,"Radiocarbon",1430,103,11390,-60,1415,1445,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRINNELL',d.max=900,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+900 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,170,-74.6445,-74.63476,15,1,1
+20515,13583,"Lake Grinnell",41299,"Radiocarbon",3495,240,11390,-60,3480,3510,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRINNELL',d.max=900,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+900 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,170,-74.6445,-74.63476,15,1,1
+20515,13583,"Lake Grinnell",41300,"Radiocarbon",5340,363,11390,-60,5320,5360,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRINNELL',d.max=900,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+900 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,170,-74.6445,-74.63476,20,1,1
+20515,13583,"Lake Grinnell",41301,"Radiocarbon",7625,492,11390,-60,7595,7655,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRINNELL',d.max=900,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+900 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,170,-74.6445,-74.63476,30,1,1
+20515,13583,"Lake Grinnell",41302,"Radiocarbon",9475,583,11390,-60,9455,9495,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRINNELL',d.max=900,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+900 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,170,-74.6445,-74.63476,20,1,1
+20515,13583,"Lake Grinnell",41303,"Radiocarbon",9870,620,11390,-60,9825,9915,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRINNELL',d.max=900,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+900 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,170,-74.6445,-74.63476,45,1,1
+20515,13583,"Lake Grinnell",41304,"Core top",-55,0,11390,-60,-56,-54,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRINNELL',d.max=900,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+900 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,170,-74.6445,-74.63476,1,0,1

@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1854,1793,"Park Pond 2",5240,"Core top",0,0,10330,0,0,0,"NAPD 1","Chron uses surface (0 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates.",TRUE,2714,-109.94083,43.45,32,0,1
+1854,1793,"Park Pond 2",5241,"Radiocarbon",2340,26,10330,0,2220,2460,"NAPD 1","Chron uses surface (0 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates.",TRUE,2714,-109.94083,43.45,120,1,1
+1854,1793,"Park Pond 2",5242,"Radiocarbon",2970,33,10330,0,2850,3090,"NAPD 1","Chron uses surface (0 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates.",TRUE,2714,-109.94083,43.45,120,1,1
+1854,1793,"Park Pond 2",5243,"Radiocarbon",7200,40,10330,0,7060,7340,"NAPD 1","Chron uses surface (0 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates.",TRUE,2714,-109.94083,43.45,140,1,1
+1854,1793,"Park Pond 2",5244,"Radiocarbon",10120,54,10330,0,9760,10480,"NAPD 1","Chron uses surface (0 BP) and 4 radiocarbon dates. Possible hiatuses in sedimentation exist between dates.",TRUE,2714,-109.94083,43.45,360,1,1

@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+381,370,"Lac Ciel Blanc",1234,"Core top",-33,0,10260,-30,-33,0,"NAPD 2","Origin held constant: y = -33 + 41.6423x - 0.0414964x**2",TRUE,651,-122.16667,59.51667,16.5,0,1
+381,370,"Lac Ciel Blanc",1235,"Radiocarbon",4090,98,10260,-30,3990,4190,"NAPD 2","Origin held constant: y = -33 + 41.6423x - 0.0414964x**2",TRUE,651,-122.16667,59.51667,100,1,1
+381,370,"Lac Ciel Blanc",1236,"Radiocarbon",7400,250,10260,-30,7280,7520,"NAPD 2","Origin held constant: y = -33 + 41.6423x - 0.0414964x**2",TRUE,651,-122.16667,59.51667,120,1,1
+381,370,"Lac Ciel Blanc",1237,"Radiocarbon",8750,300,10260,-30,8630,8870,"NAPD 2","Origin held constant: y = -33 + 41.6423x - 0.0414964x**2",TRUE,651,-122.16667,59.51667,120,1,1
+381,370,"Lac Ciel Blanc",1238,"Radiocarbon",9350,348,10260,-30,9200,9500,"NAPD 2","Origin held constant: y = -33 + 41.6423x - 0.0414964x**2",TRUE,651,-122.16667,59.51667,150,1,1
+381,370,"Lac Ciel Blanc",1239,"Radiocarbon",9910,371.5,10260,-30,9790,10030,"NAPD 2","Origin held constant: y = -33 + 41.6423x - 0.0414964x**2",TRUE,651,-122.16667,59.51667,120,1,1

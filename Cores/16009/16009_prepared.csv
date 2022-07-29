@@ -1,0 +1,187 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16009,10461,"Pigeon Marsh",35124,"Radiocarbon",19520,101.5,23600,-10,19310,19730,"Neotoma 1","Based on IntCal13 calibration curve. Due to the sharp change in accumulation rate at the Ambrosia rise, a 2-year hiatus was introduced into the Bacon age model to force the memory to zero, and different acc.mean priors were set above and below the Ambrosia rise. The Holocene ages have dubious reliability as there may be significant hiatuses in the record. Note the very large 95.4% HPD limits for the modeled ages.
+
+Bacon command line: Bacon('PIGEON',thick=2,acc.mean=c(6,320),hiatus.depths=33.75,hiatus.mean=2,d.max=102.5,depths.file=TRUE)
+
+Bacon settings file:
+10 #d.min
+102.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+6 320 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+33.75 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,660,-85.40174,-85.4009,210,1,1
+16009,10461,"Pigeon Marsh",35125,"Radiocarbon",10820,77.5,23600,-10,10655,10985,"Neotoma 1","Based on IntCal13 calibration curve. Due to the sharp change in accumulation rate at the Ambrosia rise, a 2-year hiatus was introduced into the Bacon age model to force the memory to zero, and different acc.mean priors were set above and below the Ambrosia rise. The Holocene ages have dubious reliability as there may be significant hiatuses in the record. Note the very large 95.4% HPD limits for the modeled ages.
+
+Bacon command line: Bacon('PIGEON',thick=2,acc.mean=c(6,320),hiatus.depths=33.75,hiatus.mean=2,d.max=102.5,depths.file=TRUE)
+
+Bacon settings file:
+10 #d.min
+102.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+6 320 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+33.75 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,660,-85.40174,-85.4009,165,1,1
+16009,10461,"Pigeon Marsh",35126,"Ambrosia rise",120,33.75,23600,-10,100,140,"Neotoma 1","Based on IntCal13 calibration curve. Due to the sharp change in accumulation rate at the Ambrosia rise, a 2-year hiatus was introduced into the Bacon age model to force the memory to zero, and different acc.mean priors were set above and below the Ambrosia rise. The Holocene ages have dubious reliability as there may be significant hiatuses in the record. Note the very large 95.4% HPD limits for the modeled ages.
+
+Bacon command line: Bacon('PIGEON',thick=2,acc.mean=c(6,320),hiatus.depths=33.75,hiatus.mean=2,d.max=102.5,depths.file=TRUE)
+
+Bacon settings file:
+10 #d.min
+102.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+6 320 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+33.75 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,660,-85.40174,-85.4009,20,0,0
+16009,10461,"Pigeon Marsh",35127,"Biostratigraphic, pollen",11500,62.5,23600,-10,11250,11750,"Neotoma 1","Based on IntCal13 calibration curve. Due to the sharp change in accumulation rate at the Ambrosia rise, a 2-year hiatus was introduced into the Bacon age model to force the memory to zero, and different acc.mean priors were set above and below the Ambrosia rise. The Holocene ages have dubious reliability as there may be significant hiatuses in the record. Note the very large 95.4% HPD limits for the modeled ages.
+
+Bacon command line: Bacon('PIGEON',thick=2,acc.mean=c(6,320),hiatus.depths=33.75,hiatus.mean=2,d.max=102.5,depths.file=TRUE)
+
+Bacon settings file:
+10 #d.min
+102.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+6 320 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+33.75 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,660,-85.40174,-85.4009,250,0,0
+16009,10461,"Pigeon Marsh",35128,"Biostratigraphic, pollen",15000,82.5,23600,-10,14750,15250,"Neotoma 1","Based on IntCal13 calibration curve. Due to the sharp change in accumulation rate at the Ambrosia rise, a 2-year hiatus was introduced into the Bacon age model to force the memory to zero, and different acc.mean priors were set above and below the Ambrosia rise. The Holocene ages have dubious reliability as there may be significant hiatuses in the record. Note the very large 95.4% HPD limits for the modeled ages.
+
+Bacon command line: Bacon('PIGEON',thick=2,acc.mean=c(6,320),hiatus.depths=33.75,hiatus.mean=2,d.max=102.5,depths.file=TRUE)
+
+Bacon settings file:
+10 #d.min
+102.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+6 320 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+33.75 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,660,-85.40174,-85.4009,250,0,0
+16009,10461,"Pigeon Marsh",35129,"Core top",-20,10,23600,-10,-22,-18,"Neotoma 1","Based on IntCal13 calibration curve. Due to the sharp change in accumulation rate at the Ambrosia rise, a 2-year hiatus was introduced into the Bacon age model to force the memory to zero, and different acc.mean priors were set above and below the Ambrosia rise. The Holocene ages have dubious reliability as there may be significant hiatuses in the record. Note the very large 95.4% HPD limits for the modeled ages.
+
+Bacon command line: Bacon('PIGEON',thick=2,acc.mean=c(6,320),hiatus.depths=33.75,hiatus.mean=2,d.max=102.5,depths.file=TRUE)
+
+Bacon settings file:
+10 #d.min
+102.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+6 320 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+33.75 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,660,-85.40174,-85.4009,2,0,1

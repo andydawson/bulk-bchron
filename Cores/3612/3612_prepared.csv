@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+3612,2260,"San Agustin Plains",8340,"Core top",0,0,12660,0,-30,30,"Markgraf et al. 1984","Chron uses top plus one radiocarbon date.",TRUE,2069,-108.25,33.86667,30,0,1
+3612,2260,"San Agustin Plains",8341,"Radiocarbon",8735,92.5,12660,0,8215,9255,"Markgraf et al. 1984","Chron uses top plus one radiocarbon date.",TRUE,2069,-108.25,33.86667,520,1,1

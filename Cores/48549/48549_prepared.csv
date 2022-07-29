@@ -1,0 +1,129 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+48549,27205,"Wawona Meadow",105539,"Core top",-33,0,670,-30,-34,-32,"SKOPE","Based on IntCal13 calibration curve. Hiatus introduced at 130 cm for accommodate apparent kink in accumulation rate.
+
+Bacon command line:
+Bacon(""WAWONA"",thick=5,acc.mean=c(2,10),hiatus.mean=2,hiatus.depths=130,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 10 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+130 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1275,-119.65438,-119.6364,1,0,1
+48549,27205,"Wawona Meadow",105540,"Isotopic excursion",-13,8,670,-30,-16,-10,"SKOPE","Based on IntCal13 calibration curve. Hiatus introduced at 130 cm for accommodate apparent kink in accumulation rate.
+
+Bacon command line:
+Bacon(""WAWONA"",thick=5,acc.mean=c(2,10),hiatus.mean=2,hiatus.depths=130,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 10 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+130 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1275,-119.65438,-119.6364,3,0,0
+48549,27205,"Wawona Meadow",105541,"Radiocarbon",230,130,670,-30,205,255,"SKOPE","Based on IntCal13 calibration curve. Hiatus introduced at 130 cm for accommodate apparent kink in accumulation rate.
+
+Bacon command line:
+Bacon(""WAWONA"",thick=5,acc.mean=c(2,10),hiatus.mean=2,hiatus.depths=130,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 10 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+130 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1275,-119.65438,-119.6364,25,1,1
+48549,27205,"Wawona Meadow",105542,"Radiocarbon",830,198,670,-30,810,850,"SKOPE","Based on IntCal13 calibration curve. Hiatus introduced at 130 cm for accommodate apparent kink in accumulation rate.
+
+Bacon command line:
+Bacon(""WAWONA"",thick=5,acc.mean=c(2,10),hiatus.mean=2,hiatus.depths=130,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+198 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 10 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+130 #hiatus.depths
+2 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1275,-119.65438,-119.6364,20,1,1

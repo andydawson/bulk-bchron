@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1541,1503,"Kollioksak",3638,"Core top",0,0,15100,1690,-35,500,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,213,-156.45,66.96667,267.5,0,1
+1541,1503,"Kollioksak",3639,"Radiocarbon",2540,30,15100,1690,2480,2600,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,213,-156.45,66.96667,60,1,1
+1541,1503,"Kollioksak",3640,"Radiocarbon",6620,280,15100,1690,6530,6710,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,213,-156.45,66.96667,90,1,1
+1541,1503,"Kollioksak",3641,"Radiocarbon",9350,405,15100,1690,9260,9440,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,213,-156.45,66.96667,90,1,1
+1541,1503,"Kollioksak",3642,"Radiocarbon",14140,445,15100,1690,13700,14580,"NAPD 1","Chron uses 4 radiocarbon dates plus sediment surface (0 BP).",TRUE,213,-156.45,66.96667,440,1,1

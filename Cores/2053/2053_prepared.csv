@@ -1,0 +1,393 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2053,1979,"Reidel Lake",77863,"Core top",0,382,11110,10,-5,5,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(REIDEL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 496)
+
+Bacon settings file:
+382 #d.min
+1962 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+496 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-95.28417,46.21194,5,0,1
+2053,1979,"Reidel Lake",77864,"Pre-EuroAmerican settlement horizon",79,496,11110,10,29,129,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(REIDEL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 496)
+
+Bacon settings file:
+382 #d.min
+1962 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+496 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-95.28417,46.21194,50,0,0
+2053,1979,"Reidel Lake",77865,"Radiocarbon, reservoir correction",1680,655,11110,10,1540,1820,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(REIDEL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 496)
+
+Bacon settings file:
+382 #d.min
+1962 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+496 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-95.28417,46.21194,140,1,1
+2053,1979,"Reidel Lake",77866,"Radiocarbon, reservoir correction",3310,900,11110,10,3150,3470,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(REIDEL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 496)
+
+Bacon settings file:
+382 #d.min
+1962 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+496 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-95.28417,46.21194,160,1,1
+2053,1979,"Reidel Lake",77867,"Radiocarbon, reservoir correction",5440,1165,11110,10,5280,5600,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(REIDEL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 496)
+
+Bacon settings file:
+382 #d.min
+1962 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+496 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-95.28417,46.21194,160,1,1
+2053,1979,"Reidel Lake",77868,"Radiocarbon, reservoir correction",8360,1494,11110,10,8180,8540,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(REIDEL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 496)
+
+Bacon settings file:
+382 #d.min
+1962 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+496 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-95.28417,46.21194,180,1,1
+2053,1979,"Reidel Lake",77869,"Radiocarbon, reservoir correction",10290,1622,11110,10,10070,10510,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(REIDEL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 496)
+
+Bacon settings file:
+382 #d.min
+1962 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+496 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-95.28417,46.21194,220,1,1
+2053,1979,"Reidel Lake",77870,"Radiocarbon, reservoir correction",11130,1962,11110,10,10890,11370,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(REIDEL, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 20,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 496)
+
+Bacon settings file:
+382 #d.min
+1962 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+496 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,443,-95.28417,46.21194,240,1,1

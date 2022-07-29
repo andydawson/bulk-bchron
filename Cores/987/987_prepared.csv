@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+987,957,"Grey Islands",2738,"Core top",-37,0,NA,NA,-37,-37,"NAPD 1","cal years",FALSE,104,-55.51667,50.76889,32,0,1
+987,957,"Grey Islands",2739,"Radiocarbon, calibrated",660,41.5,NA,NA,557,729,"NAPD 1","cal years",FALSE,104,-55.51667,50.76889,86,0,1
+987,957,"Grey Islands",2740,"Radiocarbon, calibrated",2812,104.5,NA,NA,2498,2997,"NAPD 1","cal years",FALSE,104,-55.51667,50.76889,249.5,0,1
+987,957,"Grey Islands",2741,"Radiocarbon, calibrated",4912,212.5,NA,NA,4586,5282,"NAPD 1","cal years",FALSE,104,-55.51667,50.76889,348,0,1
+987,957,"Grey Islands",2742,"Radiocarbon, calibrated",8118,407.5,NA,NA,7844,8386,"NAPD 1","cal years",FALSE,104,-55.51667,50.76889,271,0,1
+987,957,"Grey Islands",2743,"Radiocarbon, calibrated",9952,607.5,NA,NA,9501,10476,"NAPD 1","cal years",FALSE,104,-55.51667,50.76889,487.5,0,1
+987,957,"Grey Islands",2744,"Radiocarbon, calibrated",11350,707,NA,NA,10700,12099,"NAPD 1","cal years",FALSE,104,-55.51667,50.76889,699.5,0,1

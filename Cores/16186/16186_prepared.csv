@@ -1,0 +1,225 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+16186,10520,"China Camp",81394,"Core top",-49,0,3750,-10,-50,-48,"Neotoma 1","Based on IntCal13 calibratoin curve.
+
+Bacon command lline:
+Bacon(""CHINACMP"",thick=10,acc.mean=10,d.max=475,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.49639,-122.49028,1,0,1
+16186,10520,"China Camp",81395,"Radiocarbon",405,54.5,3750,-10,365,445,"Neotoma 1","Based on IntCal13 calibratoin curve.
+
+Bacon command lline:
+Bacon(""CHINACMP"",thick=10,acc.mean=10,d.max=475,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.49639,-122.49028,40,1,1
+16186,10520,"China Camp",81396,"Radiocarbon",915,153.5,3750,-10,875,955,"Neotoma 1","Based on IntCal13 calibratoin curve.
+
+Bacon command lline:
+Bacon(""CHINACMP"",thick=10,acc.mean=10,d.max=475,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.49639,-122.49028,40,1,1
+16186,10520,"China Camp",81397,"Radiocarbon",930,182.5,3750,-10,890,970,"Neotoma 1","Based on IntCal13 calibratoin curve.
+
+Bacon command lline:
+Bacon(""CHINACMP"",thick=10,acc.mean=10,d.max=475,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.49639,-122.49028,40,1,1
+16186,10520,"China Camp",81398,"Radiocarbon",2540,368.5,3750,-10,2500,2580,"Neotoma 1","Based on IntCal13 calibratoin curve.
+
+Bacon command lline:
+Bacon(""CHINACMP"",thick=10,acc.mean=10,d.max=475,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.49639,-122.49028,40,1,1
+16186,10520,"China Camp",81399,"Radiocarbon",3330,450.5,3750,-10,3290,3370,"Neotoma 1","Based on IntCal13 calibratoin curve.
+
+Bacon command lline:
+Bacon(""CHINACMP"",thick=10,acc.mean=10,d.max=475,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.49639,-122.49028,40,1,1
+16186,10520,"China Camp",81400,"Radiocarbon",3430,470.5,3750,-10,3370,3490,"Neotoma 1","Based on IntCal13 calibratoin curve.
+
+Bacon command lline:
+Bacon(""CHINACMP"",thick=10,acc.mean=10,d.max=475,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+475 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,0,-122.49639,-122.49028,60,1,1

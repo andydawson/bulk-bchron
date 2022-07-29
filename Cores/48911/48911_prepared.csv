@@ -1,0 +1,24 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+48911,27316,"Etang Fer-de-Lance",106913,"Lead-210",-66,3,2320,-70,-67,-65,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,1,0,1
+48911,27316,"Etang Fer-de-Lance",106923,"Lead-210",30,36,2320,-70,13,47,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,17,0,1
+48911,27316,"Etang Fer-de-Lance",106915,"Lead-210",-60,5,2320,-70,-62,-58,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,2,0,1
+48911,27316,"Etang Fer-de-Lance",106925,"Radiocarbon",273,61,2320,-70,236,310,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,37,1,1
+48911,27316,"Etang Fer-de-Lance",106930,"Radiocarbon",1916,151,2320,-70,1832,2000,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,84,1,1
+48911,27316,"Etang Fer-de-Lance",106914,"Core top",-68,0,2320,-70,-68,-68,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,32,0,1
+48911,27316,"Etang Fer-de-Lance",106924,"Lead-210",70,41,2320,-70,50,90,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,20,0,1
+48911,27316,"Etang Fer-de-Lance",106934,"Radiocarbon",2216,241,2320,-70,2176,2256,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,40,1,1
+48911,27316,"Etang Fer-de-Lance",106917,"Lead-210",-54,9,2320,-70,-58,-50,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,4,0,1
+48911,27316,"Etang Fer-de-Lance",106931,"Radiocarbon",2087,169,2320,-70,2026,2148,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,61,1,1
+48911,27316,"Etang Fer-de-Lance",106918,"Lead-210",-40,16,2320,-70,-48,-32,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,8,0,1
+48911,27316,"Etang Fer-de-Lance",106928,"Radiocarbon",1836,111,2320,-70,1751,1921,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,85,1,1
+48911,27316,"Etang Fer-de-Lance",106935,"Radiocarbon",2223,247,2320,-70,2181,2265,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,42,1,1
+48911,27316,"Etang Fer-de-Lance",106916,"Lead-210",-57,7,2320,-70,-60,-54,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,3,0,1
+48911,27316,"Etang Fer-de-Lance",106933,"Radiocarbon",2504,227,2320,-70,2423,2585,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,81,1,1
+48911,27316,"Etang Fer-de-Lance",106919,"Lead-210",-17,26,2320,-70,-29,-5,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,12,0,1
+48911,27316,"Etang Fer-de-Lance",106929,"Radiocarbon",1130,127,2320,-70,1111,1149,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,19,1,1
+48911,27316,"Etang Fer-de-Lance",106920,"Lead-210",-31,21,2320,-70,-41,-21,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,10,0,1
+48911,27316,"Etang Fer-de-Lance",106927,"Radiocarbon",1111,96,2320,-70,1041,1181,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,70,1,1
+48911,27316,"Etang Fer-de-Lance",106921,"Lead-210",-50,11,2320,-70,-55,-45,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,5,0,1
+48911,27316,"Etang Fer-de-Lance",106932,"Radiocarbon",1773,202,2320,-70,1723,1823,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,50,1,1
+48911,27316,"Etang Fer-de-Lance",106922,"Lead-210",1,31,2320,-70,-14,16,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,15,0,1
+48911,27316,"Etang Fer-de-Lance",106926,"Radiocarbon",529,77,2320,-70,491,567,"Author's age model",NA,FALSE,288,-72.22857,-72.22857,38,1,1

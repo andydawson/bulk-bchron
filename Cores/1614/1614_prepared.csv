@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1614,1568,"Langdale Pond",3957,"Core top",0,480,8190,0,-36,36,"NAPD 1","Top of sequence (480 cm) set at 0 BP. European settlement set at 520 cm based on Ambrosia and Secale.",TRUE,58,-83.195,30.64167,36,0,1
+1614,1568,"Langdale Pond",3958,"Biostratigraphic, pollen",100,520,8190,0,50,150,"NAPD 1","Top of sequence (480 cm) set at 0 BP. European settlement set at 520 cm based on Ambrosia and Secale.",TRUE,58,-83.195,30.64167,50,0,0
+1614,1568,"Langdale Pond",3959,"Radiocarbon",7890,763.5,8190,0,7730,8050,"NAPD 1","Top of sequence (480 cm) set at 0 BP. European settlement set at 520 cm based on Ambrosia and Secale.",TRUE,58,-83.195,30.64167,160,1,1

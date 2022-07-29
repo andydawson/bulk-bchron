@@ -1,0 +1,187 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+17326,11574,"Oil Lake",37074,"Radiocarbon",5210,18,26520,-40,5150,5270,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OILLAKE',d.max=490,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+490 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,745,-151.19194,-151.14167,60,1,1
+17326,11574,"Oil Lake",37075,"Radiocarbon",10660,38,26520,-40,10540,10780,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OILLAKE',d.max=490,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+490 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,745,-151.19194,-151.14167,120,1,1
+17326,11574,"Oil Lake",37076,"Radiocarbon",13250,62,26520,-40,13090,13410,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OILLAKE',d.max=490,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+490 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,745,-151.19194,-151.14167,160,1,1
+17326,11574,"Oil Lake",37077,"Radiocarbon",25870,121,26520,-40,25470,26270,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OILLAKE',d.max=490,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+490 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,745,-151.19194,-151.14167,400,1,1
+17326,11574,"Oil Lake",37078,"Radiocarbon",31700,175,26520,-40,30920,32480,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OILLAKE',d.max=490,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+490 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,745,-151.19194,-151.14167,780,1,1
+17326,11574,"Oil Lake",37079,"Radiocarbon",21360,354,26520,-40,21000,21720,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('OILLAKE',d.max=490,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+490 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,745,-151.19194,-151.14167,360,1,1

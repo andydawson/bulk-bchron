@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1835,1776,"Opabin Lake",5163,"Core top",0,0,8630,280,-35,35,"NAPD 1","Chron uses top (0 BP), 1 AMS date, and 2 tephra dates (Bridge River and Mazama). See Reasoner and Hickman (1989).",TRUE,2280,-116.3125,51.34306,35,0,1
+1835,1776,"Opabin Lake",5164,"Tephra",2350,41.5,8630,280,2300,2400,"NAPD 1","Chron uses top (0 BP), 1 AMS date, and 2 tephra dates (Bridge River and Mazama). See Reasoner and Hickman (1989).",TRUE,2280,-116.3125,51.34306,50,0,1
+1835,1776,"Opabin Lake",5165,"Tephra",6850,81.75,8630,280,6700,7000,"NAPD 1","Chron uses top (0 BP), 1 AMS date, and 2 tephra dates (Bridge River and Mazama). See Reasoner and Hickman (1989).",TRUE,2280,-116.3125,51.34306,150,0,1
+1835,1776,"Opabin Lake",5166,"Radiocarbon",8530,99,8630,280,8150,8910,"NAPD 1","Chron uses top (0 BP), 1 AMS date, and 2 tephra dates (Bridge River and Mazama). See Reasoner and Hickman (1989).",TRUE,2280,-116.3125,51.34306,380,1,1

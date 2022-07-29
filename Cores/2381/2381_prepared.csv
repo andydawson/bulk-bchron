@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2381,2299,"Sherd Lake",6558,"Core top",0,80,13380,0,-20,100,"NAPD 1","Fit a second degree polynomial with surface date held constant. Coefs: 0.0, 11.991, 0.0180941.",TRUE,2665,-107.01325,-107.01149,60,0,1
+2381,2299,"Sherd Lake",6559,"Radiocarbon",9060,530,13380,0,8530,9590,"NAPD 1","Fit a second degree polynomial with surface date held constant. Coefs: 0.0, 11.991, 0.0180941.",TRUE,2665,-107.01325,-107.01149,530,1,1
+2381,2299,"Sherd Lake",6560,"Radiocarbon",12910,656,13380,0,12110,13710,"NAPD 1","Fit a second degree polynomial with surface date held constant. Coefs: 0.0, 11.991, 0.0180941.",TRUE,2665,-107.01325,-107.01149,800,1,1

@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1523,1485,"Kirk Lake",3622,"Core top",0,0,11860,0,20,0,"NAPD 1","Chron uses top, Mazama ash (6730 yrs BP), and 5 C14 dates with extrapolation to bottom.",TRUE,190,-121.61667,48.23333,10,0,1
+1523,1485,"Kirk Lake",3623,"Tephra",6730,773,11860,0,6630,6830,"NAPD 1","Chron uses top, Mazama ash (6730 yrs BP), and 5 C14 dates with extrapolation to bottom.",TRUE,190,-121.61667,48.23333,100,0,1
+1523,1485,"Kirk Lake",3624,"Radiocarbon",8600,867.5,11860,0,8520,8680,"NAPD 1","Chron uses top, Mazama ash (6730 yrs BP), and 5 C14 dates with extrapolation to bottom.",TRUE,190,-121.61667,48.23333,80,1,1
+1523,1485,"Kirk Lake",3625,"Radiocarbon",9580,962.5,11860,0,9460,9700,"NAPD 1","Chron uses top, Mazama ash (6730 yrs BP), and 5 C14 dates with extrapolation to bottom.",TRUE,190,-121.61667,48.23333,120,1,1
+1523,1485,"Kirk Lake",3626,"Radiocarbon",10510,1062.5,11860,0,10390,10630,"NAPD 1","Chron uses top, Mazama ash (6730 yrs BP), and 5 C14 dates with extrapolation to bottom.",TRUE,190,-121.61667,48.23333,120,1,1
+1523,1485,"Kirk Lake",3627,"Radiocarbon",11180,1107.5,11860,0,11260,11300,"NAPD 1","Chron uses top, Mazama ash (6730 yrs BP), and 5 C14 dates with extrapolation to bottom.",TRUE,190,-121.61667,48.23333,20,1,1
+1523,1485,"Kirk Lake",3628,"Radiocarbon",11500,1127.5,11860,0,11180,11820,"NAPD 1","Chron uses top, Mazama ash (6730 yrs BP), and 5 C14 dates with extrapolation to bottom.",TRUE,190,-121.61667,48.23333,320,1,1

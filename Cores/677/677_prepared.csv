@@ -1,0 +1,85 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+677,659,"Delorme 2",79654,"Radiocarbon",1570,17.5,6500,0,1470,1670,"Wang et al.","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America.
+
+5 #d.min
+260 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+
+Thickness of core tops and settlement depths prescribed by data steward.
+
+Chronology developed by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and Angelina Perrotti.",FALSE,538,-69.92972,54.42361,100,1,1
+677,659,"Delorme 2",79655,"Radiocarbon",3080,77.5,6500,0,2930,3230,"Wang et al.","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America.
+
+5 #d.min
+260 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+
+Thickness of core tops and settlement depths prescribed by data steward.
+
+Chronology developed by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and Angelina Perrotti.",FALSE,538,-69.92972,54.42361,150,1,1
+677,659,"Delorme 2",79656,"Radiocarbon",4760,137.5,6500,0,4640,4880,"Wang et al.","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America.
+
+5 #d.min
+260 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+
+Thickness of core tops and settlement depths prescribed by data steward.
+
+Chronology developed by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and Angelina Perrotti.",FALSE,538,-69.92972,54.42361,120,1,1
+677,659,"Delorme 2",79657,"Radiocarbon",5170,197.5,6500,0,5040,5300,"Wang et al.","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America.
+
+5 #d.min
+260 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+
+Thickness of core tops and settlement depths prescribed by data steward.
+
+Chronology developed by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and Angelina Perrotti.",FALSE,538,-69.92972,54.42361,130,1,1
+677,659,"Delorme 2",79658,"Radiocarbon",6320,254.5,6500,0,6140,6500,"Wang et al.","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America.
+
+5 #d.min
+260 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+
+Thickness of core tops and settlement depths prescribed by data steward.
+
+Chronology developed by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and Angelina Perrotti.",FALSE,538,-69.92972,54.42361,180,1,1
+677,659,"Delorme 2",79659,"Core top",0,0,6500,0,-1,1,"Wang et al.","Wang, Y., Goring, S. & McGuire, J.L.  Bayesian ages for pollen records since the last glaciation in North America.
+
+5 #d.min
+260 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+
+Thickness of core tops and settlement depths prescribed by data steward.
+
+Chronology developed by Yue Wang and Simon Goring. Data entered and uploaded by Allison Stegner and Angelina Perrotti.",FALSE,538,-69.92972,54.42361,1,0,1

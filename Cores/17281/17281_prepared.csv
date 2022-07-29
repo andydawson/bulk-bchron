@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+17281,11557,"Lovesick Lake",36918,"Core top",-50,0,8700,-50,NA,NA,"Neotoma 1","Chron1 is based on a top (coring) date and six interpolated dates provided by the author.",FALSE,NA,-78.24444,-78.20515,32,0,0
+17281,11557,"Lovesick Lake",36919,"Interpolated",100,5,8700,-50,NA,NA,"Neotoma 1","Chron1 is based on a top (coring) date and six interpolated dates provided by the author.",FALSE,NA,-78.24444,-78.20515,NA,NA,0
+17281,11557,"Lovesick Lake",36920,"Interpolated",3800,150,8700,-50,NA,NA,"Neotoma 1","Chron1 is based on a top (coring) date and six interpolated dates provided by the author.",FALSE,NA,-78.24444,-78.20515,NA,NA,0
+17281,11557,"Lovesick Lake",36921,"Interpolated",4800,190,8700,-50,NA,NA,"Neotoma 1","Chron1 is based on a top (coring) date and six interpolated dates provided by the author.",FALSE,NA,-78.24444,-78.20515,NA,NA,0
+17281,11557,"Lovesick Lake",36922,"Interpolated",8000,210,8700,-50,NA,NA,"Neotoma 1","Chron1 is based on a top (coring) date and six interpolated dates provided by the author.",FALSE,NA,-78.24444,-78.20515,NA,NA,0
+17281,11557,"Lovesick Lake",36923,"Interpolated",8200,215,8700,-50,NA,NA,"Neotoma 1","Chron1 is based on a top (coring) date and six interpolated dates provided by the author.",FALSE,NA,-78.24444,-78.20515,NA,NA,0
+17281,11557,"Lovesick Lake",36924,"Interpolated",8700,225,8700,-50,NA,NA,"Neotoma 1","Chron1 is based on a top (coring) date and six interpolated dates provided by the author.",FALSE,NA,-78.24444,-78.20515,NA,NA,0

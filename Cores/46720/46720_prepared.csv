@@ -1,0 +1,16 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+46720,26673,"Minnesota Point",101559,"Lead-210",-63,0.5,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101560,"Lead-210",-50,4,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101561,"Lead-210",-45,6,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101562,"Lead-210",-30,7.5,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101563,"Lead-210",-14,9,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101564,"Lead-210",-4,11,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101565,"Lead-210",20,13,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101566,"Lead-210",65,14.5,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101567,"Lead-210",126,17,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101568,"Lead-210",202,18.5,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101569,"Lead-210",269,20.5,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101570,"Lead-210",402,24.5,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101571,"Lead-210",568,29,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101572,"Lead-210",768,36,770,-70,NA,NA,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,18,0,1
+46720,26673,"Minnesota Point",101573,"Core top",-64,0,770,-70,-64,-64,"Neotoma 1",NA,FALSE,184,-92.07358,-92.0565,32,0,1

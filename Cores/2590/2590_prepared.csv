@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2590,2506,"Spring Lake",6750,"Core top",-28,0,11220,-10,-28,-28,"NAPD 1 (radiocarbon years)","C14 years",TRUE,835,-119.58333,55.51139,32,0,1
+2590,2506,"Spring Lake",6751,"Radiocarbon",2400,92.5,11220,-10,2200,2600,"NAPD 1 (radiocarbon years)","C14 years",TRUE,835,-119.58333,55.51139,200,1,1
+2590,2506,"Spring Lake",6752,"Radiocarbon",5700,207,11220,-10,5430,5970,"NAPD 1 (radiocarbon years)","C14 years",TRUE,835,-119.58333,55.51139,270,1,1
+2590,2506,"Spring Lake",6753,"Radiocarbon",10800,377,11220,-10,10620,10980,"NAPD 1 (radiocarbon years)","C14 years",TRUE,835,-119.58333,55.51139,180,1,1
+2590,2506,"Spring Lake",6754,"Radiocarbon",11200,438,11220,-10,10800,11600,"NAPD 1 (radiocarbon years)","C14 years",TRUE,835,-119.58333,55.51139,400,1,1

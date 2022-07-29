@@ -1,0 +1,10 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2311,2232,"Ruppert Lake",6159,"Core top",0,0,12990,660,-28,500,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,264,0,1
+2311,2232,"Ruppert Lake",6160,"Radiocarbon",1840,28,12990,660,1730,1950,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,110,1,1
+2311,2232,"Ruppert Lake",6161,"Radiocarbon",3710,83,12990,660,3590,3830,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,120,1,1
+2311,2232,"Ruppert Lake",6162,"Radiocarbon",5110,102.5,12990,660,5060,5160,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,50,1,1
+2311,2232,"Ruppert Lake",6163,"Radiocarbon",7280,165,12990,660,7130,7430,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,150,1,1
+2311,2232,"Ruppert Lake",6164,"Radiocarbon",7950,185,12990,660,7830,8070,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,120,1,1
+2311,2232,"Ruppert Lake",6165,"Radiocarbon",10370,279,12990,660,10260,10480,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,110,1,1
+2311,2232,"Ruppert Lake",6166,"Radiocarbon",12500,367.5,12990,660,12420,12580,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,80,1,1
+2311,2232,"Ruppert Lake",6167,"Radiocarbon",13230,452.5,12990,660,13140,13320,"NAPD 2","Chron uses 8 radiocarbon dates plus sediment surface. One inverted date rejected.",TRUE,210,-154.23333,67.06667,90,1,1

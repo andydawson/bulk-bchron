@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+41612,23942,"Dead Spruce Lake",84281,"Core top",-48,0,9970,-50,-49,-47,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DEADSPR',d.max=130,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+130 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1378,-124.564,-124.535,1,0,1
+41612,23942,"Dead Spruce Lake",84282,"Radiocarbon",3200,42.5,9970,-50,3140,3260,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DEADSPR',d.max=130,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+130 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1378,-124.564,-124.535,60,1,1
+41612,23942,"Dead Spruce Lake",84283,"Radiocarbon",8550,101.5,9970,-50,8530,8570,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DEADSPR',d.max=130,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+130 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1378,-124.564,-124.535,20,1,1

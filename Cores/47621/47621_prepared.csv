@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+47621,27029,"Pearson's Pond",103161,"Radiocarbon",1545,110,3400,-30,1375,1715,"Adam 1975",NA,TRUE,365,-122.257,-122.25613,170,1,1
+47621,27029,"Pearson's Pond",103162,"Radiocarbon",2190,129,3400,-30,2020,2360,"Adam 1975",NA,TRUE,365,-122.257,-122.25613,170,1,1
+47621,27029,"Pearson's Pond",103163,"Radiocarbon",3040,186,3400,-30,2850,3230,"Adam 1975",NA,TRUE,365,-122.257,-122.25613,190,1,1

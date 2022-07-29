@@ -1,0 +1,31 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+24608,15962,"Rondeau Bay (R34)",55156,"Radiocarbon",2180,86,2180,60,2080,2280,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROND34',d.max=90,depths.file=TRUE)
+
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,172,-81.87638,-81.86153,100,1,0

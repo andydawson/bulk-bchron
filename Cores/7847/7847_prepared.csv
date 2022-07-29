@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+7847,6490,"Roberts Creek RCBS",5962,"Radiocarbon",6207,15,6313,6101,6101,6313,"NAPD 1",NA,FALSE,308,-91.50028,42.98611,0,106,1

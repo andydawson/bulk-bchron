@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1626,1579,"Lac à Léonard",4025,"Core top",0,0,8680,490,0,0,"NAPD 1","14C dates not corrected for fractionation. See Labelle & Richard (1984).",TRUE,17,-65.81278,49.20778,32,0,1
+1626,1579,"Lac à Léonard",4026,"Radiocarbon",3190,95,8680,490,3130,3250,"NAPD 1","14C dates not corrected for fractionation. See Labelle & Richard (1984).",TRUE,17,-65.81278,49.20778,60,1,1
+1626,1579,"Lac à Léonard",4027,"Radiocarbon",4920,192.5,8680,490,4860,4980,"NAPD 1","14C dates not corrected for fractionation. See Labelle & Richard (1984).",TRUE,17,-65.81278,49.20778,60,1,1
+1626,1579,"Lac à Léonard",4028,"Radiocarbon",7210,395,8680,490,7100,7320,"NAPD 1","14C dates not corrected for fractionation. See Labelle & Richard (1984).",TRUE,17,-65.81278,49.20778,110,1,1
+1626,1579,"Lac à Léonard",4029,"Radiocarbon",7910,445,8680,490,7790,8030,"NAPD 1","14C dates not corrected for fractionation. See Labelle & Richard (1984).",TRUE,17,-65.81278,49.20778,120,1,1
+1626,1579,"Lac à Léonard",4030,"Radiocarbon",9040,492.5,8680,490,8900,9180,"NAPD 1","14C dates not corrected for fractionation. See Labelle & Richard (1984).",TRUE,17,-65.81278,49.20778,140,1,1

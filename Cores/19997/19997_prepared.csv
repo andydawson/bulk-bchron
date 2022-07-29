@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+19997,459,"Wentworth Lake",39966,"Core top",-40,0,14000,-40,NA,NA,"Gavin & Bruabker 2015",NA,FALSE,58,-124.53462,-124.52677,32,0,1
+19997,459,"Wentworth Lake",39967,"Radiocarbon",3285,91,14000,-40,3220,3350,"Gavin & Bruabker 2015",NA,FALSE,58,-124.53462,-124.52677,65,1,1
+19997,459,"Wentworth Lake",39968,"Radiocarbon",6210,185.5,14000,-40,6090,6330,"Gavin & Bruabker 2015",NA,FALSE,58,-124.53462,-124.52677,120,1,1
+19997,459,"Wentworth Lake",39969,"Tephra",7627,206.25,14000,-40,7477,7777,"Gavin & Bruabker 2015",NA,FALSE,58,-124.53462,-124.52677,150,0,1
+19997,459,"Wentworth Lake",39970,"Radiocarbon",8540,283,14000,-40,8420,8660,"Gavin & Bruabker 2015",NA,FALSE,58,-124.53462,-124.52677,120,1,1
+19997,459,"Wentworth Lake",39971,"Radiocarbon",10980,444.5,14000,-40,10820,11140,"Gavin & Bruabker 2015",NA,FALSE,58,-124.53462,-124.52677,160,1,1
+19997,459,"Wentworth Lake",39972,"Radiocarbon",11985,515,14000,-40,11845,12125,"Gavin & Bruabker 2015",NA,FALSE,58,-124.53462,-124.52677,140,1,1

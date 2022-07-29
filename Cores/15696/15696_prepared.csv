@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15696,10326,"Catahoula Lake (core CLR3)",104235,"Radiocarbon",2450,220.5,4700,-70,2410,2490,"Wang et al. 2019",NA,FALSE,12,-92.21169,-92.05135,40,1,1
+15696,10326,"Catahoula Lake (core CLR3)",104236,"Radiocarbon",2520,227.5,4700,-70,2480,2560,"Wang et al. 2019",NA,FALSE,12,-92.21169,-92.05135,40,1,1
+15696,10326,"Catahoula Lake (core CLR3)",104237,"Radiocarbon",2550,229.5,4700,-70,2510,2590,"Wang et al. 2019",NA,FALSE,12,-92.21169,-92.05135,40,1,1
+15696,10326,"Catahoula Lake (core CLR3)",104238,"Radiocarbon",3570,299,4700,-70,3530,3610,"Wang et al. 2019",NA,FALSE,12,-92.21169,-92.05135,40,1,1
+15696,10326,"Catahoula Lake (core CLR3)",104239,"Core top",-54,0,4700,-70,-56,-52,"Wang et al. 2019",NA,FALSE,12,-92.21169,-92.05135,2,0,1

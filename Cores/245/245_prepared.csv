@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+245,242,"Bear Bog",422,"Core top",-40,0,10000,3560,-40,0,"NAPD 1","Chron uses surface (-40 BP), 2 radiocarbon dates, and time of proglacial lake formation (10000 BP) (see Gordon and McAndrews 1992).",TRUE,304,-80.16,47.18,20,0,1
+245,242,"Bear Bog",423,"Radiocarbon",5500,307.5,10000,3560,5260,5740,"NAPD 1","Chron uses surface (-40 BP), 2 radiocarbon dates, and time of proglacial lake formation (10000 BP) (see Gordon and McAndrews 1992).",TRUE,304,-80.16,47.18,240,1,1
+245,242,"Bear Bog",424,"Radiocarbon",8720,427.5,10000,3560,8360,9080,"NAPD 1","Chron uses surface (-40 BP), 2 radiocarbon dates, and time of proglacial lake formation (10000 BP) (see Gordon and McAndrews 1992).",TRUE,304,-80.16,47.18,360,1,1
+245,242,"Bear Bog",425,"Deglaciation",10000,460,10000,3560,9500,10500,"NAPD 1","Chron uses surface (-40 BP), 2 radiocarbon dates, and time of proglacial lake formation (10000 BP) (see Gordon and McAndrews 1992).",TRUE,304,-80.16,47.18,500,0,1

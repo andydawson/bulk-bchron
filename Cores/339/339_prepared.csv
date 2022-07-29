@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+339,332,"Lac Caribou",995,"Core top",0,0,9590,80,0,0,"NAPD 1","Basal date of 13000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,116,-64.94,48.19778,32,0,1
+339,332,"Lac Caribou",996,"Radiocarbon",4010,121.5,9590,80,3900,4120,"NAPD 1","Basal date of 13000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,116,-64.94,48.19778,110,1,1
+339,332,"Lac Caribou",997,"Radiocarbon",6100,204,9590,80,5930,6270,"NAPD 1","Basal date of 13000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,116,-64.94,48.19778,170,1,1
+339,332,"Lac Caribou",998,"Radiocarbon",8250,268.5,9590,80,8140,8360,"NAPD 1","Basal date of 13000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,116,-64.94,48.19778,110,1,1
+339,332,"Lac Caribou",999,"Radiocarbon",8850,305,9590,80,8590,9110,"NAPD 1","Basal date of 13000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,116,-64.94,48.19778,260,1,1
+339,332,"Lac Caribou",1000,"Radiocarbon",10000,320.5,9590,80,9600,10400,"NAPD 1","Basal date of 13000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,116,-64.94,48.19778,400,1,1
+339,332,"Lac Caribou",1001,"Deglaciation",13000,385,9590,80,12500,13500,"NAPD 1","Basal date of 13000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,116,-64.94,48.19778,500,0,1

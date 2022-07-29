@@ -1,0 +1,511 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15778,10369,"Mono Lake",103684,"Core top",-36,0,13290,-40,-37,-35,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,1,0,1
+15778,10369,"Mono Lake",103685,"Radiocarbon",1950,65,13290,-40,1840,2060,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,110,1,1
+15778,10369,"Mono Lake",103686,"Radiocarbon",2060,145,13290,-40,1985,2135,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,75,1,1
+15778,10369,"Mono Lake",103687,"Radiocarbon",3730,202.5,13290,-40,3670,3790,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,60,1,1
+15778,10369,"Mono Lake",103688,"Radiocarbon",4605,202.5,13290,-40,4545,4665,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,60,1,1
+15778,10369,"Mono Lake",103689,"Radiocarbon",7485,455,13290,-40,7365,7605,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,120,1,1
+15778,10369,"Mono Lake",103690,"Radiocarbon",8990,605,13290,-40,8885,9095,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,105,1,1
+15778,10369,"Mono Lake",103691,"Radiocarbon",9450,657.5,13290,-40,9355,9545,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,95,1,1
+15778,10369,"Mono Lake",103692,"Radiocarbon",10765,715,13290,-40,10660,10870,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,105,1,1
+15778,10369,"Mono Lake",103694,"Tephra",579,65,13290,-40,515,647,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,66,0,1
+15778,10369,"Mono Lake",103695,"Tephra",1329,72,13290,-40,1315,1343,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,14,0,1
+15778,10369,"Mono Lake",103696,"Tephra",1658,135,13290,-40,1629,1687,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,29,0,1
+15778,10369,"Mono Lake",103697,"Tephra",7627,349,13290,-40,7477,7777,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,150,0,1
+15778,10369,"Mono Lake",103698,"Tephra",7853,363,13290,-40,7797,7909,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,56,0,1
+15778,10369,"Mono Lake",103699,"Tephra",7270,445,13290,-40,7190,7350,"Neotoma 1","Thicknesses of the tephra layers are not given in Davis (1988). Arbitrary thicknesses of 1 cm were assigned.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""MONOLK"",thick=10,acc.mean=20,d.max=752,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+752 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1945,-119.149,-118.902,80,0,1

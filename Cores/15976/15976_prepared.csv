@@ -1,0 +1,280 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15976,10453,"Grandfather Lake",35078,"Core top",-40,0,15960,-40,-44,-36,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,4,0,1
+15976,10453,"Grandfather Lake",35079,"Radiocarbon",1970,95,15960,-40,1890,2050,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,80,1,1
+15976,10453,"Grandfather Lake",35080,"Radiocarbon",3690,225,15960,-40,3610,3770,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,80,1,1
+15976,10453,"Grandfather Lake",35081,"Radiocarbon",4330,355,15960,-40,4230,4430,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,100,1,1
+15976,10453,"Grandfather Lake",35082,"Radiocarbon",7310,490,15960,-40,7220,7400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,90,1,1
+15976,10453,"Grandfather Lake",35083,"Radiocarbon",9200,545,15960,-40,9120,9280,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,80,1,1
+15976,10453,"Grandfather Lake",35084,"Radiocarbon",12350,645,15960,-40,12110,12590,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,240,1,1
+15976,10453,"Grandfather Lake",35085,"Radiocarbon",12510,704,15960,-40,12270,12750,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,240,1,1
+15976,10453,"Grandfather Lake",35086,"Radiocarbon",12870,835.5,15960,-40,12660,13080,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('GRANDPOP',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+835.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,142,-158.5532,-158.5267,210,1,1

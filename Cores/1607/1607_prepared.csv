@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1607,1562,"Lake Six",3945,"Core top",0,0,9230,20,-20,20,"NAPD 1","Chron uses top and three C13 dates.",TRUE,305,-81.31667,48.4,20,0,1
+1607,1562,"Lake Six",3946,"Radiocarbon",3190,139,9230,20,3070,3310,"NAPD 1","Chron uses top and three C13 dates.",TRUE,305,-81.31667,48.4,120,1,1
+1607,1562,"Lake Six",3947,"Radiocarbon",5040,220.5,9230,20,4900,5180,"NAPD 1","Chron uses top and three C13 dates.",TRUE,305,-81.31667,48.4,140,1,1
+1607,1562,"Lake Six",3948,"Radiocarbon",6970,294,9230,20,6770,7170,"NAPD 1","Chron uses top and three C13 dates.",TRUE,305,-81.31667,48.4,200,1,1

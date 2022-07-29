@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+17406,11611,"Penegor Lake",37508,"Radiocarbon",3070,90,8670,-40,2870,3270,"Calcote 2003-1",NA,TRUE,437,-88.86157,-88.85915,200,1,1
+17406,11611,"Penegor Lake",37509,"Radiocarbon",4550,131.5,8670,-40,4410,4690,"Calcote 2003-1",NA,TRUE,437,-88.86157,-88.85915,140,1,1
+17406,11611,"Penegor Lake",37510,"Radiocarbon",5440,150,8670,-40,5260,5620,"Calcote 2003-1",NA,TRUE,437,-88.86157,-88.85915,180,1,1
+17406,11611,"Penegor Lake",37511,"Radiocarbon",7190,180,8670,-40,6990,7390,"Calcote 2003-1",NA,TRUE,437,-88.86157,-88.85915,200,1,1
+17406,11611,"Penegor Lake",37512,"Radiocarbon",8670,226.5,8670,-40,8580,8760,"Calcote 2003-1",NA,TRUE,437,-88.86157,-88.85915,90,1,1
+17406,11611,"Penegor Lake",37513,"Core top",-35,1,8670,-40,-35,-35,"Calcote 2003-1",NA,TRUE,437,-88.86157,-88.85915,32,0,1
+17406,11611,"Penegor Lake",37514,"Ambrosia rise",80,13,8670,-40,60,100,"Calcote 2003-1",NA,TRUE,437,-88.86157,-88.85915,20,0,0

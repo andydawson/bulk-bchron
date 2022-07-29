@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+514,501,"Cottonwood Pass Pond",1521,"Core top",0,0.5,8420,-30,-5,5,"NAPD 1 (radiocarbon years)","Chron uses top and 3 radiocarbon dates.",TRUE,3670,-106.41121,-106.41047,5,0,1
+514,501,"Cottonwood Pass Pond",1522,"Radiocarbon",2460,45,8420,-30,2330,2590,"NAPD 1 (radiocarbon years)","Chron uses top and 3 radiocarbon dates.",TRUE,3670,-106.41121,-106.41047,130,1,1
+514,501,"Cottonwood Pass Pond",1523,"Radiocarbon",5790,85,8420,-30,5610,5970,"NAPD 1 (radiocarbon years)","Chron uses top and 3 radiocarbon dates.",TRUE,3670,-106.41121,-106.41047,180,1,1
+514,501,"Cottonwood Pass Pond",1524,"Radiocarbon",8230,125,8420,-30,8030,8430,"NAPD 1 (radiocarbon years)","Chron uses top and 3 radiocarbon dates.",TRUE,3670,-106.41121,-106.41047,200,1,1

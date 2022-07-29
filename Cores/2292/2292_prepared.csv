@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2292,2214,"Ross Pond",6062,"Core top",-34,0,12510,-20,-34,0,"Kellogg 1991","This chron used by Kellogg (1991) (dissertation).",TRUE,37,-69.41028,43.92139,17,0,1
+2292,2214,"Ross Pond",6063,"Biostratigraphic, pollen",350,15.5,12510,-20,250,360,"Kellogg 1991","This chron used by Kellogg (1991) (dissertation).",TRUE,37,-69.41028,43.92139,55,0,0
+2292,2214,"Ross Pond",6064,"Radiocarbon",1910,67.5,12510,-20,1835,1985,"Kellogg 1991","This chron used by Kellogg (1991) (dissertation).",TRUE,37,-69.41028,43.92139,75,1,1
+2292,2214,"Ross Pond",6065,"Radiocarbon",3750,107.5,12510,-20,3695,3805,"Kellogg 1991","This chron used by Kellogg (1991) (dissertation).",TRUE,37,-69.41028,43.92139,55,1,1
+2292,2214,"Ross Pond",6066,"Radiocarbon",5190,152.5,12510,-20,5135,5245,"Kellogg 1991","This chron used by Kellogg (1991) (dissertation).",TRUE,37,-69.41028,43.92139,55,1,1
+2292,2214,"Ross Pond",6067,"Radiocarbon",8480,275,12510,-20,8385,8575,"Kellogg 1991","This chron used by Kellogg (1991) (dissertation).",TRUE,37,-69.41028,43.92139,95,1,1
+2292,2214,"Ross Pond",6068,"Radiocarbon",9500,435,12510,-20,9350,9650,"Kellogg 1991","This chron used by Kellogg (1991) (dissertation).",TRUE,37,-69.41028,43.92139,150,1,1
+2292,2214,"Ross Pond",6069,"Radiocarbon",11770,526,12510,-20,11610,11930,"Kellogg 1991","This chron used by Kellogg (1991) (dissertation).",TRUE,37,-69.41028,43.92139,160,1,1
