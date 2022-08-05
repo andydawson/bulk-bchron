@@ -38,7 +38,7 @@ diffs = data.frame(dsid = numeric(0),
 i = 1
 
 pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i in 1:5){#N_datasetids){
+for (i in 108:N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -126,6 +126,7 @@ for (i in 1:5){#N_datasetids){
   
   bchron_quants_row = apply(bchron_posts[,2:ncol(bchron_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
   bchron_quants = data.frame(depths = bchron_posts[,1], t(bchron_quants_row))
+  
   colnames(bchron_quants) = c('depths', 'ylo', 'ymid', 'yhi')
   
   adjustcolor( "blue", alpha.f = 0.2)
