@@ -2,7 +2,6 @@ library(maps)
 library(mapdata)
 library(ggplot2)
 
-
 # Maps #
 dat =  read.csv('data/chroncontrol_summary_pollen_full.csv', stringsAsFactors = FALSE)
 dat =  dat[which(dat$longitude<100),]
@@ -80,5 +79,15 @@ all_sites = read.csv("data/chroncontrol_summary_pollen_full.csv")
 
 control_freq = table(all_sites$type)
 
-# ID + Position #
+
+# frequency of sites for each method #
+# bchron
+length(unique(dat$datasetid))
+# reliable bchron
+length()
+# bacon
+length(unique(bacon_dat$siteID))
+
+
+
 
