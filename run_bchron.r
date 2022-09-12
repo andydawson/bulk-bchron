@@ -6,6 +6,7 @@ require(Bchron)
 library(ggplot2)
 library(parallel)
 library(mgcv)
+
 # 
 # source('R/config.r')
 # source('R/utils/helpers.r')
@@ -84,7 +85,7 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   
   # discard unreliable controls
   # only keep rows with keep flag of 1
-  geochron = geochron[which(keep==1),]
+  geochron = geochron[which(geochron$keep==1),]
   
   # remove rows from geochron that have NA ages
   # STOP if fewer than 2 ages left
@@ -230,7 +231,6 @@ for (i in 1:ncores) {
 }
 
 
-
 # bchron.report = do.call(rbind, bchron.reports)
 write.csv(bchron.report, paste0('bchron_report_v', version, '.csv'), row.names=FALSE)
 
@@ -240,5 +240,12 @@ fname_str = sapply(fnames, function(x) paste0('Cores/', x))
 fname_str = paste(fname_str, collapse = ' ')
 
 sys_str = paste0("gs -sDEVICE=pdfwrite -o bchron_plots_v", version, ".pdf ", fname_str)
+
 system(sys_str)
+
+
+## Tables ##
+# frequency of each control type #
+control_freq = table(geochron$type)
+
 
