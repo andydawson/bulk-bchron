@@ -6,9 +6,9 @@ library(Bchron)
 
 chron_control_types <- read.csv("chroncontrol_types-edited.csv")
 
-wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
+wang_fc = read.csv('Cores_bacon/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
 
-wang_cores  = list.files('wang/Cores_full')
+wang_cores  = list.files('Cores_bacon/Cores_full')
 wang_ncores = length(wang_cores)
 
 site_meta = read.csv('bchron_report_v9.0.csv', stringsAsFactors = FALSE)
@@ -38,7 +38,7 @@ diffs = data.frame(dsid = numeric(0),
 i = 1
 
 pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i in 108:N_datasetids){#N_datasetids){
+for (i in 1:N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -56,7 +56,8 @@ for (i in 108:N_datasetids){#N_datasetids){
   
   geochron_cal <- BchronCalibrate(ages = geochron$age,
                             ageSds = ageSds,
-                            calCurves = calCurves)
+                            calCurves = calCurves,
+                            allowOutside = TRUE)
   # # #  we want the weighted means from "calibrated"
   # wmean.date <- function(x) sum(x$ageGrid*x$densities / sum(x$densities))
   # control_young = wmean.date(cal)
@@ -71,11 +72,31 @@ for (i in 108:N_datasetids){#N_datasetids){
     next
   }
   
-  files = list.files(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid]))                
-  idx_file = which(str_sub(files,-8,-1) == 'rout.csv')
-  wang_posts = read.csv(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', files[idx_file]))
+  geochron_bacon = read.csv(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '.csv'))
+
+  ageSds_bacon = geochron_bacon$error
+  calCurves_bacon = rep(NA, nrow(geochron_bacon))
+  calCurves_bacon[which(geochron_bacon$cc == 1)] = 'intcal20'
+  calCurves_bacon[which(geochron_bacon$cc == 0)] = 'normal'
   
-  wang_depths =  scan(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_depths.txt'))
+  geochron_bacon_cal <- BchronCalibrate(ages = geochron_bacon$age,
+                                  ageSds = ageSds_bacon,
+                                  calCurves = calCurves_bacon,
+                                  allowOutside = TRUE)
+  # # #  we want the weighted means from "calibrated"
+  # wmean.date <- function(x) sum(x$ageGrid*x$densities / sum(x$densities))
+  # control_young = wmean.date(cal)
+  
+  geochron_bacon_samples = sampleAges(geochron_bacon_cal)
+  geochron_bacon_quants = t(apply(geochron_bacon_samples, 2, quantile, prob=c(0.025, 0.5, 0.975)))
+  colnames(geochron_bacon_quants) = c('ylo', 'ymid', 'yhi')
+  geochron_bacon_quants = data.frame(depth = geochron_bacon$depth, geochron_bacon_quants)
+  
+  files = list.files(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid]))                
+  idx_file = which(str_sub(files,-8,-1) == 'rout.csv')
+  wang_posts = read.csv(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid], '/', files[idx_file]))
+  
+  wang_depths =  scan(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_depths.txt'))
   
   # wang_posts = data.frame(depths = wang_depths, wang_posts)
   wang_posts = data.frame(depths = wang_depths, wang_posts)#[,1:100])
@@ -144,8 +165,10 @@ for (i in 108:N_datasetids){#N_datasetids){
     geom_line(data = bchron_quants, aes(x = depths, y = ymid, color = "Bchron"), size = 1.5) +
     geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
     geom_line(data = wang_quants, aes(x = depths, y = ymid, color = "Bacon"), size = 1.5) +
-    geom_point(data = geochron_quants, aes(x = depth, y = ymid)) +
-    geom_linerange(data = geochron_quants, aes(x = depth, ymin = ylo, ymax = yhi)) +
+    geom_point(data = geochron_quants, aes(x = depth-1, y = ymid), colour='#1F77B4', alpha=0.8) +
+    geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
+    geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
+    geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1) +
     # geom_point(data = controls, aes(x = depth, y = age)) +
     labs(title = paste0(dsid, '; ',  wang_fc$handle[idx_dsid]), x = "Depths (cm)", y = "Age", color = "Legend") +
     scale_color_manual(values = colors)
