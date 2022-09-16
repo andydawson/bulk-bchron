@@ -15,6 +15,14 @@ extrap = 1000
 options(show.error.messages = TRUE)
 #options(show.error.messages = FALSE)
 
+chron_control_types <- read.csv("data/chroncontrol_types-edited.csv")
+
+radio = read.csv('data/radiocarbon-dates-errors.csv')
+mod_radio <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
+
+lead = read.csv('data/lead-dates-errors.csv')
+mod_lead <- gam(error ~ s(age, k=4), data=lead, method='REML', family=Gamma(link="log"))
+
 version='10.0'
 
 get_sitename <- function(core.id) {
@@ -26,9 +34,9 @@ get_sitename <- function(core.id) {
 }
 
 
-# do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead, extrap)
+# do_core_bchron(core.id, chron_control_types, mod_radio, mod_lead, extrap)
 
-do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, extrap) {
+do_core_bchron <- function(core.id, chron_control_types, mod_radio, mod_lead, extrap) {
   
   # read in the geochron table for core.id
   geochron = read.table(paste0('Cores/', core.id, '/', core.id, '_prepared.csv'), sep=',', header=TRUE)
@@ -42,9 +50,6 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   if (nrow(geochron) <= 1) {
     stop("only 1 control before filtering")
   }  
-  
-  # fix some specific errors
-  geochron = fix_geochron_errors(geochron)
 
   
   # STOP if no controls
@@ -52,39 +57,10 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
     stop("no controls before filtering")
   }
   
-  # match core.id control types to master list
-  # STOP if any types not in master list
-  idx <- match(geochron$type, chron.control.meta$chron.control.type, nomatch=NA)
-  if (any(is.na(idx))) {
-    stop(paste0(nrow(geochron), " controls; types not in master"))
-  }
-  
-  # define an error column
-  # half the distance between the limitolder and limityounger
-  geochron$error = abs(geochron$limitolder-geochron$limityounger) / 2
-  
-  
-  # idx should index all rows
-  # above statement: STOP if any don't match master control type list
-  # add the calibrated column to geochron file
-  # make a keep vector; we will modify this according to our rules for inclusion
-  geochron$cc = chron.control.meta$cc[idx]
-  keep        = chron.control.meta$keep[idx]
-  
-  # if (is.na(keep)) {
-  #   stop(paste0(nrow(geochron), " controls; nbut"))
-  # }
-  
-  bio.flag = set_bio_flag(chron.control.meta, keep, idx)
-  
-  age.flag = NA
-  if (any(is.na(geochron$age))) {
-    age.flag = "had one or more NA ages, but ran anyway"
-  }
-  
+
   # discard unreliable controls
   # only keep rows with keep flag of 1
-  geochron = geochron[which(keep==1),]
+  geochron = geochron[which(geochron$keep==1),]
   
   # remove rows from geochron that have NA ages
   # STOP if fewer than 2 ages left
@@ -92,22 +68,6 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   if (nrow(geochron) < 2) {
     stop("less than 2 non-NA ages")
   }
-  
-  # only use site if 3 or more non-biostrat dates
-  # or if biostrat date is ambrosia rise, use
-  types = chron.control.meta$chron.control.type[match(geochron$type, chron.control.meta$chron.control.type, nomatch=NA)]
-  if (any(types %in% c('Biostratigraphic, pollen', 'Tsuga decline'))){
-    # if (sum(!(types %in% c('Biostratigraphic, pollen', 'Tsuga decline')))>= 3){
-    #   stop("Biostrat control with fewer than 3 controls of other types")
-    # }
-    if (sum(!(types %in% c('Biostratigraphic, pollen', 'Tsuga decline')))>= 2){
-      stop("Biostrat control with fewer than 2 controls of other types")
-    }
-  }
-  
-  # for any NA or 0 control errors, set them to informed value
-  # positive error required for Bchron
-  geochron = set_missing_control_errors(geochron, mod_radio, mod_lead)
   
   if (nrow(geochron) <= 1) {
     stop("one or no controls after filtering")
@@ -120,8 +80,6 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   if (any(geochron$error == 0)){
     stop('geochron error still set to zero')
   }
-  
-  #if (is.na(error)) next
   
   depths = scan(paste0('Cores/', core.id, '/', core.id, '_depths.txt'))
   if (diff(range(depths)) == 0) {
@@ -137,6 +95,7 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
   }
   
   #geochron$error[which(geochron$error == 0)] = 1
+  geochron = geochron[order(geochron$depth),]
   
   out = Bchronology(ages    = geochron$age,
                     ageSds = geochron$error, 
@@ -183,7 +142,7 @@ do_core_bchron <- function(core.id, chron.control.meta, mod_radio, mod_lead, ext
 }
 
 # debugging
-#do_core_bchron(1000, chron.control.types, mod)
+#do_core_bchron(1000, chron_control_types, mod)
 #stop("debug stop")
 
 mc.cores = 4 # processors
@@ -199,7 +158,7 @@ ncores = length(core.ids)
 #   message(core.id)
 #   print(core.id)
 #   bchron.report = data.frame(datasetid = core.id, sitename=get_sitename(core.id), success = 1, reason=NA)
-#   success = try(do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead, extrap))
+#   success = try(do_core_bchron(core.id, chron_control_types, mod_radio, mod_lead, extrap))
 #   if(is(success, "try-error")) {
 #     bchron.report$success = 0
 #     bchron.report$reason = geterrmessage()
@@ -210,9 +169,16 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 1:ncores) {
+for (i in 1023:ncores) {
   
-  if (i==1429){next}
+  # check these
+  # if (i==1429){next}
+  if (i==801){next} 
+  if (i==813){next}   
+  if (i==823){next} 
+  if (i==852){next}
+  if (i==853){next} 
+  if (i==1022){next} 
   
   core.id = core.ids[i]
   
@@ -220,7 +186,7 @@ for (i in 1:ncores) {
   print(core.id)
   
   bchron.report.site = data.frame(datasetid = core.id, sitename=get_sitename(core.id), success = 1, reason=NA)
-  success = try(do_core_bchron(core.id, chron.control.types, mod_radio, mod_lead, extrap))
+  success = try(do_core_bchron(core.id, chron_control_types, mod_radio, mod_lead, extrap))
   if(is(success, "try-error")) {
     bchron.report.site$success = 0
     bchron.report.site$reason = geterrmessage()
