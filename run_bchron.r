@@ -6,6 +6,7 @@ require(Bchron)
 library(ggplot2)
 library(parallel)
 library(mgcv)
+
 # 
 # source('R/config.r')
 # source('R/utils/helpers.r')
@@ -196,7 +197,6 @@ for (i in 1023:ncores) {
 }
 
 
-
 # bchron.report = do.call(rbind, bchron.reports)
 write.csv(bchron.report, paste0('bchron_report_v', version, '.csv'), row.names=FALSE)
 
@@ -206,5 +206,12 @@ fname_str = sapply(fnames, function(x) paste0('Cores/', x))
 fname_str = paste(fname_str, collapse = ' ')
 
 sys_str = paste0("gs -sDEVICE=pdfwrite -o bchron_plots_v", version, ".pdf ", fname_str)
+
 system(sys_str)
+
+
+## Tables ##
+# frequency of each control type #
+control_freq = table(geochron$type)
+
 
