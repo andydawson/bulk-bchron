@@ -108,14 +108,15 @@ for (i in 1:N_datasetids){
     next
   }
   
-  files = list.files(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid]))                
+  files = list.files(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid]))                
   idx_file = which(str_sub(files,-8,-1) == 'rout.csv')
-  wang_posts = read.csv(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid], '/', files[idx_file]))
+  wang_posts = read.csv(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', files[idx_file]))
   
   
   # geo_wang =  read.csv(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '.csv'))
   
-  bacon_posts = read.csv(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_geo_samples.csv'))
+  bacon_posts = read.csv(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_geo_samples.csv'))
+  
   bacon_depths = bacon_posts[,1]
   
   bacon_posts = bacon_posts[,2:ncol(bacon_posts)]
