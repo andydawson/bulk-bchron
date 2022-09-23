@@ -1,0 +1,22 @@
+## Ran on Sun Aug 14 18:08:42 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Lead-210 , -23, 1, 0.75,  0,  0,  3,  4,  0;
+Det 1 : Lead-210 , -8, 1, 1.75,  0,  0,  3,  4,  0;
+Det 2 : Lead-210 , 12, 1, 2.75,  0,  0,  3,  4,  0;
+Det 3 : Lead-210 , 28, 1, 3.75,  0,  0,  3,  4,  0;
+Det 4 : Lead-210 , 44, 1, 4.75,  0,  0,  3,  4,  0;
+Det 5 : Lead-210 , 56, 1, 5.75,  0,  0,  3,  4,  0;
+Det 6 : Lead-210 , 64, 1, 6.75,  0,  0,  3,  4,  0;
+Det 7 : Lead-210 , 71, 1, 7.75,  0,  0,  3,  4,  0;
+Det 8 : Lead-210 , 77, 1, 8.75,  0,  0,  3,  4,  0;
+Det 9 : Lead-210 , 87, 1, 10.75,  0,  0,  3,  4,  0;
+Det 10 : NA , 87, 1e+05, 24.75,  0,  0,  3,  4,  0;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 4,  -72,  1e+06,  -20,  -22,  5,  5,  0.9,  0.18, 0.75, 40.75, 410778;

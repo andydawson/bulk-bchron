@@ -1,0 +1,24 @@
+## Ran on Sun Aug 14 18:24:01 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : NA , 58, 169000, 30,  0,  0,  3,  4,  0;
+Det 1 : Annual laminations (varves) , 58, 10, 46,  0,  0,  3,  4,  0;
+Det 2 : Ambrosia rise , 60, 60, 46.5,  0,  0,  3,  4,  0;
+Det 3 : Annual laminations (varves) , 62, 10, 47,  0,  0,  3,  4,  0;
+Det 4 : Annual laminations (varves) , 66, 10, 48,  0,  0,  3,  4,  0;
+Det 5 : Annual laminations (varves) , 76, 10, 51,  0,  0,  3,  4,  0;
+Det 6 : Annual laminations (varves) , 86, 10, 55,  0,  0,  3,  4,  0;
+Det 7 : Annual laminations (varves) , 96, 10, 57,  0,  0,  3,  4,  0;
+Det 8 : Annual laminations (varves) , 106, 10, 60,  0,  0,  3,  4,  0;
+Det 9 : Annual laminations (varves) , 116, 10, 62,  0,  0,  3,  4,  0;
+Det 10 : Annual laminations (varves) , 129, 10, 65,  0,  0,  3,  4,  0;
+Det 11 : Annual laminations (varves) , 149, 10, 68,  0,  0,  3,  4,  0;
+Det 12 : Annual laminations (varves) , 169, 10, 72,  0,  0,  3,  4,  0;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 10,  -240,  1e+06,  49,  79,  5,  5,  0.9,  0.18, 30, 80, 327479;

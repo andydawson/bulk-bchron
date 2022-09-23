@@ -1,0 +1,25 @@
+## Ran on Sun Aug 14 18:02:38 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -34, 1, 0.5,  0,  0,  3,  4,  0;
+Det 1 : Lead-210 , -32, 1, 1,  0,  0,  3,  4,  0;
+Det 2 : Lead-210 , -19.2, 1.24, 4,  0,  0,  3,  4,  0;
+Det 3 : Lead-210 , -5.9, 1.68, 7,  0,  0,  3,  4,  0;
+Det 4 : Lead-210 , 6, 2.31, 10,  0,  0,  3,  4,  0;
+Det 5 : Lead-210 , 15.9, 3.08, 13,  0,  0,  3,  4,  0;
+Det 6 : Lead-210 , 26.9, 4.26, 16,  0,  0,  3,  4,  0;
+Det 7 : Lead-210 , 43.5, 7.07, 19,  0,  0,  3,  4,  0;
+Det 8 : Lead-210 , 66.8, 14.48, 22,  0,  0,  3,  4,  0;
+Det 9 : Lead-210 , 93, 32.67, 25,  0,  0,  3,  4,  0;
+Det 10 : Lead-210 , 121.6, 79.31, 28,  0,  0,  3,  4,  0;
+Det 11 : Biostratigraphic_ pollen , 150, 20, 43,  0,  0,  3,  4,  0;
+Det 12 : unassigned , 180, 160, 59,  0,  0,  3,  4,  1;
+Det 13 : unassigned , 390, 155, 61,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 8,  -620,  1e+06,  -32,  -36,  5,  5,  0.9,  0.018, 0.5, 80.5, 817215;

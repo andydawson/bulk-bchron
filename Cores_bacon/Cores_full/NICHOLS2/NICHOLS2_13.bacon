@@ -1,0 +1,19 @@
+## Ran on Sun Aug 14 18:09:52 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : WAT-914 , 9050, 150, 100,  0,  0,  3,  4,  1;
+Det 1 : WAT-891 , 9540, 190, 135,  0,  0,  3,  4,  1;
+Det 2 : WAT-912 , 9690, 370, 135,  0,  0,  3,  4,  1;
+Det 3 : WAT-908 , 10850, 240, 160,  0,  0,  3,  4,  1;
+Det 4 : WAT-913 , 11330, 270, 170,  0,  0,  3,  4,  1;
+Det 5 : WAT-915 , 11720, 390, 200,  0,  0,  3,  4,  1;
+Det 6 : WAT-844 , 12320, 240, 285,  0,  0,  3,  4,  1;
+Det 7 : NA , 12320, 12320000, 330,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 13,  -72,  1e+06,  9178,  9127,  5,  5,  0.9,  0.045, 100, 360, 183237;

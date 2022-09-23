@@ -1,0 +1,18 @@
+labid,age,error,depth,cc
+Core top,0,50,0,0
+Biostratigraphic_ pollen,150,50,7,0
+Radiocarbon_ reservoir correction,720,330,53.5,1
+Radiocarbon_ reservoir correction,1830,540,104,1
+Radiocarbon_ reservoir correction,2695,640,127.5,1
+Radiocarbon_ reservoir correction,3585,580,147.5,1
+OWU-263,4785,360,193.5,1
+OWU-234,4740,305,193.5,1
+Radiocarbon_ reservoir correction,4340,610,253.5,1
+Radiocarbon_ reservoir correction,5885,680,303.5,1
+Radiocarbon_ reservoir correction,7495,410,353.5,1
+Radiocarbon_ reservoir correction,9295,690,383.5,1
+Radiocarbon_ reservoir correction,10195,420,403.5,1
+Radiocarbon_ reservoir correction,10860,500,427.5,1
+Radiocarbon_ reservoir correction,11750,540,453.5,1
+OWU-241,14295,610,513,1
+OWU-242,13265,520,513,1

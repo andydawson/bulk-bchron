@@ -1,0 +1,20 @@
+## Ran on Sun Aug 14 18:23:20 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -49, 51, 0,  0,  0,  3,  4,  0;
+Det 1 : Ambrosia rise , 100, 100, 19,  0,  0,  3,  4,  0;
+Det 2 : NSRL-11614 , 1400, 30, 109,  0,  0,  3,  4,  1;
+Det 3 : NSRL-11615 , 2530, 70, 185,  0,  0,  3,  4,  1;
+Det 4 : NSRL-11616 , 4640, 45, 296,  0,  0,  3,  4,  1;
+Det 5 : NSRL-11617 , 5830, 50, 338,  0,  0,  3,  4,  1;
+Det 6 : NSRL-11618 , 6990, 50, 396,  0,  0,  3,  4,  1;
+Det 7 : NSRL-11619 , 7460, 40, 438,  0,  0,  3,  4,  1;
+Det 8 : NSRL-11241 , 8700, 90, 594,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 41,  -400,  1e+06,  -124,  -34,  5,  5,  0.9,  0.09, 0, 615, 534220;

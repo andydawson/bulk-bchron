@@ -1,0 +1,15 @@
+## Ran on Sun Aug 14 18:15:37 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -28, 20, 0,  0,  0,  3,  4,  0;
+Det 1 : USGS-339 , 2880, 70, 235,  0,  0,  3,  4,  1;
+Det 2 : USGS-338 , 4560, 170, 520.5,  0,  0,  3,  4,  1;
+Det 3 : NA , 4560, 4560000, 540,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 29,  -128,  1e+06,  -8,  26,  5,  5,  0.9,  0.09, 0, 580, 6796;

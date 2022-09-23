@@ -1,0 +1,17 @@
+## Ran on Sun Aug 14 18:23:57 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : NA , 8100, 11550000, 395,  0,  0,  3,  4,  0;
+Det 1 : Sediment stratigraphic , 8100, 100, 402.5,  0,  0,  3,  4,  0;
+Det 2 : AA-34341 , 9920, 110, 471.25,  0,  0,  3,  4,  1;
+Det 3 : AA-46442 , 11090, 210, 516.75,  0,  0,  3,  4,  1;
+Det 4 : AA-34342 , 11110, 410, 577.75,  0,  0,  3,  4,  1;
+Det 5 : Sediment stratigraphic , 11550, 130, 656,  0,  0,  3,  4,  0;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 15,  -72,  1e+06,  8179,  7954,  5,  5,  0.9,  0.045, 395, 695, 327742;

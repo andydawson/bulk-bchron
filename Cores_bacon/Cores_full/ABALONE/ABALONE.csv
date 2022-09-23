@@ -1,0 +1,14 @@
+labID,	age,	error,	depth,	cc
+Core top,	-40,	1,	0,	0
+Biostratigraphic_ pollen,	30,	20,	30,	0
+Biostratigraphic_ pollen,	56,	20,	40,	0
+Biostratigraphic_ pollen,	66,	20,	45,	0
+Biostratigraphic_ pollen,	100,	20,	80,	0
+Biostratigraphic_ pollen,	124,	20,	100,	0
+GX-16200,	1630,	135,	138,	1
+GX-14976,	3010,	220,	203,	1
+GX-15885,	3940,	210,	270,	1
+GX-16201,	4665,	255,	327,	1
+GX-15884,	3785,	180,	402,	1
+AA-6446,	4355,	85,	477.5,	1
+GX-15883,	5040,	235,	526,	1

@@ -1,0 +1,20 @@
+## Ran on Sun Aug 14 18:02:15 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , 0, 20, 0,  0,  0,  3,  4,  0;
+Det 1 : WSU-2396H , 540, 80, 42.5,  0,  0,  3,  4,  1;
+Det 2 : WSU-2396R , 565, 90, 42.5,  0,  0,  3,  4,  1;
+Det 3 : WSU-2399R , 1554, 70, 67.5,  0,  0,  3,  4,  1;
+Det 4 : WSU-2399H , 1840, 80, 67.5,  0,  0,  3,  4,  1;
+Det 5 : WSU-2433 , 2720, 90, 108.5,  0,  0,  3,  4,  1;
+Det 6 : WSU-2432 , 2640, 90, 108.5,  0,  0,  3,  4,  1;
+Det 7 : WSU-2434 , 5170, 80, 147.5,  0,  0,  3,  4,  1;
+Det 8 : NA , 5170, 5170000, 160,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 12,  -100,  1e+06,  9,  17,  5,  5,  0.9,  0.018, 0, 180, 803141;

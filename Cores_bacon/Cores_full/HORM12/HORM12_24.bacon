@@ -1,0 +1,22 @@
+## Ran on Sun Aug 14 18:19:47 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -52, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : UGAMS-13417 , 400, 25, 111.5,  0,  0,  3,  4,  1;
+Det 2 : UGAMS-13418 , 980, 40, 197.5,  0,  0,  3,  4,  1;
+Det 3 : UGAMS-14454 , 800, 20, 225,  0,  0,  3,  4,  1;
+Det 4 : UGAMS-13419 , 1220, 25, 254.5,  0,  0,  3,  4,  1;
+Det 5 : UGAMS-15039 , 990, 25, 256.5,  0,  0,  3,  4,  1;
+Det 6 : UGAMS-15040 , 990, 25, 285.5,  0,  0,  3,  4,  1;
+Det 7 : UGAMS-15041 , 1370, 25, 298.5,  0,  0,  3,  4,  1;
+Det 8 : UGAMS-14455 , 1620, 25, 377.5,  0,  0,  3,  4,  1;
+Det 9 : UGAMS-14456 , 1650, 20, 389.5,  0,  0,  3,  4,  1;
+Det 10 : NA , 1650, 1650000, 440.5,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 24,  -72,  1e+06,  -52,  -52,  5,  5,  0.9,  0.09, 0, 480, 233345;

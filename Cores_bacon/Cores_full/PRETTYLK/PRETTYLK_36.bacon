@@ -1,0 +1,29 @@
+## Ran on Sun Aug 14 18:18:17 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , 0, 50, 0,  0,  0,  3,  4,  0;
+Det 1 : Biostratigraphic_ pollen , 150, 50, 7,  0,  0,  3,  4,  0;
+Det 2 : Radiocarbon_ reservoir correction , 720, 330, 53.5,  0,  0,  3,  4,  1;
+Det 3 : Radiocarbon_ reservoir correction , 1830, 540, 104,  0,  0,  3,  4,  1;
+Det 4 : Radiocarbon_ reservoir correction , 2695, 640, 127.5,  0,  0,  3,  4,  1;
+Det 5 : Radiocarbon_ reservoir correction , 3585, 580, 147.5,  0,  0,  3,  4,  1;
+Det 6 : OWU-263 , 4785, 360, 193.5,  0,  0,  3,  4,  1;
+Det 7 : OWU-234 , 4740, 305, 193.5,  0,  0,  3,  4,  1;
+Det 8 : Radiocarbon_ reservoir correction , 4340, 610, 253.5,  0,  0,  3,  4,  1;
+Det 9 : Radiocarbon_ reservoir correction , 5885, 680, 303.5,  0,  0,  3,  4,  1;
+Det 10 : Radiocarbon_ reservoir correction , 7495, 410, 353.5,  0,  0,  3,  4,  1;
+Det 11 : Radiocarbon_ reservoir correction , 9295, 690, 383.5,  0,  0,  3,  4,  1;
+Det 12 : Radiocarbon_ reservoir correction , 10195, 420, 403.5,  0,  0,  3,  4,  1;
+Det 13 : Radiocarbon_ reservoir correction , 10860, 500, 427.5,  0,  0,  3,  4,  1;
+Det 14 : Radiocarbon_ reservoir correction , 11750, 540, 453.5,  0,  0,  3,  4,  1;
+Det 15 : OWU-241 , 14295, 610, 513,  0,  0,  3,  4,  1;
+Det 16 : OWU-242 , 13265, 520, 513,  0,  0,  3,  4,  1;
+Det 17 : NA , 14295, 14295000, 520,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 36,  -930,  1e+06,  49,  62,  5,  5,  0.9,  0.018, 0, 540, 325910;

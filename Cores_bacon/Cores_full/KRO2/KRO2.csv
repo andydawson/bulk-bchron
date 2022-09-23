@@ -1,0 +1,24 @@
+labid,age,error,depth,cc
+Core top,-51,53,0,0
+unassigned,-45,1,2.5,0
+unassigned,-43,1,3.5,0
+unassigned,-40,1,4.5,0
+unassigned,-35,1,5.5,0
+unassigned,-30,1,6.5,0
+unassigned,-26,1,7.5,0
+unassigned,-22,1,8.5,0
+unassigned,-7,3,9.5,0
+unassigned,16,6,12.5,0
+unassigned,30,8,14.5,0
+unassigned,49,13,16.5,0
+unassigned,77,20,18.5,0
+unassigned,113,33,20.5,0
+Beta199874,894,40,38.5,1
+Beta199875,1680,50,71.5,1
+Beta199877,3500,40,208.5,1
+Beta206009,4270,40,242,1
+Beta199878,5760,50,292,1
+Beta206010,6150,50,315.5,1
+Beta206011,7050,50,334,1
+Beta213872,8590,40,350,1
+Beta199879,8730,60,363,1

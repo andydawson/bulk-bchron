@@ -1,0 +1,53 @@
+## Ran on Sun Aug 14 18:34:52 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -53, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -52, 1, 0.5,  0,  0,  3,  4,  0;
+Det 2 : unassigned , -47.2, 1, 1.56,  0,  0,  3,  4,  0;
+Det 3 : unassigned , -43, 1, 2.62,  0,  0,  3,  4,  0;
+Det 4 : unassigned , -38.5, 1, 3.68,  0,  0,  3,  4,  0;
+Det 5 : unassigned , -33.5, 1, 4.74,  0,  0,  3,  4,  0;
+Det 6 : unassigned , -28.4, 1, 5.8,  0,  0,  3,  4,  0;
+Det 7 : unassigned , -23.01, 1, 6.86,  0,  0,  3,  4,  0;
+Det 8 : unassigned , -17.89, 2, 7.92,  0,  0,  3,  4,  0;
+Det 9 : unassigned , -13.8, 2, 8.98,  0,  0,  3,  4,  0;
+Det 10 : unassigned , -10.33, 2, 10.04,  0,  0,  3,  4,  0;
+Det 11 : unassigned , -7.57, 3, 11.1,  0,  0,  3,  4,  0;
+Det 12 : unassigned , -4.31, 3, 12.16,  0,  0,  3,  4,  0;
+Det 13 : unassigned , -0.85, 3, 13.22,  0,  0,  3,  4,  0;
+Det 14 : unassigned , 2.7, 4, 14.28,  0,  0,  3,  4,  0;
+Det 15 : unassigned , 6.44, 4, 15.34,  0,  0,  3,  4,  0;
+Det 16 : unassigned , 10.19, 5, 16.4,  0,  0,  3,  4,  0;
+Det 17 : unassigned , 13.25, 5, 17.46,  0,  0,  3,  4,  0;
+Det 18 : unassigned , 16.38, 6, 18.52,  0,  0,  3,  4,  0;
+Det 19 : unassigned , 19.3, 6, 19.58,  0,  0,  3,  4,  0;
+Det 20 : unassigned , 22.72, 7, 20.64,  0,  0,  3,  4,  0;
+Det 21 : unassigned , 26.95, 8, 21.7,  0,  0,  3,  4,  0;
+Det 22 : unassigned , 30.47, 8, 22.76,  0,  0,  3,  4,  0;
+Det 23 : unassigned , 34.73, 9, 23.82,  0,  0,  3,  4,  0;
+Det 24 : unassigned , 37.64, 10, 24.88,  0,  0,  3,  4,  0;
+Det 25 : unassigned , 41.52, 11, 25.94,  0,  0,  3,  4,  0;
+Det 26 : unassigned , 45.62, 12, 27,  0,  0,  3,  4,  0;
+Det 27 : unassigned , 50.31, 13, 28.06,  0,  0,  3,  4,  0;
+Det 28 : unassigned , 53.85, 14, 29.12,  0,  0,  3,  4,  0;
+Det 29 : unassigned , 57.66, 15, 30.18,  0,  0,  3,  4,  0;
+Det 30 : unassigned , 61.27, 16, 31.24,  0,  0,  3,  4,  0;
+Det 31 : unassigned , 64.03, 16, 32.3,  0,  0,  3,  4,  0;
+Det 32 : unassigned , 70.15, 18, 33.36,  0,  0,  3,  4,  0;
+Det 33 : unassigned , 75.15, 20, 34.42,  0,  0,  3,  4,  0;
+Det 34 : unassigned , 82.62, 22, 35.48,  0,  0,  3,  4,  0;
+Det 35 : unassigned , 91.03, 25, 36.54,  0,  0,  3,  4,  0;
+Det 36 : unassigned , 97.57, 27, 37.6,  0,  0,  3,  4,  0;
+Det 37 : Beta 228502 , 180, 40, 45,  0,  0,  3,  4,  1;
+Det 38 : Beta 283271 , 1170, 40, 63,  0,  0,  3,  4,  1;
+Det 39 : Beta 228504 , 1590, 40, 81,  0,  0,  3,  4,  1;
+Det 40 : Beta 283272 , 1820, 40, 89,  0,  0,  3,  4,  1;
+Det 41 : NA , 1820, 1820000, 89.54,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 20,  -72,  1e+06,  -53,  -53,  5,  5,  0.9,  0.045, 0, 100, 282867;

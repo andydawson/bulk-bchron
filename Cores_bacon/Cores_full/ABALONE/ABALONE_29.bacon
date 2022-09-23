@@ -1,0 +1,25 @@
+## Ran on Sun Aug 14 17:58:03 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -40, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : Biostratigraphic_ pollen , 30, 20, 30,  0,  0,  3,  4,  0;
+Det 2 : Biostratigraphic_ pollen , 56, 20, 40,  0,  0,  3,  4,  0;
+Det 3 : Biostratigraphic_ pollen , 66, 20, 45,  0,  0,  3,  4,  0;
+Det 4 : Biostratigraphic_ pollen , 100, 20, 80,  0,  0,  3,  4,  0;
+Det 5 : Biostratigraphic_ pollen , 124, 20, 100,  0,  0,  3,  4,  0;
+Det 6 : GX-16200 , 1630, 135, 138,  0,  0,  3,  4,  1;
+Det 7 : GX-14976 , 3010, 220, 203,  0,  0,  3,  4,  1;
+Det 8 : GX-15885 , 3940, 210, 270,  0,  0,  3,  4,  1;
+Det 9 : GX-16201 , 4665, 255, 327,  0,  0,  3,  4,  1;
+Det 10 : GX-15884 , 3785, 180, 402,  0,  0,  3,  4,  1;
+Det 11 : AA-6446 , 4355, 85, 477.5,  0,  0,  3,  4,  1;
+Det 12 : GX-15883 , 5040, 235, 526,  0,  0,  3,  4,  1;
+Det 13 : NA , 5040, 5040000, 540,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 29,  -72,  1e+06,  -41,  -40,  5,  5,  0.9,  0.045, 0, 580, 218284;
