@@ -4,7 +4,7 @@ library(overlapping)
 library(reshape2)
 library(Bchron)
 
-chron_control_types <- read.csv("chroncontrol_types-edited.csv")
+chron_control_types <- read.csv("data/chroncontrol_types-edited.csv")
 
 wang_fc = read.csv('Cores_bacon/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
 
@@ -35,10 +35,8 @@ diffs = data.frame(dsid = numeric(0),
                    age_b  = numeric(0),
                    age_w  = numeric(0))
 
-i = 1
-
 pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i in 1:N_datasetids){#N_datasetids){
+for (i in 26:N_datasetids){#N_datasetids){
   
   print(i)
   
