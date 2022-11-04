@@ -4,7 +4,7 @@ library(overlapping)
 library(reshape2)
 library(Bchron)
 
-chron_control_types <- read.csv("chroncontrol_types-edited.csv")
+chron_control_types <- read.csv("data/chroncontrol_types-edited.csv")
 
 wang_fc = read.csv('Cores_bacon/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
 
@@ -33,12 +33,11 @@ which(wang_fc$datasetid %in% site_meta$datasetid)
 diffs = data.frame(dsid = numeric(0),
                    depths = numeric(0),
                    age_b  = numeric(0),
-                   age_w  = numeric(0))
-
-i = 1
+                   age_w  = numeric(0),
+                   age_n  = numeric(0))
 
 pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i in 1:N_datasetids){#N_datasetids){
+for (i in 132:N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -140,6 +139,8 @@ for (i in 1:N_datasetids){#N_datasetids){
     print(paste0('No posterior samples for dataset id: ', dsid))
     next
   }
+  
+  
   bchron_posts_long = melt(bchron_posts, id.vars = "depths")
   colnames(bchron_posts_long) = c('depths', 'iter', 'age')
   
@@ -193,7 +194,13 @@ for (i in 1:N_datasetids){#N_datasetids){
 }
 dev.off()
 
-# 
+# Make just two figures comparing models in one panel for paper #
+
+
+
+
+
+
 # ggplot(data = diffs) +
 #   geom_point(aes(x = depths, y = age_b), color = 'blue', alpha = .2) +
 #   geom_point(aes(x = depths, y = age_w), color = 'red', alpha = .2)
