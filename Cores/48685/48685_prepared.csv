@@ -453,7 +453,7 @@ Options()
    C_Date(""Ambrosia rise"",120,10) { z=166; };
    Boundary(""Top"", C_Date(-38,1)) { z=118; };
   };
- };",FALSE,211,-88.38957,-88.36978,10,0,0
+ };",FALSE,211,-88.38957,-88.36978,10,0,1
 48685,13772,"Nelson Lake",106136,"Radiocarbon",600,243,18100,-40,560,640,"Grimm 2020","Based on the IntCal20 calibration curve. The dates on graminoid and Poaceae materials were not used, as they appear to show a hardwater reservoir effect.
 
 Options()

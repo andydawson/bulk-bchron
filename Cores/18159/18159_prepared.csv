@@ -190,7 +190,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,21,-120.58844,-120.58394,10,0,0
+0.95 #prob",FALSE,21,-120.58844,-120.58394,10,0,1
 18159,11950,"Mod Pond",105011,"Lead-210",125,50,2810,-60,99,151,"SKOPE","Based on IntCal13 calibration curve.
 
 Bacon command line:

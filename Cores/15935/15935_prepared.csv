@@ -29,7 +29,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,73,-71.61024,-71.60672,32,0,0
+0.95 #prob",FALSE,73,-71.61024,-71.60672,32,0,1
 15935,10435,"Little Mirror Lake",34926,"Ambrosia rise",208,38,910,-40,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('LITTLEM',depths.file=TRUE)
@@ -60,4 +60,4 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,73,-71.61024,-71.60672,50,0,0
+0.95 #prob",FALSE,73,-71.61024,-71.60672,50,0,1

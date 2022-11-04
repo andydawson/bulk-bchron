@@ -29,7 +29,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,15,-70.7,-70.69145,50,0,0
+0.95 #prob",FALSE,15,-70.7,-70.69145,50,0,1
 40666,23535,"Cedar Tree Neck Bog",79259,"Core top",-40,0,9340,-50,-45,-35,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('CTNECKB',d.max=200,depths.file=TRUE)

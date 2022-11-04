@@ -1,6 +1,6 @@
 "datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
 41027,23714,"West Side Pond",80744,"Core top",-64,0,13400,-60,-64,-64,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,392,-73.2597,-73.2535,32,0,1
-41027,23714,"West Side Pond",80745,"European settlement horizon",211,50.5,13400,-60,211,211,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,392,-73.2597,-73.2535,50,0,0
+41027,23714,"West Side Pond",80745,"European settlement horizon",211,50.5,13400,-60,211,211,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,392,-73.2597,-73.2535,50,0,1
 41027,23714,"West Side Pond",80746,"Radiocarbon",1720,150.5,13400,-60,1705,1735,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,392,-73.2597,-73.2535,15,1,1
 41027,23714,"West Side Pond",80747,"Radiocarbon",2060,200.5,13400,-60,2040,2080,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,392,-73.2597,-73.2535,20,1,1
 41027,23714,"West Side Pond",80748,"Radiocarbon",3450,380.5,13400,-60,3430,3470,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,392,-73.2597,-73.2535,20,1,1

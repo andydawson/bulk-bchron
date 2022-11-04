@@ -29,7 +29,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,176,-75.13719,-75.13462,10,0,0
+0.95 #prob",FALSE,176,-75.13719,-75.13462,10,0,1
 19846,13304,"Lac Noir",39744,"Radiocarbon",580,41.5,960,-50,540,620,"Neotoma1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('NOIRQU',d.max=90.1,depths.file=TRUE)

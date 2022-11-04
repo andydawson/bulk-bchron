@@ -30,7 +30,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,1450,-111.99647,-111.98763,1,0,0
+0.95 #prob",FALSE,1450,-111.99647,-111.98763,1,0,1
 47687,27084,"Swan Lake",103261,"Radiocarbon",1850,177,13610,-20,1650,2050,"SKOPE","Based on IntCal13 calibration program.
 
 Bacon command line:
@@ -62,7 +62,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,1450,-111.99647,-111.98763,200,1,0
+0.95 #prob",FALSE,1450,-111.99647,-111.98763,200,1,1
 47687,27084,"Swan Lake",103262,"Radiocarbon",10190,590,13610,-20,9940,10440,"SKOPE","Based on IntCal13 calibration program.
 
 Bacon command line:
@@ -94,7 +94,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,1450,-111.99647,-111.98763,250,1,0
+0.95 #prob",FALSE,1450,-111.99647,-111.98763,250,1,1
 47687,27084,"Swan Lake",103263,"Radiocarbon",12090,800,13610,-20,11790,12390,"SKOPE","Based on IntCal13 calibration program.
 
 Bacon command line:
@@ -126,7 +126,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,1450,-111.99647,-111.98763,300,1,0
+0.95 #prob",FALSE,1450,-111.99647,-111.98763,300,1,1
 47687,27084,"Swan Lake",103264,"Sediment stratigraphic",11615,799,13610,-20,11575,11655,"SKOPE","Based on IntCal13 calibration program.
 
 Bacon command line:

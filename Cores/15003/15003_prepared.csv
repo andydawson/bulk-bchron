@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,19,-69.9615,-69.95965,50,0,0
+0.95 #prob",FALSE,19,-69.9615,-69.95965,50,0,1
 15003,10023,"Icehouse Pond",32111,"Lead-210",-39.9,1,1480,-50,-41.693266526,-38.106733474,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('ICEHSMA',thick=10,depths.file=TRUE)

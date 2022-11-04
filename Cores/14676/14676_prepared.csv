@@ -246,7 +246,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,360,-69.05036,-69.04847,20,0,0
+0.95 #prob",FALSE,360,-69.05036,-69.04847,20,0,1
 14676,9890,"Buckley Pond Hollow",31459,"Tsuga decline",4750,49,8920,110,4700,4800,"Neotoma 1","Three dates near the Tsuga decline were rejected a priori as too young following Schauffler & Jacobson (2002). If these dates are retained in the Bacon age model, Bacon rejects the date of the Tsuga decline as an outlier. Age model is based on the IntCal13 calibration curve.
 
 Bacon command line: Bacon('BUCKLEY',thick=2,acc.mean=140,depths.file=TRUE)

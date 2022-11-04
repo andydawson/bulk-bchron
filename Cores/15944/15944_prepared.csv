@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,161,-72.23015,-72.22693,50,0,0
+0.95 #prob",FALSE,161,-72.23015,-72.22693,50,0,1
 15944,10438,"Silver Lake",34948,"Radiocarbon",740,55,880,-40,690,790,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('SILVERMA',depths.file=TRUE)

@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,0,-76.21444,38.03028,15,0,0
+0.95 #prob",FALSE,0,-76.21444,38.03028,15,0,1
 15205,10109,"Chesapeake Bay (MD99-2207)",32842,"Radiocarbon",855,221.5,23310,910,830,880,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('CHES2207',thick=30,depths.file=TRUE)

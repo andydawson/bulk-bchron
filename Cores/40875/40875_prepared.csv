@@ -1,6 +1,6 @@
 "datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
 40875,23625,"Guilder Pond",79891,"Core top",-59,0,15160,-60,-59,-59,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,32,0,1
-40875,23625,"Guilder Pond",79892,"European settlement horizon",258,24.5,15160,-60,258,258,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,50,0,0
+40875,23625,"Guilder Pond",79892,"European settlement horizon",258,24.5,15160,-60,258,258,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,50,0,1
 40875,23625,"Guilder Pond",79893,"Radiocarbon",3340,101.5,15160,-60,3310,3370,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,30,1,1
 40875,23625,"Guilder Pond",79894,"Radiocarbon",4070,145.5,15160,-60,4035,4105,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,35,1,1
 40875,23625,"Guilder Pond",79895,"Radiocarbon",4120,155.5,15160,-60,4090,4150,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,30,1,1

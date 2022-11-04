@@ -1,6 +1,6 @@
 "datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
 41001,23698,"Sears Pond",80577,"Core top",-50,0,10690,0,-50,-50,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,2,-72.58,-72.5766,32,0,1
-41001,23698,"Sears Pond",80578,"European settlement horizon",300,54.5,10690,0,300,300,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,2,-72.58,-72.5766,50,0,0
+41001,23698,"Sears Pond",80578,"European settlement horizon",300,54.5,10690,0,300,300,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,2,-72.58,-72.5766,50,0,1
 41001,23698,"Sears Pond",80579,"Radiocarbon",1920,100.5,10690,0,1895,1945,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,2,-72.58,-72.5766,25,1,1
 41001,23698,"Sears Pond",80580,"Radiocarbon",2710,150.5,10690,0,2685,2735,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,2,-72.58,-72.5766,25,1,1
 41001,23698,"Sears Pond",80581,"Radiocarbon",4920,200.5,10690,0,4885,4955,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,2,-72.58,-72.5766,35,1,1

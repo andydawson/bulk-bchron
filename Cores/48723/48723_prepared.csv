@@ -28,7 +28,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,340,-91.70267,-91.70267,10,0,0
+0.95 #prob",FALSE,340,-91.70267,-91.70267,10,0,1
 48723,27245,"Cheney Lake",106382,"Radiocarbon",510,91,2700,-60,485,535,"Calcote et al. 2020","Based on IntCal13 calibration curve.
 
 Bacon settings file:

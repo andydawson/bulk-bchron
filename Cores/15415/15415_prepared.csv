@@ -29,7 +29,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,72,-79.922,-79.893,50,0,0
+0.95 #prob",FALSE,72,-79.922,-79.893,50,0,1
 15415,10215,"Cootes Paradise Marsh",33598,"Biostratigraphic, pollen",800,175,2530,10,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('COOTES',depths.file=TRUE)

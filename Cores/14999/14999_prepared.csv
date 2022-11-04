@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,23,-69.99334,-69.99085,50,0,0
+0.95 #prob",FALSE,23,-69.99334,-69.99085,50,0,1
 14999,10021,"Deep Pond",32076,"Radiocarbon",666,95,2520,-50,606,726,"Neotoma","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('DEEPPOND',depths.file=TRUE)

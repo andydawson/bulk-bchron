@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,273,-88.36972,-88.34429,10,0,0
+0.95 #prob",FALSE,273,-88.36972,-88.34429,10,0,1
 15886,10413,"Crystal Lake",34758,"Radiocarbon",1000,1400.5,16380,-50,940,1060,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
 
 Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)

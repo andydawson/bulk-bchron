@@ -29,7 +29,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,269,-72.33808,-72.33629,32,0,0
+0.95 #prob",FALSE,269,-72.33808,-72.33629,32,0,1
 15933,10434,"Lily Warwick",34919,"Ambrosia rise",205,32,1270,-40,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('LILYWAR',depths.file=TRUE)
@@ -60,4 +60,4 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,269,-72.33808,-72.33629,50,0,0
+0.95 #prob",FALSE,269,-72.33808,-72.33629,50,0,1

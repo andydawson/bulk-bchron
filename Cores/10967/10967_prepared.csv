@@ -62,7 +62,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,1,-80.58386,25.74642,10,0,0
+0.95 #prob",FALSE,1,-80.58386,25.74642,10,0,1
 10967,6505,"Northeast Shark River Slough",31425,"Radiocarbon, reservoir correction",1260,28,4680,-60,1230,1290,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
 
 Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)

@@ -62,7 +62,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,311,-93.842,-93.8383,15,0,0
+0.95 #prob",FALSE,311,-93.842,-93.8383,15,0,1
 13032,8552,"Kimble Pond",18466,"Radiocarbon",1040,1974.5,12260,-50,990,1090,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
 
 The Bacon command line was:

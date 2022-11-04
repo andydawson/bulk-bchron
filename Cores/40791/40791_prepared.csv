@@ -1,6 +1,6 @@
 "datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
 40791,23579,"Benson Pond",79416,"Core top",-54,0,14490,-60,-54,-54,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,32,0,1
-40791,23579,"Benson Pond",79417,"European settlement horizon",171,20.5,14490,-60,171,171,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,50,0,0
+40791,23579,"Benson Pond",79417,"European settlement horizon",171,20.5,14490,-60,171,171,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,50,0,1
 40791,23579,"Benson Pond",79418,"Radiocarbon",2480,84.5,14490,-60,2435,2525,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,45,1,1
 40791,23579,"Benson Pond",79419,"Radiocarbon",3870,149.5,14490,-60,3825,3915,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,45,1,1
 40791,23579,"Benson Pond",79420,"Radiocarbon",4590,225,14490,-60,4550,4630,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,499,-73.0961,-73.09346,40,1,1

@@ -463,7 +463,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,332,-71.9574,-71.9565,50,0,0
+0.95 #prob",FALSE,332,-71.9574,-71.9565,50,0,1
 20618,13629,"Quag Pond",41500,"Radiocarbon",1040,68.5,970,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('QUAG',depths.file=TRUE)

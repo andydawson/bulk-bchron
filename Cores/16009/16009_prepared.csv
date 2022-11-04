@@ -91,7 +91,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,660,-85.40174,-85.4009,20,0,0
+0.95 #prob",FALSE,660,-85.40174,-85.4009,20,0,1
 16009,10461,"Pigeon Marsh",35127,"Biostratigraphic, pollen",11500,62.5,23600,-10,11250,11750,"Neotoma 1","Based on IntCal13 calibration curve. Due to the sharp change in accumulation rate at the Ambrosia rise, a 2-year hiatus was introduced into the Bacon age model to force the memory to zero, and different acc.mean priors were set above and below the Ambrosia rise. The Holocene ages have dubious reliability as there may be significant hiatuses in the record. Note the very large 95.4% HPD limits for the modeled ages.
 
 Bacon command line: Bacon('PIGEON',thick=2,acc.mean=c(6,320),hiatus.depths=33.75,hiatus.mean=2,d.max=102.5,depths.file=TRUE)

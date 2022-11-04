@@ -29,7 +29,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,NA,-78.24444,-78.20515,2,0,0
+0.95 #prob",FALSE,NA,-78.24444,-78.20515,2,0,1
 17280,11557,"Lovesick Lake",36915,"Radiocarbon",7400,12.5,9840,-50,6330,7470,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('LOVESIC1',depths.file=TRUE)
@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,NA,-78.24444,-78.20515,570,1,0
+0.95 #prob",FALSE,NA,-78.24444,-78.20515,570,1,1
 17280,11557,"Lovesick Lake",36916,"Interpolated",8300,70,9840,-50,8200,8400,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('LOVESIC1',depths.file=TRUE)

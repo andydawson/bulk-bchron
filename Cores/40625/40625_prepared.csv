@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,0,-70.63837,-70.62077,50,0,0
+0.95 #prob",FALSE,0,-70.63837,-70.62077,50,0,1
 40625,23515,"Lake Tashmoo",79050,"Radiocarbon",430,100,410,-40,360,500,"Neotoma 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('TASHMOO',d.max=104,depths.file=TRUE)

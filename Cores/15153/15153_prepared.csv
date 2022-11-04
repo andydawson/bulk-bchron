@@ -1,6 +1,6 @@
 "datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
 15153,10080,"Wendel site",32705,"Sediment stratigraphic",8100,400,11900,7390,8000,8200,"Yansa et al. 2007",NA,TRUE,423,-98.29157,-98.28725,100,NA,0
-15153,10080,"Wendel site",32706,"Radiocarbon",9920,470,11900,7390,9700,10140,"Yansa et al. 2007",NA,TRUE,423,-98.29157,-98.28725,220,1,0
-15153,10080,"Wendel site",32707,"Radiocarbon",11090,516,11900,7390,10670,11510,"Yansa et al. 2007",NA,TRUE,423,-98.29157,-98.28725,420,1,0
-15153,10080,"Wendel site",32708,"Radiocarbon",11110,578,11900,7390,10290,11930,"Yansa et al. 2007",NA,TRUE,423,-98.29157,-98.28725,820,1,0
+15153,10080,"Wendel site",32706,"Radiocarbon",9920,470,11900,7390,9700,10140,"Yansa et al. 2007",NA,TRUE,423,-98.29157,-98.28725,220,1,1
+15153,10080,"Wendel site",32707,"Radiocarbon",11090,516,11900,7390,10670,11510,"Yansa et al. 2007",NA,TRUE,423,-98.29157,-98.28725,420,1,1
+15153,10080,"Wendel site",32708,"Radiocarbon",11110,578,11900,7390,10290,11930,"Yansa et al. 2007",NA,TRUE,423,-98.29157,-98.28725,820,1,1
 15153,10080,"Wendel site",32709,"Sediment stratigraphic",11550,656,11900,7390,11420,11680,"Yansa et al. 2007",NA,TRUE,423,-98.29157,-98.28725,130,NA,0

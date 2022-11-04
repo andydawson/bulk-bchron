@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,240,-97.23214,-97.22772,50,0,0
+0.95 #prob",FALSE,240,-97.23214,-97.22772,50,0,1
 14991,10017,"Lake Louise",32039,"Radiocarbon",1604,64,1370,-50,1524,1684,"Neotoma1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('LOUISEMB',depths.file=TRUE)

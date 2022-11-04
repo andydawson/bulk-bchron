@@ -62,7 +62,7 @@ cm #unit
 0 #d.R
 0 #d.STD
 0.95 #prob
-",FALSE,30,-68.22387,-68.22341,20,0,0
+",FALSE,30,-68.22387,-68.22341,20,0,1
 14674,9889,"Blackwoods Hollow",31444,"Radiocarbon",2980,33.25,11950,120,2930,3030,"Neotoma 1","Based on IntCal13 calibration curve.
 
 Bacon command line: Bacon(""BLKWOODS"",thick=3,acc.mean=50,depths.file=TRUE)

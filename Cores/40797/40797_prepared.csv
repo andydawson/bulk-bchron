@@ -1,6 +1,6 @@
 "datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
 40797,23582,"Blaney's Pond",79453,"Core top",-54,0,13590,-50,-54,-54,"Oswald et al. 2018","Bchron age model based on IntCal13 calibration curve.",FALSE,5,-70.76706,-70.76428,32,0,1
-40797,23582,"Blaney's Pond",79454,"European settlement horizon",266,34.5,13590,-50,266,266,"Oswald et al. 2018","Bchron age model based on IntCal13 calibration curve.",FALSE,5,-70.76706,-70.76428,50,0,0
+40797,23582,"Blaney's Pond",79454,"European settlement horizon",266,34.5,13590,-50,266,266,"Oswald et al. 2018","Bchron age model based on IntCal13 calibration curve.",FALSE,5,-70.76706,-70.76428,50,0,1
 40797,23582,"Blaney's Pond",79455,"Lead-210",83,16.5,13590,-50,83,83,"Oswald et al. 2018","Bchron age model based on IntCal13 calibration curve.",FALSE,5,-70.76706,-70.76428,18,0,1
 40797,23582,"Blaney's Pond",79456,"Radiocarbon",2140,131.5,13590,-50,2095,2185,"Oswald et al. 2018","Bchron age model based on IntCal13 calibration curve.",FALSE,5,-70.76706,-70.76428,45,1,1
 40797,23582,"Blaney's Pond",79457,"Radiocarbon",2520,195.5,13590,-50,2485,2555,"Oswald et al. 2018","Bchron age model based on IntCal13 calibration curve.",FALSE,5,-70.76706,-70.76428,35,1,1

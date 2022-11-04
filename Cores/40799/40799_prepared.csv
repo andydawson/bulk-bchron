@@ -1,7 +1,7 @@
 "datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
 40799,23583,"Blood Pond",79474,"Core top",-51,0,14950,-50,-51,-51,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,212,-71.96321,-71.95889,32,0,1
 40799,23583,"Blood Pond",79475,"Lead-210",68,44.5,14950,-50,68,68,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,212,-71.96321,-71.95889,18,0,1
-40799,23583,"Blood Pond",79476,"European settlement horizon",236,96.5,14950,-50,236,236,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,212,-71.96321,-71.95889,50,0,0
+40799,23583,"Blood Pond",79476,"European settlement horizon",236,96.5,14950,-50,236,236,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,212,-71.96321,-71.95889,50,0,1
 40799,23583,"Blood Pond",79477,"Radiocarbon",1380,135.5,14950,-50,1340,1420,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,212,-71.96321,-71.95889,40,1,1
 40799,23583,"Blood Pond",79478,"Radiocarbon",1990,181.5,14950,-50,1930,2050,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,212,-71.96321,-71.95889,60,1,1
 40799,23583,"Blood Pond",79479,"Radiocarbon",3280,260.5,14950,-50,3240,3320,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,212,-71.96321,-71.95889,40,1,1

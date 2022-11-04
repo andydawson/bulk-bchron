@@ -60,7 +60,7 @@ cm #unit
 4 #t.b
 0 #d.R
 0 #d.STD
-0.95 #prob",FALSE,2,-70.67,-70.66608,1,0,0
+0.95 #prob",FALSE,2,-70.67,-70.66608,1,0,1
 39192,22563,"Muddy Cove Pond",76966,"Core top",-40,0,1290,-50,-45,-35,"Neotom 1","Age model based on IntCal13 calibration curve.
 
 Bacon command line: Bacon('MUDDYCV',d.max=93,depths.file=TRUE)
