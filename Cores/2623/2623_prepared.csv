@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2623,2533,"Szabo Pond",6927,"Core top",-25,100,11150,-30,-25,-5,"NAPD 2","Chron uses top, Ambrosia rise and two C14 dates (C14 date QL-964 excluded).",TRUE,29,-74.48333,40.4,10,0,1
+2623,2533,"Szabo Pond",6928,"Biostratigraphic, pollen",400,117.5,11150,-30,300,500,"NAPD 2","Chron uses top, Ambrosia rise and two C14 dates (C14 date QL-964 excluded).",TRUE,29,-74.48333,40.4,100,0,0
+2623,2533,"Szabo Pond",6929,"Radiocarbon",8515,162.5,11150,-30,8345,8685,"NAPD 2","Chron uses top, Ambrosia rise and two C14 dates (C14 date QL-964 excluded).",TRUE,29,-74.48333,40.4,170,1,1
+2623,2533,"Szabo Pond",6930,"Radiocarbon",11950,205,11150,-30,11750,12150,"NAPD 2","Chron uses top, Ambrosia rise and two C14 dates (C14 date QL-964 excluded).",TRUE,29,-74.48333,40.4,200,1,1

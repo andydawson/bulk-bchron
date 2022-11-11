@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1666,1614,"Lost Lake",4367,"Core top",-35,0,9420,-40,-35,0,"Whitlock 1989","Chron uses surface and 4 AMS dates.",TRUE,1019,-110.49772,-110.47096,17.5,0,1
+1666,1614,"Lost Lake",4368,"Radiocarbon",5460,481,9420,-40,5230,5690,"Whitlock 1989","Chron uses surface and 4 AMS dates.",TRUE,1019,-110.49772,-110.47096,230,1,1
+1666,1614,"Lost Lake",4369,"Radiocarbon",7585,968.5,9420,-40,7345,7825,"Whitlock 1989","Chron uses surface and 4 AMS dates.",TRUE,1019,-110.49772,-110.47096,240,1,1
+1666,1614,"Lost Lake",4370,"Radiocarbon",8965,1517,9420,-40,8705,9225,"Whitlock 1989","Chron uses surface and 4 AMS dates.",TRUE,1019,-110.49772,-110.47096,260,1,1
+1666,1614,"Lost Lake",4371,"Radiocarbon",9235,1590,9420,-40,8935,9535,"Whitlock 1989","Chron uses surface and 4 AMS dates.",TRUE,1019,-110.49772,-110.47096,300,1,1

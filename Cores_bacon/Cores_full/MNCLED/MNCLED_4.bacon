@@ -1,0 +1,14 @@
+## Ran on Sun Aug 14 18:24:00 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -20, 5, 0,  0,  0,  3,  4,  0;
+Det 1 : Ambrosia rise , 60, 10, 32,  0,  0,  3,  4,  0;
+Det 2 : NA , 60, 1e+05, 49,  0,  0,  3,  4,  0;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 4,  -72,  1e+06,  -17,  -9,  5,  5,  0.9,  0.18, 0, 80, 84920;

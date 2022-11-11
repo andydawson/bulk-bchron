@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2262,2187,"L'Anse aux Meadows Road Cut Bog",5945,"Core top",-32,0,6280,-10,-32,-12,"NAPD 1","Chron uses top and two C14 dates plus top.",TRUE,0,-55.53,51.6,10,0,1
+2262,2187,"L'Anse aux Meadows Road Cut Bog",5946,"Radiocarbon",2375,82.5,6280,-10,2195,2555,"NAPD 1","Chron uses top and two C14 dates plus top.",TRUE,0,-55.53,51.6,180,1,1
+2262,2187,"L'Anse aux Meadows Road Cut Bog",5947,"Radiocarbon",6340,172.5,6280,-10,6090,6590,"NAPD 1","Chron uses top and two C14 dates plus top.",TRUE,0,-55.53,51.6,250,1,1

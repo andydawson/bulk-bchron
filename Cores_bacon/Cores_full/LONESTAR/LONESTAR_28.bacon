@@ -1,0 +1,27 @@
+## Ran on Sun Aug 14 18:32:17 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -52, 5, 0,  0,  0,  3,  4,  0;
+Det 1 : Pre-EuroAmerican settlement horizon , 43, 50, 17.5,  0,  0,  3,  4,  0;
+Det 2 : OS-62772 , 745, 30, 39,  0,  0,  3,  4,  1;
+Det 3 : Beta216076 , 910, 40, 50.5,  0,  0,  3,  4,  1;
+Det 4 : AA-64662 , 1334, 46, 69.5,  0,  0,  3,  4,  1;
+Det 5 : OS-62760 , 1430, 35, 89,  0,  0,  3,  4,  1;
+Det 6 : OS-57496 , 1450, 40, 104,  0,  0,  3,  4,  1;
+Det 7 : OS-62732 , 1930, 35, 134,  0,  0,  3,  4,  1;
+Det 8 : AA-64663 , 2288, 48, 144.5,  0,  0,  3,  4,  1;
+Det 9 : OS-62573 , 2450, 45, 164,  0,  0,  3,  4,  1;
+Det 10 : OS-62733 , 2840, 35, 197,  0,  0,  3,  4,  1;
+Det 11 : OS-62734 , 3710, 40, 264,  0,  0,  3,  4,  1;
+
+### Depths and priors for fixed hiatuses, in descending order 
+##### cm  alpha beta      ha     hb
+Hiatus 0:  17.5,  0.9,  0.045,  0.1,  10;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 28,  -207,  1e+06,  -52,  -55,  5,  5,  0.53,  0.175496688741722, 0, 280, 506190;

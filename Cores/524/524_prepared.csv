@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+524,511,"Cristal Lake",1570,"Core top",0,260,7010,6020,-40,40,"NAPD 1","2 C14 dates and inferred top.",TRUE,355,-90.08333,52.11667,40,0,1
+524,511,"Cristal Lake",1571,"Radiocarbon",6370,762.5,7010,6020,6230,6510,"NAPD 1","2 C14 dates and inferred top.",TRUE,355,-90.08333,52.11667,140,1,1
+524,511,"Cristal Lake",1572,"Radiocarbon",6720,788.5,7010,6020,6560,6880,"NAPD 1","2 C14 dates and inferred top.",TRUE,355,-90.08333,52.11667,160,1,1

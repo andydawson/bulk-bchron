@@ -1,0 +1,151 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14794,9943,"Two Frog Lake",31599,"Core top",-52,0,14430,-50,-53,-51,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TWOFROG',depths.file=TRUE)
+
+0 #d.min
+445 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-127.53633,-127.53174,1,0,1
+14794,9943,"Two Frog Lake",31600,"Radiocarbon",2210,81,14430,-50,2170,2250,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TWOFROG',depths.file=TRUE)
+
+0 #d.min
+445 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-127.53633,-127.53174,40,1,1
+14794,9943,"Two Frog Lake",31601,"Radiocarbon",7550,293,14430,-50,7480,7620,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TWOFROG',depths.file=TRUE)
+
+0 #d.min
+445 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-127.53633,-127.53174,70,1,1
+14794,9943,"Two Frog Lake",31602,"Radiocarbon",8620,310,14430,-50,8580,8660,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TWOFROG',depths.file=TRUE)
+
+0 #d.min
+445 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-127.53633,-127.53174,40,1,1
+14794,9943,"Two Frog Lake",31603,"Radiocarbon",11040,445,14430,-50,10990,11090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TWOFROG',depths.file=TRUE)
+
+0 #d.min
+445 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-127.53633,-127.53174,50,1,1

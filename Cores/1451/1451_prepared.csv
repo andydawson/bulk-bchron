@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1451,1414,"Lac Kénogami",3566,"Core top",0,0,7450,130,0,0,"NAPD 1",NA,TRUE,166,-71.56694,48.36583,32,0,1
+1451,1414,"Lac Kénogami",3567,"Radiocarbon",4600,365,7450,130,4505,4695,"NAPD 1",NA,TRUE,166,-71.56694,48.36583,95,1,1
+1451,1414,"Lac Kénogami",3568,"Radiocarbon",7630,695,7450,130,7510,7750,"NAPD 1",NA,TRUE,166,-71.56694,48.36583,120,1,1

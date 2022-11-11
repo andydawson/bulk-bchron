@@ -1,0 +1,26 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14768,491,"Conroy Lake",31560,"Radiocarbon",9090,596,12930,9220,9005,9175,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CONROYME',depths.file=TRUE)
+
+Bacon settings:",FALSE,137,-67.88333,46.28333,85,1,1
+14768,491,"Conroy Lake",31561,"Radiocarbon",10070,605,12930,9220,10010,10130,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CONROYME',depths.file=TRUE)
+
+Bacon settings:",FALSE,137,-67.88333,46.28333,60,1,1
+14768,491,"Conroy Lake",31562,"Radiocarbon",10450,618,12930,9220,10360,10540,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CONROYME',depths.file=TRUE)
+
+Bacon settings:",FALSE,137,-67.88333,46.28333,90,1,1
+14768,491,"Conroy Lake",31563,"Radiocarbon",10680,675,12930,9220,10590,10770,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CONROYME',depths.file=TRUE)
+
+Bacon settings:",FALSE,137,-67.88333,46.28333,90,1,1
+14768,491,"Conroy Lake",31564,"Radiocarbon",11135,682,12930,9220,11025,11245,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CONROYME',depths.file=TRUE)
+
+Bacon settings:",FALSE,137,-67.88333,46.28333,110,1,1

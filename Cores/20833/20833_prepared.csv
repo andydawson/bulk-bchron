@@ -1,0 +1,321 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20833,13680,"Chihuahueños Bog",84225,"Core top",-55,0,12100,-50,-60,-50,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,5,0,1
+20833,13680,"Chihuahueños Bog",84226,"Isotopic excursion",-13,6,12100,-50,-15,-11,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,2,0,0
+20833,13680,"Chihuahueños Bog",84227,"Radiocarbon",990,56,12100,-50,950,1030,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,40,1,1
+20833,13680,"Chihuahueños Bog",84228,"Radiocarbon",1840,103,12100,-50,1770,1910,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,70,1,1
+20833,13680,"Chihuahueños Bog",84229,"Radiocarbon",4290,164,12100,-50,4220,4360,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,70,1,1
+20833,13680,"Chihuahueños Bog",84230,"Radiocarbon",8130,188.5,12100,-50,8090,8170,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,40,1,1
+20833,13680,"Chihuahueños Bog",84231,"Radiocarbon",9100,220.5,12100,-50,9039,9161,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,61,1,1
+20833,13680,"Chihuahueños Bog",84232,"Radiocarbon",11850,345,12100,-50,11770,11930,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,80,1,1
+20833,13680,"Chihuahueños Bog",84233,"Lead-210",60,17,12100,-50,45,75,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,15,0,1
+20833,13680,"Chihuahueños Bog",84234,"Lead-210",85,21,12100,-50,62,108,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""CHIHUAHU"",thick=5,acc.mean=30,d.max=444,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+443.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2925,-106.51142,-106.50963,23,0,1

@@ -1,0 +1,760 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+48740,27248,"Dune Pond",106450,"Radiocarbon",1895,133,5070,-60,1865,1925,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,30,1,1
+48740,27248,"Dune Pond",106447,"European settlement horizon",164,77,5070,-60,144,184,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,20,0,1
+48740,27248,"Dune Pond",106449,"Radiocarbon",3294,268.5,5070,-60,3195,3393,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,99,1,1
+48740,27248,"Dune Pond",106442,"Isotopic excursion",-13,11.5,5070,-60,-14,-12,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,1,0,0
+48740,27248,"Dune Pond",106448,"Cultural",157,55,5070,-60,137,177,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,20,0,0
+48740,27248,"Dune Pond",106446,"Cultural",85,44,5070,-60,75,95,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,10,0,0
+48740,27248,"Dune Pond",106445,"Biostratigraphic, pollen",80,36,5070,-60,70,90,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,10,0,0
+48740,27248,"Dune Pond",106443,"Cultural",20,16,5070,-60,15,25,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,5,0,0
+48740,27248,"Dune Pond",106444,"Cultural",45,34,5070,-60,40,50,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,5,0,0
+48740,27248,"Dune Pond",106441,"Core top",-62,0,5070,-60,-63,-61,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,1,0,1
+48740,27248,"Dune Pond",106451,"Radiocarbon",4388,380.5,5070,-60,4313,4463,"SKOPE","Based on IntCal20 calibration curve.
+
+OxCal code:
+
+ Options()
+ {
+  BCAD=FALSE;
+  Curve(""intcal20.14c"",""intcal20.14c"");
+  SD1=FALSE;
+  SD2=TRUE;
+ };
+ Plot()
+ {
+  Outlier_Model(""General"", T(5), U(0,4),""t"");
+  P_Sequence(""DUNEPOND"",1,0.2,U(-2,2))
+  {
+   Boundary(""Bottom"")
+   {
+    z=387.75;
+   };
+   R_Date(""DAMS-001751"",4388,75)
+   {
+    z=380.5;
+    Outlier(0.05);
+   };
+   R_Date(""DAMS-001750"",3294,99)
+   {
+    z=268.5;
+    Outlier(0.05);
+   };
+   R_Date(""UCIAMS-11562"",1895,30)
+   {
+    z=133;
+    Outlier(0.05);
+   };
+   C_Date(""European settlement horizon"",164,20)
+   {
+    z=77;
+   };
+   C_Date(""charcoal decline"",157,20)
+   {
+    z=55;
+   };
+   C_Date(""fly ash appearance"",85,10)
+   {
+    z=44;
+   };
+   C_Date(""Eucalyptus rise"",80,10)
+   {
+    z=36;
+   };
+   C_Date(""fly ash increase"",45,5)
+   {
+    z=34;
+   };
+   C_Date(""fly ash decline"",20,5)
+   {
+    z=16;
+   };
+   C_Date(""Plutonium-239+240"",-13,1)
+   {
+    z=11.5;
+   };
+   Boundary(""Top"", C_Date(-62,1))
+   {
+    z=0;
+   };
+  };
+ };",FALSE,5,-119.88259,-119.88259,75,1,1

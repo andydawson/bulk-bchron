@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+721,701,"Donut Pond Bog",1973,"Core top",-30,0,500,-30,-38,0,"NAPD 1","Chron uses surface (-30 BP), European settlement horizon (320 BP), and an estimated basal date of 500 BP.",TRUE,4,-70.05833,41.275,19,0,0
+721,701,"Donut Pond Bog",1974,"Biostratigraphic, pollen",320,84,500,-30,270,370,"NAPD 1","Chron uses surface (-30 BP), European settlement horizon (320 BP), and an estimated basal date of 500 BP.",TRUE,4,-70.05833,41.275,50,0,0
+721,701,"Donut Pond Bog",1975,"Biostratigraphic, pollen",500,148,500,-30,450,550,"NAPD 1","Chron uses surface (-30 BP), European settlement horizon (320 BP), and an estimated basal date of 500 BP.",TRUE,4,-70.05833,41.275,50,0,0

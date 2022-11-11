@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+306,300,"Lac Boucané",733,"Core top",0,0,9040,430,0,0,"NAPD 1",NA,TRUE,500,-69.45278,47.45778,32,0,1
+306,300,"Lac Boucané",734,"Radiocarbon",4670,107.5,9040,430,4540,4800,"NAPD 1",NA,TRUE,500,-69.45278,47.45778,130,1,1
+306,300,"Lac Boucané",735,"Radiocarbon",7170,189.5,9040,430,7050,7290,"NAPD 1",NA,TRUE,500,-69.45278,47.45778,120,1,1
+306,300,"Lac Boucané",736,"Radiocarbon",9140,253.5,9040,430,9020,9260,"NAPD 1",NA,TRUE,500,-69.45278,47.45778,120,1,1

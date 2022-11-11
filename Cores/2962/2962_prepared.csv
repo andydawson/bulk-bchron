@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2962,2865,"Wild Spear Lake",7489,"Core top",-30,0,10200,-30,-30,0,"NAPD 1",NA,TRUE,880,-114.15,59.25,15,0,1
+2962,2865,"Wild Spear Lake",7490,"Radiocarbon",1850,21.5,10200,-30,1790,1910,"NAPD 1",NA,TRUE,880,-114.15,59.25,60,1,1
+2962,2865,"Wild Spear Lake",7491,"Radiocarbon",5630,68,10200,-30,5560,5700,"NAPD 1",NA,TRUE,880,-114.15,59.25,70,1,1
+2962,2865,"Wild Spear Lake",7492,"Radiocarbon",7870,96,10200,-30,7780,7960,"NAPD 1",NA,TRUE,880,-114.15,59.25,90,1,1
+2962,2865,"Wild Spear Lake",7493,"Radiocarbon",10200,261.5,10200,-30,9710,10690,"NAPD 1",NA,TRUE,880,-114.15,59.25,490,1,1

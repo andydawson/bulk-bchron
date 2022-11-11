@@ -1,0 +1,233 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+21800,14044,"Grassy Lake",45976,"Radiocarbon",91,31.5,870,-70,66,116,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon settings: 
+0 #d.min
+220 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+10 0.5 10 0.5 10 0.5 10 #acc.mean
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+86 95 104 113 168 179 #hiatus.depths
+5 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,104,-89.38734,-89.37039,25,1,1
+21800,14044,"Grassy Lake",45977,"Radiocarbon",120,92.5,870,-70,92,148,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon settings: 
+0 #d.min
+220 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+10 0.5 10 0.5 10 0.5 10 #acc.mean
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+86 95 104 113 168 179 #hiatus.depths
+5 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,104,-89.38734,-89.37039,28,1,1
+21800,14044,"Grassy Lake",45978,"Radiocarbon",309,110,870,-70,284,334,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon settings: 
+0 #d.min
+220 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+10 0.5 10 0.5 10 0.5 10 #acc.mean
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+86 95 104 113 168 179 #hiatus.depths
+5 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,104,-89.38734,-89.37039,25,1,1
+21800,14044,"Grassy Lake",45979,"Radiocarbon",736,120,870,-70,709,763,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon settings: 
+0 #d.min
+220 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+10 0.5 10 0.5 10 0.5 10 #acc.mean
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+86 95 104 113 168 179 #hiatus.depths
+5 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,104,-89.38734,-89.37039,27,1,1
+21800,14044,"Grassy Lake",45980,"Radiocarbon",423,146,870,-70,397,449,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon settings: 
+0 #d.min
+220 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+10 0.5 10 0.5 10 0.5 10 #acc.mean
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+86 95 104 113 168 179 #hiatus.depths
+5 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,104,-89.38734,-89.37039,26,1,1
+21800,14044,"Grassy Lake",45981,"Radiocarbon",936,202,870,-70,912,960,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon settings: 
+0 #d.min
+220 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+10 0.5 10 0.5 10 0.5 10 #acc.mean
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+86 95 104 113 168 179 #hiatus.depths
+5 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,104,-89.38734,-89.37039,24,1,1
+21800,14044,"Grassy Lake",45982,"Core top",-63,0,870,-70,-64,-62,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon settings: 
+0 #d.min
+220 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+10 0.5 10 0.5 10 0.5 10 #acc.mean
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+86 95 104 113 168 179 #hiatus.depths
+5 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,104,-89.38734,-89.37039,1,0,1
+21800,14044,"Grassy Lake",45983,"Ambrosia rise",150,36,870,-70,100,200,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon settings: 
+0 #d.min
+220 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+10 0.5 10 0.5 10 0.5 10 #acc.mean
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+86 95 104 113 168 179 #hiatus.depths
+5 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,104,-89.38734,-89.37039,50,0,1

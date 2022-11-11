@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1754,1698,"Lac Mimi",4741,"Core top",0,0,10930,960,0,0,"NAPD 1","Basal date of 11500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,423,-70.37583,47.49694,32,0,1
+1754,1698,"Lac Mimi",4742,"Radiocarbon",7700,405,10930,960,7570,7830,"NAPD 1","Basal date of 11500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,423,-70.37583,47.49694,130,1,1
+1754,1698,"Lac Mimi",4743,"Radiocarbon",9460,430,10930,960,9180,9740,"NAPD 1","Basal date of 11500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,423,-70.37583,47.49694,280,1,1
+1754,1698,"Lac Mimi",4744,"Radiocarbon",9770,475,10930,960,9510,10030,"NAPD 1","Basal date of 11500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,423,-70.37583,47.49694,260,1,1
+1754,1698,"Lac Mimi",4745,"Radiocarbon",9945,485,10930,960,9720,10170,"NAPD 1","Basal date of 11500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,423,-70.37583,47.49694,225,1,1
+1754,1698,"Lac Mimi",4746,"Radiocarbon",11050,507.5,10930,960,10590,11510,"NAPD 1","Basal date of 11500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,423,-70.37583,47.49694,460,1,1
+1754,1698,"Lac Mimi",4747,"Deglaciation",11500,530,10930,960,11000,12000,"NAPD 1","Basal date of 11500±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,423,-70.37583,47.49694,500,0,1

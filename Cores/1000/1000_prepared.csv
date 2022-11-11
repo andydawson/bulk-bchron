@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1000,969,"Hafichuk Site",2812,"Radiocarbon",10270,285,11700,10200,9970,10570,"NAPD 1 (radiocarbon years)","Chron based on 3 radiocarbon dates.",TRUE,740,-105.88389,50.32056,300,1,1
+1000,969,"Hafichuk Site",2813,"Radiocarbon",10630,390,11700,10200,10330,10930,"NAPD 1 (radiocarbon years)","Chron based on 3 radiocarbon dates.",TRUE,740,-105.88389,50.32056,300,1,1
+1000,969,"Hafichuk Site",2814,"Radiocarbon",11650,495,11700,10200,11350,11950,"NAPD 1 (radiocarbon years)","Chron based on 3 radiocarbon dates.",TRUE,740,-105.88389,50.32056,300,1,1

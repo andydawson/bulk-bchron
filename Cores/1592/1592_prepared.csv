@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1592,1551,"Lake EC2",3867,"Core top",-40,0,5930,40,-40,0,"NAPD 1 (radiocarbon years)",NA,TRUE,300,-74.945,56.02333,20,0,1
+1592,1551,"Lake EC2",3868,"Radiocarbon",3530,41,5930,40,3450,3610,"NAPD 1 (radiocarbon years)",NA,TRUE,300,-74.945,56.02333,80,1,1
+1592,1551,"Lake EC2",3869,"Radiocarbon",3900,74.5,5930,40,3820,3980,"NAPD 1 (radiocarbon years)",NA,TRUE,300,-74.945,56.02333,80,1,1
+1592,1551,"Lake EC2",3870,"Radiocarbon",4920,125,5930,40,4820,5020,"NAPD 1 (radiocarbon years)",NA,TRUE,300,-74.945,56.02333,100,1,1
+1592,1551,"Lake EC2",3871,"Radiocarbon",5610,157.5,5930,40,5510,5710,"NAPD 1 (radiocarbon years)",NA,TRUE,300,-74.945,56.02333,100,1,1

@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+821,798,"Tourbière de Farnham",2284,"Core top",0,0,8350,0,0,0,"BDPMQ 1","Chron uses top (0 BP) and 4 radiocarbon dates.",TRUE,53,-72.98278,45.28278,32,0,1
+821,798,"Tourbière de Farnham",2285,"Radiocarbon",5145,79.5,8350,0,4945,5345,"BDPMQ 1","Chron uses top (0 BP) and 4 radiocarbon dates.",TRUE,53,-72.98278,45.28278,200,1,1
+821,798,"Tourbière de Farnham",2286,"Radiocarbon",6545,104.5,8350,0,6435,6655,"BDPMQ 1","Chron uses top (0 BP) and 4 radiocarbon dates.",TRUE,53,-72.98278,45.28278,110,1,1
+821,798,"Tourbière de Farnham",2287,"Radiocarbon",7260,127.5,8350,0,7100,7420,"BDPMQ 1","Chron uses top (0 BP) and 4 radiocarbon dates.",TRUE,53,-72.98278,45.28278,160,1,1
+821,798,"Tourbière de Farnham",2288,"Radiocarbon",8150,175.5,8350,0,8000,8300,"BDPMQ 1","Chron uses top (0 BP) and 4 radiocarbon dates.",TRUE,53,-72.98278,45.28278,150,1,1

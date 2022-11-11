@@ -1,0 +1,21 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+22244,14225,"Quidi Vidi Lake",46961,"Lead-210",7,3,170,0,6,8,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,1,0,1
+22244,14225,"Quidi Vidi Lake",46962,"Lead-210",11,5,170,0,9,13,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,2,0,1
+22244,14225,"Quidi Vidi Lake",46963,"Lead-210",15.2,7,170,0,13.2,17.2,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,2,0,1
+22244,14225,"Quidi Vidi Lake",46964,"Lead-210",18.1,9,170,0,16.1,20.1,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,2,0,1
+22244,14225,"Quidi Vidi Lake",46965,"Lead-210",23,11,170,0,20,26,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,3,0,1
+22244,14225,"Quidi Vidi Lake",46966,"Lead-210",29,13,170,0,26,32,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,3,0,1
+22244,14225,"Quidi Vidi Lake",46967,"Lead-210",33,15,170,0,29,37,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,4,0,1
+22244,14225,"Quidi Vidi Lake",46968,"Lead-210",37,17,170,0,33,41,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,4,0,1
+22244,14225,"Quidi Vidi Lake",46969,"Lead-210",40,19,170,0,36,44,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,4,0,1
+22244,14225,"Quidi Vidi Lake",46970,"Lead-210",43.3,21,170,0,38.3,48.3,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,5,0,1
+22244,14225,"Quidi Vidi Lake",46972,"Lead-210",50.8,25.5,170,0,45.8,55.8,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,5,0,1
+22244,14225,"Quidi Vidi Lake",46973,"Lead-210",55.3,28,170,0,50.3,60.3,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,5,0,1
+22244,14225,"Quidi Vidi Lake",46974,"Lead-210",59.4,30,170,0,54.4,64.4,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,5,0,1
+22244,14225,"Quidi Vidi Lake",46975,"Lead-210",68.3,34,170,0,63.3,73.3,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,5,0,1
+22244,14225,"Quidi Vidi Lake",46976,"Lead-210",78.8,38,170,0,72.8,84.8,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,6,0,1
+22244,14225,"Quidi Vidi Lake",46977,"Lead-210",85.2,40,170,0,78.2,92.2,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,7,0,1
+22244,14225,"Quidi Vidi Lake",46978,"Lead-210",109.5,46,170,0,96.5,122.5,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,13,0,1
+22244,14225,"Quidi Vidi Lake",46979,"Lead-210",129,48.5,170,0,115,143,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,14,0,1
+22244,14225,"Quidi Vidi Lake",46980,"Lead-210",161,52.5,170,0,147,175,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,14,0,1
+22244,14225,"Quidi Vidi Lake",46981,"Core top",-42,0,170,0,-42,-42,"Neotoma 1",NA,FALSE,13,-52.7,-52.67944,32,0,1

@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+209,208,"Lac à l'Ange",193,"Core top",0,0,10560,0,0,0,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,648,-70.68472,47.48167,32,0,1
+209,208,"Lac à l'Ange",194,"Radiocarbon",885,95,10560,0,725,1045,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,648,-70.68472,47.48167,160,1,1
+209,208,"Lac à l'Ange",195,"Radiocarbon",2575,195,10560,0,2410,2740,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,648,-70.68472,47.48167,165,1,1
+209,208,"Lac à l'Ange",196,"Radiocarbon",4365,295,10560,0,4195,4535,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,648,-70.68472,47.48167,170,1,1
+209,208,"Lac à l'Ange",197,"Radiocarbon",6410,395,10560,0,6195,6625,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,648,-70.68472,47.48167,215,1,1
+209,208,"Lac à l'Ange",198,"Radiocarbon",9560,495.5,10560,0,9315,9805,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,648,-70.68472,47.48167,245,1,1
+209,208,"Lac à l'Ange",199,"Radiocarbon",10710,503,10560,0,10495,10925,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,648,-70.68472,47.48167,215,1,1
+209,208,"Lac à l'Ange",200,"Deglaciation",11000,565,10560,0,10500,11500,"NAPD 1","Basal date of 11000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,648,-70.68472,47.48167,500,0,1

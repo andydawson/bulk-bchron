@@ -1,0 +1,161 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14944,9997,"Fracas Lake",87421,"Core top",-45,100,13550,50,-50,-40,"SKOPE","Based on IntCal13 calibration curve. I hiatus was set at 365.5 cm to provide for the kink in accumulation rate.
+
+Bacon command lilne:
+Bacon(""FRACAS"",thick=10,acc.mean=c(30,10),hiatus.depths=365.5,hiatus.mean=2,d.max=600,depths.file=TRUE)
+
+Bacon settings file:
+100 #d.min
+580.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2512,-112.23885,-112.23834,5,0,1
+14944,9997,"Fracas Lake",87422,"Radiocarbon",2070,206.5,13550,50,2020,2120,"SKOPE","Based on IntCal13 calibration curve. I hiatus was set at 365.5 cm to provide for the kink in accumulation rate.
+
+Bacon command lilne:
+Bacon(""FRACAS"",thick=10,acc.mean=c(30,10),hiatus.depths=365.5,hiatus.mean=2,d.max=600,depths.file=TRUE)
+
+Bacon settings file:
+100 #d.min
+580.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2512,-112.23885,-112.23834,50,1,1
+14944,9997,"Fracas Lake",87423,"Radiocarbon",5950,265.5,13550,50,5880,6020,"SKOPE","Based on IntCal13 calibration curve. I hiatus was set at 365.5 cm to provide for the kink in accumulation rate.
+
+Bacon command lilne:
+Bacon(""FRACAS"",thick=10,acc.mean=c(30,10),hiatus.depths=365.5,hiatus.mean=2,d.max=600,depths.file=TRUE)
+
+Bacon settings file:
+100 #d.min
+580.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2512,-112.23885,-112.23834,70,1,1
+14944,9997,"Fracas Lake",87424,"Radiocarbon",9840,365.5,13550,50,9770,9910,"SKOPE","Based on IntCal13 calibration curve. I hiatus was set at 365.5 cm to provide for the kink in accumulation rate.
+
+Bacon command lilne:
+Bacon(""FRACAS"",thick=10,acc.mean=c(30,10),hiatus.depths=365.5,hiatus.mean=2,d.max=600,depths.file=TRUE)
+
+Bacon settings file:
+100 #d.min
+580.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2512,-112.23885,-112.23834,70,1,1
+14944,9997,"Fracas Lake",87425,"Radiocarbon",11320,580.5,13550,50,11260,11380,"SKOPE","Based on IntCal13 calibration curve. I hiatus was set at 365.5 cm to provide for the kink in accumulation rate.
+
+Bacon command lilne:
+Bacon(""FRACAS"",thick=10,acc.mean=c(30,10),hiatus.depths=365.5,hiatus.mean=2,d.max=600,depths.file=TRUE)
+
+Bacon settings file:
+100 #d.min
+580.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2512,-112.23885,-112.23834,60,1,1

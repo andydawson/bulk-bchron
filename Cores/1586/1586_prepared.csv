@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1586,1546,"Lake B",3825,"Core top",0,0,10000,0,-20,20,"COHMAP chron 1","Chenopod rise in top 2 samples, 1 C-14 date. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,553,-106.07917,53.8,20,0,1
+1586,1546,"Lake B",3826,"Biostratigraphic, pollen",50,20,10000,0,30,70,"COHMAP chron 1","Chenopod rise in top 2 samples, 1 C-14 date. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,553,-106.07917,53.8,20,0,0
+1586,1546,"Lake B",3827,"Radiocarbon",10260,500,10000,0,10090,10430,"COHMAP chron 1","Chenopod rise in top 2 samples, 1 C-14 date. Age bounds for application of the model: top = 0; bottom = 10000.",TRUE,553,-106.07917,53.8,170,1,1

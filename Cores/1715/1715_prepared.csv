@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1715,1659,"Wapizagonke",4631,"Core top",0,0,9730,770,0,0,"NAPD 1",NA,TRUE,230,-73.03056,46.72639,32,0,1
+1715,1659,"Wapizagonke",4632,"Radiocarbon",6030,395,9730,770,5895,6165,"NAPD 1",NA,TRUE,230,-73.03056,46.72639,135,1,1
+1715,1659,"Wapizagonke",4633,"Radiocarbon",9730,565,9730,770,9590,9870,"NAPD 1",NA,TRUE,230,-73.03056,46.72639,140,1,1

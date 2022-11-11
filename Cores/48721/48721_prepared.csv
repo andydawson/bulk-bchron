@@ -1,0 +1,204 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+48721,27244,"Emile Lake",106367,"Radiocarbon",580,19,9870,-70,565,595,"Gaboriau et al. 2020","Based on IntCal13 calibration curve. The age at 0 cm was adjusted to the collecton year.
+
+Bacon settings file:
+0 #d.min
+456 #d.max
+0.5 #d.by
+0 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+1 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,393,-114.10713,-114.10713,15,1,1
+48721,27244,"Emile Lake",106368,"Radiocarbon",1250,56,9870,-70,1235,1265,"Gaboriau et al. 2020","Based on IntCal13 calibration curve. The age at 0 cm was adjusted to the collecton year.
+
+Bacon settings file:
+0 #d.min
+456 #d.max
+0.5 #d.by
+0 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+1 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,393,-114.10713,-114.10713,15,1,1
+48721,27244,"Emile Lake",106369,"Radiocarbon",3120,163,9870,-70,3105,3135,"Gaboriau et al. 2020","Based on IntCal13 calibration curve. The age at 0 cm was adjusted to the collecton year.
+
+Bacon settings file:
+0 #d.min
+456 #d.max
+0.5 #d.by
+0 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+1 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,393,-114.10713,-114.10713,15,1,1
+48721,27244,"Emile Lake",106370,"Radiocarbon",3695,200,9870,-70,3680,3710,"Gaboriau et al. 2020","Based on IntCal13 calibration curve. The age at 0 cm was adjusted to the collecton year.
+
+Bacon settings file:
+0 #d.min
+456 #d.max
+0.5 #d.by
+0 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+1 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,393,-114.10713,-114.10713,15,1,1
+48721,27244,"Emile Lake",106371,"Radiocarbon",6980,382,9870,-70,6960,7000,"Gaboriau et al. 2020","Based on IntCal13 calibration curve. The age at 0 cm was adjusted to the collecton year.
+
+Bacon settings file:
+0 #d.min
+456 #d.max
+0.5 #d.by
+0 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+1 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,393,-114.10713,-114.10713,20,1,1
+48721,27244,"Emile Lake",106372,"Radiocarbon",8750,448,9870,-70,8730,8770,"Gaboriau et al. 2020","Based on IntCal13 calibration curve. The age at 0 cm was adjusted to the collecton year.
+
+Bacon settings file:
+0 #d.min
+456 #d.max
+0.5 #d.by
+0 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+1 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,393,-114.10713,-114.10713,20,1,1
+48721,27244,"Emile Lake",106373,"Radiocarbon",4755,294,9870,-70,4740,4770,"Gaboriau et al. 2020","Based on IntCal13 calibration curve. The age at 0 cm was adjusted to the collecton year.
+
+Bacon settings file:
+0 #d.min
+456 #d.max
+0.5 #d.by
+0 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+1 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,393,-114.10713,-114.10713,15,1,1

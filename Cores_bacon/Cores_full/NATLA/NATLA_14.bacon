@@ -1,0 +1,20 @@
+## Ran on Sun Aug 14 18:09:29 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : NA , 1250, 9400000, 0,  0,  0,  3,  4,  0;
+Det 1 : Tephra , 1250, 50, 10,  0,  0,  3,  4,  0;
+Det 2 : GSC-3176 , 2980, 50, 30,  0,  0,  3,  4,  1;
+Det 3 : GSC-3171 , 5450, 70, 90,  0,  0,  3,  4,  1;
+Det 4 : GSC-3169 , 7720, 90, 150,  0,  0,  3,  4,  1;
+Det 5 : GSC-3333 , 9400, 130, 200,  0,  0,  3,  4,  1;
+Det 6 : GSC-3383 , 8400, 80, 220,  0,  0,  3,  4,  1;
+Det 7 : GSC-3097 , 8630, 160, 230,  0,  0,  3,  4,  1;
+Det 8 : NA , 8630, 9.4e+09, 240,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 14,  -72,  1e+06,  1323,  1218,  5,  5,  0.9,  0.09, 0, 280, 927359;

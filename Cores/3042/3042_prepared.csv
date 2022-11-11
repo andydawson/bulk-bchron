@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+3042,2944,"Wylde Lake",7615,"Core top",-30,0,12460,-30,-30,-10,"NAPD 1","Chron uses top, Ambrosia rise and three C14 dates.",TRUE,484,-80.4,43.91,10,0,1
+3042,2944,"Wylde Lake",7616,"Biostratigraphic, pollen",150,35,12460,-30,100,150,"NAPD 1","Chron uses top, Ambrosia rise and three C14 dates.",TRUE,484,-80.4,43.91,25,0,0
+3042,2944,"Wylde Lake",7617,"Radiocarbon",4540,150,12460,-30,4380,4700,"NAPD 1","Chron uses top, Ambrosia rise and three C14 dates.",TRUE,484,-80.4,43.91,160,1,1
+3042,2944,"Wylde Lake",7618,"Radiocarbon",7140,335,12460,-30,6940,7340,"NAPD 1","Chron uses top, Ambrosia rise and three C14 dates.",TRUE,484,-80.4,43.91,200,1,1
+3042,2944,"Wylde Lake",7619,"Radiocarbon",10800,490,12460,-30,10440,11160,"NAPD 1","Chron uses top, Ambrosia rise and three C14 dates.",TRUE,484,-80.4,43.91,360,1,1

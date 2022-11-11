@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+39192,22563,"Muddy Cove Pond",76964,"Radiocarbon",1490,86.5,1290,-50,1440,1540,"Neotom 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MUDDYCV',d.max=93,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+93 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-70.67,-70.66608,50,1,1
+39192,22563,"Muddy Cove Pond",76965,"European settlement horizon",308,70,1290,-50,307,309,"Neotom 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MUDDYCV',d.max=93,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+93 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-70.67,-70.66608,1,0,1
+39192,22563,"Muddy Cove Pond",76966,"Core top",-40,0,1290,-50,-45,-35,"Neotom 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MUDDYCV',d.max=93,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+93 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-70.67,-70.66608,5,0,1

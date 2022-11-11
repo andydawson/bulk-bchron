@@ -1,0 +1,353 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+13032,8552,"Kimble Pond",18464,"Core top",-51,1550,12260,-50,-51,-51,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,32,0,1
+13032,8552,"Kimble Pond",18465,"Ambrosia rise",90,1905.5,12260,-50,70,100,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,15,0,1
+13032,8552,"Kimble Pond",18466,"Radiocarbon",1040,1974.5,12260,-50,990,1090,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,50,1,1
+13032,8552,"Kimble Pond",18467,"Radiocarbon",2150,2154.5,12260,-50,2070,2230,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,80,1,1
+13032,8552,"Kimble Pond",18468,"Radiocarbon",1995,2174,12260,-50,1960,2030,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,35,1,1
+13032,8552,"Kimble Pond",18469,"Radiocarbon",2270,2334.4,12260,-50,2210,2330,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,60,1,1
+13032,8552,"Kimble Pond",18470,"Radiocarbon",3890,2600.5,12260,-50,3840,3940,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,50,1,1
+13032,8552,"Kimble Pond",18471,"Radiocarbon",5590,2856,12260,-50,5540,5640,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,50,1,1
+13032,8552,"Kimble Pond",18472,"Radiocarbon",6620,2966.5,12260,-50,6570,6670,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,50,1,1
+13032,8552,"Kimble Pond",18473,"Radiocarbon",7910,3139,12260,-50,7860,7960,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,50,1,1
+13032,8552,"Kimble Pond",18474,"Radiocarbon",10570,3405,12260,-50,10520,10620,"Neotoma 1","Sediment accumulation rate is much higher above the Ambrosia rise, causing a major kink in the age-depth curve, and Bacon could not fit a reasonable age model if the surface age was included. Thus, for the Bacon age model, the top age was set to 90 cal BP at 1908 cm. The ages above 1908 cm were determined by linear interpolaton between the surface (1550 cm) and 1908 cm.
+
+The Bacon command line was:
+ Bacon('KIMBLE',thick=20,acc.mean=10,depths.file=TRUE)
+
+The Bacon settings file was:
+1908 #d.min
+3405 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,311,-93.842,-93.8383,50,1,1

@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2630,2540,"Taylor Creek Site 2",6960,"Core top",-45,0,540,-40,-45,-45,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.64389,25.20556,32,0,1
+2630,2540,"Taylor Creek Site 2",6961,"Lead-210",-10,5.5,540,-40,-15,-5,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.64389,25.20556,5,0,1
+2630,2540,"Taylor Creek Site 2",6962,"Lead-210",50,17.5,540,-40,45,55,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.64389,25.20556,5,0,1
+2630,2540,"Taylor Creek Site 2",6963,"Radiocarbon",230,22,540,-40,190,270,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.64389,25.20556,40,1,1
+2630,2540,"Taylor Creek Site 2",6964,"Radiocarbon",1610,75.5,540,-40,1550,1670,"NAPD 1 (radiocarbon years)",NA,TRUE,5,-80.64389,25.20556,60,1,1

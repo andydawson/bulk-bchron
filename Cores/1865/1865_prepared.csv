@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1865,1803,"Patschke Bog",5285,"Guess",1383,30.5,NA,NA,1283,1483,"NAPD 1","Chron uses top and two pollen stratigraphic dates interpolated from core by Camper 1991.",TRUE,142,-97.11667,30.36667,100,NA,0
+1865,1803,"Patschke Bog",5286,"Biostratigraphic, pollen",10490,335.3,NA,NA,10290,10690,"NAPD 1","Chron uses top and two pollen stratigraphic dates interpolated from core by Camper 1991.",TRUE,142,-97.11667,30.36667,200,0,0
+1865,1803,"Patschke Bog",5287,"Biostratigraphic, pollen",15004,472,NA,NA,14804,15204,"NAPD 1","Chron uses top and two pollen stratigraphic dates interpolated from core by Camper 1991.",TRUE,142,-97.11667,30.36667,200,0,0

@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2003,1936,"Quarles Pond",5674,"Core top",0,0,12650,0,-20,20,"COHMAP chron 1","Chron uses top, Ambrosia rise, and two pollen stratigraphic dates from nearby Hack Pond.",TRUE,500,-79.07222,37.99583,20,0,0
+2003,1936,"Quarles Pond",5675,"Biostratigraphic, pollen",150,5,12650,0,100,200,"COHMAP chron 1","Chron uses top, Ambrosia rise, and two pollen stratigraphic dates from nearby Hack Pond.",TRUE,500,-79.07222,37.99583,50,0,0
+2003,1936,"Quarles Pond",5676,"Biostratigraphic, pollen",9250,117.5,12650,0,9050,9750,"COHMAP chron 1","Chron uses top, Ambrosia rise, and two pollen stratigraphic dates from nearby Hack Pond.",TRUE,500,-79.07222,37.99583,350,0,0
+2003,1936,"Quarles Pond",5677,"Biostratigraphic, pollen",12000,160,12650,0,13000,12500,"COHMAP chron 1","Chron uses top, Ambrosia rise, and two pollen stratigraphic dates from nearby Hack Pond.",TRUE,500,-79.07222,37.99583,250,0,0

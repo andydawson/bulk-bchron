@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2386,2304,"Silver",6593,"Core top",-34,0.5,850,-20,-35,-30,"NAPD 1","top date of -35, one date at registered ambrosia rise, one C14 date",TRUE,402,-74.9949,-74.97713,2.5,0,1
+2386,2304,"Silver",6594,"Biostratigraphic, pollen",150,22,850,-20,130,170,"NAPD 1","top date of -35, one date at registered ambrosia rise, one C14 date",TRUE,402,-74.9949,-74.97713,20,0,0
+2386,2304,"Silver",6595,"Radiocarbon",850,41,850,-20,730,970,"NAPD 1","top date of -35, one date at registered ambrosia rise, one C14 date",TRUE,402,-74.9949,-74.97713,120,1,1

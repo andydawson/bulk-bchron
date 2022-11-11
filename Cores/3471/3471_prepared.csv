@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+3471,257,"Lake BI2",7936,"Core top",0,0,7300,0,-40,40,"Gajewski 1992","Fit a third order polynomial with sediment-surface held constant. Coefs: 0.0, 84.8046, -0.715001, 0.00326398.",TRUE,210,-76.37833,57.11667,40,0,1
+3471,257,"Lake BI2",7937,"Radiocarbon",2270,40,7300,0,2150,2390,"Gajewski 1992","Fit a third order polynomial with sediment-surface held constant. Coefs: 0.0, 84.8046, -0.715001, 0.00326398.",TRUE,210,-76.37833,57.11667,120,1,1
+3471,257,"Lake BI2",7938,"Radiocarbon",4080,75,7300,0,3840,4320,"Gajewski 1992","Fit a third order polynomial with sediment-surface held constant. Coefs: 0.0, 84.8046, -0.715001, 0.00326398.",TRUE,210,-76.37833,57.11667,240,1,1
+3471,257,"Lake BI2",7939,"Radiocarbon",4340,100,7300,0,4160,4520,"Gajewski 1992","Fit a third order polynomial with sediment-surface held constant. Coefs: 0.0, 84.8046, -0.715001, 0.00326398.",TRUE,210,-76.37833,57.11667,180,1,1
+3471,257,"Lake BI2",7940,"Radiocarbon",7010,142,7300,0,6770,7250,"Gajewski 1992","Fit a third order polynomial with sediment-surface held constant. Coefs: 0.0, 84.8046, -0.715001, 0.00326398.",TRUE,210,-76.37833,57.11667,240,1,1

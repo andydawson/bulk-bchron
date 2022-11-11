@@ -1,0 +1,869 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15138,10074,"Jones Lake",32623,"Core top",-52,337,11220,-50,-53,-51,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,1,0,1
+15138,10074,"Jones Lake",32624,"Lead-210",-51.3,339,11220,-50,-54.6,-48,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,3.3,0,1
+15138,10074,"Jones Lake",32625,"Lead-210",-46.5,341,11220,-50,-50.06,-42.94,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,3.56,0,1
+15138,10074,"Jones Lake",32626,"Lead-210",-39.7,343,11220,-50,-43.74,-35.66,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,4.04,0,1
+15138,10074,"Jones Lake",32627,"Lead-210",-33.1,345,11220,-50,-37.76,-28.44,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,4.66,0,1
+15138,10074,"Jones Lake",32628,"Lead-210",-18.1,349,11220,-50,-21.18,-15.02,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,3.08,0,1
+15138,10074,"Jones Lake",32629,"Lead-210",-12,351,11220,-50,-15.36,-8.64,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,3.36,0,1
+15138,10074,"Jones Lake",32630,"Lead-210",-6.7,353,11220,-50,-10.36,-3.04,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,3.66,0,1
+15138,10074,"Jones Lake",32631,"Lead-210",4.2,357,11220,-50,0.3,8.1,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,3.9,0,1
+15138,10074,"Jones Lake",32632,"Lead-210",12,359,11220,-50,7.44,16.56,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,4.56,0,1
+15138,10074,"Jones Lake",32633,"Lead-210",19.9,361,11220,-50,14.44,25.36,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,5.46,0,1
+15138,10074,"Jones Lake",32634,"Lead-210",28,363,11220,-50,21.32,34.68,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,6.68,0,1
+15138,10074,"Jones Lake",32635,"Lead-210",36.5,365,11220,-50,28.1,44.9,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,8.4,0,1
+15138,10074,"Jones Lake",32636,"Lead-210",79.7,371,11220,-50,60.04,99.36,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,19.66,0,1
+15138,10074,"Jones Lake",32637,"Lead-210",127.7,375,11220,-50,77.44,177.96,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,50.26,0,1
+15138,10074,"Jones Lake",32638,"Lead-210",141.8,377,11220,-50,65.92,200,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,67.04,0,1
+15138,10074,"Jones Lake",32639,"Radiocarbon",345,428,11220,-50,285,405,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,60,1,1
+15138,10074,"Jones Lake",32640,"Radiocarbon",995,495.5,11220,-50,925,1065,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,70,1,1
+15138,10074,"Jones Lake",32641,"Radiocarbon",1645,557,11220,-50,1575,1715,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,70,1,1
+15138,10074,"Jones Lake",32642,"Radiocarbon",2065,607,11220,-50,1995,2135,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,70,1,1
+15138,10074,"Jones Lake",32643,"Radiocarbon",3025,797,11220,-50,2945,3105,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,80,1,1
+15138,10074,"Jones Lake",32644,"Radiocarbon",3495,924,11220,-50,3425,3565,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,70,1,1
+15138,10074,"Jones Lake",32645,"Radiocarbon",3800,1054,11220,-50,3720,3880,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,80,1,1
+15138,10074,"Jones Lake",32646,"Radiocarbon",4455,1164,11220,-50,4355,4555,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,100,1,1
+15138,10074,"Jones Lake",32647,"Radiocarbon",6230,1264.4,11220,-50,6140,6320,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,90,1,1
+15138,10074,"Jones Lake",32648,"Radiocarbon",7250,1387.4,11220,-50,7130,7370,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,120,1,1
+15138,10074,"Jones Lake",32649,"Radiocarbon",8320,1488.4,11220,-50,8240,8400,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,80,1,1
+15138,10074,"Jones Lake",32650,"Radiocarbon",9940,1555.4,11220,-50,9800,10080,"Neotoma 1","Based on the IntCal13 calibration curve.
+
+Bacon command line: Bacon('JONES',thick=10,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+337 #d.min
+1555.4 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,409,-99.29758,-99.28071,140,1,1

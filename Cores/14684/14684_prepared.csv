@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14684,9894,"Schoodic Peninsula Hollow",31481,"Core top",-46,0,8260,170,-47,-45,"Neotoma 1","Rejected date at 30.2 cm.  Chron1 is based on a top date and three C14 dates.",FALSE,10,-68.07328,-68.07192,1,0,1
+14684,9894,"Schoodic Peninsula Hollow",31482,"European settlement horizon",230,16.5,8260,170,210,250,"Neotoma 1","Rejected date at 30.2 cm.  Chron1 is based on a top date and three C14 dates.",FALSE,10,-68.07328,-68.07192,20,0,1
+14684,9894,"Schoodic Peninsula Hollow",31483,"Radiocarbon",3340,42.25,8260,170,3290,3390,"Neotoma 1","Rejected date at 30.2 cm.  Chron1 is based on a top date and three C14 dates.",FALSE,10,-68.07328,-68.07192,50,1,1
+14684,9894,"Schoodic Peninsula Hollow",31484,"Radiocarbon",3720,50.75,8260,170,3680,3760,"Neotoma 1","Rejected date at 30.2 cm.  Chron1 is based on a top date and three C14 dates.",FALSE,10,-68.07328,-68.07192,40,1,1
+14684,9894,"Schoodic Peninsula Hollow",31485,"Tsuga decline",4750,52.5,8260,170,4700,4800,"Neotoma 1","Rejected date at 30.2 cm.  Chron1 is based on a top date and three C14 dates.",FALSE,10,-68.07328,-68.07192,50,0,0
+14684,9894,"Schoodic Peninsula Hollow",31486,"Radiocarbon",7140,63.5,8260,170,7080,7200,"Neotoma 1","Rejected date at 30.2 cm.  Chron1 is based on a top date and three C14 dates.",FALSE,10,-68.07328,-68.07192,60,1,1

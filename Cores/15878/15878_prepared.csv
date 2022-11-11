@@ -1,0 +1,280 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15878,10411,"Tumalo Lake",34708,"Core top",-55,0,11640,-60,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,32,0,1
+15878,10411,"Tumalo Lake",34709,"Radiocarbon",1850,108,11640,-60,1820,1880,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,30,1,1
+15878,10411,"Tumalo Lake",34710,"Radiocarbon",2130,186,11640,-60,2100,2160,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,30,1,1
+15878,10411,"Tumalo Lake",34711,"Radiocarbon",2550,203,11640,-60,2510,2590,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,40,1,1
+15878,10411,"Tumalo Lake",34712,"Radiocarbon",4130,304,11640,-60,4090,4170,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,40,1,1
+15878,10411,"Tumalo Lake",34713,"Tephra",7627,472,11640,-60,7477,7777,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,150,0,1
+15878,10411,"Tumalo Lake",34714,"Radiocarbon",10290,746,11640,-60,10240,10340,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,50,1,1
+15878,10411,"Tumalo Lake",34715,"Radiocarbon",10350,826,11640,-60,10290,10410,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,60,1,1
+15878,10411,"Tumalo Lake",34716,"Radiocarbon",10777,1023,11640,-60,10697,10857,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('TUMALO',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+1023 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1543,-121.546,-121.539,80,1,1

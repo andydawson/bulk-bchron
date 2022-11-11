@@ -1,0 +1,528 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15724,10345,"Dune Lake",34185,"Core top",-45,0,11140,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,32,0,1
+15724,10345,"Dune Lake",34186,"Tephra",6000,410,11140,-50,5990,6010,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,10,0,1
+15724,10345,"Dune Lake",34187,"Radiocarbon",820,52.5,11140,-50,770,870,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,50,1,1
+15724,10345,"Dune Lake",34188,"Radiocarbon",940,78,11140,-50,880,1000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,60,1,1
+15724,10345,"Dune Lake",34189,"Radiocarbon",1210,78,11140,-50,1160,1260,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,50,1,1
+15724,10345,"Dune Lake",34190,"Radiocarbon",1840,105,11140,-50,1780,1900,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,60,1,1
+15724,10345,"Dune Lake",34191,"Radiocarbon",2880,204.5,11140,-50,2820,2940,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,60,1,1
+15724,10345,"Dune Lake",34192,"Radiocarbon",4050,292,11140,-50,4010,4090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,40,1,1
+15724,10345,"Dune Lake",34193,"Radiocarbon",4810,383,11140,-50,4720,4900,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,90,1,1
+15724,10345,"Dune Lake",34194,"Radiocarbon",5150,383,11140,-50,5100,5200,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,50,1,1
+15724,10345,"Dune Lake",34195,"Radiocarbon",5520,409,11140,-50,5400,5640,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,120,1,1
+15724,10345,"Dune Lake",34196,"Radiocarbon",5740,409,11140,-50,5690,5790,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,50,1,1
+15724,10345,"Dune Lake",34197,"Radiocarbon",6410,439,11140,-50,6210,6610,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,200,1,1
+15724,10345,"Dune Lake",34198,"Radiocarbon",6670,439,11140,-50,6620,6720,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,50,1,1
+15724,10345,"Dune Lake",34199,"Radiocarbon",7420,452.5,11140,-50,7360,7480,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,60,1,1
+15724,10345,"Dune Lake",34200,"Radiocarbon",8670,480,11140,-50,8610,8730,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,60,1,1
+15724,10345,"Dune Lake",34201,"Radiocarbon",9780,543,11140,-50,9690,9870,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DUNEAK',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+543 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,134,-149.908,-149.88725,90,1,1

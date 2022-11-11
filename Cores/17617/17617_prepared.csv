@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+17617,11706,"Lismore Section",37836,"Radiocarbon",10500,115,5060,1270,10380,10620,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MS-85-19',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+160 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-62.30132,-62.24562,120,1,1
+17617,11706,"Lismore Section",37837,"Radiocarbon",11900,160,5060,1270,11800,12000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MS-85-19',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+160 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-62.30132,-62.24562,100,1,1
+17617,11706,"Lismore Section",37838,"Radiocarbon",10600,140,5060,1270,10500,10700,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MS-85-19',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+160 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2,-62.30132,-62.24562,100,1,1

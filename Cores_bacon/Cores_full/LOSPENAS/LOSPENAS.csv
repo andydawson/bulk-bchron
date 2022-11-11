@@ -1,0 +1,13 @@
+labid,age,error,depth,cc
+Core top,-45,47,0,0
+Biostratigraphic_ pollen,-20,5,10,0
+Biostratigraphic_ pollen,20,5,30,0
+Biostratigraphic_ pollen,33,8,35,0
+Biostratigraphic_ pollen,80,10,50,0
+Biostratigraphic_ pollen,120,10,65,0
+Biostratigraphic_ pollen,245,55,70,0
+OS-19842,2600,40,134,1
+OS-15528,3790,30,134,1
+OS-9159,2810,30,172.5,1
+AA-19539,3625,190,245,1
+OS-5310,3610,35,247.5,1

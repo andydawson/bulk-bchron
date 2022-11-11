@@ -1,0 +1,16 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1793,1735,"Nels Lake",4972,"Lead-210",-33,0.25,100,-40,-33,-33,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4973,"Lead-210",-28,3.25,100,-40,-28,-28,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4974,"Lead-210",-21,5.75,100,-40,-21,-21,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4975,"Lead-210",-16,7.75,100,-40,-16,-16,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4976,"Lead-210",-9,9.75,100,-40,-9,-9,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4977,"Lead-210",-4,11.25,100,-40,-4,-4,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4978,"Lead-210",3,12.75,100,-40,3,3,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4979,"Lead-210",10,14.25,100,-40,10,10,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4980,"Lead-210",16,15.25,100,-40,16,16,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4981,"Lead-210",27,17.25,100,-40,27,27,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4982,"Lead-210",34,18.75,100,-40,34,34,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4983,"Lead-210",39,19.75,100,-40,39,39,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4984,"Lead-210",44,20.75,100,-40,44,44,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4985,"Lead-210",56,23.25,100,-40,56,56,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1
+1793,1735,"Nels Lake",4986,"Lead-210",66,26.25,100,-40,66,66,"NAPD 1","Chron uses 15 PB210 dates for top 15 of 18 samples.",FALSE,428,-91.90603,-91.87787,18,0,1

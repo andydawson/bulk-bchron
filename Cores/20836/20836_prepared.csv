@@ -1,0 +1,1272 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20836,13682,"Drizzle Bog",41873,"Core top",-53,0,1720,-60,-54,-52,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,1,0,1
+20836,13682,"Drizzle Bog",41874,"Radiocarbon",180,45,1720,-60,140,220,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,40,1,1
+20836,13682,"Drizzle Bog",41875,"Radiocarbon",1170,63,1720,-60,1130,1210,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,40,1,1
+20836,13682,"Drizzle Bog",41876,"Radiocarbon",1590,81,1720,-60,1550,1630,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,40,1,1
+20836,13682,"Drizzle Bog",41877,"Radiocarbon",1820,89,1720,-60,1780,1860,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,40,1,1
+20836,13682,"Drizzle Bog",41878,"Lead-210",-52,0.5,1720,-60,-53,-51,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,1,0,1
+20836,13682,"Drizzle Bog",41879,"Lead-210",-47.2,1.56,1720,-60,-48.2,-46.2,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,1,0,1
+20836,13682,"Drizzle Bog",41880,"Lead-210",-43,2.62,1720,-60,-44,-42,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,1,0,1
+20836,13682,"Drizzle Bog",41881,"Lead-210",-38.5,3.68,1720,-60,-39.5,-37.5,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,1,0,1
+20836,13682,"Drizzle Bog",41882,"Lead-210",-33.5,4.74,1720,-60,-34.5,-32.5,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,1,0,1
+20836,13682,"Drizzle Bog",41883,"Lead-210",-28.4,5.8,1720,-60,-29.4,-27.4,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,1,0,1
+20836,13682,"Drizzle Bog",41884,"Lead-210",-23.01,6.86,1720,-60,-24.01,-22.01,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,1,0,1
+20836,13682,"Drizzle Bog",41885,"Lead-210",-17.89,7.92,1720,-60,-19.89,-15.89,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,2,0,1
+20836,13682,"Drizzle Bog",41886,"Lead-210",-13.8,8.98,1720,-60,-15.8,-11.8,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,2,0,1
+20836,13682,"Drizzle Bog",41887,"Lead-210",-10.33,10.04,1720,-60,-12.33,-8.33,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,2,0,1
+20836,13682,"Drizzle Bog",41888,"Lead-210",-7.57,11.1,1720,-60,-10.57,-4.57,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,3,0,1
+20836,13682,"Drizzle Bog",41889,"Lead-210",-4.31,12.16,1720,-60,-7.31,-1.31,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,3,0,1
+20836,13682,"Drizzle Bog",41890,"Lead-210",-0.85,13.22,1720,-60,-3.85,2.15,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,3,0,1
+20836,13682,"Drizzle Bog",41891,"Lead-210",2.7,14.28,1720,-60,-1.3,6.7,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,4,0,1
+20836,13682,"Drizzle Bog",41892,"Lead-210",6.44,15.34,1720,-60,2.44,10.44,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,4,0,1
+20836,13682,"Drizzle Bog",41893,"Lead-210",10.19,16.4,1720,-60,5.19,15.19,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,5,0,1
+20836,13682,"Drizzle Bog",41894,"Lead-210",13.25,17.46,1720,-60,8.25,18.25,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,5,0,1
+20836,13682,"Drizzle Bog",41895,"Lead-210",16.38,18.52,1720,-60,10.38,22.38,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,6,0,1
+20836,13682,"Drizzle Bog",41896,"Lead-210",19.3,19.58,1720,-60,13.3,25.3,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,6,0,1
+20836,13682,"Drizzle Bog",41897,"Lead-210",22.72,20.64,1720,-60,15.72,29.72,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,7,0,1
+20836,13682,"Drizzle Bog",41898,"Lead-210",26.95,21.7,1720,-60,18.95,34.95,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,8,0,1
+20836,13682,"Drizzle Bog",41899,"Lead-210",30.47,22.76,1720,-60,22.47,38.47,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,8,0,1
+20836,13682,"Drizzle Bog",41900,"Lead-210",34.73,23.82,1720,-60,25.73,43.73,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,9,0,1
+20836,13682,"Drizzle Bog",41901,"Lead-210",37.64,24.88,1720,-60,27.64,47.64,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,10,0,1
+20836,13682,"Drizzle Bog",41902,"Lead-210",41.52,25.94,1720,-60,30.52,52.52,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,11,0,1
+20836,13682,"Drizzle Bog",41903,"Lead-210",45.62,27,1720,-60,33.62,57.62,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,12,0,1
+20836,13682,"Drizzle Bog",41904,"Lead-210",50.31,28.06,1720,-60,37.31,63.31,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,13,0,1
+20836,13682,"Drizzle Bog",41905,"Lead-210",53.85,29.12,1720,-60,39.85,67.85,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,14,0,1
+20836,13682,"Drizzle Bog",41906,"Lead-210",57.66,30.18,1720,-60,42.66,72.66,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,15,0,1
+20836,13682,"Drizzle Bog",41907,"Lead-210",61.27,31.24,1720,-60,45.27,77.27,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,16,0,1
+20836,13682,"Drizzle Bog",41908,"Lead-210",64.03,32.3,1720,-60,48.03,80.03,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,16,0,1
+20836,13682,"Drizzle Bog",41909,"Lead-210",70.15,33.36,1720,-60,52.15,88.15,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,18,0,1
+20836,13682,"Drizzle Bog",41910,"Lead-210",75.15,34.42,1720,-60,55.15,95.15,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,20,0,1
+20836,13682,"Drizzle Bog",41911,"Lead-210",82.62,35.48,1720,-60,60.62,104.62,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,22,0,1
+20836,13682,"Drizzle Bog",41912,"Lead-210",91.03,36.54,1720,-60,66.03,116.03,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,25,0,1
+20836,13682,"Drizzle Bog",41913,"Lead-210",97.57,37.6,1720,-60,70.57,124.57,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DRIZZLE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+89 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,62,-132.11772,-132.09352,27,0,1

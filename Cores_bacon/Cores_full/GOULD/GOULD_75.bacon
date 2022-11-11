@@ -1,0 +1,24 @@
+## Ran on Sun Aug 14 18:02:46 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -30, 1, 740,  0,  0,  3,  4,  0;
+Det 1 : Biostratigraphic_ pollen , 180, 40, 820,  0,  0,  3,  4,  0;
+Det 2 : Radiocarbon_ reservoir correction , 1185, 20, 870,  0,  0,  3,  4,  1;
+Det 3 : Radiocarbon_ reservoir correction , 3165, 75, 975,  0,  0,  3,  4,  1;
+Det 4 : Radiocarbon_ reservoir correction , 4735, 90, 1068.5,  0,  0,  3,  4,  1;
+Det 5 : Radiocarbon_ reservoir correction , 6175, 100, 1210,  0,  0,  3,  4,  1;
+Det 6 : Radiocarbon_ reservoir correction , 7480, 75, 1312.5,  0,  0,  3,  4,  1;
+Det 7 : Radiocarbon_ reservoir correction , 9580, 210, 1442.5,  0,  0,  3,  4,  1;
+Det 8 : Radiocarbon_ reservoir correction , 9840, 140, 1612.5,  0,  0,  3,  4,  1;
+Det 9 : Radiocarbon_ reservoir correction , 10500, 260, 1832.5,  0,  0,  3,  4,  1;
+Det 10 : Radiocarbon_ reservoir correction , 10960, 395, 1982.5,  0,  0,  3,  4,  1;
+Det 11 : Radiocarbon_ reservoir correction , 12450, 410, 2102.5,  0,  0,  3,  4,  1;
+Det 12 : NA , 12450, 12450000, 2200,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 75,  -72,  1e+06,  -30,  -31,  5,  5,  0.9,  0.18, 740, 2240, 967673;

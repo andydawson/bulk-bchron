@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1761,1705,"Molas Lake",4769,"Core top",-11,0,15360,80,-11,9,"NAPD 1","Chron uses top, and two C14 dates.",TRUE,3200,-107.68516,-107.68031,10,0,1
+1761,1705,"Molas Lake",4770,"Radiocarbon",13360,144.5,15360,80,13120,13600,"NAPD 1","Chron uses top, and two C14 dates.",TRUE,3200,-107.68516,-107.68031,240,1,1
+1761,1705,"Molas Lake",4771,"Radiocarbon",15450,172.5,15360,80,15010,15890,"NAPD 1","Chron uses top, and two C14 dates.",TRUE,3200,-107.68516,-107.68031,440,1,1

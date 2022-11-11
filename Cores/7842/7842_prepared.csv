@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+7842,6485,"Roberts Creek F-45",5957,"Radiocarbon",4175,10,4315,4035,4035,4315,"NAPD 1",NA,FALSE,308,-91.50028,42.98611,0,140,1

@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+691,671,"Lac du Diable",1916,"Core top",0,0,10660,0,0,0,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,494,-66.125,48.91083,32,0,1
+691,671,"Lac du Diable",1917,"Radiocarbon",2530,30,10660,0,2440,2620,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,494,-66.125,48.91083,90,1,1
+691,671,"Lac du Diable",1918,"Radiocarbon",6950,75,10660,0,6800,7100,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,494,-66.125,48.91083,150,1,1
+691,671,"Lac du Diable",1919,"Interpolated",9538,95,10660,0,NA,NA,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,494,-66.125,48.91083,NA,NA,0
+691,671,"Lac du Diable",1920,"Radiocarbon",9950,105,10660,0,9800,10100,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,494,-66.125,48.91083,150,1,1
+691,671,"Lac du Diable",1921,"Radiocarbon",10660,125,10660,0,10500,10820,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,494,-66.125,48.91083,160,1,1
+691,671,"Lac du Diable",1922,"Deglaciation",12000,230,10660,0,11500,12500,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,494,-66.125,48.91083,500,0,1

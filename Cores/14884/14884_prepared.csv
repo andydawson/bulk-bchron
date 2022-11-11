@@ -1,0 +1,466 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14884,9974,"Baker Lake",31728,"Core top",-50,0,13390,-50,-52,-48,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,2,0,1
+14884,9974,"Baker Lake",31729,"Historical fire",54,12,13390,-50,53,55,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,1,1,1
+14884,9974,"Baker Lake",31730,"Historical fire",202,20,13390,-50,201,203,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,1,1,1
+14884,9974,"Baker Lake",31731,"Historical fire",746,28,13390,-50,745,747,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,1,1,1
+14884,9974,"Baker Lake",31732,"Radiocarbon",1600,55,13390,-50,1560,1640,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,40,1,1
+14884,9974,"Baker Lake",31733,"Radiocarbon",2209,75,13390,-50,2160,2259,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,49.5,1,1
+14884,9974,"Baker Lake",31734,"Radiocarbon",3306,120,13390,-50,3239,3373,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,67,1,1
+14884,9974,"Baker Lake",31735,"Radiocarbon",4617,169,13390,-50,4566,4668,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,51,1,1
+14884,9974,"Baker Lake",31736,"Radiocarbon",6302,207,13390,-50,6247,6357,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,55,1,1
+14884,9974,"Baker Lake",31737,"Tephra",7627,222,13390,-50,7477,7777,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,150,0,1
+14884,9974,"Baker Lake",31738,"Radiocarbon",7164,246,13390,-50,7090,7238,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,74,1,1
+14884,9974,"Baker Lake",31739,"Radiocarbon",8870,289,13390,-50,8750,8990,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,120,1,1
+14884,9974,"Baker Lake",31740,"Radiocarbon",10239,330,13390,-50,10160,10318,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,79,1,1
+14884,9974,"Baker Lake",31741,"Radiocarbon",11100,362,13390,-50,10970,11230,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,130,1,1
+14884,9974,"Baker Lake",31742,"Tephra",11600,375,13390,-50,11550,11650,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BAKER',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+375 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2300,-114.26438,-114.26203,50,0,1

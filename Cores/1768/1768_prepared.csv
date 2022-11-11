@@ -1,0 +1,1361 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1768,1711,"Moon Lake",35229,"Radiocarbon",460,1432,13970,-40,400,520,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,60,1,1
+1768,1711,"Moon Lake",35230,"Radiocarbon",830,1515.8,13970,-40,770,890,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,60,1,1
+1768,1711,"Moon Lake",35231,"Radiocarbon",1080,1564.5,13970,-40,1030,1130,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,50,1,1
+1768,1711,"Moon Lake",35232,"Radiocarbon",2300,1666.4,13970,-40,2240,2360,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,60,1,1
+1768,1711,"Moon Lake",35233,"Radiocarbon",4590,1793.5,13970,-40,4530,4650,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,60,1,1
+1768,1711,"Moon Lake",35234,"Radiocarbon",5420,1886,13970,-40,5360,5480,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,60,1,1
+1768,1711,"Moon Lake",35235,"Radiocarbon",5410,1888,13970,-40,5340,5480,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,70,1,1
+1768,1711,"Moon Lake",35236,"Radiocarbon",6310,1986.7,13970,-40,6240,6380,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,70,1,1
+1768,1711,"Moon Lake",35237,"Radiocarbon",6610,2157.4,13970,-40,6520,6700,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,90,1,1
+1768,1711,"Moon Lake",35238,"Radiocarbon",7300,2224.5,13970,-40,7220,7380,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,80,1,1
+1768,1711,"Moon Lake",35239,"Radiocarbon",9530,2308.4,13970,-40,9400,9660,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,130,1,1
+1768,1711,"Moon Lake",35240,"Radiocarbon",10780,2356.5,13970,-40,10680,10880,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,100,1,1
+1768,1711,"Moon Lake",35241,"Radiocarbon",11770,2418,13970,-40,11690,11850,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,80,1,1
+1768,1711,"Moon Lake",35242,"Radiocarbon",11830,2442.5,13970,-40,11750,11910,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,80,1,1
+1768,1711,"Moon Lake",35243,"Core top",-35,1296,13970,-40,NA,NA,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,32,0,1
+1768,1711,"Moon Lake",35244,"Salsola rise",60,1340,13970,-40,40,80,"Neotoma 1","Based on the IntCal13 calibration curve. Due to the sharp change in accumulation rate at 2224.5 cm, two Bacon age models were developed, one from 1296 cm to 2224.5 cm, the other from 2224.5 cm to 2444 cm. Inserting a hiatus at 2225 cm caused a Bacon error. 
+
+.csv file for upper age model:
+labID,age,error,depth,cc
+Core top,-35,1,1296,0
+Salsola rise,60,20,1340,0
+Radiocarbon,460,60,1432,1
+Radiocarbon,830,60,1515.8,1
+Radiocarbon,1080,50,1564.5,1
+Radiocarbon,2300,60,1666.4,1
+Radiocarbon,4590,60,1793.5,1
+Radiocarbon,5420,60,1886,1
+Radiocarbon,5410,70,1888,1
+Radiocarbon,6310,70,1986.7,1
+Radiocarbon,6610,90,2157.4,1
+Radiocarbon,7300,80,2224.5,1
+
+Bacon command line:
+ Bacon('MOONLAKE',thick=10,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+1296 #d.min
+2224.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+.csv file for lower age model:
+labID,age,error,depth,cc
+Radiocarbon,7300,80,2224.5,1
+Radiocarbon,9530,130,2308.4,1
+Radiocarbon,10780,100,2356.5,1
+Radiocarbon,11770,80,2418,1
+Radiocarbon,11830,80,2442.5,1
+
+Bacon command line: Bacon('MOONLAKE',thick=10,acc.mean=25,d.max=2444,depths.file=TRUE)
+
+Bacon settings file:
+2224.5 #d.min
+2444 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,444,-98.16505,-98.15463,20,0,0

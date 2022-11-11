@@ -1,0 +1,26 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15201,10107,"Lost Park",32831,"Core top",-41,0,13460,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTPARK',depths.file=TRUE)
+
+Bacon settings:",FALSE,3079,-105.5577,-105.5189,32,0,1
+15201,10107,"Lost Park",32832,"Radiocarbon",1800,102,13460,-50,1740,1860,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTPARK',depths.file=TRUE)
+
+Bacon settings:",FALSE,3079,-105.5577,-105.5189,60,1,1
+15201,10107,"Lost Park",32833,"Radiocarbon",7830,200,13460,-50,7780,7880,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTPARK',depths.file=TRUE)
+
+Bacon settings:",FALSE,3079,-105.5577,-105.5189,50,1,1
+15201,10107,"Lost Park",32834,"Radiocarbon",9110,275,13460,-50,9010,9210,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTPARK',depths.file=TRUE)
+
+Bacon settings:",FALSE,3079,-105.5577,-105.5189,100,1,1
+15201,10107,"Lost Park",32835,"Radiocarbon",11820,333,13460,-50,11720,11920,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LOSTPARK',depths.file=TRUE)
+
+Bacon settings:",FALSE,3079,-105.5577,-105.5189,100,1,1

@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1740,1684,"Mermaid Bog",4720,"Core top",-26,0,9720,-30,-26,-16,"NAPD 1","Chron uses top, Ambrosia rise, one C14 date, and the Tsuga decline.",TRUE,15,-63.025,46.25,5,0,1
+1740,1684,"Mermaid Bog",4721,"Biostratigraphic, pollen",95,25,9720,-30,70,120,"NAPD 1","Chron uses top, Ambrosia rise, one C14 date, and the Tsuga decline.",TRUE,15,-63.025,46.25,25,0,0
+1740,1684,"Mermaid Bog",4722,"Biostratigraphic, pollen",4800,95,9720,-30,4600,5000,"NAPD 1","Chron uses top, Ambrosia rise, one C14 date, and the Tsuga decline.",TRUE,15,-63.025,46.25,200,0,0
+1740,1684,"Mermaid Bog",4723,"Radiocarbon",8630,278,9720,-30,8270,8990,"NAPD 1","Chron uses top, Ambrosia rise, one C14 date, and the Tsuga decline.",TRUE,15,-63.025,46.25,360,1,1

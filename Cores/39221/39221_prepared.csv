@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+39221,22581,"Long Cove Pond",77090,"Core top",-40,0,330,-40,-45,-35,"Neotoma 1","There are no C14 dates associated with this core. Age model is based on a top age range and the pollen based European settlement horizon.",FALSE,1,-70.63896,-70.62398,0,5,0

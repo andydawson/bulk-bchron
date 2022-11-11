@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+999,968,"Hack Pond",2809,"Core top",0,30,12720,0,-50,50,"COHMAP chron 1","No Ambrosia rise, but not much open vegetation near the site. 2 C-14 dates with 30 cm set to 0 yr bp by P. and H. Delcourt.",TRUE,469,-78.99722,37.98472,50,0,1
+999,968,"Hack Pond",2810,"Radiocarbon",9520,138,12720,0,9320,9720,"COHMAP chron 1","No Ambrosia rise, but not much open vegetation near the site. 2 C-14 dates with 30 cm set to 0 yr bp by P. and H. Delcourt.",TRUE,469,-78.99722,37.98472,200,1,1
+999,968,"Hack Pond",2811,"Radiocarbon",12720,165,12720,0,12520,12920,"COHMAP chron 1","No Ambrosia rise, but not much open vegetation near the site. 2 C-14 dates with 30 cm set to 0 yr bp by P. and H. Delcourt.",TRUE,469,-78.99722,37.98472,200,1,1

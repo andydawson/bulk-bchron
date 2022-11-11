@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+493,481,"Clearwater Lake",1273,"Core top",0,0,6520,0,-30,30,"COHMAP chron 2","Corrected by 1120 and 1100 yrs, Chenopod rise at 65 cm is settlement horizon.",TRUE,686,-107.93333,50.87361,30,0,1
+493,481,"Clearwater Lake",1274,"Biostratigraphic, pollen",50,65,6520,0,0,100,"COHMAP chron 2","Corrected by 1120 and 1100 yrs, Chenopod rise at 65 cm is settlement horizon.",TRUE,686,-107.93333,50.87361,50,0,0
+493,481,"Clearwater Lake",1275,"Radiocarbon, reservoir correction",6480,1255,6520,0,6260,6700,"COHMAP chron 2","Corrected by 1120 and 1100 yrs, Chenopod rise at 65 cm is settlement horizon.",TRUE,686,-107.93333,50.87361,220,1,1

@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+236,233,"Baseball Bog",322,"Core top",-30,0,10470,-30,-30,-10,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates.",TRUE,292,-79.78,47.23,10,0,1
+236,233,"Baseball Bog",323,"Biostratigraphic, pollen",100,15,10470,-30,75,125,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates.",TRUE,292,-79.78,47.23,25,0,0
+236,233,"Baseball Bog",324,"Radiocarbon",6440,202,10470,-30,6160,6720,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates.",TRUE,292,-79.78,47.23,280,1,1
+236,233,"Baseball Bog",325,"Radiocarbon",9580,333,10470,-30,9180,9980,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates.",TRUE,292,-79.78,47.23,400,1,1

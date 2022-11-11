@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15752,10225,"Lantz Site",34263,"Core top",-31,0,13850,6880,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LANTZ',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-63.48817,44.9798,32,0,1
+15752,10225,"Lantz Site",34264,"Radiocarbon",10900,140,13850,6880,10810,10990,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LANTZ',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-63.48817,44.9798,90,1,1
+15752,10225,"Lantz Site",34265,"Radiocarbon",11700,150,13850,6880,11600,11800,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('LANTZ',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+150 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+100 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-63.48817,44.9798,100,1,1

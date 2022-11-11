@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1852,1792,"Park Pond 1",5237,"Core top",0,0,4540,180,0,0,"NAPD 1","Chron uses top (0 BP) and 2 radiocarbon dates.",TRUE,2705,-109.95944,43.46806,32,0,1
+1852,1792,"Park Pond 1",5238,"Radiocarbon",2350,26,4540,180,2230,2470,"NAPD 1","Chron uses top (0 BP) and 2 radiocarbon dates.",TRUE,2705,-109.95944,43.46806,120,1,1
+1852,1792,"Park Pond 1",5239,"Radiocarbon",4970,50,4540,180,4830,5110,"NAPD 1","Chron uses top (0 BP) and 2 radiocarbon dates.",TRUE,2705,-109.95944,43.46806,140,1,1

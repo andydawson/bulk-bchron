@@ -1,0 +1,577 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+21600,13980,"Tawny Pond",86191,"Core top",-61,0,990,-60,-62,-60,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,1,0,1
+21600,13980,"Tawny Pond",86192,"Radiocarbon",510,96,990,-60,480,540,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,30,1,1
+21600,13980,"Tawny Pond",86193,"Radiocarbon",870,126,990,-60,840,900,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,30,1,1
+21600,13980,"Tawny Pond",86194,"Radiocarbon",1090,144,990,-60,1060,1120,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,30,1,1
+21600,13980,"Tawny Pond",86195,"Lead-210",-53.19,1,990,-60,-53.88,-52.5,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,0.690000000000001,0,1
+21600,13980,"Tawny Pond",86196,"Lead-210",-45.19,4,990,-60,-45.94,-44.44,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,0.75,0,1
+21600,13980,"Tawny Pond",86197,"Lead-210",-38.92,6,990,-60,-39.72,-38.12,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,0.800000000000001,0,1
+21600,13980,"Tawny Pond",86198,"Lead-210",-32.87,8,990,-60,-33.72,-32.02,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,0.849999999999998,0,1
+21600,13980,"Tawny Pond",86199,"Lead-210",-27.6,10,990,-60,-28.5,-26.7,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,0.9,0,1
+21600,13980,"Tawny Pond",86200,"Lead-210",-23.06,12,990,-60,-24.01,-22.11,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,0.950000000000001,0,1
+21600,13980,"Tawny Pond",86201,"Lead-210",-14.8,14,990,-60,-15.85,-13.75,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,1.05,0,1
+21600,13980,"Tawny Pond",86202,"Lead-210",-2.18,19,990,-60,-3.4,-0.96,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,1.22,0,1
+21600,13980,"Tawny Pond",86203,"Lead-210",9.9,24,990,-60,8.47,11.33,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,1.43,0,1
+21600,13980,"Tawny Pond",86204,"Lead-210",18.46,27,990,-60,16.86,20.06,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,1.6,0,1
+21600,13980,"Tawny Pond",86205,"Lead-210",27.92,31,990,-60,26.11,29.73,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,1.81,0,1
+21600,13980,"Tawny Pond",86206,"Lead-210",39.17,34,990,-60,37.05,41.29,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,2.12,0,1
+21600,13980,"Tawny Pond",86207,"Lead-210",51.93,40,990,-60,49.38,54.48,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,2.55,0,1
+21600,13980,"Tawny Pond",86208,"Lead-210",59.63,47,990,-60,56.77,62.49,"Neotoma 1","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""TAWNY"",thick=2,acc.mean=10,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+144 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+10 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,276,-77.18251,44.81639,2.86,0,1

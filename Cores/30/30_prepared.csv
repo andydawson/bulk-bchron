@@ -1,0 +1,175 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+30,30,"Almora Lake",99360,"Biostratigraphic, pollen",3800,310,11000,3800,3550,4050,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+The Bacon age-depth model uses the parameters as:
+310 #d.min
+540 #d.max
+20 #acc.mean
+0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,437,-95.29361,46.20611,250,0,0
+30,30,"Almora Lake",99361,"Biostratigraphic, pollen",6400,412,11000,3800,6150,6650,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+The Bacon age-depth model uses the parameters as:
+310 #d.min
+540 #d.max
+20 #acc.mean
+0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,437,-95.29361,46.20611,250,0,0
+30,30,"Almora Lake",99362,"Biostratigraphic, pollen",8200,435,11000,3800,7950,8450,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+The Bacon age-depth model uses the parameters as:
+310 #d.min
+540 #d.max
+20 #acc.mean
+0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,437,-95.29361,46.20611,250,0,0
+30,30,"Almora Lake",99363,"Biostratigraphic, pollen",9600,475,11000,3800,9350,9850,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+The Bacon age-depth model uses the parameters as:
+310 #d.min
+540 #d.max
+20 #acc.mean
+0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,437,-95.29361,46.20611,250,0,0
+30,30,"Almora Lake",99364,"Biostratigraphic, pollen",10300,505,11000,3800,10050,10550,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+The Bacon age-depth model uses the parameters as:
+310 #d.min
+540 #d.max
+20 #acc.mean
+0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,437,-95.29361,46.20611,250,0,0
+30,30,"Almora Lake",99365,"Biostratigraphic, pollen",11000,540,11000,3800,10750,11250,"Wang et al.","Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1), 176.
+
+The Bacon age-depth model uses the parameters as:
+310 #d.min
+540 #d.max
+20 #acc.mean
+0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10 #hiatus.max
+10 #hiatus.max
+0 #BCAD
+1 #cc
+1 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+
+The chronology was created by Yue Wang. The data was prepared by Jadyn Sethna and Yue Wang.",FALSE,437,-95.29361,46.20611,250,0,0

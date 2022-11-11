@@ -1,0 +1,15 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40854,23614,"Doe Pond",79846,"Core top",-52,0,14540,-60,-52,-52,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,32,0,1
+40854,23614,"Doe Pond",79847,"Lead-210",33,34.5,14540,-60,33,33,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,18,0,1
+40854,23614,"Doe Pond",79848,"European settlement horizon",290,70.5,14540,-60,290,290,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,50,0,1
+40854,23614,"Doe Pond",79849,"Radiocarbon",1130,95.5,14540,-60,1090,1170,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,40,1,1
+40854,23614,"Doe Pond",79850,"Radiocarbon",1700,113.5,14540,-60,1660,1740,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,40,1,1
+40854,23614,"Doe Pond",79851,"Radiocarbon",2630,152.5,14540,-60,2590,2670,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,40,1,1
+40854,23614,"Doe Pond",79852,"Radiocarbon",3560,207.5,14540,-60,3520,3600,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,40,1,1
+40854,23614,"Doe Pond",79853,"Radiocarbon",4820,241.5,14540,-60,4780,4860,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,40,1,1
+40854,23614,"Doe Pond",79854,"Radiocarbon",6090,349.5,14540,-60,6045,6135,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,45,1,1
+40854,23614,"Doe Pond",79855,"Radiocarbon",8150,500.5,14540,-60,8120,8180,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,30,1,1
+40854,23614,"Doe Pond",79856,"Radiocarbon",8510,540.5,14540,-60,8450,8570,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,60,1,1
+40854,23614,"Doe Pond",79857,"Radiocarbon",9570,630.5,14540,-60,9540,9600,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,30,1,1
+40854,23614,"Doe Pond",79858,"Radiocarbon",10150,700.5,14540,-60,10110,10190,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,40,1,1
+40854,23614,"Doe Pond",79859,"Radiocarbon",12400,776.5,14540,-60,12350,12450,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,77,-72.7028,-72.7008,50,1,1

@@ -1,0 +1,94 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+21404,13910,"Petit lac Bouchard",44924,"Radiocarbon",7990,290,9990,7300,7880,8100,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOUCHB',d.max=330,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+330 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,145,-64.59903,-64.59515,110,1,1
+21404,13910,"Petit lac Bouchard",44925,"Radiocarbon",9130,326,9990,7300,8990,9270,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOUCHB',d.max=330,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+330 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,145,-64.59903,-64.59515,140,1,1
+21404,13910,"Petit lac Bouchard",44926,"Core top",-44,0,9990,7300,-45,-43,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BOUCHB',d.max=330,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+330 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,145,-64.59903,-64.59515,1,0,1

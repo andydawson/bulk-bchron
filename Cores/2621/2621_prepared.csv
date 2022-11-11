@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2621,2531,"Swartswood Lake",6912,"Core top",-27,0.5,310,-20,-28,-22,"NAPD 1",NA,TRUE,150,-74.85321,-74.82075,3,0,0
+2621,2531,"Swartswood Lake",6913,"Biostratigraphic, pollen",200,68,310,-20,180,220,"NAPD 1",NA,TRUE,150,-74.85321,-74.82075,20,0,0

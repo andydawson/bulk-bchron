@@ -1,0 +1,353 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20304,13486,"Hunters Lake",84214,"Core top",-51,0,13940,-50,-52,-50,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,1,0,1
+20304,13486,"Hunters Lake",84216,"Lead-210",21,8,13940,-50,11,31,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,10,0,1
+20304,13486,"Hunters Lake",84217,"Lead-210",86,14,13940,-50,76,96,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,10,0,1
+20304,13486,"Hunters Lake",84218,"Lead-210",133,18,13940,-50,123,143,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,10,0,1
+20304,13486,"Hunters Lake",84219,"Radiocarbon",790,35.5,13940,-50,750,830,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,40,1,1
+20304,13486,"Hunters Lake",84220,"Radiocarbon",1880,78.5,13940,-50,1840,1920,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,40,1,1
+20304,13486,"Hunters Lake",84221,"Radiocarbon",3190,140.5,13940,-50,3150,3230,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,40,1,1
+20304,13486,"Hunters Lake",84222,"Radiocarbon",6190,238.5,13940,-50,6150,6230,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,40,1,1
+20304,13486,"Hunters Lake",84223,"Radiocarbon",9930,330.5,13940,-50,9890,9970,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,40,1,1
+20304,13486,"Hunters Lake",84224,"Radiocarbon",11970,385.5,13940,-50,11881,12059,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,89,1,1
+20304,13486,"Hunters Lake",105170,"Isotopic excursion",-13,3.5,13940,-50,-16,-10,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""HUNTERS"",thick=5,acc.mean=35,d.max=390,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+390 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+35 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,3516,-106.84506,-106.84233,3,0,0

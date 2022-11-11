@@ -1,0 +1,541 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+26313,16613,"Quamichan Lake",103181,"Core top",-54,0,150,-60,-54.5,-53.5,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,0.5,0,1
+26313,16613,"Quamichan Lake",103182,"Lead-210",-53,2,150,-60,-53,-53,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,18,0,1
+26313,16613,"Quamichan Lake",103183,"Lead-210",-52,4,150,-60,-52,-52,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,18,0,1
+26313,16613,"Quamichan Lake",103184,"Lead-210",-51,6,150,-60,-51,-51,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,18,0,1
+26313,16613,"Quamichan Lake",103185,"Lead-210",-50,8,150,-60,-50,-50,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,18,0,1
+26313,16613,"Quamichan Lake",103186,"Lead-210",-48,10,150,-60,-48,-48,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,18,0,1
+26313,16613,"Quamichan Lake",103187,"Lead-210",-47,12,150,-60,-48,-46,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,1,0,1
+26313,16613,"Quamichan Lake",103188,"Lead-210",-43,16,150,-60,-44,-42,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,1,0,1
+26313,16613,"Quamichan Lake",103189,"Lead-210",-39,20,150,-60,-41,-37,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,2,0,1
+26313,16613,"Quamichan Lake",103190,"Lead-210",-35,24,150,-60,-37,-33,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,2,0,1
+26313,16613,"Quamichan Lake",103191,"Lead-210",-30,28,150,-60,-33,-27,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,3,0,1
+26313,16613,"Quamichan Lake",103192,"Lead-210",-23,33,150,-60,-26,-20,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,3,0,1
+26313,16613,"Quamichan Lake",103193,"Lead-210",-13,38,150,-60,-18,-8,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,5,0,1
+26313,16613,"Quamichan Lake",103194,"Lead-210",-1,43,150,-60,-7,5,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,6,0,1
+26313,16613,"Quamichan Lake",103195,"Lead-210",20,49,150,-60,7,33,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,13,0,1
+26313,16613,"Quamichan Lake",103196,"Lead-210",34,54,150,-60,16,52,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,18,0,1
+26313,16613,"Quamichan Lake",103197,"Lead-210",53,59,150,-60,23,83,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,30,0,1
+26313,16613,"Quamichan Lake",103198,"Lead-210",93,70,150,-60,9,177,"SKOPE","Bacon command line:
+Bacon(""QUAMICH"",thick=2,acc.mean=2,d.max=115,depths.file=TRUE)
+ 
+Bacon settings file:
+0 #d.min
+115 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+2 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,33,-123.67876,-123.6422,84,0,1

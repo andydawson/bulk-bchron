@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+3039,2941,"Woski Pond",7579,"Core top",-36,0,1500,-40,-36,-16,"NAPD 1","Chron uses top and three adjusted C14 dates, top set at -36 yrs B.P.",TRUE,1212,-119.625,37.725,10,0,1
+3039,2941,"Woski Pond",7580,"Radiocarbon, reservoir correction",580,46.5,1500,-40,440,720,"NAPD 1","Chron uses top and three adjusted C14 dates, top set at -36 yrs B.P.",TRUE,1212,-119.625,37.725,140,1,1
+3039,2941,"Woski Pond",7581,"Radiocarbon, reservoir correction",730,123.5,1500,-40,550,910,"NAPD 1","Chron uses top and three adjusted C14 dates, top set at -36 yrs B.P.",TRUE,1212,-119.625,37.725,180,1,1
+3039,2941,"Woski Pond",7582,"Radiocarbon, reservoir correction",1410,203.5,1500,-40,1230,1590,"NAPD 1","Chron uses top and three adjusted C14 dates, top set at -36 yrs B.P.",TRUE,1212,-119.625,37.725,180,1,1

@@ -1,0 +1,289 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+10967,6505,"Northeast Shark River Slough",31423,"Core top",-54,6,4680,-60,-55,-53,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,1,0,1
+10967,6505,"Northeast Shark River Slough",31424,"Ambrosia rise",10,16,4680,-60,0,20,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,10,0,1
+10967,6505,"Northeast Shark River Slough",31425,"Radiocarbon, reservoir correction",1260,28,4680,-60,1230,1290,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,30,1,1
+10967,6505,"Northeast Shark River Slough",31426,"Radiocarbon, reservoir correction",1650,39.5,4680,-60,1610,1690,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,40,1,1
+10967,6505,"Northeast Shark River Slough",31427,"Radiocarbon, reservoir correction",1935,49.5,4680,-60,1895,1975,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,40,1,1
+10967,6505,"Northeast Shark River Slough",31428,"Radiocarbon, reservoir correction",2370,57,4680,-60,2335,2405,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,35,1,1
+10967,6505,"Northeast Shark River Slough",31429,"Radiocarbon, reservoir correction",2465,59.5,4680,-60,2430,2500,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,35,1,1
+10967,6505,"Northeast Shark River Slough",31430,"Radiocarbon, reservoir correction",2760,66,4680,-60,2725,2795,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,35,1,1
+10967,6505,"Northeast Shark River Slough",31431,"Radiocarbon, reservoir correction",4095,96.5,4680,-60,4060,4130,"Neotoma 1","Age model uses only dates on gastropod shells with reservoir correction. Based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""NESRS"",thick=2,acc.mean=50,depths.file=TRUE)
+
+Bacon settings file:
+
+6 #d.min
+96.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1,-80.58386,25.74642,35,1,1

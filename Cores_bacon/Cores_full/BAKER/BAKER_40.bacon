@@ -1,0 +1,27 @@
+## Ran on Sun Aug 14 18:22:13 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -50, 2, 0,  0,  0,  3,  4,  0;
+Det 1 : Historical fire , 54, 1, 12,  0,  0,  3,  4,  0;
+Det 2 : Historical fire , 202, 1, 20,  0,  0,  3,  4,  0;
+Det 3 : Historical fire , 746, 1, 28,  0,  0,  3,  4,  0;
+Det 4 : AA-34823 , 1600, 40, 55,  0,  0,  3,  4,  1;
+Det 5 : AA-38087 , 2209, 49, 75,  0,  0,  3,  4,  1;
+Det 6 : AA-38088 , 3306, 67, 120,  0,  0,  3,  4,  1;
+Det 7 : AA-38089 , 4617, 51, 169,  0,  0,  3,  4,  1;
+Det 8 : AA-38090 , 6302, 55, 207,  0,  0,  3,  4,  1;
+Det 9 : Tephra , 7627, 150, 222,  0,  0,  3,  4,  0;
+Det 10 : AA-38091 , 7164, 74, 246,  0,  0,  3,  4,  1;
+Det 11 : AA-38092 , 8870, 120, 289,  0,  0,  3,  4,  1;
+Det 12 : AA-38093 , 10239, 79, 330,  0,  0,  3,  4,  1;
+Det 13 : AA-36943 , 11100, 130, 362,  0,  0,  3,  4,  1;
+Det 14 : Tephra , 11600, 50, 375,  0,  0,  3,  4,  0;
+Det 15 : NA , 11600, 11600000, 387,  0,  0,  3,  4,  0;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 40,  -72,  1e+06,  -50,  -50,  5,  5,  0.9,  0.018, 0, 400, 718067;

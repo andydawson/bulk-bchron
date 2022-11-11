@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+851,825,"Frenchmens Bay",2384,"Core top",-35,0,2620,-30,-35,-15,"NAPD 1","Chron uses top and one C14 date.",TRUE,75,-79.1,43.82,10,0,1
+851,825,"Frenchmens Bay",2385,"Radiocarbon",2750,315,2620,-30,2610,2890,"NAPD 1","Chron uses top and one C14 date.",TRUE,75,-79.1,43.82,140,1,1

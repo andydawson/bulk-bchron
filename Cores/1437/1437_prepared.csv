@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1437,1400,"Kanaaupscow",3439,"Core top",0,0,7090,0,0,0,"NAPD 1","Basal date of 7700±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,200,-76.64389,54.02778,32,0,1
+1437,1400,"Kanaaupscow",3440,"Radiocarbon",6450,230,7090,0,6260,6640,"NAPD 1","Basal date of 7700±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,200,-76.64389,54.02778,190,1,1
+1437,1400,"Kanaaupscow",3441,"Deglaciation",7700,297,7090,0,7200,8200,"NAPD 1","Basal date of 7700±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,200,-76.64389,54.02778,500,0,1

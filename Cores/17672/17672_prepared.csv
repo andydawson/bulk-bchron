@@ -1,0 +1,156 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+17672,1245,"Wilcox Lake",37900,"Radiocarbon",3383,255,11980,-50,3318,3448,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('WILCOX98',d.max=800,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+800 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-79.43,43.95,65,1,1
+17672,1245,"Wilcox Lake",37901,"Radiocarbon",4942,355,11980,-50,4867,5017,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('WILCOX98',d.max=800,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+800 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-79.43,43.95,75,1,1
+17672,1245,"Wilcox Lake",37902,"Radiocarbon",8100,505,11980,-50,7975,8225,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('WILCOX98',d.max=800,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+800 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-79.43,43.95,125,1,1
+17672,1245,"Wilcox Lake",37903,"Radiocarbon",9110,535,11980,-50,8985,9235,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('WILCOX98',d.max=800,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+800 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-79.43,43.95,125,1,1
+17672,1245,"Wilcox Lake",37904,"Radiocarbon",10292,615,11980,-50,10117,10467,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('WILCOX98',d.max=800,thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+800 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,304,-79.43,43.95,175,1,1

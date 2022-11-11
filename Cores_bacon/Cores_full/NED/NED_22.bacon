@@ -1,0 +1,18 @@
+## Ran on Sun Aug 14 18:09:33 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , 0, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : GX-5594 , 1770, 115, 62.5,  0,  0,  3,  4,  1;
+Det 2 : GX-4966 , 2395, 145, 95,  0,  0,  3,  4,  1;
+Det 3 : GX-5595 , 2650, 140, 125,  0,  0,  3,  4,  1;
+Det 4 : GX-4968 , 3685, 160, 295,  0,  0,  3,  4,  1;
+Det 5 : GX-5597 , 3950, 150, 310,  0,  0,  3,  4,  1;
+Det 6 : NA , 3950, 3950000, 400,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 22,  -72,  1e+06,  -1,  -1,  5,  5,  0.9,  0.018, 0, 440, 582792;

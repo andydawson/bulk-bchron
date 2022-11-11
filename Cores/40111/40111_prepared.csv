@@ -1,0 +1,129 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40111,2839,"White Pond",79394,"Core top",-65,0,30360,-50,-66,-64,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,1,0,1
+40111,2839,"White Pond",79395,"Radiocarbon",2035,56.5,30360,-50,2020,2050,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,15,1,1
+40111,2839,"White Pond",79396,"Radiocarbon",4150,112,30360,-50,4135,4165,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,15,1,1
+40111,2839,"White Pond",79397,"Radiocarbon",5065,134.5,30360,-50,5045,5085,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,20,1,1
+40111,2839,"White Pond",79398,"Radiocarbon",7040,183.5,30360,-50,7025,7055,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,15,1,1
+40111,2839,"White Pond",79399,"Radiocarbon",7880,240.5,30360,-50,7850,7910,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,30,1,1
+40111,2839,"White Pond",79400,"Radiocarbon",9140,260.5,30360,-50,9105,9175,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,35,1,1
+40111,2839,"White Pond",79401,"Radiocarbon",11390,300.5,30360,-50,11050,11730,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,340,1,1
+40111,2839,"White Pond",79402,"Radiocarbon",14040,350.5,30360,-50,13910,14170,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,130,1,1
+40111,2839,"White Pond",79403,"Radiocarbon",16185,389.5,30360,-50,16150,16220,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,35,1,1
+40111,2839,"White Pond",79404,"Radiocarbon",18730,433.5,30360,-50,18670,18790,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,60,1,1
+40111,2839,"White Pond",79405,"Radiocarbon",19700,443.5,30360,-50,19640,19760,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,60,1,1
+40111,2839,"White Pond",79406,"Radiocarbon",21990,490.5,30360,-50,21690,22290,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,300,1,1
+40111,2839,"White Pond",79407,"Radiocarbon",23300,503.5,30360,-50,23220,23380,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,80,1,1
+40111,2839,"White Pond",79408,"Radiocarbon",26260,540.5,30360,-50,26200,26320,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,60,1,1
+40111,2839,"White Pond",79409,"Radiocarbon",28020,550.5,30360,-50,27820,28220,"Krause et al. 2018","Based on the IntCal13 calibration curve.
+
+priors:
+thick=5
+acc.mean=50
+acc.shape=1.5
+mem.strength=4
+mem.mean=0.7",FALSE,90,-80.77947,-80.77285,200,1,1

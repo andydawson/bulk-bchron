@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+1140,1107,"Icehouse Bottom [40MR23]",3162,"Radiocarbon",9380,695,9390,9370,8950,9810,"NAPD 1","Radiocarbon date from same level as sample.",TRUE,239,-84.19167,35.58833,0,430,1

@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2287,2210,"Rose Swamp",6046,"Core top",-32,0,10740,7160,-32,-12,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates.",TRUE,228,-79.44,44.18,10,0,1
+2287,2210,"Rose Swamp",6047,"Biostratigraphic, pollen",100,30,10740,7160,75,125,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates.",TRUE,228,-79.44,44.18,25,0,0
+2287,2210,"Rose Swamp",6048,"Radiocarbon",7160,105,10740,7160,6960,7360,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates.",TRUE,228,-79.44,44.18,200,1,1
+2287,2210,"Rose Swamp",6049,"Radiocarbon",10070,219,10740,7160,9510,10630,"NAPD 1","Chron uses top, Ambrosia rise, and two C14 dates.",TRUE,228,-79.44,44.18,560,1,1

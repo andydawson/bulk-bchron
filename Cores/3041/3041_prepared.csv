@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+3041,2943,"Wylde Bog",7610,"Core top",-30,0,12280,60,-30,-10,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates and one pollen stratigraphic date from Wylde Lake core.",TRUE,484,-80.4,43.9,10,0,1
+3041,2943,"Wylde Bog",7611,"Biostratigraphic, pollen",150,6.5,12280,60,100,150,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates and one pollen stratigraphic date from Wylde Lake core.",TRUE,484,-80.4,43.9,25,0,0
+3041,2943,"Wylde Bog",7612,"Radiocarbon",4480,210,12280,60,4320,4640,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates and one pollen stratigraphic date from Wylde Lake core.",TRUE,484,-80.4,43.9,160,1,1
+3041,2943,"Wylde Bog",7613,"Radiocarbon",7390,497.5,12280,60,7190,7590,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates and one pollen stratigraphic date from Wylde Lake core.",TRUE,484,-80.4,43.9,200,1,1
+3041,2943,"Wylde Bog",7614,"Biostratigraphic, pollen",10800,590,12280,60,10440,11160,"NAPD 1","Chron uses top, Ambrosia rise, two C14 dates and one pollen stratigraphic date from Wylde Lake core.",TRUE,484,-80.4,43.9,360,0,0

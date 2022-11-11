@@ -1,0 +1,13 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1568,1530,"Lacawac",3730,"Lead-210",-26.4,2,760,-40,-27.62,-25.18,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,1.22,0,1
+1568,1530,"Lacawac",3731,"Lead-210",-7,6,760,-40,-8.79,-5.21,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,1.79,0,1
+1568,1530,"Lacawac",3732,"Lead-210",18,10,760,-40,14.5,21.5,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,3.5,0,1
+1568,1530,"Lacawac",3733,"Lead-210",33.4,13,760,-40,27.88,38.92,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,5.52,0,1
+1568,1530,"Lacawac",3734,"Lead-210",38.6,16,760,-40,32.14,45.06,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,6.46,0,1
+1568,1530,"Lacawac",3735,"Lead-210",43.4,18,760,-40,35.91,50.89,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,7.49,0,1
+1568,1530,"Lacawac",3736,"Lead-210",51.7,19,760,-40,42.03,61.37,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,9.67,0,1
+1568,1530,"Lacawac",3737,"Lead-210",78.5,22,760,-40,56.35,100.65,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,22.15,0,1
+1568,1530,"Lacawac",3738,"Lead-210",102.3,25,760,-40,55.93,148.67,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,46.37,0,1
+1568,1530,"Lacawac",3739,"Lead-210",129.8,28,760,-40,21.05,200,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,89.475,0,1
+1568,1530,"Lacawac",3740,"Biostratigraphic, pollen",150,30.5,760,-40,130,170,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,20,0,0
+1568,1530,"Lacawac",3741,"Radiocarbon",755,69,760,-40,495,1015,"NAPD 1","top date of -40, one date at registered ambrosia rise, one C14 date",TRUE,443,-75.2953,-75.28732,260,1,1

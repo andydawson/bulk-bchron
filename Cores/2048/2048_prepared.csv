@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2048,1975,"Vallée de l'Albion",5841,"Core top",0,0,10880,150,0,0,"NAPD",NA,TRUE,320,-71.325,45.67083,32,0,1
+2048,1975,"Vallée de l'Albion",5842,"Radiocarbon",4000,135,10880,150,3885,4115,"NAPD",NA,TRUE,320,-71.325,45.67083,115,1,1
+2048,1975,"Vallée de l'Albion",5843,"Radiocarbon",7160,235,10880,150,7020,7300,"NAPD",NA,TRUE,320,-71.325,45.67083,140,1,1
+2048,1975,"Vallée de l'Albion",5844,"Radiocarbon",9005,370,10880,150,8855,9155,"NAPD",NA,TRUE,320,-71.325,45.67083,150,1,1
+2048,1975,"Vallée de l'Albion",5845,"Radiocarbon",10880,450,10880,150,10720,11040,"NAPD",NA,TRUE,320,-71.325,45.67083,160,1,1

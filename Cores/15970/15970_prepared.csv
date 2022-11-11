@@ -1,0 +1,373 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15970,10450,"Farewell Lake",35048,"Radiocarbon",2290,85,13020,-40,2230,2350,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,60,1,1
+15970,10450,"Farewell Lake",35049,"Radiocarbon",1550,97.5,13020,-40,1490,1610,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,60,1,1
+15970,10450,"Farewell Lake",35050,"Radiocarbon",3330,147.5,13020,-40,3280,3380,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,50,1,1
+15970,10450,"Farewell Lake",35051,"Radiocarbon",5190,215,13020,-40,5120,5260,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,70,1,1
+15970,10450,"Farewell Lake",35052,"Radiocarbon",3880,230,13020,-40,3820,3940,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,60,1,1
+15970,10450,"Farewell Lake",35053,"Radiocarbon",4910,255,13020,-40,4850,4970,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,60,1,1
+15970,10450,"Farewell Lake",35054,"Radiocarbon",9180,295,13020,-40,9100,9260,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,80,1,1
+15970,10450,"Farewell Lake",35055,"Radiocarbon",7010,312.5,13020,-40,6940,7080,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,70,1,1
+15970,10450,"Farewell Lake",35056,"Radiocarbon",7860,330,13020,-40,7800,7920,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,60,1,1
+15970,10450,"Farewell Lake",35057,"Radiocarbon",11330,355,13020,-40,11200,11460,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,130,1,1
+15970,10450,"Farewell Lake",35058,"Radiocarbon",10960,405,13020,-40,10870,11050,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,90,1,1
+15970,10450,"Farewell Lake",35059,"Radiocarbon",11200,435,13020,-40,11100,11300,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FAREWELL',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+435 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,320,-153.66508,-153.63256,100,1,1

@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+782,763,"East Baltic Bog",2057,"Core top",-20,0,8740,-20,-40,-20,"NAPD 1","Chron uses 3 C14 dates, top 2 corrected by 30 and 40 years for -27.3 per mille C13, top and Amb rise.",TRUE,45,-62.15,46.40833,10,0,1
+782,763,"East Baltic Bog",2058,"Biostratigraphic, pollen",95,30,8740,-20,70,120,"NAPD 1","Chron uses 3 C14 dates, top 2 corrected by 30 and 40 years for -27.3 per mille C13, top and Amb rise.",TRUE,45,-62.15,46.40833,25,0,0
+782,763,"East Baltic Bog",2059,"Radiocarbon, reservoir correction",4020,337.5,8740,-20,3900,4140,"NAPD 1","Chron uses 3 C14 dates, top 2 corrected by 30 and 40 years for -27.3 per mille C13, top and Amb rise.",TRUE,45,-62.15,46.40833,120,1,1
+782,763,"East Baltic Bog",2060,"Radiocarbon, reservoir correction",7000,497.5,8740,-20,6860,7140,"NAPD 1","Chron uses 3 C14 dates, top 2 corrected by 30 and 40 years for -27.3 per mille C13, top and Amb rise.",TRUE,45,-62.15,46.40833,140,1,1
+782,763,"East Baltic Bog",2061,"Radiocarbon",8430,576,8740,-20,8130,8730,"NAPD 1","Chron uses 3 C14 dates, top 2 corrected by 30 and 40 years for -27.3 per mille C13, top and Amb rise.",TRUE,45,-62.15,46.40833,300,1,1

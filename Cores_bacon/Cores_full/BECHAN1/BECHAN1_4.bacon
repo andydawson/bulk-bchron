@@ -1,0 +1,24 @@
+## Ran on Sun Aug 14 17:58:03 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Other dating methods , 16035, 1000, 43,  0,  0,  3,  4,  0;
+Det 1 : Other dating methods , 16209, 1000, 45,  0,  0,  3,  4,  0;
+Det 2 : Other dating methods , 16496, 1000, 47,  0,  0,  3,  4,  0;
+Det 3 : Other dating methods , 16732, 1000, 49,  0,  0,  3,  4,  0;
+Det 4 : Other dating methods , 16868, 1000, 51,  0,  0,  3,  4,  0;
+Det 5 : Other dating methods , 17155, 1000, 53,  0,  0,  3,  4,  0;
+Det 6 : Other dating methods , 18236, 1000, 55,  0,  0,  3,  4,  0;
+Det 7 : Other dating methods , 19642, 1000, 57,  0,  0,  3,  4,  0;
+Det 8 : Other dating methods , 20329, 1000, 59,  0,  0,  3,  4,  0;
+Det 9 : Other dating methods , 20541, 1000, 61,  0,  0,  3,  4,  0;
+Det 10 : Other dating methods , 20688, 1000, 63,  0,  0,  3,  4,  0;
+Det 11 : Other dating methods , 21142, 1000, 65,  0,  0,  3,  4,  0;
+Det 12 : Other dating methods , 22010, 1000, 67,  0,  0,  3,  4,  0;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 4,  -72,  1e+06,  16028,  14770,  5,  5,  0.9,  0.009, 43, 83, 698410;

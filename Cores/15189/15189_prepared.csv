@@ -1,0 +1,56 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15189,10102,"Xindi Lake",32799,"Radiocarbon",1240,11,14430,-60,1100,1380,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,140,1,1
+15189,10102,"Xindi Lake",32800,"Radiocarbon",3490,25,14430,-60,3420,3560,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,70,1,1
+15189,10102,"Xindi Lake",32801,"Radiocarbon",4930,31.5,14430,-60,4750,5110,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,180,1,1
+15189,10102,"Xindi Lake",32802,"Radiocarbon",4560,32.5,14430,-60,4320,4800,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,240,1,1
+15189,10102,"Xindi Lake",32803,"Radiocarbon",4760,43,14430,-60,4620,4900,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,140,1,1
+15189,10102,"Xindi Lake",32804,"Radiocarbon",5960,51.5,14430,-60,5840,6080,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,120,1,1
+15189,10102,"Xindi Lake",32805,"Radiocarbon",9585,86.5,14430,-60,9505,9665,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,80,1,1
+15189,10102,"Xindi Lake",32806,"Radiocarbon",10180,127,14430,-60,9940,10420,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,240,1,1
+15189,10102,"Xindi Lake",32807,"Radiocarbon",11800,168,14430,-60,11560,12040,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,240,1,1
+15189,10102,"Xindi Lake",32808,"Radiocarbon",11570,184,14430,-60,10970,12170,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,600,1,1
+15189,10102,"Xindi Lake",32809,"Core top",-53,0,14430,-60,-54,-52,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('XINDI',depths.file=TRUE)
+
+Bacon settings:",FALSE,240,-152.49547,-152.4873,1,0,1

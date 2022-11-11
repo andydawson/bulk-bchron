@@ -1,0 +1,342 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15904,10422,"Divers Lake",34817,"Core top",-43,0,15020,-50,-52,-33,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,9.5,0,1
+15904,10422,"Divers Lake",34818,"Ambrosia rise",150,53,15020,-50,100,200,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,50,0,1
+15904,10422,"Divers Lake",34819,"Radiocarbon, reservoir correction",2020,120,15020,-50,1940,2100,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,80,1,1
+15904,10422,"Divers Lake",34820,"Radiocarbon, reservoir correction",2960,240,15020,-50,2890,3030,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,70,1,1
+15904,10422,"Divers Lake",34821,"Radiocarbon, reservoir correction",4100,350,15020,-50,4000,4200,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,100,1,1
+15904,10422,"Divers Lake",34822,"Radiocarbon, reservoir correction",4730,450,15020,-50,4610,4850,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,120,1,1
+15904,10422,"Divers Lake",34823,"Radiocarbon, reservoir correction",6030,540,15020,-50,5940,6120,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,90,1,1
+15904,10422,"Divers Lake",34824,"Radiocarbon, reservoir correction",6950,620,15020,-50,6870,7030,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,80,1,1
+15904,10422,"Divers Lake",34825,"Radiocarbon, reservoir correction",8050,660,15020,-50,7950,8150,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,100,1,1
+15904,10422,"Divers Lake",34826,"Radiocarbon, reservoir correction",10230,710,15020,-50,10110,10350,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,120,1,1
+15904,10422,"Divers Lake",34828,"Deglaciation",13500,855,15020,-50,13000,14000,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('DIVERS',thick=15,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+855 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,239,-78.40148,-78.39701,500,0,1

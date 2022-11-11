@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+42677,24244,"Dogfish Bank",87764,"Radiocarbon",13190,108.5,17500,14500,13090,13290,"Lacourse cal BP","Age model in Lacourse et al 2005; Created in 2004 using BCal",FALSE,0,-131.3,53.87,100,1,1
+42677,24244,"Dogfish Bank",87765,"Radiocarbon",13790,120.5,17500,14500,13640,13940,"Lacourse cal BP","Age model in Lacourse et al 2005; Created in 2004 using BCal",FALSE,0,-131.3,53.87,150,1,1
+42677,24244,"Dogfish Bank",87766,"Radiocarbon",14330,128,17500,14500,14280,14380,"Lacourse cal BP","Age model in Lacourse et al 2005; Created in 2004 using BCal",FALSE,0,-131.3,53.87,50,1,1
+42677,24244,"Dogfish Bank",87767,"Radiocarbon",12860,86.5,17500,14500,12780,12940,"Lacourse cal BP","Age model in Lacourse et al 2005; Created in 2004 using BCal",FALSE,0,-131.3,53.87,80,1,1

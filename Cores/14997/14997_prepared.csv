@@ -1,0 +1,590 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14997,10020,"Round Pond",32055,"Core top",-50,0,3490,-50,-51,-49,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,1,0,1
+14997,10020,"Round Pond",32056,"Ambrosia rise",300,15,3490,-50,250,350,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,50,0,1
+14997,10020,"Round Pond",32057,"Radiocarbon",617,27,3490,-50,581,653,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,36,1,1
+14997,10020,"Round Pond",32058,"Radiocarbon",1468,61,3490,-50,1425,1511,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,43,1,1
+14997,10020,"Round Pond",32059,"Radiocarbon",1872,105,3490,-50,1834,1910,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,38,1,1
+14997,10020,"Round Pond",32060,"Radiocarbon",3171,145,3490,-50,3129,3213,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,42,1,1
+14997,10020,"Round Pond",32061,"Radiocarbon",617,27,3490,-50,545,689,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,72,1,1
+14997,10020,"Round Pond",32062,"Radiocarbon",1468,61,3490,-50,1382,1554,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,86,1,1
+14997,10020,"Round Pond",32063,"Radiocarbon",1872,105,3490,-50,1796,1948,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,76,1,1
+14997,10020,"Round Pond",32064,"Radiocarbon",3171,145,3490,-50,3087,3255,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,84,1,1
+14997,10020,"Round Pond",32065,"Lead-210",-40.9,2,3490,-50,-42.128099782,-39.671900218,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,1.228099782,0,1
+14997,10020,"Round Pond",32066,"Lead-210",-34.1,3,3490,-50,-35.468672334,-32.731327666,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,1.368672334,0,1
+14997,10020,"Round Pond",32067,"Lead-210",-22.3,4,3490,-50,-23.82292239,-20.77707761,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,1.52292239,0,1
+14997,10020,"Round Pond",32068,"Lead-210",-10.6,5,3490,-50,-12.521089028,-8.678910972,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,1.921089028,0,1
+14997,10020,"Round Pond",32069,"Lead-210",2,6,3490,-50,-0.50611589,4.50611589,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,2.50611589,0,1
+14997,10020,"Round Pond",32070,"Lead-210",19.5,7,3490,-50,16.05129132,22.94870868,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,3.44870868,0,1
+14997,10020,"Round Pond",32071,"Lead-210",37.9,8,3490,-50,32.299281962,43.500718038,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,5.600718038,0,1
+14997,10020,"Round Pond",32072,"Lead-210",78.1,9,3490,-50,68.508545364,87.691454636,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,9.591454636,0,1
+14997,10020,"Round Pond",32073,"Lead-210",98.2,10,3490,-50,65.88975376,130.51024624,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ROUND',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+145 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,4,-70.01136,-70.00931,32.31024624,0,1

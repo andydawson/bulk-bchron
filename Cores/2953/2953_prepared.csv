@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2953,2856,"Whyac Lake",7431,"Core top",-33,0,10940,190,-33,-33,"NAPD 1 (radiocarbon years)","C14 date at 305 cm rejected. Four C14 dates used in age model.",TRUE,15,-124.84444,48.67222,32,0,1
+2953,2856,"Whyac Lake",7432,"Radiocarbon",4710,105,10940,190,4640,4780,"NAPD 1 (radiocarbon years)","C14 date at 305 cm rejected. Four C14 dates used in age model.",TRUE,15,-124.84444,48.67222,70,1,1
+2953,2856,"Whyac Lake",7433,"Radiocarbon",7440,185,10940,190,7340,7540,"NAPD 1 (radiocarbon years)","C14 date at 305 cm rejected. Four C14 dates used in age model.",TRUE,15,-124.84444,48.67222,100,1,1
+2953,2856,"Whyac Lake",7434,"Radiocarbon",9430,265,10940,190,9340,9520,"NAPD 1 (radiocarbon years)","C14 date at 305 cm rejected. Four C14 dates used in age model.",TRUE,15,-124.84444,48.67222,90,1,1
+2953,2856,"Whyac Lake",7435,"Radiocarbon",10860,315,10940,190,10730,10990,"NAPD 1 (radiocarbon years)","C14 date at 305 cm rejected. Four C14 dates used in age model.",TRUE,15,-124.84444,48.67222,130,1,1

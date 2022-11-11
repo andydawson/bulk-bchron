@@ -1,0 +1,29 @@
+## Ran on Sun Aug 14 18:33:26 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -42, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -40, 1, 2,  0,  0,  3,  4,  0;
+Det 2 : unassigned , -34, 1, 4,  0,  0,  3,  4,  0;
+Det 3 : unassigned , -27, 1, 6,  0,  0,  3,  4,  0;
+Det 4 : unassigned , -21, 1, 8,  0,  0,  3,  4,  0;
+Det 5 : unassigned , -19, 2, 10,  0,  0,  3,  4,  0;
+Det 6 : unassigned , -11, 2, 12,  0,  0,  3,  4,  0;
+Det 7 : unassigned , -2, 3, 14,  0,  0,  3,  4,  0;
+Det 8 : unassigned , 20, 6, 16,  0,  0,  3,  4,  0;
+Det 9 : unassigned , 39, 10, 18,  0,  0,  3,  4,  0;
+Det 10 : unassigned , 44, 11, 20,  0,  0,  3,  4,  0;
+Det 11 : unassigned , 63, 16, 22,  0,  0,  3,  4,  0;
+Det 12 : unassigned , 68, 18, 24,  0,  0,  3,  4,  0;
+Det 13 : Ambrosia rise , 208, 58, 38,  0,  0,  3,  4,  0;
+Det 14 : unassigned , 440, 90, 42,  0,  0,  3,  4,  1;
+Det 15 : unassigned , 780, 90, 50,  0,  0,  3,  4,  1;
+Det 16 : unassigned , 1280, 70, 66,  0,  0,  3,  4,  1;
+Det 17 : NA , 1280, 1280000, 69,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 15,  -82,  1e+06,  -42,  -43,  5,  5,  0.9,  0.018, 0, 75, 791332;

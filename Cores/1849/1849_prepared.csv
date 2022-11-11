@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1849,1790,"Paradise Lake",5234,"Core top",0,205,10980,0,-50,50,"NAPD 1","Chron uses basal C14 date, top, and average of 6075 and 5995 dates (calib program).",TRUE,180,-57.75,53.05,50,0,1
+1849,1790,"Paradise Lake",5235,"Radiocarbon, average of two or more dates",6050,335,10980,0,5990,6110,"NAPD 1","Chron uses basal C14 date, top, and average of 6075 and 5995 dates (calib program).",TRUE,180,-57.75,53.05,60,1,1
+1849,1790,"Paradise Lake",5236,"Radiocarbon",9810,458,10980,0,9690,9930,"NAPD 1","Chron uses basal C14 date, top, and average of 6075 and 5995 dates (calib program).",TRUE,180,-57.75,53.05,120,1,1

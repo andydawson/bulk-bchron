@@ -1,0 +1,20 @@
+## Ran on Sun Aug 14 18:21:05 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -43, 1, 2,  0,  0,  3,  4,  0;
+Det 1 : European settlement horizon , 90, 10, 54,  0,  0,  3,  4,  0;
+Det 2 : CAMS68375 , 670, 50, 97,  0,  0,  3,  4,  1;
+Det 3 : CAMS68387 , 1650, 60, 185,  0,  0,  3,  4,  1;
+Det 4 : NA , 1650, 1650000, 191,  0,  0,  3,  4,  1;
+
+### Depths and priors for fixed hiatuses, in descending order 
+##### cm  alpha beta      ha     hb
+Hiatus 0:  54,  0.9,  0.09,  0.1,  10;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 20,  -72,  1e+06,  -42,  -43,  5,  5,  0.53,  0.175496688741722, 2, 202, 428269;

@@ -1,0 +1,125 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40666,23535,"Cedar Tree Neck Bog",79258,"European settlement horizon",308,20,9340,-50,258,358,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CTNECKB',d.max=200,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+200 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-70.7,-70.69145,50,0,1
+40666,23535,"Cedar Tree Neck Bog",79259,"Core top",-40,0,9340,-50,-45,-35,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CTNECKB',d.max=200,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+200 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-70.7,-70.69145,5,0,1
+40666,23535,"Cedar Tree Neck Bog",79260,"Radiocarbon",1300,52.5,9340,-50,1260,1340,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CTNECKB',d.max=200,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+200 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-70.7,-70.69145,40,1,1
+40666,23535,"Cedar Tree Neck Bog",79261,"Radiocarbon",8280,192.5,9340,-50,8200,8360,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('CTNECKB',d.max=200,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+200 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,15,-70.7,-70.69145,80,1,1

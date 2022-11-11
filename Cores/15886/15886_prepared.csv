@@ -1,0 +1,1179 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15886,10413,"Crystal Lake",34756,"Core top",-49,1289,16380,-50,-50,-48,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,1,0,1
+15886,10413,"Crystal Lake",34757,"European settlement horizon",110,1339,16380,-50,100,120,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,10,0,1
+15886,10413,"Crystal Lake",34758,"Radiocarbon",1000,1400.5,16380,-50,940,1060,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,60,1,1
+15886,10413,"Crystal Lake",34759,"Radiocarbon",1720,1450,16380,-50,1680,1760,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,40,1,1
+15886,10413,"Crystal Lake",34760,"Radiocarbon",2340,1502.5,16380,-50,2295,2385,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,45,1,1
+15886,10413,"Crystal Lake",34761,"Radiocarbon",3080,1550,16380,-50,3040,3120,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,40,1,1
+15886,10413,"Crystal Lake",34762,"Radiocarbon",3775,1600,16380,-50,3735,3815,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,40,1,1
+15886,10413,"Crystal Lake",34763,"Radiocarbon",4590,1649.5,16380,-50,4530,4650,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,60,1,1
+15886,10413,"Crystal Lake",34764,"Radiocarbon",5810,1700,16380,-50,5765,5855,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,45,1,1
+15886,10413,"Crystal Lake",34765,"Radiocarbon",6625,1731.5,16380,-50,6590,6660,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,35,1,1
+15886,10413,"Crystal Lake",34766,"Radiocarbon",7190,1738.5,16380,-50,7170,7210,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,20,1,1
+15886,10413,"Crystal Lake",34767,"Radiocarbon",8150,1738.5,16380,-50,8115,8185,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,35,1,1
+15886,10413,"Crystal Lake",34768,"Radiocarbon",7595,1744.5,16380,-50,7565,7625,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,30,1,1
+15886,10413,"Crystal Lake",34769,"Radiocarbon",7860,1749.5,16380,-50,7800,7920,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,60,1,1
+15886,10413,"Crystal Lake",34770,"Radiocarbon",8520,1788,16380,-50,8470,8570,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,50,1,1
+15886,10413,"Crystal Lake",34771,"Radiocarbon",9490,1834,16380,-50,9445,9535,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,45,1,1
+15886,10413,"Crystal Lake",34772,"Radiocarbon",9995,1866,16380,-50,9960,10030,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,35,1,1
+15886,10413,"Crystal Lake",34773,"Radiocarbon",10360,1914.5,16380,-50,10335,10385,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,25,1,1
+15886,10413,"Crystal Lake",34774,"Radiocarbon",10320,1947.5,16380,-50,10210,10430,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,110,1,1
+15886,10413,"Crystal Lake",34775,"Radiocarbon",10375,1970,16380,-50,10350,10400,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,25,1,1
+15886,10413,"Crystal Lake",34776,"Radiocarbon",10930,2004,16380,-50,10885,10975,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,45,1,1
+15886,10413,"Crystal Lake",34777,"Radiocarbon",11330,2022,16380,-50,11300,11360,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,30,1,1
+15886,10413,"Crystal Lake",34778,"Radiocarbon",11375,2025.5,16380,-50,11325,11425,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,50,1,1
+15886,10413,"Crystal Lake",34779,"Radiocarbon",11520,2037.5,16380,-50,11400,11640,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,120,1,1
+15886,10413,"Crystal Lake",34780,"Radiocarbon",11020,2051,16380,-50,10985,11055,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,35,1,1
+15886,10413,"Crystal Lake",34781,"Radiocarbon",12025,2064,16380,-50,11985,12065,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,40,1,1
+15886,10413,"Crystal Lake",34782,"Radiocarbon",12180,2070,16380,-50,12150,12210,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,30,1,1
+15886,10413,"Crystal Lake",34783,"Radiocarbon",12295,2079.5,16380,-50,12260,12330,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,35,1,1
+15886,10413,"Crystal Lake",34784,"Radiocarbon",12255,2082,16380,-50,12230,12280,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,25,1,1
+15886,10413,"Crystal Lake",34785,"Radiocarbon",12320,2110,16380,-50,12285,12355,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,35,1,1
+15886,10413,"Crystal Lake",34786,"Radiocarbon",12310,2116,16380,-50,12190,12430,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,120,1,1
+15886,10413,"Crystal Lake",34787,"Radiocarbon",12620,2142,16380,-50,12400,12840,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,220,1,1
+15886,10413,"Crystal Lake",34788,"Radiocarbon",13175,2162.5,16380,-50,13145,13205,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,30,1,1
+15886,10413,"Crystal Lake",34789,"Radiocarbon",13377,2169,16380,-50,13254,13500,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,123,1,1
+15886,10413,"Crystal Lake",34790,"Radiocarbon",13427,2169,16380,-50,13301,13553,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,126,1,1
+15886,10413,"Crystal Lake",34791,"Radiocarbon",13533,2169,16380,-50,13407,13659,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,126,1,1
+15886,10413,"Crystal Lake",34792,"Radiocarbon",13560,2169,16380,-50,13470,13650,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,90,1,1
+15886,10413,"Crystal Lake",34793,"Radiocarbon",13560,2183,16380,-50,13470,13650,"Neotoma 1","Based on the IntCal13 calibration curve. Basal sediments below 2169 cm are a 'trash' layer that probably deposited over a very short time period. The four dates from this layer are statistically the same. Thus, for the age model, the depth for these four dates was set at 2169 cm, and the basal sample depth was set at the oldest of the four dates. 
+
+Bacon command line: Bacon('CRYSTAL',thick=5,acc.mean=20,depths.file=TRUE)
+
+Bacon settings file:
+1289 #d.min
+2183 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,273,-88.36972,-88.34429,90,1,1

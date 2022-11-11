@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+1899,1835,"Pinckneyville Creek Site 20",5391,"Radiocarbon",18790,0,18790,18790,17720,19930,"Jackson 1994","age estimate based on wood date. Entity is a ""snapshot"" exposure.",TRUE,79,-91.48194,31.04833,0,1105,1

@@ -1,0 +1,16 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40914,23647,"Knob Hill Pond",79980,"Core top",-51,0,13760,-60,-51,-51,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,32,0,1
+40914,23647,"Knob Hill Pond",79981,"Lead-210",87,56.5,13760,-60,87,87,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,18,0,1
+40914,23647,"Knob Hill Pond",79982,"European settlement horizon",160,90.5,13760,-60,160,160,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,50,0,1
+40914,23647,"Knob Hill Pond",79983,"Radiocarbon",880,115.5,13760,-60,800,960,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,80,1,1
+40914,23647,"Knob Hill Pond",79984,"Radiocarbon",1280,143.5,13760,-60,1200,1360,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,80,1,1
+40914,23647,"Knob Hill Pond",79985,"Radiocarbon",1840,185.5,13760,-60,1760,1920,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,80,1,1
+40914,23647,"Knob Hill Pond",79986,"Radiocarbon",3180,274.5,13760,-60,3100,3260,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,80,1,1
+40914,23647,"Knob Hill Pond",79987,"Radiocarbon",4230,393.5,13760,-60,4205,4255,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,25,1,1
+40914,23647,"Knob Hill Pond",79988,"Radiocarbon",4870,463.5,13760,-60,4845,4895,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,25,1,1
+40914,23647,"Knob Hill Pond",79989,"Radiocarbon",5050,473.5,13760,-60,4980,5120,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,70,1,1
+40914,23647,"Knob Hill Pond",79990,"Radiocarbon",5150,483.5,13760,-60,5125,5175,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,25,1,1
+40914,23647,"Knob Hill Pond",79991,"Radiocarbon",6740,603.5,13760,-60,6630,6850,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,110,1,1
+40914,23647,"Knob Hill Pond",79992,"Radiocarbon",7770,653.5,13760,-60,7670,7870,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,100,1,1
+40914,23647,"Knob Hill Pond",79993,"Radiocarbon",10200,753.5,13760,-60,10070,10330,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,130,1,1
+40914,23647,"Knob Hill Pond",79994,"Radiocarbon",11950,803.5,13760,-60,11810,12090,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,378,-72.3758,-72.3701,140,1,1

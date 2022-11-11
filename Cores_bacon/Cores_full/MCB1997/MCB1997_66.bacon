@@ -1,0 +1,20 @@
+## Ran on Sun Aug 14 18:29:33 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -47, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : CAMS 39068 , -20, 20, 5,  0,  0,  3,  4,  1;
+Det 2 : CAMS 45431 , 350, 60, 168,  0,  0,  3,  4,  1;
+Det 3 : CAMS 39069 , 830, 50, 305,  0,  0,  3,  4,  1;
+Det 4 : CAMS 45432 , 1220, 50, 405,  0,  0,  3,  4,  1;
+Det 5 : CAMS 39070 , 1950, 50, 520,  0,  0,  3,  4,  1;
+Det 6 : CAMS 39071 , 2550, 50, 740,  0,  0,  3,  4,  1;
+Det 7 : CAMS 39072 , 3520, 80, 1180,  0,  0,  3,  4,  1;
+Det 8 : CAMS 39073 , 3940, 70, 1297,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 66,  -120,  1e+06,  -48,  -47,  5,  5,  0.9,  0.018, 0, 1320, 828534;

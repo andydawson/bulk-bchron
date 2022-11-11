@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1685,1630,"Lake Mabel",4460,"Core top",-15,0,70,-10,-15,0,"NAPD 1","Chron uses surface date (-15 BP) and bottom of the core (70±30), which is still above the Ambrosia-rise.",TRUE,315,-93.62008,-93.61062,7.5,0,0
+1685,1630,"Lake Mabel",4461,"Guess",70,100,70,-10,40,100,"NAPD 1","Chron uses surface date (-15 BP) and bottom of the core (70±30), which is still above the Ambrosia-rise.",TRUE,315,-93.62008,-93.61062,30,NA,0

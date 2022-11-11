@@ -1,0 +1,14 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+681,663,"Denton Lake",1856,"Lead-210",-33,0.2,120,-40,-33,-33,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1857,"Lead-210",-32,1.25,120,-40,-32,-32,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1858,"Lead-210",-30,2.25,120,-40,-30,-30,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1859,"Lead-210",-26,3.75,120,-40,-26,-26,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1860,"Lead-210",-21,5.75,120,-40,-21,-21,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1861,"Lead-210",-16,7.75,120,-40,-16,-16,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1862,"Lead-210",-9,9.75,120,-40,-9,-9,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1863,"Lead-210",16,12.25,120,-40,16,16,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1864,"Lead-210",26,14.75,120,-40,26,26,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1865,"Lead-210",37,17.25,120,-40,37,37,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1866,"Lead-210",47,19.25,120,-40,47,47,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1867,"Lead-210",56,20.5,120,-40,56,56,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1
+681,663,"Denton Lake",1868,"Lead-210",65,22.25,120,-40,65,65,"NAPD 1","Chron uses 13 Pb210 dates, date for each of top 13 out of 17 samples.",TRUE,500,-89.31557,-89.31044,18,0,1

@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1762,1706,"Molas Pass Bog",4772,"Core top",-11,0,9720,60,-11,9,"NAPD 1","Chron uses top and two C14 dates.",TRUE,3220,-107.6975,37.73778,10,0,1
+1762,1706,"Molas Pass Bog",4773,"Radiocarbon",4940,65,9720,60,4340,5540,"NAPD 1","Chron uses top and two C14 dates.",TRUE,3220,-107.6975,37.73778,600,1,1
+1762,1706,"Molas Pass Bog",4774,"Radiocarbon",8890,127,9720,60,8710,9070,"NAPD 1","Chron uses top and two C14 dates.",TRUE,3220,-107.6975,37.73778,180,1,1

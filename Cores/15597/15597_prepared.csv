@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15597,10286,"Albany River Bog",33825,"Core top",-39,0,5500,300,-42,-35,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ALBANY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+261.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,79,-83.65,-83.585,3.5,0,1
+15597,10286,"Albany River Bog",33826,"Radiocarbon",1110,48,5500,300,1040,1180,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ALBANY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+261.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,79,-83.65,-83.585,70,1,1
+15597,10286,"Albany River Bog",33827,"Radiocarbon",2020,102.5,5500,300,1950,2090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ALBANY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+261.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,79,-83.65,-83.585,70,1,1
+15597,10286,"Albany River Bog",33828,"Radiocarbon",2450,157.5,5500,300,2360,2540,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ALBANY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+261.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,79,-83.65,-83.585,90,1,1
+15597,10286,"Albany River Bog",33829,"Radiocarbon",2680,180.5,5500,300,2600,2760,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ALBANY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+261.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,79,-83.65,-83.585,80,1,1
+15597,10286,"Albany River Bog",33830,"Radiocarbon",3750,212.5,5500,300,3680,3820,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ALBANY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+261.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,79,-83.65,-83.585,70,1,1
+15597,10286,"Albany River Bog",33831,"Radiocarbon",4810,261.5,5500,300,4740,4880,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('ALBANY',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+261.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,79,-83.65,-83.585,70,1,1

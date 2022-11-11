@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1162,1127,"Jacob Lake",3283,"Core top",0,0,15130,20,-30,30,"NAPD 1","Chron uses surface (0 BP) plus 3 radiocarbon dates.",TRUE,2285,-110.83333,34.33333,30,0,1
+1162,1127,"Jacob Lake",3284,"Radiocarbon",750,29,15130,20,330,1170,"NAPD 1","Chron uses surface (0 BP) plus 3 radiocarbon dates.",TRUE,2285,-110.83333,34.33333,420,1,1
+1162,1127,"Jacob Lake",3285,"Radiocarbon",3310,59,15130,20,2990,3630,"NAPD 1","Chron uses surface (0 BP) plus 3 radiocarbon dates.",TRUE,2285,-110.83333,34.33333,320,1,1
+1162,1127,"Jacob Lake",3286,"Radiocarbon",14770,222,15130,20,11570,17970,"NAPD 1","Chron uses surface (0 BP) plus 3 radiocarbon dates.",TRUE,2285,-110.83333,34.33333,3200,1,1

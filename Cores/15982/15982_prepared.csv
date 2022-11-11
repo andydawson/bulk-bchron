@@ -1,0 +1,63 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15982,10456,"Mayflower Lake",35096,"Core top",-23,0,6540,-30,-26,-20,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MAYFLWON',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+280 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-79.21917,-79.21389,3,0,1
+15982,10456,"Mayflower Lake",35097,"Radiocarbon",5790,280,6540,-30,5680,5900,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('MAYFLWON',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+280 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,189,-79.21917,-79.21389,110,1,1

@@ -1,0 +1,33 @@
+## Ran on Sun Aug 14 18:33:24 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -53, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -52, 1, 1,  0,  0,  3,  4,  0;
+Det 2 : unassigned , -48, 2, 3,  0,  0,  3,  4,  0;
+Det 3 : unassigned , -44, 3, 5,  0,  0,  3,  4,  0;
+Det 4 : unassigned , -23, 4, 7,  0,  0,  3,  4,  0;
+Det 5 : unassigned , 3, 8, 9,  0,  0,  3,  4,  0;
+Det 6 : unassigned , 34, 10, 11,  0,  0,  3,  4,  0;
+Det 7 : unassigned , 70, 20, 13,  0,  0,  3,  4,  0;
+Det 8 : unassigned , 95, 30, 14,  0,  0,  3,  4,  0;
+Det 9 : CAMS-108931 , 785, 70, 73,  0,  0,  3,  4,  1;
+Det 10 : CAMS-114114 , 1590, 70, 117,  0,  0,  3,  4,  1;
+Det 11 : Tephra , 2505, 105, 157,  0,  0,  3,  4,  0;
+Det 12 : Tephra , 3673, 45, 202.5,  0,  0,  3,  4,  0;
+Det 13 : CAMS-108932 , 3945, 70, 224,  0,  0,  3,  4,  1;
+Det 14 : CAMS-108933 , 4750, 70, 256,  0,  0,  3,  4,  1;
+Det 15 : CAMS-114115 , 6385, 70, 300,  0,  0,  3,  4,  1;
+Det 16 : Tephra , 7627, 150, 351,  0,  0,  3,  4,  0;
+Det 17 : CAMS-114116 , 7760, 90, 401,  0,  0,  3,  4,  1;
+Det 18 : CAMS-114117 , 8360, 70, 467,  0,  0,  3,  4,  1;
+Det 19 : CAMS-114118 , 8530, 180, 536,  0,  0,  3,  4,  1;
+Det 20 : CAMS-114119 , 9020, 70, 598,  0,  0,  3,  4,  1;
+Det 21 : CAMS-108934 , 9520, 90, 672,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 46,  -72,  1e+06,  -54,  -52,  5,  5,  0.9,  0.045, 0, 690, 277951;

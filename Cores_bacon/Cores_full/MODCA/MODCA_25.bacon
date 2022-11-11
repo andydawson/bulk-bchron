@@ -1,0 +1,26 @@
+## Ran on Sun Aug 14 18:32:05 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -59, 61, 0,  0,  0,  3,  4,  0;
+Det 1 : Caesium-137 , -13, 1, 15,  0,  0,  3,  4,  0;
+Det 2 : Stratigraphic , 78, 78, 25,  0,  0,  3,  4,  0;
+Det 3 : USC Geology , 125, 1, 50,  0,  0,  3,  4,  0;
+Det 4 : Stratigraphic , 130, 130, 65,  0,  0,  3,  4,  0;
+Det 5 : European settlement horizon , 163, 163, 80,  0,  0,  3,  4,  0;
+Det 6 : UCI-62788 , 785, 20, 129,  0,  0,  3,  4,  1;
+Det 7 : UCI-67128 , 1730, 25, 210.5,  0,  0,  3,  4,  1;
+Det 8 : UCI-62789 , 2095, 25, 294,  0,  0,  3,  4,  1;
+Det 9 : UCI-62790 , 2510, 25, 407,  0,  0,  3,  4,  1;
+Det 10 : UCI-62791 , 2645, 35, 465,  0,  0,  3,  4,  1;
+
+### Depths and priors for fixed hiatuses, in descending order 
+##### cm  alpha beta      ha     hb
+Hiatus 0:  80,  0.9,  0.09,  0.1,  10;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 25,  -652,  1e+06,  -86,  -119,  5,  5,  0.53,  0.175496688741722, 0, 500, 659307;

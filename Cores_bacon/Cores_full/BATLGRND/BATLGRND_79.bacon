@@ -1,0 +1,26 @@
+## Ran on Sun Aug 14 17:58:03 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -30, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : Biostratigraphic_ pollen , 100, 30, 16,  0,  0,  3,  4,  0;
+Det 2 : Tephra , 500, 100, 198.5,  0,  0,  3,  4,  0;
+Det 3 : Tephra , 2750, 250, 253,  0,  0,  3,  4,  0;
+Det 4 : QL-1594 , 5310, 40, 365,  0,  0,  3,  4,  1;
+Det 5 : Tephra , 6850, 150, 500.5,  0,  0,  3,  4,  0;
+Det 6 : QL-1595 , 8220, 40, 565,  0,  0,  3,  4,  1;
+Det 7 : QL-1596 , 9340, 40, 631,  0,  0,  3,  4,  1;
+Det 8 : QL-1597 , 10730, 80, 685,  0,  0,  3,  4,  1;
+Det 9 : Tephra , 12500, 600, 790.5,  0,  0,  3,  4,  0;
+Det 10 : QL-1637 , 14160, 220, 875,  0,  0,  3,  4,  1;
+Det 11 : Other dating methods , 14645, 235, 935,  0,  0,  3,  4,  0;
+Det 12 : Other dating methods , 15065, 665, 1158,  0,  0,  3,  4,  0;
+Det 13 : QL-1599 , 17300, 350, 1335,  0,  0,  3,  4,  1;
+Det 14 : QL-1600 , 20200, 400, 1545,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 79,  -72,  1e+06,  -28,  -30,  5,  5,  0.9,  0.09, 0, 1580, 932545;

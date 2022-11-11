@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+1620,1574,"Little Bayou Sara Site 4J",3995,"Radiocarbon",25250,0,25250,25250,24290,26290,"Jackson 1994","age estimate based on wood date. Entity is a ""snapshot"" exposure.",TRUE,49,-91.48083,30.96167,0,1000,1

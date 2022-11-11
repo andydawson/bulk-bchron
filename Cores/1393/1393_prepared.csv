@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1393,1358,"Tourbière du lac Joncas",3367,"Core top",0,0,7140,100,0,0,"NAPD 1",NA,TRUE,747,-71.16278,47.25778,32,0,1
+1393,1358,"Tourbière du lac Joncas",3368,"Radiocarbon",4710,227.5,7140,100,4640,4880,"NAPD 1",NA,TRUE,747,-71.16278,47.25778,120,1,1
+1393,1358,"Tourbière du lac Joncas",3369,"Radiocarbon",7140,385,7140,100,7010,7270,"NAPD 1",NA,TRUE,747,-71.16278,47.25778,130,1,1

@@ -1,0 +1,18 @@
+labID,	age,	error,	depth,	cc
+Core top,	-25,	1,	650,	0
+Interpolated_ corrected for compaction,	-13,	5,	662,	0
+Interpolated_ corrected for compaction,	0,	5,	670,	0
+Interpolated_ corrected for compaction,	22,	5,	680,	0
+Interpolated_ corrected for compaction,	46,	5,	690,	0
+Interpolated_ corrected for compaction,	72,	5,	702,	0
+Biostratigraphic_ pollen,	100,	20,	715,	0
+Radiocarbon_ calibrated,	335,	215,	750,	0
+Radiocarbon_ calibrated,	433,	123,	785,	0
+Radiocarbon_ calibrated,	2242,	179,	975,	0
+Radiocarbon_ calibrated,	3402,	141,	1065,	0
+Radiocarbon_ calibrated,	3776,	191,	1135,	0
+Radiocarbon_ calibrated,	5836,	174,	1345,	0
+Radiocarbon_ calibrated,	6910,	180,	1415,	0
+Radiocarbon_ calibrated,	8268,	246,	1520,	0
+Radiocarbon_ calibrated,	11636,	372,	1640,	0
+Radiocarbon_ calibrated,	13864,	218,	1725,	0

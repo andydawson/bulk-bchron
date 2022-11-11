@@ -1,0 +1,218 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15292,10155,"Byron-Bergen Swamp (Site 2)",33207,"Core top",-42,0,11870,-30,-50,-34,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BYRONMRL',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+505 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,180,-78.05134,-77.95409,8,0,1
+15292,10155,"Byron-Bergen Swamp (Site 2)",33208,"Radiocarbon",2835,97.5,11870,-30,2495,3175,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BYRONMRL',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+505 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,180,-78.05134,-77.95409,340,1,1
+15292,10155,"Byron-Bergen Swamp (Site 2)",33209,"Radiocarbon",3040,220,11870,-30,2905,3175,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BYRONMRL',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+505 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,180,-78.05134,-77.95409,135,1,1
+15292,10155,"Byron-Bergen Swamp (Site 2)",33210,"Radiocarbon",3590,270,11870,-30,3440,3740,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BYRONMRL',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+505 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,180,-78.05134,-77.95409,150,1,1
+15292,10155,"Byron-Bergen Swamp (Site 2)",33211,"Radiocarbon",5540,353,11870,-30,5250,5830,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BYRONMRL',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+505 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,180,-78.05134,-77.95409,290,1,1
+15292,10155,"Byron-Bergen Swamp (Site 2)",33212,"Radiocarbon",9030,430,11870,-30,8900,9160,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BYRONMRL',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+505 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,180,-78.05134,-77.95409,130,1,1
+15292,10155,"Byron-Bergen Swamp (Site 2)",33213,"Radiocarbon",10730,505,11870,-30,10370,11090,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('BYRONMRL',thick=10,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+505 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,180,-78.05134,-77.95409,360,1,1

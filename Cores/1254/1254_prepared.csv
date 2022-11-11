@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1254,1219,"Saint-Jean Ile d'Orléans",3309,"Core top",0,0,5760,150,0,0,"NAPD 1",NA,TRUE,68,-70.93278,46.93278,32,0,1
+1254,1219,"Saint-Jean Ile d'Orléans",3310,"Radiocarbon",1180,77.5,5760,150,1080,1280,"NAPD 1",NA,TRUE,68,-70.93278,46.93278,100,1,1
+1254,1219,"Saint-Jean Ile d'Orléans",3311,"Radiocarbon",3800,277.5,5760,150,3660,3940,"NAPD 1",NA,TRUE,68,-70.93278,46.93278,140,1,1
+1254,1219,"Saint-Jean Ile d'Orléans",3312,"Radiocarbon",6100,327.5,5760,150,5940,6260,"NAPD 1",NA,TRUE,68,-70.93278,46.93278,160,1,1

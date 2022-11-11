@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1448,1411,"Kellners Lake",3549,"Core top",-26,0,10750,-30,-26,-6,"NAPD 1","Chron uses top and four C14 dates.",TRUE,261,-87.84806,44.23806,10,0,1
+1448,1411,"Kellners Lake",3550,"Radiocarbon",1725,295,10750,-30,1415,2035,"NAPD 1","Chron uses top and four C14 dates.",TRUE,261,-87.84806,44.23806,310,1,1
+1448,1411,"Kellners Lake",3551,"Radiocarbon",4450,585,10750,-30,4450,4790,"NAPD 1","Chron uses top and four C14 dates.",TRUE,261,-87.84806,44.23806,170,1,1
+1448,1411,"Kellners Lake",3552,"Radiocarbon",10220,996.3,10750,-30,10030,10410,"NAPD 1","Chron uses top and four C14 dates.",TRUE,261,-87.84806,44.23806,190,1,1
+1448,1411,"Kellners Lake",3553,"Radiocarbon",13970,1140,10750,-30,13580,14120,"NAPD 1","Chron uses top and four C14 dates.",TRUE,261,-87.84806,44.23806,270,1,1

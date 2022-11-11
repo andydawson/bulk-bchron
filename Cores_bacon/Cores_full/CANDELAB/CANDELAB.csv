@@ -1,0 +1,14 @@
+labID,	age,	error,	depth,	cc
+Core top,	0,	1,	1,	0
+Tephra,	1250,	150,	53,	0
+unassigned,	2530,	80,	77.5,	1
+unassigned,	3600,	90,	102.5,	1
+unassigned,	5700,	90,	162.5,	1
+unassigned,	5820,	100,	172.5,	1
+unassigned,	6960,	100,	182.5,	1
+unassigned,	7700,	100,	217.5,	1
+unassigned,	8720,	150,	247.5,	1
+unassigned,	8940,	220,	252.5,	1
+unassigned,	9270,	180,	262.5,	1
+unassigned,	9350,	90,	272.5,	1
+unassigned,	10050,	110,	277.5,	1

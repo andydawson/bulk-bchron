@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2343,2263,"Lac aux Quenouilles",6368,"Core top",0,0,10750,50,0,0,"NAPD 1",NA,TRUE,403,-74.39583,46.17194,32,0,1
+2343,2263,"Lac aux Quenouilles",6369,"Radiocarbon",8340,830,10750,50,8250,8430,"NAPD 1",NA,TRUE,403,-74.39583,46.17194,90,1,1
+2343,2263,"Lac aux Quenouilles",6370,"Radiocarbon",10630,890,10750,50,10325,10935,"NAPD 1",NA,TRUE,403,-74.39583,46.17194,305,1,1
+2343,2263,"Lac aux Quenouilles",6371,"Radiocarbon",10820,913,10750,50,10660,10980,"NAPD 1",NA,TRUE,403,-74.39583,46.17194,160,1,1

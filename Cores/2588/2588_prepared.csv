@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2588,2504,"Splains Lake",6734,"Core top",-30,0,12300,-30,-25,-35,"NAPD 1","Chron uses top, 5 radiocarbon dates, and estimated date of deglaciation.",TRUE,3165,-107.08325,-107.07314,5,0,1
+2588,2504,"Splains Lake",6735,"Radiocarbon",3880,50,12300,-30,3710,4050,"NAPD 1","Chron uses top, 5 radiocarbon dates, and estimated date of deglaciation.",TRUE,3165,-107.08325,-107.07314,170,1,1
+2588,2504,"Splains Lake",6736,"Radiocarbon",5040,95,12300,-30,4900,5180,"NAPD 1","Chron uses top, 5 radiocarbon dates, and estimated date of deglaciation.",TRUE,3165,-107.08325,-107.07314,140,1,1
+2588,2504,"Splains Lake",6737,"Radiocarbon",8750,195,12300,-30,8530,8970,"NAPD 1","Chron uses top, 5 radiocarbon dates, and estimated date of deglaciation.",TRUE,3165,-107.08325,-107.07314,220,1,1
+2588,2504,"Splains Lake",6738,"Radiocarbon",11040,276,12300,-30,10980,11280,"NAPD 1","Chron uses top, 5 radiocarbon dates, and estimated date of deglaciation.",TRUE,3165,-107.08325,-107.07314,150,1,1
+2588,2504,"Splains Lake",6739,"Radiocarbon",12020,291.5,12300,-30,11490,12550,"NAPD 1","Chron uses top, 5 radiocarbon dates, and estimated date of deglaciation.",TRUE,3165,-107.08325,-107.07314,530,1,1
+2588,2504,"Splains Lake",6740,"Deglaciation",15000,490,12300,-30,14500,15500,"NAPD 1","Chron uses top, 5 radiocarbon dates, and estimated date of deglaciation.",TRUE,3165,-107.08325,-107.07314,500,0,1

@@ -1,0 +1,311 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20627,13633,"Snake Pond",41550,"Lead-210",-34,2,2350,-40,-35,-33,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,1,0,1
+20627,13633,"Snake Pond",41551,"Lead-210",-17,4,2350,-40,-19,-15,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,2,0,1
+20627,13633,"Snake Pond",41552,"Lead-210",-4,6,2350,-40,-7,-1,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,3,0,1
+20627,13633,"Snake Pond",41553,"Lead-210",41,8,2350,-40,30,52,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,11,0,1
+20627,13633,"Snake Pond",41554,"Lead-210",48,10,2350,-40,36,60,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,12,0,1
+20627,13633,"Snake Pond",41555,"Radiocarbon",610,45,2350,-40,530,690,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,80,1,1
+20627,13633,"Snake Pond",41556,"Radiocarbon",1280,60,2350,-40,1220,1340,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,60,1,1
+20627,13633,"Snake Pond",41557,"Radiocarbon",1920,79,2350,-40,1860,1980,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,60,1,1
+20627,13633,"Snake Pond",41558,"Radiocarbon",2400,100,2350,-40,2320,2480,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,80,1,1
+20627,13633,"Snake Pond",41559,"Core top",-42,0,2350,-40,-43,-41,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('SNAKE',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+100 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,282,-72.01812,-72.01469,1,0,1

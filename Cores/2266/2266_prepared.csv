@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2266,2190,"Robinson's Pond",5983,"Core top",-30,0,14210,-20,-30,-10,"NAPD 1","Chron uses top and two C14 dates.",TRUE,32,-58.8,48.26,10,0,1
+2266,2190,"Robinson's Pond",5984,"Radiocarbon",5090,311,14210,-20,4950,5230,"NAPD 1","Chron uses top and two C14 dates.",TRUE,32,-58.8,48.26,140,1,1
+2266,2190,"Robinson's Pond",5985,"Radiocarbon",11300,412.5,14210,-20,10060,12540,"NAPD 1","Chron uses top and two C14 dates.",TRUE,32,-58.8,48.26,1240,1,1

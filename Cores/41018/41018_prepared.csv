@@ -1,0 +1,10 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+41018,23709,"Uncle Seth's Pond",80675,"Core top",-61,0,13390,-60,-61,-61,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,32,0,1
+41018,23709,"Uncle Seth's Pond",80676,"European settlement horizon",260,30.5,13390,-60,260,260,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,50,0,1
+41018,23709,"Uncle Seth's Pond",80677,"Radiocarbon",1470,70.5,13390,-60,1425,1515,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,45,1,1
+41018,23709,"Uncle Seth's Pond",80678,"Radiocarbon",3570,125.5,13390,-60,3530,3610,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,40,1,1
+41018,23709,"Uncle Seth's Pond",80679,"Radiocarbon",4330,165.5,13390,-60,4305,4355,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,25,1,1
+41018,23709,"Uncle Seth's Pond",80680,"Radiocarbon",6840,210.5,13390,-60,6780,6900,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,60,1,1
+41018,23709,"Uncle Seth's Pond",80681,"Radiocarbon",8740,250.5,13390,-60,8685,8795,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,55,1,1
+41018,23709,"Uncle Seth's Pond",80682,"Radiocarbon",9180,268.5,13390,-60,9120,9240,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,60,1,1
+41018,23709,"Uncle Seth's Pond",80683,"Radiocarbon",11500,290.5,13390,-60,11410,11590,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,15,-70.66628,-70.663,90,1,1

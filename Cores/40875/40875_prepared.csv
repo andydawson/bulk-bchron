@@ -1,0 +1,12 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40875,23625,"Guilder Pond",79891,"Core top",-59,0,15160,-60,-59,-59,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,32,0,1
+40875,23625,"Guilder Pond",79892,"European settlement horizon",258,24.5,15160,-60,258,258,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,50,0,1
+40875,23625,"Guilder Pond",79893,"Radiocarbon",3340,101.5,15160,-60,3310,3370,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,30,1,1
+40875,23625,"Guilder Pond",79894,"Radiocarbon",4070,145.5,15160,-60,4035,4105,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,35,1,1
+40875,23625,"Guilder Pond",79895,"Radiocarbon",4120,155.5,15160,-60,4090,4150,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,30,1,1
+40875,23625,"Guilder Pond",79896,"Radiocarbon",4590,163.5,15160,-60,4555,4625,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,35,1,1
+40875,23625,"Guilder Pond",79897,"Radiocarbon",4500,170.5,15160,-60,4460,4540,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,40,1,1
+40875,23625,"Guilder Pond",79898,"Radiocarbon",5040,201.5,15160,-60,5005,5075,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,35,1,1
+40875,23625,"Guilder Pond",79899,"Radiocarbon",8070,301.5,15160,-60,8030,8110,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,40,1,1
+40875,23625,"Guilder Pond",79900,"Radiocarbon",9450,356.5,15160,-60,9400,9500,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,50,1,1
+40875,23625,"Guilder Pond",79901,"Radiocarbon",12700,430.5,15160,-60,12645,12755,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,624,-73.439,-73.4354,55,1,1

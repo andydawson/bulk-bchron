@@ -1,0 +1,13 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+314,307,"Brown's Bay, Lake Minnetonka",776,"Lead-210",-29,6,590,-30,-31,-27,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,2,0,1
+314,307,"Brown's Bay, Lake Minnetonka",777,"Lead-210",-25,12,590,-30,-27,-23,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,2,0,1
+314,307,"Brown's Bay, Lake Minnetonka",778,"Lead-210",-20,18,590,-30,-22,-18,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,2,0,1
+314,307,"Brown's Bay, Lake Minnetonka",779,"Lead-210",-13,24,590,-30,-16,-10,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,3,0,1
+314,307,"Brown's Bay, Lake Minnetonka",780,"Lead-210",-5,30,590,-30,-9,-1,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,4,0,1
+314,307,"Brown's Bay, Lake Minnetonka",781,"Lead-210",4,36,590,-30,1,9,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,4,0,1
+314,307,"Brown's Bay, Lake Minnetonka",782,"Lead-210",19,42,590,-30,10,28,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,9,0,1
+314,307,"Brown's Bay, Lake Minnetonka",783,"Lead-210",34,48,590,-30,20,48,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,14,0,1
+314,307,"Brown's Bay, Lake Minnetonka",784,"Lead-210",55,54,590,-30,28,82,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,27,0,1
+314,307,"Brown's Bay, Lake Minnetonka",785,"Lead-210",88,60,590,-30,13,163,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,75,0,1
+314,307,"Brown's Bay, Lake Minnetonka",786,"Lead-210",125,66,590,-30,-70,200,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,135,0,1
+314,307,"Brown's Bay, Lake Minnetonka",787,"Lead-210",158,72,590,-30,-70,200,"NAPD 1","Chron uses 12 PB210 dates from upper part of core.",FALSE,300,-93.55931,-93.5309,135,0,1

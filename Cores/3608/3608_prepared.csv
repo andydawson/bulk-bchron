@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+3608,2241,"Sagehen Marsh",8327,"Radiocarbon",1350,151.5,1360,1340,1230,1470,"NAPD 1","Chron uses one C14 date.",TRUE,2085,-108.50389,37.47389,0,120,1

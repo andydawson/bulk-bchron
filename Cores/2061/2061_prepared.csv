@@ -1,0 +1,10 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2061,1987,"Chesapeake Bay, Rhode River",5884,"Core top",-49,0,2620,-50,-49,-49,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,32,0,1
+2061,1987,"Chesapeake Bay, Rhode River",5885,"Radiocarbon",610,296,2620,-50,580,640,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,30,1,1
+2061,1987,"Chesapeake Bay, Rhode River",5886,"Radiocarbon",745,369,2620,-50,710,780,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,35,1,1
+2061,1987,"Chesapeake Bay, Rhode River",5887,"Radiocarbon",1150,455,2620,-50,110,1190,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,540,1,1
+2061,1987,"Chesapeake Bay, Rhode River",5888,"Radiocarbon",1240,485,2620,-50,1210,1270,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,30,1,1
+2061,1987,"Chesapeake Bay, Rhode River",5889,"Radiocarbon",1600,576,2620,-50,1565,1635,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,35,1,1
+2061,1987,"Chesapeake Bay, Rhode River",5890,"Radiocarbon",2050,665,2620,-50,2010,2090,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,40,1,1
+2061,1987,"Chesapeake Bay, Rhode River",5891,"Radiocarbon",2210,733,2620,-50,2175,2245,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,35,1,1
+2061,1987,"Chesapeake Bay, Rhode River",5892,"Radiocarbon",2500,780,2620,-50,2465,2535,"NAPD 1 (radiocarbon years)",NA,TRUE,0,-76.39472,38.88639,35,1,1

@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+224,222,"Baird Inlet [Rock Basin Lake]",250,"Core top",-29,0,9590,-30,-29,-29,"NAPD 1 (radiocarbon years)","Chron uses top plus three radiocarbon dates.",TRUE,295,-76.78,78.49167,32,0,1
+224,222,"Baird Inlet [Rock Basin Lake]",251,"Radiocarbon",4080,22.5,9590,-30,3870,4290,"NAPD 1 (radiocarbon years)","Chron uses top plus three radiocarbon dates.",TRUE,295,-76.78,78.49167,210,1,1
+224,222,"Baird Inlet [Rock Basin Lake]",252,"Radiocarbon",6780,32.5,9590,-30,6560,7000,"NAPD 1 (radiocarbon years)","Chron uses top plus three radiocarbon dates.",TRUE,295,-76.78,78.49167,220,1,1
+224,222,"Baird Inlet [Rock Basin Lake]",253,"Radiocarbon",8970,48.5,9590,-30,8810,9130,"NAPD 1 (radiocarbon years)","Chron uses top plus three radiocarbon dates.",TRUE,295,-76.78,78.49167,160,1,1

@@ -1,0 +1,125 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14946,9998,"Efstadalsvatn",31904,"Radiocarbon",3895,23.75,11920,10510,3845,3945,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('EFSTAD',depths.file=TRUE)
+
+Bacon settings: 
+23.75 #d.min
+259 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,123,-22.68402,-22.6625,50,1,1
+14946,9998,"Efstadalsvatn",31905,"Radiocarbon",7065,131.5,11920,10510,7000,7130,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('EFSTAD',depths.file=TRUE)
+
+Bacon settings: 
+23.75 #d.min
+259 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,123,-22.68402,-22.6625,65,1,1
+14946,9998,"Efstadalsvatn",31906,"Radiocarbon",9050,203.5,11920,10510,8980,9120,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('EFSTAD',depths.file=TRUE)
+
+Bacon settings: 
+23.75 #d.min
+259 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,123,-22.68402,-22.6625,70,1,1
+14946,9998,"Efstadalsvatn",31907,"Radiocarbon",9470,259,11920,10510,9400,9540,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('EFSTAD',depths.file=TRUE)
+
+Bacon settings: 
+23.75 #d.min
+259 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,123,-22.68402,-22.6625,70,1,1

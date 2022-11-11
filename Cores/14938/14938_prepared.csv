@@ -1,0 +1,156 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14938,9995,"Martins Lake",31880,"Core top",-43,0,11430,100,-44,-42,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages for depths >230 were based on a linear fit to the Bacon ages from 210 to 230 cm.
+
+Bacon command line: Bacon('MARTINS',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+232 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1415,-123.53309,-123.53208,1,0,1
+14938,9995,"Martins Lake",31881,"Radiocarbon",1995,72,11430,100,1895,2095,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages for depths >230 were based on a linear fit to the Bacon ages from 210 to 230 cm.
+
+Bacon command line: Bacon('MARTINS',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+232 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1415,-123.53309,-123.53208,100,1,1
+14938,9995,"Martins Lake",31882,"Radiocarbon",5390,122,11430,100,5310,5480,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages for depths >230 were based on a linear fit to the Bacon ages from 210 to 230 cm.
+
+Bacon command line: Bacon('MARTINS',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+232 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1415,-123.53309,-123.53208,85,1,1
+14938,9995,"Martins Lake",31883,"Tephra",7627,137,11430,100,7477,7777,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages for depths >230 were based on a linear fit to the Bacon ages from 210 to 230 cm.
+
+Bacon command line: Bacon('MARTINS',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+232 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1415,-123.53309,-123.53208,150,0,1
+14938,9995,"Martins Lake",31884,"Radiocarbon",9980,232,11430,100,9865,10095,"Neotoma 1","Age model based on IntCal13 calibration curve. Ages for depths >230 were based on a linear fit to the Bacon ages from 210 to 230 cm.
+
+Bacon command line: Bacon('MARTINS',depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+232 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1415,-123.53309,-123.53208,115,1,1

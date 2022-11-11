@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1841,1782,"Lac Ouellet",5190,"Core top",0,0,10540,100,0,0,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,300,-68.94389,47.53278,32,0,1
+1841,1782,"Lac Ouellet",5191,"Radiocarbon",4750,185,10540,100,4620,4880,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,300,-68.94389,47.53278,130,1,1
+1841,1782,"Lac Ouellet",5192,"Radiocarbon",7280,295,10540,100,7180,7420,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,300,-68.94389,47.53278,120,1,1
+1841,1782,"Lac Ouellet",5193,"Radiocarbon",10610,396,10540,100,10445,10770,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,300,-68.94389,47.53278,162.5,1,1
+1841,1782,"Lac Ouellet",5194,"Deglaciation",12000,540,10540,100,11500,12500,"NAPD 1","Basal date of 12000±500 based on Dyke and Prest (1987) map of deglaciation.",TRUE,300,-68.94389,47.53278,500,0,1

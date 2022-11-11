@@ -1,0 +1,353 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+48818,196,"Hells Kitchen Lake",106662,"Radiocarbon",1254,146,10550,-50,1213,1295,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,41,1,1
+48818,196,"Hells Kitchen Lake",106661,"Radiocarbon",184,35,10550,-50,150,218,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,34,1,1
+48818,196,"Hells Kitchen Lake",106663,"Radiocarbon",7910,400,10550,-50,7880,7940,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,30,1,1
+48818,196,"Hells Kitchen Lake",106664,"Radiocarbon",2122,196,10550,-50,2084,2160,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,38,1,1
+48818,196,"Hells Kitchen Lake",106667,"Radiocarbon",6080,371,10550,-50,6055,6105,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,25,1,1
+48818,196,"Hells Kitchen Lake",106671,"Core top",-55,0,10550,-50,-55,-55,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,32,0,1
+48818,196,"Hells Kitchen Lake",106666,"Radiocarbon",2177,246,10550,-50,2140,2214,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,37,1,1
+48818,196,"Hells Kitchen Lake",106665,"Radiocarbon",3421,296,10550,-50,3384,3458,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,37,1,1
+48818,196,"Hells Kitchen Lake",106668,"Radiocarbon",8017,404,10550,-50,7967,8067,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,50,1,1
+48818,196,"Hells Kitchen Lake",106670,"Radiocarbon",9350,452,10550,-50,9290,9410,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,60,1,1
+48818,196,"Hells Kitchen Lake",106669,"Radiocarbon",9020,426,10550,-50,8955,9085,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon(""HELLSK05""):
+
+0 #d.min
+453 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal20 #cc1
+Marine20 #cc2
+SHCal20 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+0 #d.STD
+0.95 #prob
+yr#age.unit",FALSE,505,-89.70449,-89.70097,65,1,1

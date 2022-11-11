@@ -1,0 +1,373 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15269,10091,"Elk Lake",33099,"Ambrosia rise",60,46.5,160,10,NA,NA,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,50,0,1
+15269,10091,"Elk Lake",33100,"Annual laminations (varves)",58,46,160,10,48,68,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33101,"Annual laminations (varves)",62,47,160,10,52,72,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33102,"Annual laminations (varves)",66,48,160,10,56,76,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33103,"Annual laminations (varves)",76,51,160,10,66,86,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33104,"Annual laminations (varves)",86,55,160,10,76,96,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33105,"Annual laminations (varves)",96,57,160,10,86,106,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33106,"Annual laminations (varves)",106,60,160,10,96,116,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33107,"Annual laminations (varves)",116,62,160,10,106,126,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33108,"Annual laminations (varves)",129,65,160,10,119,139,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33109,"Annual laminations (varves)",149,68,160,10,139,159,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1
+15269,10091,"Elk Lake",33110,"Annual laminations (varves)",169,72,160,10,159,179,"Neotoma 1","Varve ages are based on varve counts from the Ambrosia-rise at 46.5 cm, which is dated to 60 BP (AD 1890).
+
+Bacon command line: Bacon('MNCLEL',thick=2,acc.mean=3,d.min=30,depths.file=TRUE)
+
+Bacon settings file:
+30 #d.min
+72 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+3 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,448,-95.22624,-95.2095,10,0,1

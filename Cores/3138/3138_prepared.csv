@@ -1,0 +1,197 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+3138,1128,"Jacobson Lake",76923,"Core top",0,100,7060,70,-20,20,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+ Bacon(JACOBSN2, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 125)
+
+Bacon settings file:
+100 #d.min
+864.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+125 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,324,-92.71694,46.41694,20,0,1
+3138,1128,"Jacobson Lake",76924,"Pre-EuroAmerican settlement horizon",81,125,7060,70,31,131,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+ Bacon(JACOBSN2, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 125)
+
+Bacon settings file:
+100 #d.min
+864.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+125 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,324,-92.71694,46.41694,50,0,1
+3138,1128,"Jacobson Lake",76925,"Radiocarbon",3920,590,7060,70,3800,4040,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+ Bacon(JACOBSN2, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 125)
+
+Bacon settings file:
+100 #d.min
+864.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+125 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,324,-92.71694,46.41694,120,1,1
+3138,1128,"Jacobson Lake",76926,"Radiocarbon",7210,864.75,7060,70,7130,7290,"PalEON-STEPPS","Goring, S., Dawson, A., & Williams, J.W. (in prep) Improving age models and uncertainty estimates in macro-scale paleoecological synthesis.
+
+Based on IntCal13 calibration curve.
+
+Bacon command line:
+ Bacon(JACOBSN2, 
+            acc.mean  = 3.02 15, 
+            acc.shape = 0.53 0.9,
+            mem.strength = 2,
+            mem.mean = 0.5,
+            thick = 10,
+            ask = FALSE,
+            suggest = FALSE,
+            depths.file = FALSE, 
+            hiatus.shape = 0.1,
+            hiatus.mean = 0.01,
+            hiatus.depths = 125)
+
+Bacon settings file:
+100 #d.min
+864.75 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+3.02 15 #acc.mean
+0.53 0.9 #acc.shape
+0.5 #mem.mean
+2 #mem.strength
+125 #hiatus.depths
+0.01 #hiatus.mean
+0.1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+
+Thickness of core tops and settlement depths were prescribed by data stewards.
+
+Chronology prepared by Simon Goring and Andria Dawson. Data entered and uploaded by Allison Stegner and Jordan Schutz.",FALSE,324,-92.71694,46.41694,80,1,1

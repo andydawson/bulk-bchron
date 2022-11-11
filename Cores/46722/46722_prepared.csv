@@ -1,0 +1,15 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+46722,26674,"Pokegama Bay",101608,"Lead-210",-50,8,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101609,"Lead-210",-35,17,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101610,"Lead-210",-10,27.5,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101611,"Lead-210",3,32.5,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101612,"Lead-210",19,34.5,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101613,"Lead-210",32,37,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101614,"Lead-210",39,40.5,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101615,"Lead-210",64,44,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101616,"Lead-210",100,49.5,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101617,"Lead-210",135,54,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101618,"Lead-210",166,57.5,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101619,"Lead-210",197,61.5,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101620,"Lead-210",228,65,240,-70,NA,NA,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,18,0,1
+46722,26674,"Pokegama Bay",101621,"Core top",-64,0,240,-70,-64,-64,"Neotoma 1",NA,FALSE,186,-92.17598,-92.168,32,0,1

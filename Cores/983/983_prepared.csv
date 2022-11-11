@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+983,953,"Green Pond",2716,"Core top",-27,0.5,1560,-30,-28,-22,"NAPD 1","top date of -27, one date associated with a registered ambrosia rise, one C14 date",TRUE,292,-74.51298,-74.4777,3,0,1
+983,953,"Green Pond",2717,"Biostratigraphic, pollen",190,44,1560,-30,170,210,"NAPD 1","top date of -27, one date associated with a registered ambrosia rise, one C14 date",TRUE,292,-74.51298,-74.4777,20,0,0
+983,953,"Green Pond",2718,"Radiocarbon",1530,67.5,1560,-30,1400,1660,"NAPD 1","top date of -27, one date associated with a registered ambrosia rise, one C14 date",TRUE,292,-74.51298,-74.4777,130,1,1

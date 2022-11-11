@@ -1,0 +1,466 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20651,13644,"Upper Fly Lake",41647,"Tephra",1230,53,12960,-50,NA,NA,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,334,0,1
+20651,13644,"Upper Fly Lake",41648,"Radiocarbon",2440,70,12960,-50,2400,2480,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,40,1,1
+20651,13644,"Upper Fly Lake",41649,"Radiocarbon",3570,106.5,12960,-50,3530,3610,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,40,1,1
+20651,13644,"Upper Fly Lake",41650,"Radiocarbon",5350,151,12960,-50,5300,5400,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,50,1,1
+20651,13644,"Upper Fly Lake",41651,"Radiocarbon",9540,222,12960,-50,9460,9620,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,80,1,1
+20651,13644,"Upper Fly Lake",41652,"Radiocarbon",9650,257,12960,-50,9580,9720,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,70,1,1
+20651,13644,"Upper Fly Lake",41653,"Radiocarbon",11120,279.5,12960,-50,11030,11210,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,90,1,1
+20651,13644,"Upper Fly Lake",41654,"Lead-210",-40,3.5,12960,-50,-41,-39,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,1,0,1
+20651,13644,"Upper Fly Lake",41655,"Lead-210",-33,4.5,12960,-50,-34,-32,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,1,0,1
+20651,13644,"Upper Fly Lake",41656,"Lead-210",-27,5.5,12960,-50,-28,-26,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,1,0,1
+20651,13644,"Upper Fly Lake",41657,"Lead-210",-20,6.5,12960,-50,-22,-18,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,2,0,1
+20651,13644,"Upper Fly Lake",41658,"Lead-210",-14,7.5,12960,-50,-16,-12,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,2,0,1
+20651,13644,"Upper Fly Lake",41659,"Lead-210",-9,8.5,12960,-50,-12,-6,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,3,0,1
+20651,13644,"Upper Fly Lake",41660,"Lead-210",-4,9.5,12960,-50,-7,-1,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,3,0,1
+20651,13644,"Upper Fly Lake",41661,"Core top",-49,0,12960,-50,-50,-48,"Neotoma 1","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('UPPERFLY',d.max=293,depths.file=TRUE)
+
+Bacon settings: 
+0 #d.min
+293 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,1326,-138.092,-138.084,1,0,1

@@ -1,0 +1,151 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+14549,9830,"Lowder Creek Bog",31038,"Core top",-42,0,14790,-50,-44,-40,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon(""LOWDER"",thick=10,acc.mean=20,depths.file=TRUE)
+Settings file:
+0 #d.min
+712.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,3127,-112.79315,-112.79134,2,0,1
+14549,9830,"Lowder Creek Bog",31039,"Radiocarbon",2700,150,14790,-50,2630,2770,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon(""LOWDER"",thick=10,acc.mean=20,depths.file=TRUE)
+Settings file:
+0 #d.min
+712.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,3127,-112.79315,-112.79134,70,1,1
+14549,9830,"Lowder Creek Bog",31040,"Radiocarbon",6410,325,14790,-50,6300,6520,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon(""LOWDER"",thick=10,acc.mean=20,depths.file=TRUE)
+Settings file:
+0 #d.min
+712.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,3127,-112.79315,-112.79134,110,1,1
+14549,9830,"Lowder Creek Bog",31041,"Radiocarbon",9200,506,14790,-50,9100,9300,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon(""LOWDER"",thick=10,acc.mean=20,depths.file=TRUE)
+Settings file:
+0 #d.min
+712.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,3127,-112.79315,-112.79134,100,1,1
+14549,9830,"Lowder Creek Bog",31042,"Radiocarbon",13020,712.5,14790,-50,12330,13710,"Neotoma 1","Based on IntCal13 calibration curve.
+Bacon command line: Bacon(""LOWDER"",thick=10,acc.mean=20,depths.file=TRUE)
+Settings file:
+0 #d.min
+712.5 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+20 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob
+",FALSE,3127,-112.79315,-112.79134,690,1,1

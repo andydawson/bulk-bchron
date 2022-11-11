@@ -1,0 +1,97 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+42645,24232,"Soldier Creek Meadow",87413,"Core top",-35,0,1320,-40,-40,-30,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SOLDIER"",thick=2,acc.mean=15,d.max=90,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2860,-109.92242,-109.91842,5,0,1
+42645,24232,"Soldier Creek Meadow",87414,"Radiocarbon",890,54.5,1320,-40,820,960,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SOLDIER"",thick=2,acc.mean=15,d.max=90,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2860,-109.92242,-109.91842,70,1,1
+42645,24232,"Soldier Creek Meadow",87415,"Radiocarbon",1370,88,1320,-40,1300,1440,"SKOPE","Based on IntCal13 calibration curve.
+
+Bacon command line:
+Bacon(""SOLDIER"",thick=2,acc.mean=15,d.max=90,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+90 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+15 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,2860,-109.92242,-109.91842,70,1,1

@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+232,229,"Barchampe Lake",308,"Core top",-36,450,7650,-30,-36,-20,"NAPD 1","Cultural horizon based on Ambrosia-rise at 484 cm.",TRUE,34,-83.25389,30.62222,8,0,1
+232,229,"Barchampe Lake",309,"Biostratigraphic, pollen",100,484,7650,-30,50,150,"NAPD 1","Cultural horizon based on Ambrosia-rise at 484 cm.",TRUE,34,-83.25389,30.62222,50,0,0
+232,229,"Barchampe Lake",310,"Radiocarbon",1040,553,7650,-30,880,1200,"NAPD 1","Cultural horizon based on Ambrosia-rise at 484 cm.",TRUE,34,-83.25389,30.62222,160,1,1
+232,229,"Barchampe Lake",311,"Radiocarbon",7290,893.5,7650,-30,7130,7450,"NAPD 1","Cultural horizon based on Ambrosia-rise at 484 cm.",TRUE,34,-83.25389,30.62222,160,1,1

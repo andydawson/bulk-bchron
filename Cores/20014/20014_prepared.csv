@@ -1,0 +1,190 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+20014,13382,"Cedar Swamp",39996,"Radiocarbon",5230,171,12900,-50,5170,5290,"Neotoma 1","Bacon V2.2 settings
+0 #d.min
+992 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+250 #hiatus.depths
+10 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,60,-122.87574,-122.87398,60,1,1
+20014,13382,"Cedar Swamp",39995,"Core top",-42,0,12900,-50,NA,NA,"Neotoma 1","Bacon V2.2 settings
+0 #d.min
+992 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+250 #hiatus.depths
+10 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,60,-122.87574,-122.87398,32,0,1
+20014,13382,"Cedar Swamp",39997,"Radiocarbon",6650,245,12900,-50,6510,6790,"Neotoma 1","Bacon V2.2 settings
+0 #d.min
+992 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+250 #hiatus.depths
+10 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,60,-122.87574,-122.87398,140,1,1
+20014,13382,"Cedar Swamp",40000,"Radiocarbon",9830,788,12900,-50,9770,9890,"Neotoma 1","Bacon V2.2 settings
+0 #d.min
+992 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+250 #hiatus.depths
+10 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,60,-122.87574,-122.87398,60,1,1
+20014,13382,"Cedar Swamp",39999,"Radiocarbon",8540,485,12900,-50,8410,8670,"Neotoma 1","Bacon V2.2 settings
+0 #d.min
+992 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+250 #hiatus.depths
+10 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,60,-122.87574,-122.87398,130,1,1
+20014,13382,"Cedar Swamp",40001,"Radiocarbon",11340,992,12900,-50,11280,11400,"Neotoma 1","Bacon V2.2 settings
+0 #d.min
+992 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+250 #hiatus.depths
+10 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,60,-122.87574,-122.87398,60,1,1
+20014,13382,"Cedar Swamp",39998,"Tephra",7633,260,12900,-50,7608,NA,"Neotoma 1","Bacon V2.2 settings
+0 #d.min
+992 #d.max
+1 #d.by
+0 #depths.file
+NA #slump
+30 7 #acc.mean
+1.5 1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+250 #hiatus.depths
+10 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,60,-122.87574,-122.87398,334,0,1

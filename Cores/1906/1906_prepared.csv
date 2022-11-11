@@ -1,0 +1,10 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1906,1842,"Pixie Lake",5423,"Core top",-45,0,17400,20,-45,-45,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,32,0,1
+1906,1842,"Pixie Lake",5424,"Radiocarbon, calibrated",2880,220,17400,20,2748,3136,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,194,0,1
+1906,1842,"Pixie Lake",5425,"Radiocarbon, calibrated",6232,435,17400,20,5998,6400,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,201,0,1
+1906,1842,"Pixie Lake",5426,"Tephra",6800,538.5,17400,20,NA,NA,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,334,0,1
+1906,1842,"Pixie Lake",5427,"Radiocarbon, calibrated",9323,605,17400,20,9032,9525,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,246.5,0,1
+1906,1842,"Pixie Lake",5428,"Radiocarbon, calibrated",12443,765,17400,20,11955,12818,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,431.5,0,1
+1906,1842,"Pixie Lake",5429,"Radiocarbon, calibrated",12777,780,17400,20,12334,13110,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,388,0,1
+1906,1842,"Pixie Lake",5430,"Radiocarbon, calibrated",13705,857.5,17400,20,13422,15118,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,848,0,1
+1906,1842,"Pixie Lake",5431,"Radiocarbon, calibrated",15549,872.5,17400,20,14433,16170,"NAPD 1","Seven calibrated C14 dates and a tephra date used in age model.",FALSE,70,-124.19667,48.59639,868.5,0,1

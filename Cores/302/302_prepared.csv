@@ -1,0 +1,9 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+302,296,"Boone Lake",699,"Core top",-28,0,11800,-30,-28,-28,"NAPD 1 (radiocarbon years)","C14 years",TRUE,872,-119.43333,55.575,32,0,1
+302,296,"Boone Lake",700,"Radiocarbon",3430,83.5,11800,-30,3070,3790,"NAPD 1 (radiocarbon years)","C14 years",TRUE,872,-119.43333,55.575,360,1,1
+302,296,"Boone Lake",701,"Radiocarbon",5700,246.5,11800,-30,5580,5820,"NAPD 1 (radiocarbon years)","C14 years",TRUE,872,-119.43333,55.575,120,1,1
+302,296,"Boone Lake",702,"Radiocarbon",7400,375,11800,-30,7270,7530,"NAPD 1 (radiocarbon years)","C14 years",TRUE,872,-119.43333,55.575,130,1,1
+302,296,"Boone Lake",703,"Radiocarbon",9250,484.5,11800,-30,9070,9430,"NAPD 1 (radiocarbon years)","C14 years",TRUE,872,-119.43333,55.575,180,1,1
+302,296,"Boone Lake",704,"Radiocarbon",10740,496,11800,-30,10345,11135,"NAPD 1 (radiocarbon years)","C14 years",TRUE,872,-119.43333,55.575,395,1,1
+302,296,"Boone Lake",705,"Radiocarbon",12650,518,11800,-30,12330,12970,"NAPD 1 (radiocarbon years)","C14 years",TRUE,872,-119.43333,55.575,320,1,1
+302,296,"Boone Lake",706,"Radiocarbon",11700,536,11800,-30,11440,11960,"NAPD 1 (radiocarbon years)","C14 years",TRUE,872,-119.43333,55.575,260,1,1

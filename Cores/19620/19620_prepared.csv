@@ -1,0 +1,1537 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+19620,2570,"Lake Tulane",39389,"Core top",-44,0,62950,1290,-45,-43,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,1,0,1
+19620,2570,"Lake Tulane",39390,"Radiocarbon",1530,93,62950,1290,1480,1580,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39391,"Radiocarbon",3100,173,62950,1290,3030,3170,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,70,1,1
+19620,2570,"Lake Tulane",39392,"Radiocarbon",4500,253,62950,1290,4420,4580,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,80,1,1
+19620,2570,"Lake Tulane",39393,"Radiocarbon",4940,273,62950,1290,4890,4990,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39394,"Radiocarbon",5220,301,62950,1290,5170,5270,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39395,"Radiocarbon",6800,373,62950,1290,6750,6850,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39396,"Radiocarbon",6910,381,62950,1290,6860,6960,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39397,"Radiocarbon",9870,445,62950,1290,9820,9920,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39398,"Radiocarbon",10010,445,62950,1290,9960,10060,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39399,"Radiocarbon",10170,501,62950,1290,10110,10230,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,60,1,1
+19620,2570,"Lake Tulane",39400,"Radiocarbon",10260,501,62950,1290,10200,10320,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,60,1,1
+19620,2570,"Lake Tulane",39401,"Radiocarbon",10770,525,62950,1290,10710,10830,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,60,1,1
+19620,2570,"Lake Tulane",39402,"Radiocarbon",10960,569,62950,1290,10910,11010,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39403,"Radiocarbon",11690,597,62950,1290,11640,11740,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,50,1,1
+19620,2570,"Lake Tulane",39404,"Radiocarbon",11730,601,62950,1290,11670,11790,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,60,1,1
+19620,2570,"Lake Tulane",39405,"Radiocarbon",12000,609,62950,1290,11930,12070,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,70,1,1
+19620,2570,"Lake Tulane",39406,"Radiocarbon",12710,645,62950,1290,12650,12770,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,60,1,1
+19620,2570,"Lake Tulane",39407,"Radiocarbon",12010,665,62950,1290,11950,12070,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,60,1,1
+19620,2570,"Lake Tulane",39408,"Radiocarbon",13500,697,62950,1290,13430,13570,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,70,1,1
+19620,2570,"Lake Tulane",39409,"Radiocarbon",13940,713,62950,1290,13880,14000,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,60,1,1
+19620,2570,"Lake Tulane",39410,"Radiocarbon",15570,773,62950,1290,15490,15650,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,80,1,1
+19620,2570,"Lake Tulane",39411,"Radiocarbon",17270,781,62950,1290,17160,17380,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,110,1,1
+19620,2570,"Lake Tulane",39412,"Radiocarbon",17060,813,62950,1290,16970,17150,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,90,1,1
+19620,2570,"Lake Tulane",39413,"Radiocarbon",16120,848.5,62950,1290,16050,16190,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,70,1,1
+19620,2570,"Lake Tulane",39414,"Radiocarbon",18320,913,62950,1290,18240,18400,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,80,1,1
+19620,2570,"Lake Tulane",39415,"Radiocarbon",19170,917,62950,1290,19070,19270,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,100,1,1
+19620,2570,"Lake Tulane",39416,"Radiocarbon",19600,948,62950,1290,19510,19690,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,90,1,1
+19620,2570,"Lake Tulane",39417,"Radiocarbon",21490,997,62950,1290,21360,21620,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,130,1,1
+19620,2570,"Lake Tulane",39418,"Radiocarbon",21690,1001,62950,1290,21590,21790,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,100,1,1
+19620,2570,"Lake Tulane",39419,"Radiocarbon",36970,1021,62950,1290,36390,37550,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,580,1,1
+19620,2570,"Lake Tulane",39420,"Radiocarbon",22910,1037,62950,1290,22790,23030,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,120,1,1
+19620,2570,"Lake Tulane",39421,"Radiocarbon",24250,1073,62950,1290,24080,24420,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,170,1,1
+19620,2570,"Lake Tulane",39422,"Radiocarbon",23360,1097,62950,1290,23200,23520,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,160,1,1
+19620,2570,"Lake Tulane",39423,"Radiocarbon",25140,1126,62950,1290,24950,25330,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,190,1,1
+19620,2570,"Lake Tulane",39424,"Radiocarbon",21960,1165,62950,1290,21770,22150,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,190,1,1
+19620,2570,"Lake Tulane",39425,"Radiocarbon",27690,1185,62950,1290,27420,27960,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,270,1,1
+19620,2570,"Lake Tulane",39426,"Radiocarbon",29790,1189,62950,1290,29540,30040,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,250,1,1
+19620,2570,"Lake Tulane",39427,"Radiocarbon",32760,1229,62950,1290,32260,33260,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,500,1,1
+19620,2570,"Lake Tulane",39428,"Radiocarbon",31480,1237,62950,1290,31060,31900,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,420,1,1
+19620,2570,"Lake Tulane",39429,"Radiocarbon",36610,1309,62950,1290,35320,37900,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,1290,1,1
+19620,2570,"Lake Tulane",39430,"Radiocarbon",39070,1313,62950,1290,38290,39850,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,780,1,1
+19620,2570,"Lake Tulane",39431,"Radiocarbon",29330,1341,62950,1290,28790,29870,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,540,1,1
+19620,2570,"Lake Tulane",39432,"Radiocarbon",43400,1365,62950,1290,41400,45400,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,2000,1,1
+19620,2570,"Lake Tulane",39433,"Radiocarbon",42500,1377,62950,1290,40800,44200,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,1700,1,1
+19620,2570,"Lake Tulane",39434,"Heinrich stadials",48500,1393,62950,1290,47000,50000,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,1500,0,0
+19620,2570,"Lake Tulane",39435,"Radiocarbon",45700,1401,62950,1290,43250,48150,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,2450,1,1
+19620,2570,"Lake Tulane",39436,"Heinrich stadials",61650,1676,62950,1290,60100,63200,"Neotoma 2","Based on IntCal13 calibration curve. Ages of Heinrich stadials assigned to bottom two Pinus peaks follow GICC05 (Sanchez Goñi & Harrison, 2010).
+
+Bacon command line:
+Bacon('TULANEG',thick=10,acc.mean=50,d.max=1707,depths.file=TRUE)
+
+Bacon settings file:
+0 #d.min
+1707 #d.max
+1 #d.by
+1 #depths.file
+NA #slump
+50 #acc.mean
+1.5 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #hiatus.depths
+1000 #hiatus.mean
+1 #hiatus.shape
+0 #BCAD
+1 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #d.R
+0 #d.STD
+0.95 #prob",FALSE,32,-81.50634,-81.50045,1550,0,0

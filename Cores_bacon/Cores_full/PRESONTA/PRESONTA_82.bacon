@@ -1,0 +1,17 @@
+## Ran on Sun Aug 14 18:30:16 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -30, 20, 0,  0,  0,  3,  4,  0;
+Det 1 : VERA-2703 , 2595, 35, 240,  0,  0,  3,  4,  1;
+Det 2 : VERA-2704 , 2965, 35, 255,  0,  0,  3,  4,  1;
+Det 3 : VERA-2705 , 3375, 30, 290,  0,  0,  3,  4,  1;
+Det 4 : VERA-2706 , 4250, 30, 340,  0,  0,  3,  4,  1;
+Det 5 : VERA-2707 , 5150, 30, 400,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 82,  -130,  1e+06,  -11,  -1,  5,  5,  0.9,  0.09, 0, 410, 78747;

@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1883,1819,"Peggy Lake",5330,"Core top",-30,0,8840,-20,-30,-10,"NAPD 1","Chron uses top and two C14 dates, (BETA-3782 rejected, considered to young).",TRUE,470,-92,49.48,10,0,1
+1883,1819,"Peggy Lake",5331,"Radiocarbon",5560,410,8840,-20,5400,5720,"NAPD 1","Chron uses top and two C14 dates, (BETA-3782 rejected, considered to young).",TRUE,470,-92,49.48,160,1,1
+1883,1819,"Peggy Lake",5332,"Radiocarbon",7200,535,8840,-20,7040,7360,"NAPD 1","Chron uses top and two C14 dates, (BETA-3782 rejected, considered to young).",TRUE,470,-92,49.48,160,1,1

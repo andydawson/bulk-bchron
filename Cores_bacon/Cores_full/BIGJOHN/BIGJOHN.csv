@@ -1,0 +1,5 @@
+labID,	age,	error,	depth,	cc
+Core top,	-31,	1,	0,	0
+Biostratigraphic_ pollen,	70,	20,	17.5,	0
+Radiocarbon_ reservoir correction,	1320,	160,	62.5,	1
+Radiocarbon_ reservoir correction,	3310,	160,	130,	1

@@ -1,0 +1,17 @@
+## Ran on Sun Aug 14 18:22:32 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -39, 1, 0,  0,  0,  3,  4,  0;
+Det 1 : NSRL-10504 , 1610, 30, 29.5,  0,  0,  3,  4,  1;
+Det 2 : NSRL-10505 , 1770, 55, 42.5,  0,  0,  3,  4,  1;
+Det 3 : NSRL-10506 , 2270, 45, 51.5,  0,  0,  3,  4,  1;
+Det 4 : NSRL-10507 , 2250, 45, 74.5,  0,  0,  3,  4,  1;
+Det 5 : NSRL-10508 , 2920, 40, 96.5,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 11,  -72,  1e+06,  -38,  -39,  5,  5,  0.9,  0.18, 0, 110, 230928;

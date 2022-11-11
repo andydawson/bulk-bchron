@@ -1,0 +1,20 @@
+## Ran on Sun Aug 14 18:27:38 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -17, 19, 0,  0,  0,  3,  4,  0;
+Det 1 : Radiocarbon , 1170, 60, 51,  0,  0,  3,  4,  1;
+Det 2 : Radiocarbon , 2000, 55, 79,  0,  0,  3,  4,  1;
+Det 3 : Radiocarbon , 2270, 60, 101,  0,  0,  3,  4,  1;
+Det 4 : Radiocarbon , 2450, 60, 117,  0,  0,  3,  4,  1;
+Det 5 : Radiocarbon , 4180, 75, 145,  0,  0,  3,  4,  1;
+Det 6 : Radiocarbon , 5140, 75, 172.5,  0,  0,  3,  4,  1;
+Det 7 : Radiocarbon , 6770, 70, 207.5,  0,  0,  3,  4,  1;
+Det 8 : NA , 6770, 6770000, 220,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 16,  -112,  1e+06,  -33,  -13,  5,  5,  0.9,  0.018, 0, 240, 21600;

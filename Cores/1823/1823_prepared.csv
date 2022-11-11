@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1823,1765,"Lake O'Hara",5110,"Core top",0,0,10360,270,-35,35,"NAPD 1","Chron uses top (0 BP), 1 AMS date, and 2 tephra dates (Bridge River and Mazama). See Reasoner and Hickman (1989).",TRUE,2015,-116.35,51.35972,35,0,1
+1823,1765,"Lake O'Hara",5111,"Tephra",2350,42.75,10360,270,2300,2400,"NAPD 1","Chron uses top (0 BP), 1 AMS date, and 2 tephra dates (Bridge River and Mazama). See Reasoner and Hickman (1989).",TRUE,2015,-116.35,51.35972,50,0,1
+1823,1765,"Lake O'Hara",5112,"Tephra",6850,109.75,10360,270,6700,7000,"NAPD 1","Chron uses top (0 BP), 1 AMS date, and 2 tephra dates (Bridge River and Mazama). See Reasoner and Hickman (1989).",TRUE,2015,-116.35,51.35972,150,0,1
+1823,1765,"Lake O'Hara",5113,"Radiocarbon",10060,142,10360,270,9740,10380,"NAPD 1","Chron uses top (0 BP), 1 AMS date, and 2 tephra dates (Bridge River and Mazama). See Reasoner and Hickman (1989).",TRUE,2015,-116.35,51.35972,320,1,1

@@ -1,0 +1,71 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+15022,10029,"Fresh Pond",32195,"Lead-210",-39.7,2,2170,-50,-40.6388799,-38.7611201,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,0.9388799,0,1
+15022,10029,"Fresh Pond",32196,"Lead-210",-26.1,4,2170,-50,-27.258704428,-24.941295572,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,1.158704428,0,1
+15022,10029,"Fresh Pond",32197,"Lead-210",-10.9,6,2170,-50,-12.381794496,-9.418205504,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,1.481794496,0,1
+15022,10029,"Fresh Pond",32198,"Lead-210",4.7,8,2170,-50,2.741278376,6.658721624,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,1.958721624,0,1
+15022,10029,"Fresh Pond",32199,"Lead-210",17.5,10,2170,-50,15.067011086,19.932988914,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,2.432988914,0,1
+15022,10029,"Fresh Pond",32200,"Lead-210",37.5,12,2170,-50,34.103153742,40.896846258,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,3.396846258,0,1
+15022,10029,"Fresh Pond",32201,"Lead-210",68.8,14,2170,-50,63.893039974,73.706960026,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,4.906960026,0,1
+15022,10029,"Fresh Pond",32202,"Radiocarbon",457,49,2170,-50,331,583,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,126,1,1
+15022,10029,"Fresh Pond",32203,"Radiocarbon",760,79,2170,-50,682,838,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,78,1,1
+15022,10029,"Fresh Pond",32204,"Radiocarbon",1126,113,2170,-50,1046,1206,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,80,1,1
+15022,10029,"Fresh Pond",32205,"Radiocarbon",1673,159,2170,-50,1583,1763,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,90,1,1
+15022,10029,"Fresh Pond",32206,"Radiocarbon",2142,199,2170,-50,2044,2240,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,98,1,1
+15022,10029,"Fresh Pond",32207,"Core top",-49,0,2170,-50,-50,-48,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,1,0,1
+15022,10029,"Fresh Pond",32208,"European settlement horizon",250,31,2170,-50,200,300,"Neotoma","Age model based on IntCal13 calibration curve.
+
+Bacon command line: Bacon('FRESH',depths.file=TRUE)
+
+Bacon settings:",FALSE,7,-70.53411,-70.53156,50,0,1

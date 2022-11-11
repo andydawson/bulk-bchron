@@ -1,0 +1,4 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+832,808,"Fish Lake",2315,"Core top",-35,0,9000,-40,-35,0,"NAPD 1","Chron uses top, one C14 date, and est. date of deglaciation. Short et al.(1994) reject C14 dates AA-3997, AA-3995, and AA-3256.",TRUE,91,-85.21667,73.03472,17.5,0,1
+832,808,"Fish Lake",2316,"Radiocarbon",6155,24.5,9000,-40,5845,6465,"NAPD 1","Chron uses top, one C14 date, and est. date of deglaciation. Short et al.(1994) reject C14 dates AA-3997, AA-3995, and AA-3256.",TRUE,91,-85.21667,73.03472,310,1,1
+832,808,"Fish Lake",2317,"Deglaciation",9000,50,9000,-40,8500,9500,"NAPD 1","Chron uses top, one C14 date, and est. date of deglaciation. Short et al.(1994) reject C14 dates AA-3997, AA-3995, and AA-3256.",TRUE,91,-85.21667,73.03472,500,0,1

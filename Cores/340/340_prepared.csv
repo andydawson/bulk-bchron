@@ -1,0 +1,8 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+340,333,"Caribou Bog",1002,"Core top",-28,0,9570,60,-28,-8,"NAPD 1","Chron uses top and six C14 dates.",TRUE,37,-68.77344,44.93672,10,0,1
+340,333,"Caribou Bog",1003,"Radiocarbon",1880,147.5,9570,60,1740,2020,"NAPD 1","Chron uses top and six C14 dates.",TRUE,37,-68.77344,44.93672,140,1,1
+340,333,"Caribou Bog",1004,"Radiocarbon",3820,277.5,9570,60,3660,3980,"NAPD 1","Chron uses top and six C14 dates.",TRUE,37,-68.77344,44.93672,160,1,1
+340,333,"Caribou Bog",1005,"Radiocarbon",5710,416,9570,60,5570,5850,"NAPD 1","Chron uses top and six C14 dates.",TRUE,37,-68.77344,44.93672,140,1,1
+340,333,"Caribou Bog",1006,"Radiocarbon",6470,505.5,9570,60,6330,6610,"NAPD 1","Chron uses top and six C14 dates.",TRUE,37,-68.77344,44.93672,140,1,1
+340,333,"Caribou Bog",1007,"Radiocarbon",7840,602.5,9570,60,7680,8000,"NAPD 1","Chron uses top and six C14 dates.",TRUE,37,-68.77344,44.93672,160,1,1
+340,333,"Caribou Bog",1008,"Radiocarbon",9390,746,9570,60,9210,9570,"NAPD 1","Chron uses top and six C14 dates.",TRUE,37,-68.77344,44.93672,180,1,1

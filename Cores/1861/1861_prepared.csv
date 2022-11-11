@@ -1,0 +1,3 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+1861,1799,"Pasqua Lake",5271,"Core top",-30,0,400,-30,-30,-30,"NAPD 1","Chron based on surface date (-30 BP) and Salsola-rise (50 BP). Ages extrapolated below the Salsola-rise.",TRUE,NA,-104,50.78,32,0,0
+1861,1799,"Pasqua Lake",5272,"Biostratigraphic, pollen",50,38,400,-30,40,60,"NAPD 1","Chron based on surface date (-30 BP) and Salsola-rise (50 BP). Ages extrapolated below the Salsola-rise.",TRUE,NA,-104,50.78,10,0,0

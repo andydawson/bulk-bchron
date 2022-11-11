@@ -1,0 +1,7 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+41159,23770,"Seven Lakes",87426,"Core top",-61,8,4150,40,-62,-60,"Calder et al. 2015",NA,FALSE,3276,-106.68383,-106.6806,1,0,1
+41159,23770,"Seven Lakes",87427,"Radiocarbon",1150,34.5,4150,40,1135,1165,"Calder et al. 2015",NA,FALSE,3276,-106.68383,-106.6806,15,1,1
+41159,23770,"Seven Lakes",87428,"Radiocarbon",1620,47.75,4150,40,1605,1635,"Calder et al. 2015",NA,FALSE,3276,-106.68383,-106.6806,15,1,1
+41159,23770,"Seven Lakes",87429,"Radiocarbon",2515,78.25,4150,40,2495,2535,"Calder et al. 2015",NA,FALSE,3276,-106.68383,-106.6806,20,1,1
+41159,23770,"Seven Lakes",87430,"Radiocarbon",3455,102.75,4150,40,3430,3480,"Calder et al. 2015",NA,FALSE,3276,-106.68383,-106.6806,25,1,1
+41159,23770,"Seven Lakes",87431,"Radiocarbon",3840,137.5,4150,40,3800,3880,"Calder et al. 2015",NA,FALSE,3276,-106.68383,-106.6806,40,1,1

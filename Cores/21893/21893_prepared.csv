@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+21893,14071,"ODP Hole 893A",46262,"Radiocarbon",10960,88.5,11170,10140,NA,NA,"Neotoma 1","Author provided calibrated interpolated ages.",FALSE,0,-120.12589,-119.9968,146,1,0

@@ -1,0 +1,6 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+206,206,"Andy Lake",165,"Core top",0,0,11310,0,-40,40,"NAPD 1","Chron uses top (0 B) plus 4 radiocarbon dates. Date 10460±390 (Beta-54932) not used (see Szeicz et al. 1995).",TRUE,1360,-128.08333,64.65,40,0,1
+206,206,"Andy Lake",166,"Radiocarbon",2340,25,11310,0,1940,2740,"NAPD 1","Chron uses top (0 B) plus 4 radiocarbon dates. Date 10460±390 (Beta-54932) not used (see Szeicz et al. 1995).",TRUE,1360,-128.08333,64.65,400,1,1
+206,206,"Andy Lake",167,"Radiocarbon",4800,90,11310,0,4660,4940,"NAPD 1","Chron uses top (0 B) plus 4 radiocarbon dates. Date 10460±390 (Beta-54932) not used (see Szeicz et al. 1995).",TRUE,1360,-128.08333,64.65,140,1,1
+206,206,"Andy Lake",168,"Radiocarbon",6290,125,11310,0,6090,6490,"NAPD 1","Chron uses top (0 B) plus 4 radiocarbon dates. Date 10460±390 (Beta-54932) not used (see Szeicz et al. 1995).",TRUE,1360,-128.08333,64.65,200,1,1
+206,206,"Andy Lake",169,"Radiocarbon",12060,240,11310,0,11900,12220,"NAPD 1","Chron uses top (0 B) plus 4 radiocarbon dates. Date 10460±390 (Beta-54932) not used (see Szeicz et al. 1995).",TRUE,1360,-128.08333,64.65,160,1,1

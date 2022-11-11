@@ -1,0 +1,29 @@
+## Ran on Sun Aug 14 18:34:43 2022 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 1;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : Core top , -55, 2, 0,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -13, 2, 4.5,  0,  0,  3,  4,  0;
+Det 2 : unassigned , 0, 4, 5.5,  0,  0,  3,  4,  0;
+Det 3 : unassigned , 15, 6, 6.5,  0,  0,  3,  4,  0;
+Det 4 : unassigned , 42, 11, 7.5,  0,  0,  3,  4,  0;
+Det 5 : unassigned , 92, 25, 8.5,  0,  0,  3,  4,  0;
+Det 6 : unassigned , 142, 46, 9.5,  0,  0,  3,  4,  0;
+Det 7 : CURL-5738 , 400, 35, 27.5,  0,  0,  3,  4,  1;
+Det 8 : CURL-5739 , 2160, 30, 49.5,  0,  0,  3,  4,  1;
+Det 9 : CURL-5740 , 3760, 35, 73.5,  0,  0,  3,  4,  1;
+Det 10 : CURL-5741 , 6030, 40, 109.5,  0,  0,  3,  4,  1;
+Det 11 : Tephra , 7627, 150, 122,  0,  0,  3,  4,  0;
+Det 12 : Tephra , 7798, 48, 126,  0,  0,  3,  4,  0;
+Det 13 : CURL-5742 , 7190, 60, 129.5,  0,  0,  3,  4,  1;
+Det 14 : CURL-5743 , 8260, 45, 152.5,  0,  0,  3,  4,  1;
+Det 15 : CURL-5962 , 10080, 55, 175.5,  0,  0,  3,  4,  1;
+Det 16 : AA-55857 , 10380, 100, 204.5,  0,  0,  3,  4,  1;
+Det 17 : NA , 10380, 10380000, 222,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 16,  -88,  1e+06,  -54,  -54,  5,  5,  0.9,  0.009, 0, 240, 269040;

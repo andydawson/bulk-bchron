@@ -1,0 +1,5 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+2620,2530,"Swan Lake",6908,"Core top",-27,140,9370,30,-27,-7,"NAPD 1","Chron uses top, European cultural horizon (chenopod rise), and two C14 dates.",TRUE,1164,-102.51851,-102.48,10,0,1
+2620,2530,"Swan Lake",6909,"Biostratigraphic, pollen",100,200,9370,30,50,150,"NAPD 1","Chron uses top, European cultural horizon (chenopod rise), and two C14 dates.",TRUE,1164,-102.51851,-102.48,50,0,0
+2620,2530,"Swan Lake",6910,"Radiocarbon",3680,810,9370,30,3540,3820,"NAPD 1","Chron uses top, European cultural horizon (chenopod rise), and two C14 dates.",TRUE,1164,-102.51851,-102.48,140,1,1
+2620,2530,"Swan Lake",6911,"Radiocarbon",8950,1477,9370,30,8630,9270,"NAPD 1","Chron uses top, European cultural horizon (chenopod rise), and two C14 dates.",TRUE,1164,-102.51851,-102.48,320,1,1

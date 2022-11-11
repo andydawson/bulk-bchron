@@ -1,0 +1,14 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","error","cc","keep"
+40795,23581,"Black Pond",79440,"Core top",-60,0,9860,-60,-60,-60,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,32,0,1
+40795,23581,"Black Pond",79441,"European settlement horizon",260,108.5,9860,-60,260,260,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,50,0,1
+40795,23581,"Black Pond",79442,"Radiocarbon",2020,200.5,9860,-60,1990,2050,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,30,1,1
+40795,23581,"Black Pond",79443,"Radiocarbon",3050,300.5,9860,-60,3025,3075,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,25,1,1
+40795,23581,"Black Pond",79444,"Radiocarbon",3430,400.5,9860,-60,3400,3460,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,30,1,1
+40795,23581,"Black Pond",79445,"Radiocarbon",3440,420.5,9860,-60,3405,3475,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,35,1,1
+40795,23581,"Black Pond",79446,"Radiocarbon",4460,500.5,9860,-60,4430,4490,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,30,1,1
+40795,23581,"Black Pond",79447,"Radiocarbon",4650,510.5,9860,-60,4625,4675,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,25,1,1
+40795,23581,"Black Pond",79448,"Radiocarbon",5260,550.5,9860,-60,5225,5295,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,35,1,1
+40795,23581,"Black Pond",79449,"Radiocarbon",5730,601.5,9860,-60,5695,5765,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,35,1,1
+40795,23581,"Black Pond",79450,"Radiocarbon",7980,610.5,9860,-60,7945,8015,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,35,1,1
+40795,23581,"Black Pond",79451,"Radiocarbon",8350,642.5,9860,-60,8320,8380,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,30,1,1
+40795,23581,"Black Pond",79452,"Radiocarbon",8860,680.5,9860,-60,8820,8900,"Author submitted","Bchron age model based on IntCal13 calibration curve.",FALSE,11,-70.79309,-70.7923,40,1,1

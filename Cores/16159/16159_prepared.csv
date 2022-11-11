@@ -1,0 +1,2 @@
+"datasetid","siteid","sitename","chroncontrolid","type","age","depth","ageboundolder","ageboundyounger","limityounger","limitolder","name","notes","hasradiocarbon","altitude","longitude","latitude","keep","error","cc"
+16159,10512,"No Name East midden",35500,"Radiocarbon",2930,0,3000,2860,2860,3000,"Neotoma 1",NA,TRUE,1220,-116.56667,35.43333,0,70,1
