@@ -13,10 +13,12 @@ wang_ncores = length(wang_cores)
 
 site_meta = read.csv('bchron_report_v9.0.csv', stringsAsFactors = FALSE)
 
+neo_dat = read.csv("data/pollen_north_america_lc6k2_v8.0.csv")
+#neo_table = data.frame(neo_dat$depth, neo_dat$age, neo_dat$dataset_id)
 
 # there are 444 values for datasetid in wang_fc
 which(wang_fc$datasetid %in% site_meta$datasetid)
-
+#which(neo_dat$dataset_id %in% site_meta$datasetid)
 length(unique(wang_fc$datasetid))
 
 
@@ -44,6 +46,8 @@ for (i in 132:N_datasetids){#N_datasetids){
   dsid = datasetids[i]
   
   idx_dsid = which(wang_fc$datasetid == dsid)
+  
+  neo_site = neo_dat[which(neo_dat$dataset_id == dsid)]
   
   geochron = read.csv(paste0('Cores/', dsid, '/', dsid, '_prepared.csv'))
   geochron = geochron[which(geochron$keep == 1),]
@@ -185,8 +189,27 @@ for (i in 132:N_datasetids){#N_datasetids){
   
   bchron_mean = data.frame(depths=bchron_posts[,'depths'], age_b = rowMeans(bchron_posts[,2:ncol(bchron_posts)]))
   
-  age_means = merge(bchron_mean, wang_mean)
+  neo_age = data.frame(depths=neo_site$depth, age_n = neo_site$age)
   
+  agetype = neo_site$agetype[1]
+  if (agetype == "Radiocarbon years BP"){
+    n_neo = length(neo_age$depths)
+    
+    
+    foo  <- BchronCalibrate(ages = neo_site$age,
+                            ageSds = rep(200, n_neo),
+                            calCurves = rep('intcal20', n_neo),
+                            allowOutside = TRUE)
+    
+    goo = sampleAges(foo)
+    
+    neo_age$age_n = colMeans(goo)
+    
+  }
+  
+  
+  age_means = merge(bchron_mean, wang_mean)
+  age_means = merge(age_means, neo_age)
   diffs = rbind(diffs,
                 data.frame(dsid = rep(dsid),
                            age_means))
