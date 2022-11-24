@@ -3,6 +3,7 @@ library(ggplot2)
 library(overlapping)
 library(reshape2)
 library(Bchron)
+library(cowplot)
 
 chron_control_types <- read.csv("data/chroncontrol_types-edited.csv")
 
@@ -39,7 +40,7 @@ diffs = data.frame(dsid = numeric(0),
                    age_n  = numeric(0))
 
 pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i in 132:N_datasetids){#N_datasetids){
+for (i in 1:N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -47,7 +48,7 @@ for (i in 132:N_datasetids){#N_datasetids){
   
   idx_dsid = which(wang_fc$datasetid == dsid)
   
-  neo_site = neo_dat[which(neo_dat$dataset_id == dsid)]
+  neo_site = neo_dat[which(neo_dat$dataset_id == dsid),]
   
   geochron = read.csv(paste0('Cores/', dsid, '/', dsid, '_prepared.csv'))
   geochron = geochron[which(geochron$keep == 1),]
@@ -148,7 +149,7 @@ for (i in 132:N_datasetids){#N_datasetids){
   bchron_posts_long = melt(bchron_posts, id.vars = "depths")
   colnames(bchron_posts_long) = c('depths', 'iter', 'age')
   
-  quantile(wang_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
+  quantile(bchron_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
   
   bchron_quants_row = apply(bchron_posts[,2:ncol(bchron_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
   bchron_quants = data.frame(depths = bchron_posts[,1], t(bchron_quants_row))
@@ -161,19 +162,51 @@ for (i in 132:N_datasetids){#N_datasetids){
     geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
     geom_line(data = bchron_quants, aes(x = depths, y = ymid))
   
-  # Now bchron and Bacon on one plot #
   
-  colors = c("Bchron" = "blue", "Bacon" = "red")
+  #Prep Neotoma data to go on figure
+  
+  neo_age = data.frame(depths=neo_site$depth, age_n = neo_site$age)
+  
+  agetype = neo_site$agetype[1]
+  if (agetype == "Radiocarbon years BP"){
+    n_neo = length(neo_age$depths)
+    
+    
+    neo_cal  <- BchronCalibrate(ages = neo_site$age,
+                                ageSds = rep(200, n_neo),
+                                calCurves = rep('intcal20', n_neo),
+                                allowOutside = TRUE)
+    
+    
+    goo = sampleAges(neo_cal)
+    
+    neo_age$age_n = colMeans(goo)
+    
+  }
+  
+  geochron_neo_samples = sampleAges(neo_cal)
+  geochron_neo_quants = t(apply(geochron_neo_samples,2,quantile, prob=c(0.025, 0.5, 0.975)))
+  colnames(geochron_neo_quants) = c('ylo', 'ymid', 'yhi')
+  geochron_neo_quants = data.frame(depth = neo_site$depth, geochron_neo_quants)
+  
+
+  # Now bchron, Bacon, and Neotoma? on one plot #
+  
+  colors = c("Bchron" = "blue", "Bacon" = "red", "Neotoma" = "orange")
   
   p <- ggplot() +
     geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
     geom_line(data = bchron_quants, aes(x = depths, y = ymid, color = "Bchron"), size = 1.5) +
     geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
     geom_line(data = wang_quants, aes(x = depths, y = ymid, color = "Bacon"), size = 1.5) +
+    geom_ribbon(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
+    geom_line(data = geochron_neo_quants, aes(x = depth, y = ymid, colour = "Neotoma"))+
     geom_point(data = geochron_quants, aes(x = depth-1, y = ymid), colour='#1F77B4', alpha=0.8) +
     geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
     geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
     geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1) +
+    geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#1F77B4', alpha=0.8) +
+    geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
     # geom_point(data = controls, aes(x = depth, y = age)) +
     labs(title = paste0(dsid, '; ',  wang_fc$handle[idx_dsid]), x = "Depths (cm)", y = "Age", color = "Legend") +
     scale_color_manual(values = colors)
@@ -189,25 +222,6 @@ for (i in 132:N_datasetids){#N_datasetids){
   
   bchron_mean = data.frame(depths=bchron_posts[,'depths'], age_b = rowMeans(bchron_posts[,2:ncol(bchron_posts)]))
   
-  neo_age = data.frame(depths=neo_site$depth, age_n = neo_site$age)
-  
-  agetype = neo_site$agetype[1]
-  if (agetype == "Radiocarbon years BP"){
-    n_neo = length(neo_age$depths)
-    
-    
-    foo  <- BchronCalibrate(ages = neo_site$age,
-                            ageSds = rep(200, n_neo),
-                            calCurves = rep('intcal20', n_neo),
-                            allowOutside = TRUE)
-    
-    goo = sampleAges(foo)
-    
-    neo_age$age_n = colMeans(goo)
-    
-  }
-  
-  
   age_means = merge(bchron_mean, wang_mean)
   age_means = merge(age_means, neo_age)
   diffs = rbind(diffs,
@@ -217,13 +231,36 @@ for (i in 132:N_datasetids){#N_datasetids){
 }
 dev.off()
 
-# Make just two figures comparing models in one panel for paper #
+# One panel three figures for paper #
 
+neo_plot = ggplot() +
+  geom_ribbon(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
+  geom_line(data = geochron_neo_quants, aes(x = depth, y = ymid))+
+  geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#FF5F1F', alpha=0.8) +
+  geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF5F1F', alpha=0.8, lwd=1)
 
+neo_plot + ggtitle ("Neotoma Ages Calibrated") +
+  xlab("Depth (cm)") + ylab("Age Mean")
 
+bchron_plot = ggplot() +
+  geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
+  geom_line(data = bchron_quants, aes(x = depths, y = ymid))+
+  geom_point(data = geochron_quants, aes(x = depth-1, y = ymid), colour='#1F77B4', alpha=0.8) +
+  geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1)
+ 
+bchron_plot + ggtitle ("Bchron Ages Calibrated") +
+  xlab("Depth (cm)") + ylab("Age Mean")
 
+bacon_plot = ggplot() +
+  geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
+  geom_line(data = wang_quants, aes(x = depths, y = ymid))+
+  geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
+  geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1)
 
+bacon_plot + ggtitle ("Bacon Ages Calibrated") +
+  xlab("Depth (cm)") + ylab("Age Mean")
 
+plot_grid(neo_plot, bchron_plot, bacon_plot)
 # ggplot(data = diffs) +
 #   geom_point(aes(x = depths, y = age_b), color = 'blue', alpha = .2) +
 #   geom_point(aes(x = depths, y = age_w), color = 'red', alpha = .2)
