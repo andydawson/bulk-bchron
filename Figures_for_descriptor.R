@@ -1,6 +1,8 @@
 library(maps)
 library(mapdata)
 library(ggplot2)
+library(gridExtra)
+library(grid)
 
 # Maps #
 dat =  read.csv('data/chroncontrol_summary_pollen_full.csv', stringsAsFactors = FALSE)
@@ -78,7 +80,7 @@ chron_control_types <- read.csv("chroncontrol_types-edited.csv")
 all_sites = read.csv("data/chroncontrol_summary_pollen_full.csv")
 
 control_freq = table(all_sites$type)
-
+controls = grid.table(all_sites$type)
 
 # frequency of sites for each method #
 # bchron
