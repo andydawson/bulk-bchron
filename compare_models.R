@@ -178,17 +178,21 @@ for (i in 1:N_datasetids){#N_datasetids){
                                 allowOutside = TRUE)
     
     
-    goo = sampleAges(neo_cal)
+    # goo = sampleAges(neo_cal)
+    # 
+    # neo_age$age_n = colMeans(goo)
     
-    neo_age$age_n = colMeans(goo)
+    geochron_neo_samples = sampleAges(neo_cal)
+    geochron_neo_quants = t(apply(geochron_neo_samples,2,quantile, prob=c(0.025, 0.5, 0.975)))
+    colnames(geochron_neo_quants) = c('ylo', 'ymid', 'yhi')
+    geochron_neo_quants = data.frame(depth = neo_site$depth, geochron_neo_quants)
     
+  } else {
+    geochron_neo_quants = data.frame(depth = neo_site$depth, 
+                                     ylo = neo_site$age, 
+                                     ymid = neo_site$age,
+                                     yhi = neo_site$age)
   }
-  
-  geochron_neo_samples = sampleAges(neo_cal)
-  geochron_neo_quants = t(apply(geochron_neo_samples,2,quantile, prob=c(0.025, 0.5, 0.975)))
-  colnames(geochron_neo_quants) = c('ylo', 'ymid', 'yhi')
-  geochron_neo_quants = data.frame(depth = neo_site$depth, geochron_neo_quants)
-  
 
   # Now bchron, Bacon, and Neotoma? on one plot #
   
@@ -199,14 +203,14 @@ for (i in 1:N_datasetids){#N_datasetids){
     geom_line(data = bchron_quants, aes(x = depths, y = ymid, color = "Bchron"), size = 1.5) +
     geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
     geom_line(data = wang_quants, aes(x = depths, y = ymid, color = "Bacon"), size = 1.5) +
-    geom_ribbon(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
+    geom_ribbon(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = '#FFA500AA') +
     geom_line(data = geochron_neo_quants, aes(x = depth, y = ymid, colour = "Neotoma"))+
     geom_point(data = geochron_quants, aes(x = depth-1, y = ymid), colour='#1F77B4', alpha=0.8) +
     geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
     geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
     geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1) +
-    geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#1F77B4', alpha=0.8) +
-    geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
+    # geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#1F77B4', alpha=0.8) +
+    # geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
     # geom_point(data = controls, aes(x = depth, y = age)) +
     labs(title = paste0(dsid, '; ',  wang_fc$handle[idx_dsid]), x = "Depths (cm)", y = "Age", color = "Legend") +
     scale_color_manual(values = colors)
