@@ -164,6 +164,28 @@ for (i in 1:N_datasetids){#N_datasetids){
   
   
   #Prep Neotoma data to go on figure
+  geochron_neo = read.csv('data/chroncontrol_summary_v2.csv')
+ 
+  geochron_neo$error = (geochron_neo$limitolder - geochron_neo$limityounger)
+  
+  ageSds_neo = geochron$error
+  calCurves_neo = rep(NA, nrow(geochron_neo))
+  if(geochron_neo$type == 'Core top'){
+    calCurves_neo = 'normal'
+  }else{
+    calCurves_neo = 'intcal20'
+  }
+  }
+  #calCurves[which(geochron_neo$cc == 1)] = 'intcal20'
+  #calCurves[which(geochron_neo$cc == 0)] = 'normal'
+#### The line below needs to be fixed. Are there other types of controls that use 'normal' curves?
+  if(geochron_neo$type == 'Core top') calCurves_neo = 'normal'
+    
+  
+  
+  
+  
+  
   
   neo_age = data.frame(depths=neo_site$depth, age_n = neo_site$age)
   
