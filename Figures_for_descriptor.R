@@ -77,10 +77,15 @@ ggsave('figures/bacon_only_map.png')
 # ### Tables ### #
 # Frequency of each control type #
 chron_control_types <- read.csv("chroncontrol_types-edited.csv")
-all_sites = read.csv("data/chroncontrol_summary_pollen_full.csv")
+all_sites = read.csv("data/chroncontrol_summary_v2.csv")
 
 control_freq = table(all_sites$type)
-controls = grid.table(all_sites$type)
+control_freq = as.data.frame(control_freq)
+
+png(file = 'figures/control_frequencies.png', width = 350, height = 600)
+grid.table(control_freq)
+dev.off()
+
 
 # frequency of sites for each method #
 # bchron
