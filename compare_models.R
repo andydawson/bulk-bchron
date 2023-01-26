@@ -165,46 +165,22 @@ for (i in 1:N_datasetids){#N_datasetids){
   
   #Prep Neotoma data to go on figure
   geochron_neo = read.csv('data/chroncontrol_summary_v2.csv')
- 
-  geochron_neo$error = (geochron_neo$limitolder - geochron_neo$limityounger)
   
+## This doesn't work! But we need to clean up  geochron_neo more ##
+  #geochron_neo$age = na.omit(geochron_neo$age)
+  
+  n_neo = length(geochron_neo$depth)
+  geochron_neo$error = (geochron_neo$limitolder - geochron_neo$limityounger)
+ 
   ageSds_neo = geochron$error
   calCurves_neo = rep(NA, nrow(geochron_neo))
-  if(geochron_neo$type == 'Core top'){
-    calCurves_neo = 'normal'
-  }else{
-    calCurves_neo = 'intcal20'
-  }
-  }
-  #calCurves[which(geochron_neo$cc == 1)] = 'intcal20'
-  #calCurves[which(geochron_neo$cc == 0)] = 'normal'
-#### The line below needs to be fixed. Are there other types of controls that use 'normal' curves?
-  if(geochron_neo$type == 'Core top') calCurves_neo = 'normal'
+ 
+  geochron_neo_cal  <- BchronCalibrate(ages = geochron_neo$age,
+                                       ageSds = ageSds_neo,
+                                       calCurves = rep(incal20, n_neo),
+                                       allowOutside = TRUE)
     
-  
-  
-  
-  
-  
-  
-  neo_age = data.frame(depths=neo_site$depth, age_n = neo_site$age)
-  
-  agetype = neo_site$agetype[1]
-  if (agetype == "Radiocarbon years BP"){
-    n_neo = length(neo_age$depths)
-    
-    
-    neo_cal  <- BchronCalibrate(ages = neo_site$age,
-                                ageSds = rep(200, n_neo),
-                                calCurves = rep('intcal20', n_neo),
-                                allowOutside = TRUE)
-    
-    
-    # goo = sampleAges(neo_cal)
-    # 
-    # neo_age$age_n = colMeans(goo)
-    
-    geochron_neo_samples = sampleAges(neo_cal)
+    geochron_neo_samples = sampleAges(geochron_neo_cal)
     geochron_neo_quants = t(apply(geochron_neo_samples,2,quantile, prob=c(0.025, 0.5, 0.975)))
     colnames(geochron_neo_quants) = c('ylo', 'ymid', 'yhi')
     geochron_neo_quants = data.frame(depth = neo_site$depth, geochron_neo_quants)
@@ -231,9 +207,9 @@ for (i in 1:N_datasetids){#N_datasetids){
     geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
     geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
     geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1) +
-    # geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#1F77B4', alpha=0.8) +
-    # geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
-    # geom_point(data = controls, aes(x = depth, y = age)) +
+    geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#FF8C00', alpha=0.8) +
+    geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1) +
+    geom_point(data = controls, aes(x = depth, y = age)) +
     labs(title = paste0(dsid, '; ',  wang_fc$handle[idx_dsid]), x = "Depths (cm)", y = "Age", color = "Legend") +
     scale_color_manual(values = colors)
   
@@ -262,8 +238,8 @@ dev.off()
 neo_plot = ggplot() +
   geom_ribbon(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
   geom_line(data = geochron_neo_quants, aes(x = depth, y = ymid))+
-  geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#FF5F1F', alpha=0.8) +
-  geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF5F1F', alpha=0.8, lwd=1)
+  geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#FF8C00', alpha=0.8) +
+  geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1)
 
 neo_plot + ggtitle ("Neotoma Ages Calibrated") +
   xlab("Depth (cm)") + ylab("Age Mean")
