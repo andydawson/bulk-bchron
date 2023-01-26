@@ -82,8 +82,10 @@ all_sites = read.csv("data/chroncontrol_summary_v2.csv")
 control_freq = table(all_sites$type)
 control_freq = as.data.frame(control_freq)
 
-png(file = 'figures/control_frequencies.png', width = 350, height = 600)
-grid.table(control_freq)
+control_freq = data.frame(number = seq(1, nrow(control_freq)), control_freq)
+
+png(file = 'figures/control_frequencies.png', width = 350, height = 1000)
+grid.table(control_freq, rows = NULL)
 dev.off()
 
 
