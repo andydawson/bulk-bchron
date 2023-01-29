@@ -84,8 +84,8 @@ control_freq = as.data.frame(control_freq)
 
 control_freq = data.frame(number = seq(1, nrow(control_freq)), control_freq)
 
-png(file = 'figures/control_frequencies.png', width = 350, height = 1000)
-grid.table(control_freq, rows = NULL)
+png(file = 'figures/control_frequencies.png', width = 400, height = 1000)
+grid.table(control_freq, rows = NULL, cols = c('Number', 'Control Type', 'Frequency'))
 dev.off()
 
 
