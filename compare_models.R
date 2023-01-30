@@ -201,6 +201,9 @@ for (i in 1:N_datasetids){#N_datasetids){
                             ymid  = NA,
                             yhi   = NA)
     
+    neo_mean = data.frame(depth = NA,
+                          age_n = NA)
+    
   } else if (neo_site$agetype[1] == "Radiocarbon years BP") {
     
     n_neo_site = nrow(neo_site)
@@ -223,12 +226,18 @@ for (i in 1:N_datasetids){#N_datasetids){
     colnames(neo_quants) = c('ylo', 'ymid', 'yhi')
     neo_quants = data.frame(depth = neo_site$depth, neo_quants)
     
+    neo_mean = data.frame(depth = neo_site$depth,
+                          age_n = apply(neo_samples,2, mean, na.rm=TRUE))
     
   } else {
     neo_quants = data.frame(depth = neo_site$depth,
                             ylo = neo_site$age,
                             ymid = neo_site$age,
                             yhi = neo_site$age)
+    
+    neo_mean = data.frame(depth = neo_site$depth,
+                          age_n = neo_site$age)
+    
   }
   
   # Now bchron, Bacon, and Neotoma? on one plot #
@@ -264,7 +273,7 @@ for (i in 1:N_datasetids){#N_datasetids){
   bchron_mean = data.frame(depths=bchron_posts[,'depths'], age_b = rowMeans(bchron_posts[,2:ncol(bchron_posts)]))
   
   age_means = merge(bchron_mean, wang_mean)
-  age_means = merge(age_means, neo_quants)
+  age_means = merge(age_means, neo_mean)
   diffs = rbind(diffs,
                 data.frame(dsid = rep(dsid),
                            age_means))
