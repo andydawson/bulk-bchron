@@ -56,6 +56,10 @@ for (i in 1:N_datasetids){#N_datasetids){
   
   dsid = datasetids[i]
   
+  if (i==20295){
+    next
+  }
+  
   idx_dsid = which(wang_fc$datasetid == dsid)
   
   neo_site = neo_dat[which(neo_dat$dataset_id == dsid),]
