@@ -50,7 +50,7 @@ diffs = data.frame(dsid = numeric(0),
                    age_n  = numeric(0))
 
 pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i in 1:N_datasetids){#N_datasetids){
+for (i in 575:N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -239,8 +239,9 @@ for (i in 1:N_datasetids){#N_datasetids){
                             ymid = neo_site$age,
                             yhi = neo_site$age)
     
-    neo_mean = data.frame(depth = neo_site$depth,
+    neo_mean = data.frame(depths = neo_site$depth,
                           age_n = neo_site$age)
+    
     
   }
   
@@ -278,12 +279,15 @@ for (i in 1:N_datasetids){#N_datasetids){
   
   age_means = merge(bchron_mean, wang_mean)
   age_means = merge(age_means, neo_mean)
+
   diffs = rbind(diffs,
                 data.frame(dsid = rep(dsid),
                            age_means))
   
-}
+ }
 dev.off()
+
+diffs$diff_bacon = diffs$age_b - diffs$age_w
 
 # One panel three figures for paper #
 
