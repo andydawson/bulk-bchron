@@ -6,6 +6,7 @@ library(Bchron)
 library(cowplot)
 library(mgcv)
 
+
 radio = read.csv('data/radiocarbon-dates-errors.csv')
 mod_radio <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
 
@@ -230,7 +231,7 @@ for (i in 575:N_datasetids){#N_datasetids){
     colnames(neo_quants) = c('ylo', 'ymid', 'yhi')
     neo_quants = data.frame(depth = neo_site$depth, neo_quants)
     
-    neo_mean = data.frame(depth = neo_site$depth,
+    neo_mean = data.frame(depths = neo_site$depth,
                           age_n = apply(neo_samples,2, mean, na.rm=TRUE))
     
   } else {
@@ -281,21 +282,29 @@ for (i in 575:N_datasetids){#N_datasetids){
   age_means = merge(age_means, neo_mean)
 
   diffs = rbind(diffs,
-                data.frame(dsid = rep(dsid),
+               data.frame(dsid = rep(dsid),
                            age_means))
   
  }
 dev.off()
 
-diffs$diff_bacon = diffs$age_b - diffs$age_w
+diffs$diff_bb = abs(diffs$age_b - diffs$age_w)
+diffs$diff_bn = abs(diffs$age_b - diffs$age_n)
+
+which(diffs$diff_bb >= 500)
+
+ggplot(data=diffs) +
+  geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
+
+summary(diffs$diff_bb)
 
 # One panel three figures for paper #
 
 neo_plot = ggplot() +
-  geom_ribbon(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
-  geom_line(data = geochron_neo_quants, aes(x = depth, y = ymid))+
-  geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#FF8C00', alpha=0.8) +
-  geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1)
+  geom_ribbon(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
+  geom_line(data = neo_quants, aes(x = depth, y = ymid))+
+  geom_point(data = neo_quants, aes(x = depth, y = ymid), colour='#FF8C00', alpha=0.8) +
+  geom_linerange(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1)
 
 neo_plot + ggtitle ("Neotoma Ages Calibrated") +
   xlab("Depth (cm)") + ylab("Age Mean")
@@ -323,13 +332,6 @@ plot_grid(neo_plot, bchron_plot, bacon_plot)
 #   geom_point(aes(x = depths, y = age_b), color = 'blue', alpha = .2) +
 #   geom_point(aes(x = depths, y = age_w), color = 'red', alpha = .2)
 
-
-diffs$age_diff = diffs$age_b - diffs$age_w
-
-ggplot(data=diffs) +
-  geom_histogram(aes(x=age_diff, y=..density..), bins=100)
-
-summary(diffs$age_diff)
 
 
 
