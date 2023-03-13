@@ -5,6 +5,7 @@ library(reshape2)
 library(Bchron)
 library(cowplot)
 library(mgcv)
+library(dplyr)
 
 
 radio = read.csv('data/radiocarbon-dates-errors.csv')
@@ -288,13 +289,25 @@ for (i in 575:N_datasetids){#N_datasetids){
  }
 dev.off()
 
-diffs$diff_bb = abs(diffs$age_b - diffs$age_w)
+diffs$diff_bb = (diffs$age_b - diffs$age_w)
 diffs$diff_bn = abs(diffs$age_b - diffs$age_n)
 
 which(diffs$diff_bb >= 500)
 
-ggplot(data=diffs) +
+which(diffs$diff_bb >= 25000)
+lrg_diff = diffs[which(diffs$diff_bb >= 25000),]
+
+#goo  = diffs[which(diffs$dsid == "1523"),]
+
+#use these sites
+use_diff = diffs[which(diffs$diff_bb <= 10000),]
+
+ggplot(data= use_diff) +
   geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
+
+site_diffs = diffs %>% group_by(dsid) %>% summarize(site_diff_bb = mean(diff_bb),  site_diff_bn = mean(diff_bn))
+
+
 
 summary(diffs$diff_bb)
 
