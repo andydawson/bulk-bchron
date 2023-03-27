@@ -1,0 +1,15 @@
+labID,	age,	error,	depth,	cc
+Core top,	-21,	1,	0,	0
+Biostratigraphic_ pollen,	150,	50,	75,	0
+OWU-41,	1753,	189,	125,	1
+OWU-46,	1525,	92,	125,	1
+OWU-47,	1618,	201,	125,	1
+OWU-48,	2152,	260,	185,	1
+OWU-55,	2122,	184,	185,	1
+Radiocarbon_ reservoir correction,	1310,	846,	205,	1
+Radiocarbon_ reservoir correction,	3600,	424,	345,	1
+OWU-57,	5033,	217,	425,	1
+OWU-80,	7104,	260,	425,	1
+OWU-58,	5295,	232,	525,	1
+OWU-81,	8960,	335,	525,	1
+Radiocarbon_ reservoir correction,	9800,	420,	610,	1

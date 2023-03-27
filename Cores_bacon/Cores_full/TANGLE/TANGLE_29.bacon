@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:15:37 2022 
+## Ran on Mon Mar 13 15:55:19 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -12,4 +12,4 @@ Det 2 : USGS-338 , 4560, 170, 520.5,  0,  0,  3,  4,  1;
 Det 3 : NA , 4560, 4560000, 540,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 29,  -128,  1e+06,  -8,  26,  5,  5,  0.9,  0.09, 0, 580, 6796;
+Bacon 0: FixT, 29,  -128,  1e+06,  -37,  -18,  5,  5,  1.5,  0.075, 0, 580, 739773;

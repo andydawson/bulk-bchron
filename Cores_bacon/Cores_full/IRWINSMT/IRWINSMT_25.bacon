@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:19:20 2022 
+## Ran on Mon Mar 13 16:23:50 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -34,7 +34,7 @@ Det 24 : NA , 6090, 6090000, 238.5,  0,  0,  3,  4,  1;
 
 ### Depths and priors for fixed hiatuses, in descending order 
 ##### cm  alpha beta      ha     hb
-Hiatus 0:  16.5,  0.9,  0.045,  0.1,  10;
+Hiatus 0:  16.5,  1.5,  0.075,  0.1,  10;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 25,  -207,  1e+06,  -39,  -75,  5,  5,  0.53,  0.175496688741722, 0, 250, 142009;
+Bacon 0: FixT, 25,  -207,  1e+06,  -83,  -57,  5,  5,  1.5,  0.075, 0, 250, 24991;

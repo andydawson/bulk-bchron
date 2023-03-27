@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:06:59 2022 
+## Ran on Mon Mar 13 14:33:55 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -13,4 +13,4 @@ Det 3 : GSC-4663 , 5300, 120, 208.5,  0,  0,  3,  4,  1;
 Det 4 : GSC-4632 , 6240, 160, 240,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 18,  -185,  1e+06,  5,  23,  5,  5,  0.9,  0.018, 0, 270, 400187;
+Bacon 0: FixT, 18,  -185,  1e+06,  13,  -13,  5,  5,  1.5,  0.075, 0, 270, 518282;

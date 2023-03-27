@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 17:58:03 2022 
+## Ran on Mon Mar 13 13:22:40 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -20,4 +20,4 @@ Det 10 : WSU-1919 , 5010, 110, 370.5,  0,  0,  3,  4,  1;
 Det 11 : WSU-2122 , 4320, 110, 435,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 45,  -72,  1e+06,  -23,  -22,  5,  5,  0.9,  0.018, 0, 450, 992623;
+Bacon 0: FixT, 45,  -73,  1e+06,  -22,  -22,  5,  5,  1.5,  0.075, 0, 450, 460846;

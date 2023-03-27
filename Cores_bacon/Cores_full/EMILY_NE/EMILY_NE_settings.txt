@@ -3,8 +3,8 @@
 1 #d.by
 1 #depths.file
  #slump
-3.02 50 #acc.mean
-0.53 0.9 #acc.shape
+20 20 #acc.mean
+1.5 1.5 #acc.shape
 0.5 #mem.mean
 10 #mem.strength
 NA #boundary

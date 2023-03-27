@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:03:32 2022 
+## Ran on Mon Mar 13 14:05:34 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -21,4 +21,4 @@ Det 11 : GSC-3956 , 10400, 150, 1404,  0,  0,  3,  4,  1;
 Det 12 : NA , 10400, 10400000, 1446,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 44,  -100,  1e+06,  -33,  -34,  5,  5,  0.9,  0.018, 805, 1465, 890020;
+Bacon 0: FixT, 44,  -100,  1e+06,  -34,  -35,  5,  5,  1.5,  0.075, 805, 1465, 851439;

@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 17:58:03 2022 
+## Ran on Mon Mar 13 13:27:01 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -12,4 +12,4 @@ Det 2 : Radiocarbon_ reservoir correction , 2540, 300, 264,  0,  0,  3,  4,  1;
 Det 3 : NA , 2540, 2540000, 269,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 15,  -72,  1e+06,  -32,  -32,  5,  5,  0.9,  0.018, 0, 300, 112411;
+Bacon 0: FixT, 15,  -73,  1e+06,  -31,  -32,  5,  5,  1.5,  0.075, 0, 300, 487750;

@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:27:54 2022 
+## Ran on Mon Mar 13 17:33:01 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -11,4 +11,4 @@ Det 1 : Biostratigraphic_ pollen , 36, 1, 12.5,  0,  0,  3,  4,  0;
 Det 2 : European settlement horizon , 220, 1, 22.5,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 6,  -72,  1e+06,  -46,  -43,  5,  5,  0.53,  0.175496688741722, 0, 30, 507619;
+Bacon 0: FixT, 6,  -73,  1e+06,  -46,  -44,  5,  5,  1.5,  0.075, 0, 30, 871127;

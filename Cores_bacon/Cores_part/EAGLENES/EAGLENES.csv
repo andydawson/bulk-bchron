@@ -1,0 +1,9 @@
+labID,	age,	error,	depth,	cc
+Core top,	-32,	1,	0,	0
+Radiocarbon_ reservoir correction,	280,	280,	7.25,	1
+Radiocarbon_ reservoir correction,	6240,	160,	265,	1
+Radiocarbon_ reservoir correction,	7339,	640,	275,	1
+Radiocarbon_ reservoir correction,	9740,	300,	475,	1
+Radiocarbon_ reservoir correction,	9085,	490,	480,	1
+Radiocarbon_ reservoir correction,	10280,	550,	495,	1
+Other dating methods,	11000,	1000,	700,	0

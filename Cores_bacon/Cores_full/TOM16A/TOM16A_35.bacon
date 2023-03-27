@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:00:46 2022 
+## Ran on Mon Mar 13 13:47:58 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -14,4 +14,4 @@ Det 4 : Biostratigraphic_ pollen , 12800, 250, 1215,  0,  0,  3,  4,  0;
 Det 5 : NA , 12800, 1.28e+10, 1285,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 35,  -72,  1e+06,  9628,  9276,  5,  5,  0.9,  0.09, 625, 1325, 162976;
+Bacon 0: FixT, 35,  -73,  1e+06,  8954,  9967,  5,  5,  1.5,  0.075, 625, 1325, 869463;

@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:22:20 2022 
+## Ran on Mon Mar 13 16:43:33 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -18,4 +18,4 @@ Det 8 : Tephra , 13430, 116, 932,  0,  0,  3,  4,  0;
 Det 9 : NA , 13430, 13430000, 1144,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 59,  -72,  1e+06,  -48,  -48,  5,  5,  0.9,  0.09, 0, 1180, 831479;
+Bacon 0: FixT, 59,  -73,  1e+06,  -49,  -49,  5,  5,  1.5,  0.075, 0, 1180, 931546;

@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:20:51 2022 
+## Ran on Mon Mar 13 16:31:58 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -18,4 +18,4 @@ Det 8 : CAMS-46622 , 1800, 60, 280,  0,  0,  3,  4,  1;
 Det 9 : CAMS-46623 , 2110, 90, 345,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 25,  -72,  1e+06,  -47,  -47,  5,  5,  0.9,  0.18, 0, 375, 46581;
+Bacon 0: FixT, 25,  -73,  1e+06,  -49,  -48,  5,  5,  1.5,  0.075, 0, 375, 322865;

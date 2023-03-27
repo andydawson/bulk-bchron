@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:23:04 2022 
+## Ran on Mon Mar 13 16:50:30 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -7,13 +7,13 @@ Cal 3 : SHCal20, 1;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -49, 1, 0,  0,  0,  3,  4,  0;
-Det 1 : unassigned , -38, 0.7483778, 4,  0,  0,  3,  4,  0;
-Det 2 : unassigned , -28.8, 0.7995663, 8,  0,  0,  3,  4,  0;
-Det 3 : unassigned , -20.1, 1.051035, 12,  0,  0,  3,  4,  0;
-Det 4 : unassigned , -8.5, 1.201243, 16,  0,  0,  3,  4,  0;
-Det 5 : unassigned , 13.2, 2.999173, 20,  0,  0,  3,  4,  0;
-Det 6 : unassigned , 51.5, 3.437802, 24,  0,  0,  3,  4,  0;
-Det 7 : unassigned , 88.6, 3.621544, 28,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -38, 0.7484, 4,  0,  0,  3,  4,  0;
+Det 2 : unassigned , -28.8, 0.7996, 8,  0,  0,  3,  4,  0;
+Det 3 : unassigned , -20.1, 1.051, 12,  0,  0,  3,  4,  0;
+Det 4 : unassigned , -8.5, 1.201, 16,  0,  0,  3,  4,  0;
+Det 5 : unassigned , 13.2, 2.999, 20,  0,  0,  3,  4,  0;
+Det 6 : unassigned , 51.5, 3.438, 24,  0,  0,  3,  4,  0;
+Det 7 : unassigned , 88.6, 3.622, 28,  0,  0,  3,  4,  0;
 Det 8 : European settlement horizon , 250, 50, 52,  0,  0,  3,  4,  0;
 Det 9 : AA 41579 , 633, 36, 63,  0,  0,  3,  4,  1;
 Det 10 : unassigned , 862, 38, 71,  0,  0,  3,  4,  1;
@@ -24,7 +24,7 @@ Det 14 : NA , 2014, 2014000, 176,  0,  0,  3,  4,  1;
 
 ### Depths and priors for fixed hiatuses, in descending order 
 ##### cm  alpha beta      ha     hb
-Hiatus 0:  52,  0.9,  0.018,  0.1,  10;
+Hiatus 0:  52,  1.5,  0.075,  0.1,  10;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 10,  -72,  1e+06,  -49,  -48,  5,  5,  0.53,  0.175496688741722, 0, 200, 356823;
+Bacon 0: FixT, 10,  -73,  1e+06,  -50,  -50,  5,  5,  1.5,  0.075, 0, 200, 871122;

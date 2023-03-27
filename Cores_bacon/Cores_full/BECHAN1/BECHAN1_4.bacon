@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 17:58:03 2022 
+## Ran on Mon Mar 13 13:22:25 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -21,4 +21,4 @@ Det 11 : Other dating methods , 21142, 1000, 65,  0,  0,  3,  4,  0;
 Det 12 : Other dating methods , 22010, 1000, 67,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 4,  -72,  1e+06,  16028,  14770,  5,  5,  0.9,  0.009, 43, 83, 698410;
+Bacon 0: FixT, 4,  -73,  1e+06,  16241,  16679,  5,  5,  1.5,  0.075, 43, 83, 688218;

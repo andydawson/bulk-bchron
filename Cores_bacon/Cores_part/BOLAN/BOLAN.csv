@@ -1,0 +1,25 @@
+labid,age,error,depth,cc
+AA40215,267,46,59,1
+AA40214,708,41,71,1
+AA44436,2123,35,166,1
+AA44437,3354,39,260,1
+NSRL12159,4120,45,312,1
+NSRL12160,6290,45,463,1
+NSRL12161,8060,50,570,1
+AA40217,8827,62,645,1
+NSRL12162,11010,65,739,1
+unassigned,-19,2,6,0
+unassigned,-7,3,7,0
+unassigned,3,4,8,0
+unassigned,15,6,10,0
+unassigned,31,9,12,0
+unassigned,49,13,14,0
+unassigned,52,13,16,0
+unassigned,67,17,18,0
+unassigned,77,20,20,0
+unassigned,85,23,22,0
+unassigned,93,26,24,0
+unassigned,102,29,26,0
+unassigned,110,32,28,0
+Core top,-49,1,0,0
+Tephra,7627,150,486,0

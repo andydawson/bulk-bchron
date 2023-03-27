@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:20:11 2022 
+## Ran on Mon Mar 13 16:29:43 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -21,4 +21,4 @@ Det 11 : UGAMS-01051 , 7904, 55, 443,  0,  0,  3,  4,  1;
 Det 12 : NA , 7904, 7904000, 445,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 31,  -74,  1e+06,  -53,  -51,  5,  5,  0.9,  0.045, 0, 465, 839278;
+Bacon 0: FixT, 31,  -74,  1e+06,  -50,  -67,  5,  5,  1.5,  0.075, 0, 465, 542073;

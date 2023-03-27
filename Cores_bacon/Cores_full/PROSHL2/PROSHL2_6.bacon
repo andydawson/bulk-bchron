@@ -1,4 +1,4 @@
-## Ran on Sun Aug 14 18:27:45 2022 
+## Ran on Mon Mar 13 17:32:57 2023 
 
 Cal 0 : ConstCal;
 Cal 1 : IntCal20, 1;
@@ -12,4 +12,4 @@ Det 2 : European settlement horizon , 220, 1, 17,  0,  0,  3,  4,  0;
 Det 3 : NA , 220, 220000, 24,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 6,  -72,  1e+06,  -45,  -44,  5,  5,  0.53,  0.175496688741722, 0, 30, 591617;
+Bacon 0: FixT, 6,  -73,  1e+06,  -44,  -44,  5,  5,  1.5,  0.075, 0, 30, 133949;

@@ -1,10 +1,10 @@
-543.75 #d.min
-786.25 #d.max
+543.8 #d.min
+786.2 #d.max
 1 #d.by
 1 #depths.file
  #slump
-50 #acc.mean
-0.9 #acc.shape
+20 #acc.mean
+1.5 #acc.shape
 0.5 #mem.mean
 10 #mem.strength
 NA #boundary
