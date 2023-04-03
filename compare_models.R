@@ -297,11 +297,14 @@ med_diff = diffs[which(diffs$diff_bb >= 7000 & diffs$diff_bb <= 25000),]
 which(diffs$diff_bb >= 25000)
 lrg_diff = diffs[which(diffs$diff_bb >= 25000),]
 
+sml_diff = diffs[which(diffs$diff_bb >= 3000 & diffs$diff_bb <=7000),]
+
 #use these sites
-use_diff = diffs[which(diffs$diff_bb <= 10000 & diffs$diff_bb >= 0),]
+#use_diff = diffs[which(diffs$diff_bb <= 10000 & diffs$diff_bb >= 0),]
 
 ggplot(data = use_diff) +
   geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
+
 
 site_diffs = diffs %>% group_by(dsid) %>% summarize(site_diff_bb = mean(diff_bb),  site_diff_bn = mean(diff_bn))
 
