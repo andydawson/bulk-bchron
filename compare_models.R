@@ -297,7 +297,10 @@ med_diff = diffs[which(diffs$diff_bb >= 7000 & diffs$diff_bb <= 25000),]
 which(diffs$diff_bb >= 25000)
 lrg_diff = diffs[which(diffs$diff_bb >= 25000),]
 
-sml_diff = diffs[which(diffs$diff_bb >= 3000 & diffs$diff_bb <=7000),]
+sml_diff = diffs[which(diffs$diff_bb <=7000),]
+
+low_diff = diffs[which(diffs$diff_bb >= 0 & diffs$diff_bb <=1),]
+
 
 #use these sites
 #use_diff = diffs[which(diffs$diff_bb <= 10000 & diffs$diff_bb >= 0),]
@@ -305,6 +308,8 @@ sml_diff = diffs[which(diffs$diff_bb >= 3000 & diffs$diff_bb <=7000),]
 ggplot(data = use_diff) +
   geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
 
+ggplot(data = sml_diff) +
+  geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
 
 site_diffs = diffs %>% group_by(dsid) %>% summarize(site_diff_bb = mean(diff_bb),  site_diff_bn = mean(diff_bn))
 
@@ -318,28 +323,30 @@ neo_plot = ggplot() +
   geom_ribbon(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
   geom_line(data = neo_quants, aes(x = depth, y = ymid))+
   geom_point(data = neo_quants, aes(x = depth, y = ymid), colour='#FF8C00', alpha=0.8) +
-  geom_linerange(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1)
+  geom_linerange(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1)+
+  labs(title = "Neotoma Ages", x = "Depth (cm)", y = "Age Mean")
 
-neo_plot + ggtitle ("Neotoma Ages Calibrated") +
-  xlab("Depth (cm)") + ylab("Age Mean")
+
+neo_plot
 
 bchron_plot = ggplot() +
   geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
   geom_line(data = bchron_quants, aes(x = depths, y = ymid))+
   geom_point(data = geochron_quants, aes(x = depth-1, y = ymid), colour='#1F77B4', alpha=0.8) +
-  geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1)
+  geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1)+
+  labs(title = "Bchron Ages Calibrated", x = "Depth (cm)", y = "Age Mean")
 
-bchron_plot + ggtitle ("Bchron Ages Calibrated") +
-  xlab("Depth (cm)") + ylab("Age Mean")
+bchron_plot 
 
 bacon_plot = ggplot() +
   geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
   geom_line(data = wang_quants, aes(x = depths, y = ymid))+
   geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
-  geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1)
+  geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1)+
+  labs(title = "Bacon Ages Calibrated", x = "Depth (cm)", y = "Age Mean")
 
-bacon_plot + ggtitle ("Bacon Ages Calibrated") +
-  xlab("Depth (cm)") + ylab("Age Mean")
+bacon_plot
+
 
 plot_grid(neo_plot, bchron_plot, bacon_plot)
 # ggplot(data = diffs) +
@@ -349,7 +356,7 @@ plot_grid(neo_plot, bchron_plot, bacon_plot)
 
 
 
-dsid = datasetids[1]
+dsid = datasetids[i]
 idx_dsid = which(wang_fc$datasetid == dsid)
 
 files = list.files(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid]))                
@@ -367,6 +374,7 @@ olap = data.frame(datasetid = numeric(0),
                   depths = numeric(0),
                   overlap = numeric(0))
 
+pdf('figures/olap_figs.pdf', width=10, height=6)
 for (i in 1:n_depths){
   
   # print(i)
@@ -395,6 +403,7 @@ for (i in 1:n_depths){
   olap = rbind(olap,
                olap_site)
 }
+dev.off()
 
 
 
