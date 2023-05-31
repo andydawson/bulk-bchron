@@ -47,9 +47,12 @@ geochron_neo$error = (geochron_neo$limitolder - geochron_neo$limityounger)
 
 diffs = data.frame(dsid = numeric(0),
                    depths = numeric(0),
-                   age_b  = numeric(0),
-                   age_w  = numeric(0),
-                   age_n  = numeric(0))
+                   age_mean_b  = numeric(0),
+                   age_sd_b  = numeric(0),
+                   age_mean_w  = numeric(0),
+                   age_sd_b  = numeric(0),
+                   age_mean_n  = numeric(0),
+                   age_sd_b  = numeric(0))
 
 pdf('figures/age_depth_compare.pdf', width=10, height=6)
 for (i in 575:N_datasetids){#N_datasetids){
@@ -233,7 +236,8 @@ for (i in 575:N_datasetids){#N_datasetids){
     neo_quants = data.frame(depth = neo_site$depth, neo_quants)
     
     neo_mean = data.frame(depths = neo_site$depth,
-                          age_n = apply(neo_samples,2, mean, na.rm=TRUE))
+                          age_mean_n = apply(neo_samples,2, mean, na.rm=TRUE),
+                          age_sd_n = apply(neo_samples,2, sd, na.rm=TRUE))
     
   } else {
     neo_quants = data.frame(depth = neo_site$depth,
@@ -242,7 +246,8 @@ for (i in 575:N_datasetids){#N_datasetids){
                             yhi = neo_site$age)
     
     neo_mean = data.frame(depths = neo_site$depth,
-                          age_n = neo_site$age)
+                          age_mean_n = neo_site$age,
+                          age_sd_n = 0)
     
     
   }
@@ -275,11 +280,15 @@ for (i in 575:N_datasetids){#N_datasetids){
   ###
   
   
-  wang_mean = data.frame(depths=wang_posts[,'depths'], age_w = rowMeans(wang_posts[,2:ncol(wang_posts)]))
+  wang_mean = data.frame(depths=wang_posts[,'depths'], 
+                         age_mean_w = rowMeans(wang_posts[,2:ncol(wang_posts)]),
+                         age_sd_w = apply(wang_posts[,2:ncol(wang_posts)], 1, sd, na.rm=TRUE))
   
-  bchron_mean = data.frame(depths=bchron_posts[,'depths'], age_b = rowMeans(bchron_posts[,2:ncol(bchron_posts)]))
+  bchron_mean = data.frame(depths=bchron_posts[,'depths'], 
+                           age_mean_b = rowMeans(bchron_posts[,2:ncol(bchron_posts)]),
+                           age_sd_b = apply(bchron_posts[,2:ncol(bchron_posts)], 1, sd, na.rm=TRUE))
   
-  age_means = merge(bchron_mean, wang_mean)
+  age_means = merge(bchron_mean, wang_mean, by = 'depths')
   age_means = merge(age_means, neo_mean)
 
   diffs = rbind(diffs,
