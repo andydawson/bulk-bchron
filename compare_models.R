@@ -54,8 +54,8 @@ diffs = data.frame(dsid = numeric(0),
                    age_mean_n  = numeric(0),
                    age_sd_b  = numeric(0))
 
-pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i  in 575:N_datasetids){#N_datasetids){
+# pdf('figures/age_depth_compare.pdf', width=10, height=6)
+for (i  in 1:10){#N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -275,10 +275,11 @@ for (i  in 575:N_datasetids){#N_datasetids){
   
   print(p)
   
-  # ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
+  ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
   
   ###
-  
+  #new figure
+  #ggsave()
   
   wang_mean = data.frame(depths=wang_posts[,'depths'], 
                          age_mean_w = rowMeans(wang_posts[,2:ncol(wang_posts)]),
@@ -296,7 +297,7 @@ for (i  in 575:N_datasetids){#N_datasetids){
                            age_means))
   
  }
-dev.off()
+# dev.off()
 
 diffs$diff_bb = abs(diffs$age_b - diffs$age_w)
 diffs$diff_bn = abs(diffs$age_b - diffs$age_n)
