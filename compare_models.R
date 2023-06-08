@@ -376,6 +376,16 @@ plot_idx = data.frame(radio$datasetid)
 
 
 
+
+
+#Compare age means and SDs
+
+bacon_comp = plot (diffs$age_mean_w, diffs$age_sd_w)
+
+bchron_comp = plot (diffs$age_mean_b, diffs$age_sd_b)
+
+
+
 dsid = datasetids[i]
 idx_dsid = which(wang_fc$datasetid == dsid)
 
