@@ -277,6 +277,41 @@ for (i  in 1:10){#N_datasetids){#N_datasetids){
   
   ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
   
+  
+  dsid = datasetids[i]
+  print(i)
+  
+  neo_plot = ggplot() +
+    geom_ribbon(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
+    geom_line(data = neo_quants, aes(x = depth, y = ymid))+
+    geom_point(data = neo_quants, aes(x = depth, y = ymid), colour='#FF8C00', alpha=0.8) +
+    geom_linerange(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1)+
+    labs(title = "Neotoma Ages", x = "Depth (cm)", y = "Age Mean")+
+    labs(title = paste0(dsid, '; ', wang_fc$handle[idx_dsid]))
+  
+  
+  bchron_plot = ggplot() +
+    geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
+    geom_line(data = bchron_quants, aes(x = depths, y = ymid))+
+    geom_point(data = geochron_quants, aes(x = depth-1, y = ymid), colour='#1F77B4', alpha=0.8) +
+    geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1)+
+    labs(title = "Bchron Ages Calibrated" , x = "Depth (cm)", y = "Age Mean")
+  
+  
+  bacon_plot = ggplot() +
+    geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
+    geom_line(data = wang_quants, aes(x = depths, y = ymid))+
+    geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
+    geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1)+
+    labs(title = "Bacon Ages Calibrated", x = "Depth (cm)", y = "Age Mean")
+  
+  tri_plot = plot_grid(neo_plot, bchron_plot, bacon_plot) 
+  
+  print(tri_plot)
+  
+  
+  ggsave(paste0('figures/three_plot_', dsid, '.png'))
+  
   ###
   #new figure
   #ggsave()
@@ -329,43 +364,6 @@ summary(diffs$diff_bb)
 
 # One panel three figures for paper #
 
-N_datasetids = length(datasetids)
-for (i in 1:10){#N_datasetids
-  
-  dsid = datasetids[i]
-  print(i)
-  
-neo_plot = ggplot() +
-  geom_ribbon(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = "#FFA500AA") +
-  geom_line(data = neo_quants, aes(x = depth, y = ymid))+
-  geom_point(data = neo_quants, aes(x = depth, y = ymid), colour='#FF8C00', alpha=0.8) +
-  geom_linerange(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1)+
-  labs(title = "Neotoma Ages", x = "Depth (cm)", y = "Age Mean")+
-  labs(title = paste0(dsid, '; ',  wang_fc$handle[idx_dsid]))
-
-
-bchron_plot = ggplot() +
-  geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
-  geom_line(data = bchron_quants, aes(x = depths, y = ymid))+
-  geom_point(data = geochron_quants, aes(x = depth-1, y = ymid), colour='#1F77B4', alpha=0.8) +
-  geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1)+
-  labs(title = "Bchron Ages Calibrated" , x = "Depth (cm)", y = "Age Mean")
-
-
-bacon_plot = ggplot() +
-  geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
-  geom_line(data = wang_quants, aes(x = depths, y = ymid))+
-  geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
-  geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1)+
-  labs(title = "Bacon Ages Calibrated", x = "Depth (cm)", y = "Age Mean")
-
-
-
-
-tri_plot = plot_grid(neo_plot, bchron_plot, bacon_plot) 
-
-print(tri_plot)
-}
 
 plot_idx = data.frame(radio$datasetid)
 
