@@ -383,6 +383,17 @@ bacon_comp = plot (diffs$age_mean_w, diffs$age_sd_w)
 
 bchron_comp = plot (diffs$age_mean_b, diffs$age_sd_b)
 
+ggplot(data=diffs) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour= factor(dsid)))
+
+ggplot(data=diffs) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour= factor(dsid)))
+
+ggplot(data=subset(diffs, dsid==1001)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
+  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='black')
+
+ggplot(data=subset(diffs, dsid==1008)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
+  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='black')
+
+ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b, colour=factor(dsid))) + geom_abline(intercept=0, slope=1) + coord_fixed()
 
 
 dsid = datasetids[i]
