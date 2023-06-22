@@ -55,7 +55,7 @@ diffs = data.frame(dsid = numeric(0),
                    age_sd_b  = numeric(0))
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i  in 1:10){#N_datasetids){#N_datasetids){
+for (i  in 192:193){#N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -387,11 +387,16 @@ ggplot(data=diffs) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour= factor(dsi
 
 ggplot(data=diffs) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour= factor(dsid)))
 
-ggplot(data=subset(diffs, dsid==1001)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
+ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
   geom_line(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='black')
 
-ggplot(data=subset(diffs, dsid==1008)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
-  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='black')
+
+legend_1 = c("Bchron" = "blue", "Bacon" = "black")
+
+ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='Bacon')+
+  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='Bacon')+
+  labs(title = "Age Mean vs. SD: 15356", x = "age mean", y = "age sd", color = "Legend") +
+  scale_colour_manual(values = legend_1)
 
 ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b, colour=factor(dsid))) + geom_abline(intercept=0, slope=1) + coord_fixed()
 
