@@ -362,8 +362,7 @@ site_diffs = diffs %>% group_by(dsid) %>% summarize(site_diff_bb = mean(diff_bb)
 
 summary(diffs$diff_bb)
 
-# One panel three figures for paper #
-
+  
 
 plot_idx = data.frame(radio$datasetid)
 
@@ -387,18 +386,28 @@ ggplot(data=diffs) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour= factor(dsi
 
 ggplot(data=diffs) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour= factor(dsid)))
 
+
+
 ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
   geom_line(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='black')
 
 
 legend_1 = c("Bchron" = "blue", "Bacon" = "black")
 
-ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='Bacon')+
-  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='Bacon')+
+ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
+  geom_line(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_line(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
   labs(title = "Age Mean vs. SD: 15356", x = "age mean", y = "age sd", color = "Legend") +
   scale_colour_manual(values = legend_1)
 
-ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b, colour=factor(dsid))) + geom_abline(intercept=0, slope=1) + coord_fixed()
+
+ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b, colour= factor(dsid))) +
+  geom_abline(slope = 1, intercept = 0) +
+  coord_equal() +
+  xlim(c(0,800)) + ylim(c(0,800))
+
+
+
+
 
 
 dsid = datasetids[i]
