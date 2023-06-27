@@ -55,7 +55,7 @@ diffs = data.frame(dsid = numeric(0),
                    age_sd_b  = numeric(0))
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i  in 192:193){#N_datasetids){#N_datasetids){
+for (i  in 1:100){#N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -394,20 +394,25 @@ ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_
 
 legend_1 = c("Bchron" = "blue", "Bacon" = "black")
 
-ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
+ggplot(data=subset(diffs, dsid==1136)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
   geom_line(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_line(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
-  labs(title = "Age Mean vs. SD: 15356", x = "age mean", y = "age sd", color = "Legend") +
+  labs(title = "Age Mean vs. SD: 1136", x = "age mean", y = "age sd", color = "Legend") +
   scale_colour_manual(values = legend_1)
 
 
-ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b, colour= factor(dsid))) +
+ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
   geom_abline(slope = 1, intercept = 0) +
   coord_equal() +
-  xlim(c(0,800)) + ylim(c(0,800))
+  xlim(c(0,800)) + ylim(c(0,800)) 
 
 
 
+goo = diffs$age_sd_b - diffs$age_sd_w
+bacon_bigger = which(goo<0)
+length(bacon_bigger)
+#I suspect this number is so large because of the errors with the memory strength 
 
+bchron_bigger = which (goo>0)
 
 
 dsid = datasetids[i]
