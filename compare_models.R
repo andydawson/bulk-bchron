@@ -50,9 +50,18 @@ diffs = data.frame(dsid = numeric(0),
                    age_mean_b  = numeric(0),
                    age_sd_b  = numeric(0),
                    age_mean_w  = numeric(0),
-                   age_sd_b  = numeric(0),
+                   age_sd_w  = numeric(0),
                    age_mean_n  = numeric(0),
-                   age_sd_b  = numeric(0))
+                   age_sd_n = numeric(0))
+
+geo_diffs = data.frame(dsid = numeric(0),
+                   depths = numeric(0),
+                   geo_age_mean_b  = numeric(0),
+                   geo_age_sd_b  = numeric(0),
+                   geo_age_mean_w  = numeric(0),
+                   geo_age_sd_w = numeric(0),
+                   geo_age_mean_n  = numeric(0),
+                   geo_age_sd_n  = numeric(0))
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
 for (i  in 100:N_datasetids){#N_datasetids){#N_datasetids){
@@ -405,6 +414,11 @@ ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
   coord_equal() +
   xlim(c(0,800)) + ylim(c(0,800)) 
 
+
+ggplot(data=subset(diffs, dsid ==14680)) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
+  geom_abline(slope = 1, intercept = 0) +
+  coord_equal() +
+  xlim(c(0,800)) + ylim(c(0,800)) 
 
 
 goo = diffs$age_sd_b - diffs$age_sd_w
