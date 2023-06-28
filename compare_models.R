@@ -118,7 +118,7 @@ for (i  in 100:N_datasetids){#N_datasetids){#N_datasetids){
   # # #  we want the weighted means from "calibrated"
   # wmean.date <- function(x) sum(x$ageGrid*x$densities / sum(x$densities))
   # control_young = wmean.date(cal)
-  
+   
   geochron_bacon_samples = sampleAges(geochron_bacon_cal)
   geochron_bacon_quants = t(apply(geochron_bacon_samples, 2, quantile, prob=c(0.025, 0.5, 0.975)))
   colnames(geochron_bacon_quants) = c('ylo', 'ymid', 'yhi')
