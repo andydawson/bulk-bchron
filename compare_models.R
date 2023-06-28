@@ -55,7 +55,7 @@ diffs = data.frame(dsid = numeric(0),
                    age_sd_b  = numeric(0))
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i  in 1:100){#N_datasetids){#N_datasetids){
+for (i  in 100:N_datasetids){#N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -413,6 +413,9 @@ length(bacon_bigger)
 #I suspect this number is so large because of the errors with the memory strength 
 
 bchron_bigger = which (goo>0)
+length(bchron_bigger)
+
+same = which(goo == 0)
 
 
 dsid = datasetids[i]
