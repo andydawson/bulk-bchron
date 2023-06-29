@@ -48,6 +48,7 @@ n_neo = length(geochron_neo$depth)
 geochron_neo$error = (geochron_neo$limitolder - geochron_neo$limityounger)
 
 diffs = data.frame(dsid = numeric(0),
+                   name = character(0),
                    depths = numeric(0),
                    age_mean_b  = numeric(0),
                    age_sd_b  = numeric(0),
@@ -66,12 +67,8 @@ geo_diffs = data.frame(dsid = numeric(0),
                    geo_age_sd_n  = numeric(0))
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
-<<<<<<< HEAD
-for (i  in 1:N_datasetids){#N_datasetids){
-=======
-for (i  in 100:N_datasetids){#N_datasetids){#N_datasetids){
->>>>>>> 9888082a5d87ce14ed718db865cefcefd637dfb5
-  
+
+for (i  in 1:3){#N_datasetids){#N_datasetids){
   print(i)
   
   dsid = datasetids[i]
@@ -171,7 +168,7 @@ for (i  in 100:N_datasetids){#N_datasetids){#N_datasetids){
   bchron_geo_posts_long = melt(bchron_geo_posts, id.vars = c("depths"))
   colnames(bchron_geo_posts_long) = c('depths', 'iter', 'age')
   
-  bchron
+  # bchron
   
   # quantile(bchron_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
   
@@ -355,11 +352,19 @@ for (i  in 100:N_datasetids){#N_datasetids){#N_datasetids){
   age_means = merge(age_means, neo_mean, by = 'depths', all = TRUE)
 
   diffs = rbind(diffs,
-               data.frame(dsid = rep(dsid),
+               data.frame(dsid = rep(dsid, nrow(age_means)),
+                          name = rep(wang_fc$handle[idx_dsid], nrow(age_means)),
                            age_means))
   
  }
 # dev.off()
+
+diffs = diffs[order(diffs$dsid),]
+
+compare_sites_ids = diffs[!duplicated(diffs$dsid),]
+
+write.csv(compare_sites_ids[, c('dsid', 'name')], 'compare_sites_ids.csv', row.names = FALSE)
+
 
 fnames = list.files('figures', 'age_depth_compare_.*.pdf', recursive=TRUE)
 
@@ -369,6 +374,14 @@ fname_str = paste(fname_str, collapse = ' ')
 sys_str = paste0("gs -sDEVICE=pdfwrite -o age_depth_compare_v", vers, ".pdf ", fname_str)
 
 system(sys_str)
+
+# 
+
+model_check = read.csv('compare_sites_ids_edited.csv', stringsAsFactors = FALSE)
+dsid_pass = model_check[which(model_check$pass ==1), 'dsid']
+
+diffs = diffs[which(diffs$dsid %in% dsid),]
+
 
 
 diffs$diff_bb = abs(diffs$age_b - diffs$age_w)
