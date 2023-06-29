@@ -273,23 +273,64 @@ for (i in 1:N_ids){
   }
   
   
+  bestthick = as.numeric(site_params$bestthick)
+  
+  acc.mean = acc.mean.val
+  
+  mem.strength = 10
+  
   if (id %in% c(13029, 15750, 2598)) {
     mem.strength = 10
   } else {
     mem.strength = 10
   }
   
-  if (id %in% c(15750)) {
-    acc.mean = 5
-  } else {
-    acc.mean = 20
+  if (id %in% c(14539, 14645)){
+    acc.mean = c(3.02, 30)
+    bestthick = 5
+  } else if (id %in% c(14991)){
+    acc.mean = c(3.02, 40)
+    bestthick = 5
+  } else if (id %in% c(15035)){
+    acc.mean = 10
+  } else if  (id %in% c(15138)){
+    acc.mean = c(3.02, 50)
+    mem.strength = 10
+    bestthick = 50
+  } else if (id %in% c(15185)){
+    acc.mean = 10
+  } else if (id %in% c(15197)){
+    acc.mean = 10
+  } else if (id %in% c(1523)){
+    acc.mean = 10
+    bestthick = 60
+  }  else if (id %in% c(15302)){
+    acc.mean = 10
+    bestthick = 40
+    # bestthick = 60
+  }  else if (id %in% c(15738)){
+    acc.mean = 10
+    bestthick = 40
+    # bestthick = 60
   }
+  
+  # if (id %in% c(15750, 1136)) {
+  #   acc.mean = 5
+  # } else if (id %in% c(1144)) {
+  #   acc.mean = 100
+  # } else if (id %in% c(12001)) {
+  #   acc.mean = 50
+  # } else {
+  #   acc.mean = 20
+  # }
 
-  acc.mean.val
+
   acc.shape.val
   as.numeric(site_params$mem.strength)
   as.numeric(site_params$mem.mean)
  # 
+  
+  
  # source('Bacon.R')
   out <- try(Bacon(core = site_params$handle,
                    coredir = core_path,
@@ -297,7 +338,7 @@ for (i in 1:N_ids){
                    # acc.shape = as.numeric(acc.shape.val),
                    mem.strength = mem.strength,
                    # mem.mean = as.numeric(site_params$mem.mean),
-                   thick = as.numeric(site_params$bestthick),
+                   thick = bestthick,#as.numeric(site_params$bestthick),
                    ask = FALSE,
                    suggest = FALSE,
                    depths.file = TRUE,
@@ -369,6 +410,32 @@ for (i in 1:N_ids){
   write.table(post, paste0('Cores_bacon/Cores_full/', site_params$handle, "/", 
                            site_params$handle, "_geo_samples.csv"), sep=',', col.names = TRUE, row.names = FALSE)
   
+  
+  depths_all = sort(c(depths, geochron$depth))
+  depth_min  = min(depths_all)
+  depth_max = max(depths_all)
+  depths_span = seq(depth_min, depth_max, length=50)
+  
+  samples_span = matrix(0, nrow = length(depths_span), ncol = nrow(output))
+  colnames(samples_span) = paste0('iter', rep(1:nrow(output)))
+  for (j in 1:length(depths_span)){    
+    # print(j)
+    samples_span[j,] = Bacon.Age.d(depths_span[j], set=info, its=output, BCAD=info$BCAD)
+    # samples[j,] = bacon_geo_posts(d=geochron$depth[j], b.depths=depths, out=outer, thick=site_params$bestthick)
+  }
+  
+  # samples = matrix(0, nrow = length(geochron$depth), ncol = nrow(info$output))
+  # colnames(samples) = paste0('iter', rep(1:nrow(info$output)))
+  # for (j in 1:length(geochron$depth)){    
+  #   # print(j)
+  #   samples[j,] = Bacon.Age.d(geochron$depth[j], set=info, its=info$output, BCAD=set$BCAD)
+  #   # samples[j,] = bacon_geo_posts(d=geochron$depth[j], b.depths=depths, out=outer, thick=site_params$bestthick)
+  # }
+  
+  post_span = data.frame(depths=depths_span, samples_span)
+  
+  write.table(post_span, paste0('Cores_bacon/Cores_full/', site_params$handle, "/", 
+                           site_params$handle, "_span_samples.csv"), sep=',', col.names = TRUE, row.names = FALSE)
   
 }
 

@@ -8,6 +8,8 @@ library(mgcv)
 library(dplyr)
 
 
+vers = 1.0
+
 radio = read.csv('data/radiocarbon-dates-errors.csv')
 mod_radio <- gam(error ~ s(age, k=15), data=radio, method='REML', family=Gamma(link="identity"))
 
@@ -55,7 +57,7 @@ diffs = data.frame(dsid = numeric(0),
                    age_sd_b  = numeric(0))
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i  in 192:193){#N_datasetids){#N_datasetids){
+for (i  in 1:N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -126,23 +128,7 @@ for (i  in 192:193){#N_datasetids){#N_datasetids){
   
   wang_posts_long = melt(wang_posts, id.vars = "depths")
   colnames(wang_posts_long) = c('depths', 'iter', 'age')
-  
-  # wang_posts_long$iter 
-  
-  # ggplot() +
-  #   geom_point(data = wang_posts, aes(x = depths, y = V1)) +
-  #   geom_point(data = wang_posts, aes(x = depths, y = V2))
-  # 
-  # ggplot() +
-  #   geom_point(data = wang_posts_long, aes(x = depths, y = age))
-  # 
-  # ggplot() +
-  #   geom_line(data = wang_posts_long, aes(x = depths, y = age))
-  # 
-  # ggplot() +
-  #   geom_line(data = wang_posts_long, aes(x = depths, y = age, group = iter))
-  
-  
+
   quantile(wang_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
   
   wang_quants_row = apply(wang_posts[,2:ncol(wang_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
@@ -158,30 +144,49 @@ for (i  in 192:193){#N_datasetids){#N_datasetids){
   # ### Now do the same with bchron ### #
   
   bchron_posts = read.csv(paste0('Cores/', dsid, '/', dsid, '_bchron_samples.csv'))
+  bchron_geo_posts = read.csv(paste0('Cores/', dsid, '/', dsid, '_bchron_geo_samples.csv'))
+  bchron_geo_posts = bchron_geo_posts[,-1]
   
   if (nrow(bchron_posts)==0){
     print(paste0('No posterior samples for dataset id: ', dsid))
     next
   }
   
-  
   bchron_posts_long = melt(bchron_posts, id.vars = "depths")
   colnames(bchron_posts_long) = c('depths', 'iter', 'age')
   
-  quantile(bchron_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
+  bchron_geo_posts_long = melt(bchron_geo_posts, id.vars = c("depths"))
+  colnames(bchron_geo_posts_long) = c('depths', 'iter', 'age')
+  
+  bchron
+  
+  # quantile(bchron_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
   
   bchron_quants_row = apply(bchron_posts[,2:ncol(bchron_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
   bchron_quants = data.frame(depths = bchron_posts[,1], t(bchron_quants_row))
-  
   colnames(bchron_quants) = c('depths', 'ylo', 'ymid', 'yhi')
   
+  bchron_geo_quants_row = apply(bchron_geo_posts[,2:ncol(bchron_geo_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
+  bchron_geo_quants = data.frame(depths = bchron_geo_posts[,1], t(bchron_geo_quants_row))
+  colnames(bchron_geo_quants) = c('depths', 'ylo', 'ymid', 'yhi')
+  
   adjustcolor( "blue", alpha.f = 0.2)
+  
+  bchron_all_quants = rbind(bchron_quants, bchron_geo_quants)
   
   ggplot() +
     geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
     geom_line(data = bchron_quants, aes(x = depths, y = ymid))
   
+  ggplot() +
+    geom_ribbon(data = bchron_geo_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
+    geom_line(data = bchron_geo_quants, aes(x = depths, y = ymid))
   
+  # I'm not sure we want to bind these together
+  # need to predict ages for all depths that cover samples and controls
+  ggplot() +
+    geom_ribbon(data = bchron_all_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
+    geom_line(data = bchron_all_quants, aes(x = depths, y = ymid))
   
   # geochron_neo_site = geochron_neo[which(geochron_neo$datasetid == dsid),]
   # ageSds_neo = geochron_neo_site$error
@@ -203,15 +208,22 @@ for (i  in 192:193){#N_datasetids){#N_datasetids){
   
   if (nrow(neo_site) == 0){
     
+    neo_quants = data.frame(depth = numeric(0),
+                            ylo   = numeric(0),
+                            ymid  = numeric(0),
+                            yhi   = numeric(0))
     
+    neo_mean = data.frame(depths = numeric(0),
+                          age_mean_n = numeric(0),
+                          age_sd_n = numeric(0))
     
-    neo_quants = data.frame(depth = NA,
-                            ylo   = NA,
-                            ymid  = NA,
-                            yhi   = NA)
+    # neo_quants = data.frame(depth = NA,
+    #                         ylo   = NA,
+    #                         ymid  = NA,
+    #                         yhi   = NA)
     
-    neo_mean = data.frame(depth = NA,
-                          age_n = NA)
+    # neo_mean = data.frame(depth = NA,
+    #                       age_n = NA)
     
   } else if (neo_site$agetype[1] == "Radiocarbon years BP") {
     
@@ -276,7 +288,7 @@ for (i  in 192:193){#N_datasetids){#N_datasetids){
   print(p)
   
   ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
-  
+  ggsave(paste0('figures/age_depth_compare_', dsid, '.pdf'))
   
   dsid = datasetids[i]
   print(i)
@@ -311,6 +323,8 @@ for (i  in 192:193){#N_datasetids){#N_datasetids){
   
   
   ggsave(paste0('figures/three_plot_', dsid, '.png'))
+  ggsave(paste0('figures/three_plot_', dsid, '.pdf'))
+  
   
   ###
   #new figure
@@ -325,7 +339,7 @@ for (i  in 192:193){#N_datasetids){#N_datasetids){
                            age_sd_b = apply(bchron_posts[,2:ncol(bchron_posts)], 1, sd, na.rm=TRUE))
   
   age_means = merge(bchron_mean, wang_mean, by = 'depths')
-  age_means = merge(age_means, neo_mean)
+  age_means = merge(age_means, neo_mean, by = 'depths', all = TRUE)
 
   diffs = rbind(diffs,
                data.frame(dsid = rep(dsid),
@@ -333,6 +347,16 @@ for (i  in 192:193){#N_datasetids){#N_datasetids){
   
  }
 # dev.off()
+
+fnames = list.files('figures', 'age_depth_compare_.*.pdf', recursive=TRUE)
+
+fname_str = sapply(fnames, function(x) paste0('figures/', x))
+fname_str = paste(fname_str, collapse = ' ')
+
+sys_str = paste0("gs -sDEVICE=pdfwrite -o age_depth_compare_v", vers, ".pdf ", fname_str)
+
+system(sys_str)
+
 
 diffs$diff_bb = abs(diffs$age_b - diffs$age_w)
 diffs$diff_bn = abs(diffs$age_b - diffs$age_n)
