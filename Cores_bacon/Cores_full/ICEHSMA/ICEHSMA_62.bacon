@@ -1,21 +1,21 @@
-## Ran on Mon Mar 13 16:48:10 2023 
+## Ran on Wed Jun 28 16:05:00 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -50, 1, 0,  0,  0,  3,  4,  0;
-Det 1 : unassigned , -39.9, 0.8966, 1,  0,  0,  3,  4,  0;
-Det 2 : unassigned , -28.2, 1.13, 4,  0,  0,  3,  4,  0;
-Det 3 : unassigned , -16, 1.485, 8,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -39.9, 0.8966333, 1,  0,  0,  3,  4,  0;
+Det 2 : unassigned , -28.2, 1.129706, 4,  0,  0,  3,  4,  0;
+Det 3 : unassigned , -16, 1.48518, 8,  0,  0,  3,  4,  0;
 Det 4 : unassigned , -8.1, 1.788, 12,  0,  0,  3,  4,  0;
-Det 5 : unassigned , -1, 2.092, 16,  0,  0,  3,  4,  0;
-Det 6 : unassigned , 8, 2.539, 24,  0,  0,  3,  4,  0;
-Det 7 : unassigned , 22.2, 3.405, 32,  0,  0,  3,  4,  0;
-Det 8 : unassigned , 39.8, 4.798, 40,  0,  0,  3,  4,  0;
-Det 9 : unassigned , 84.2, 8.908, 56,  0,  0,  3,  4,  0;
+Det 5 : unassigned , -1, 2.091623, 16,  0,  0,  3,  4,  0;
+Det 6 : unassigned , 8, 2.538553, 24,  0,  0,  3,  4,  0;
+Det 7 : unassigned , 22.2, 3.405459, 32,  0,  0,  3,  4,  0;
+Det 8 : unassigned , 39.8, 4.798167, 40,  0,  0,  3,  4,  0;
+Det 9 : unassigned , 84.2, 8.907619, 56,  0,  0,  3,  4,  0;
 Det 10 : European settlement horizon , 300, 50, 140,  0,  0,  3,  4,  0;
 Det 11 : AA 39350 , 541, 35, 179,  0,  0,  3,  4,  1;
 Det 12 : AA 39351 , 1309, 37, 219,  0,  0,  3,  4,  1;
@@ -24,7 +24,7 @@ Det 14 : NA , 2190, 2190000, 304,  0,  0,  3,  4,  1;
 
 ### Depths and priors for fixed hiatuses, in descending order 
 ##### cm  alpha beta      ha     hb
-Hiatus 0:  140,  1.5,  0.075,  0.1,  10;
+Hiatus 0:  140,  1.5,  0.075,  0.9,  10;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 62,  -73,  1e+06,  -51,  -49,  5,  5,  1.5,  0.075, 0, 310, 685104;
+Bacon 0: FixT, 62,  -73,  1e+06,  -49,  -51,  5,  5,  1.5,  0.496688741721854, 0, 310, 756377;

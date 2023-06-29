@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 14:46:36 2023 
+## Ran on Wed Jun 28 14:58:22 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : NA , 6500, 1e+07, 710,  0,  0,  3,  4,  0;
@@ -13,4 +13,4 @@ Det 3 : Biostratigraphic_ pollen , 10000, 500, 1144,  0,  0,  3,  4,  0;
 Det 4 : NA , 10000, 1e+10, 1155,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 24,  -73,  1e+06,  6479,  6517,  5,  5,  1.5,  0.075, 710, 1190, 185815;
+Bacon 0: FixT, 24,  -73,  1e+06,  6462,  6358,  5,  5,  1.5,  0.075, 710, 1190, 248157;

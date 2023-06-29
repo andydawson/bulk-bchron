@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 17:55:40 2023 
+## Ran on Wed Jun 28 16:38:51 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -30, 32, 0,  0,  0,  3,  4,  0;
@@ -11,8 +11,8 @@ Det 1 : Ambrosia rise , 100, 20, 113.5,  0,  0,  3,  4,  0;
 Det 2 : GX-8783 , 3855, 145, 520,  0,  0,  3,  4,  1;
 Det 3 : GX-8784 , 5735, 145, 747.5,  0,  0,  3,  4,  1;
 Det 4 : NSRL-11057 , 7020, 55, 900.5,  0,  0,  3,  4,  1;
-Det 5 : NSRL-11054 , 9500, 65, 1000,  0,  0,  3,  4,  1;
+Det 5 : NSRL-11054 , 9500, 65, 1000.5,  0,  0,  3,  4,  1;
 Det 6 : NA , 9500, 9500000, 1025,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 53,  -190,  1e+06,  -58,  6,  5,  5,  1.5,  0.075, 0, 1060, 587843;
+Bacon 0: FixT, 53,  -73,  1e+06,  -73,  -8,  5,  5,  1.5,  0.3, 0, 1060, 993495;

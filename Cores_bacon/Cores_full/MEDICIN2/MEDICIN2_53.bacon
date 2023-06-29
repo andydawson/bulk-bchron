@@ -1,14 +1,14 @@
-## Ran on Mon Mar 13 14:47:58 2023 
+## Ran on Wed Jun 28 14:59:19 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Radiocarbon_ reservoir correction , 3700, 200, 1650,  0,  0,  3,  4,  1;
-Det 1 : W2 , 10690, 90, 2412,  0,  0,  3,  4,  1;
+Det 1 : W2 , 10690, 90, 2412.5,  0,  0,  3,  4,  1;
 Det 2 : NA , 10690, 10690000, 2425,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 53,  -73,  1e+06,  3519,  3771,  5,  5,  1.5,  0.075, 1650, 2445, 967394;
+Bacon 0: FixT, 53,  -73,  1e+06,  3680,  3543,  5,  5,  1.5,  0.075, 1650, 2445, 920314;

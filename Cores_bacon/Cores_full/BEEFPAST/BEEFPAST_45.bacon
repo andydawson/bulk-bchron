@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 13:22:40 2023 
+## Ran on Wed Jun 28 14:09:56 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -22, 1, 0,  0,  0,  3,  4,  0;
@@ -20,4 +20,4 @@ Det 10 : WSU-1919 , 5010, 110, 370.5,  0,  0,  3,  4,  1;
 Det 11 : WSU-2122 , 4320, 110, 435,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 45,  -73,  1e+06,  -22,  -22,  5,  5,  1.5,  0.075, 0, 450, 460846;
+Bacon 0: FixT, 45,  -73,  1e+06,  -22,  -23,  5,  5,  1.5,  0.03, 0, 450, 570162;

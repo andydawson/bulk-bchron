@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 13:46:08 2023 
+## Ran on Wed Jun 28 14:21:39 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Ambrosia rise , 200, 25, 10,  0,  0,  3,  4,  0;
@@ -18,7 +18,7 @@ Det 8 : WIS-1483 , 7220, 80, 722.5,  0,  0,  3,  4,  1;
 Det 9 : WIS-1723 , 8320, 100, 854,  0,  0,  3,  4,  1;
 Det 10 : WIS-1484 , 8560, 90, 922.5,  0,  0,  3,  4,  1;
 Det 11 : IDW-2d Picea decline , 11044, 166, 1050,  0,  0,  3,  4,  0;
-Det 12 : WIS-1485 , 9640, 100, 1052,  0,  0,  3,  4,  1;
+Det 12 : WIS-1485 , 9640, 100, 1052.5,  0,  0,  3,  4,  1;
 Det 13 : WIS-1724 , 9840, 100, 1126,  0,  0,  3,  4,  1;
 Det 14 : IDW-2d Quercus rise , 11660, 215, 1130,  0,  0,  3,  4,  0;
 Det 15 : WIS-1405 , 12460, 110, 1181,  0,  0,  3,  4,  1;
@@ -26,4 +26,4 @@ Det 16 : WIS-1725 , 13490, 150, 1284,  0,  0,  3,  4,  1;
 Det 17 : NA , 13490, 13490000, 1490,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 76,  -73,  1e+06,  184,  230,  5,  5,  1.5,  0.075, 10, 1530, 441356;
+Bacon 0: FixT, 76,  -73,  1e+06,  207,  203,  5,  5,  1.5,  0.075, 10, 1530, 167720;

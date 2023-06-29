@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 14:12:13 2023 
+## Ran on Wed Jun 28 14:38:08 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , 0, 40, 0,  0,  0,  3,  4,  0;
@@ -13,4 +13,4 @@ Det 3 : Radiocarbon_ reservoir correction , 2300, 300, 20.5,  0,  0,  3,  4,  1;
 Det 4 : Sediment stratigraphic , 4185, 150, 32,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 8,  -330,  1e+06,  3,  -13,  5,  5,  1.5,  0.075, 0, 40, 464037;
+Bacon 0: FixT, 8,  -73,  1e+06,  -29,  -14,  5,  5,  1.5,  0.015, 0, 40, 373667;

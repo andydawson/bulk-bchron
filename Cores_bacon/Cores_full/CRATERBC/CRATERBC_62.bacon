@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 17:23:36 2023 
+## Ran on Wed Jun 28 16:22:00 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -45, 47, 0,  0,  0,  3,  4,  0;
@@ -18,4 +18,4 @@ Det 8 : Beta-90289 , 10290, 80, 282,  0,  0,  3,  4,  1;
 Det 9 : NA , 10290, 10290000, 300,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 62,  -280,  1e+06,  -50,  -53,  5,  5,  1.5,  0.075, 0, 310, 973348;
+Bacon 0: FixT, 62,  -73,  1e+06,  -8,  -41,  5,  5,  1.5,  0.03, 0, 310, 890555;

@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 13:28:18 2023 
+## Ran on Wed Jun 28 14:12:47 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -15, 5, 0,  0,  0,  3,  4,  0;
@@ -11,4 +11,4 @@ Det 1 : Pre-EuroAmerican settlement horizon , 95, 50, 60,  0,  0,  3,  4,  0;
 Det 2 : NA , 95, 1e+05, 110,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 7,  -155,  1e+06,  -22,  -12,  5,  5,  1.5,  0.075, 0, 140, 433546;
+Bacon 0: FixT, 7,  -73,  1e+06,  -18,  -16,  5,  5,  1.5,  0.496688741721854, 0, 140, 815123;

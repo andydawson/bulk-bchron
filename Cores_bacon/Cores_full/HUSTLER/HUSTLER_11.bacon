@@ -1,24 +1,24 @@
-## Ran on Mon Mar 13 14:17:04 2023 
+## Ran on Wed Jun 28 14:40:25 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
-Det 0 : unassigned , -33, 0.4124, 0.75,  0,  0,  3,  4,  0;
-Det 1 : unassigned , -32, 0.4243, 1.75,  0,  0,  3,  4,  0;
-Det 2 : unassigned , -30, 0.4492, 3.25,  0,  0,  3,  4,  0;
-Det 3 : unassigned , -23, 0.5481, 5.75,  0,  0,  3,  4,  0;
-Det 4 : unassigned , -14, 0.7081, 8.75,  0,  0,  3,  4,  0;
-Det 5 : unassigned , -4, 0.9411, 11.75,  0,  0,  3,  4,  0;
-Det 6 : unassigned , 9, 1.362, 14.75,  0,  0,  3,  4,  0;
-Det 7 : unassigned , 19, 1.811, 17.75,  0,  0,  3,  4,  0;
-Det 8 : unassigned , 29, 2.406, 20.75,  0,  0,  3,  4,  0;
-Det 9 : unassigned , 43, 3.584, 23.75,  0,  0,  3,  4,  0;
-Det 10 : unassigned , 61, 5.981, 26.75,  0,  0,  3,  4,  0;
+Det 0 : unassigned , -33, 0.4124211, 0.75,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -32, 0.4243227, 1.75,  0,  0,  3,  4,  0;
+Det 2 : unassigned , -30, 0.4491661, 3.25,  0,  0,  3,  4,  0;
+Det 3 : unassigned , -23, 0.5481439, 5.75,  0,  0,  3,  4,  0;
+Det 4 : unassigned , -14, 0.7080973, 8.75,  0,  0,  3,  4,  0;
+Det 5 : unassigned , -4, 0.9411236, 11.75,  0,  0,  3,  4,  0;
+Det 6 : unassigned , 9, 1.36228, 14.75,  0,  0,  3,  4,  0;
+Det 7 : unassigned , 19, 1.810591, 17.75,  0,  0,  3,  4,  0;
+Det 8 : unassigned , 29, 2.406434, 20.75,  0,  0,  3,  4,  0;
+Det 9 : unassigned , 43, 3.583845, 23.75,  0,  0,  3,  4,  0;
+Det 10 : unassigned , 61, 5.980616, 26.75,  0,  0,  3,  4,  0;
 Det 11 : Pre-EuroAmerican settlement horizon , 56, 50, 26.75,  0,  0,  3,  4,  0;
 Det 12 : NA , 61, 1e+05, 46.5,  0,  0,  3,  4,  0;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 11,  -194,  1e+06,  -33,  -33,  5,  5,  1.5,  0.075, 0.75, 55.75, 353801;
+Bacon 0: FixT, 11,  -73,  1e+06,  -33,  -33,  5,  5,  1.5,  0.496688741721854, 0.75, 55.75, 86270;

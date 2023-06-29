@@ -1,23 +1,23 @@
-## Ran on Mon Mar 13 16:47:36 2023 
+## Ran on Wed Jun 28 16:04:37 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -49, 2, 0,  0,  0,  3,  4,  0;
-Det 1 : unassigned , -42, 0.3586, 6,  0,  0,  3,  4,  0;
-Det 2 : unassigned , -35, 0.4694, 10,  0,  0,  3,  4,  0;
-Det 3 : unassigned , -24, 0.5794, 14,  0,  0,  3,  4,  0;
-Det 4 : unassigned , -9, 1.025, 18,  0,  0,  3,  4,  0;
-Det 5 : unassigned , 10, 2.092, 22,  0,  0,  3,  4,  0;
-Det 6 : unassigned , 20, 2.539, 26,  0,  0,  3,  4,  0;
-Det 7 : unassigned , 21, 3.405, 30,  0,  0,  3,  4,  0;
-Det 8 : unassigned , 42, 4.798, 34,  0,  0,  3,  4,  0;
-Det 9 : unassigned , 68, 5.276, 38,  0,  0,  3,  4,  0;
-Det 10 : unassigned , 86, 6.895, 42,  0,  0,  3,  4,  0;
-Det 11 : unassigned , 95, 8.908, 46,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -42, 0.3585643, 6,  0,  0,  3,  4,  0;
+Det 2 : unassigned , -35, 0.4694399, 10,  0,  0,  3,  4,  0;
+Det 3 : unassigned , -24, 0.5793522, 14,  0,  0,  3,  4,  0;
+Det 4 : unassigned , -9, 1.025467, 18,  0,  0,  3,  4,  0;
+Det 5 : unassigned , 10, 2.091623, 22,  0,  0,  3,  4,  0;
+Det 6 : unassigned , 20, 2.538553, 26,  0,  0,  3,  4,  0;
+Det 7 : unassigned , 21, 3.405459, 30,  0,  0,  3,  4,  0;
+Det 8 : unassigned , 42, 4.798167, 34,  0,  0,  3,  4,  0;
+Det 9 : unassigned , 68, 5.275585, 38,  0,  0,  3,  4,  0;
+Det 10 : unassigned , 86, 6.894773, 42,  0,  0,  3,  4,  0;
+Det 11 : unassigned , 95, 8.907619, 46,  0,  0,  3,  4,  0;
 Det 12 : Ambrosia rise , 300, 50, 82,  0,  0,  3,  4,  0;
 Det 13 : AA 37215 , 666, 60, 95,  0,  0,  3,  4,  1;
 Det 14 : AA 37215 , 666, 60, 95,  0,  0,  3,  4,  1;
@@ -37,4 +37,4 @@ Det 27 : AA 35300 , 2305, 45, 235,  0,  0,  3,  4,  1;
 Det 28 : NA , 2305, 2305000, 416,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 29,  -73,  1e+06,  -49,  -48,  5,  5,  1.5,  0.075, 0, 435, 438197;
+Bacon 0: FixT, 29,  -73,  1e+06,  -53,  -49,  5,  5,  1.5,  0.3, 0, 435, 814024;

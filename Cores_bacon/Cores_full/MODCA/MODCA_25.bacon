@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 18:01:12 2023 
+## Ran on Wed Jun 28 16:42:14 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -59, 61, 0,  0,  0,  3,  4,  0;
@@ -20,7 +20,7 @@ Det 10 : UCI-62791 , 2645, 35, 465,  0,  0,  3,  4,  1;
 
 ### Depths and priors for fixed hiatuses, in descending order 
 ##### cm  alpha beta      ha     hb
-Hiatus 0:  80,  1.5,  0.075,  0.1,  10;
+Hiatus 0:  80,  1.5,  0.15,  0.9,  10;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 25,  -652,  1e+06,  -118,  0,  5,  5,  1.5,  0.075, 0, 500, 284161;
+Bacon 0: FixT, 25,  -73,  1e+06,  -64,  -73,  5,  5,  1.5,  0.496688741721854, 0, 500, 206735;

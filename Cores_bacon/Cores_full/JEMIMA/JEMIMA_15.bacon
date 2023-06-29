@@ -1,23 +1,23 @@
-## Ran on Mon Mar 13 16:50:05 2023 
+## Ran on Wed Jun 28 16:05:50 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -49, 1, 0,  0,  0,  3,  4,  0;
-Det 1 : unassigned , -42.5, 0.6998, 4,  0,  0,  3,  4,  0;
-Det 2 : unassigned , -35.3, 0.7989, 8,  0,  0,  3,  4,  0;
-Det 3 : unassigned , -26.7, 0.965, 12,  0,  0,  3,  4,  0;
-Det 4 : unassigned , -13.6, 1.339, 16,  0,  0,  3,  4,  0;
-Det 5 : unassigned , 6.9, 2.392, 20,  0,  0,  3,  4,  0;
-Det 6 : unassigned , 30, 4.813, 24,  0,  0,  3,  4,  0;
-Det 7 : unassigned , 44.9, 7.649, 28,  0,  0,  3,  4,  0;
-Det 8 : unassigned , 53, 9.885, 32,  0,  0,  3,  4,  0;
-Det 9 : unassigned , 66.2, 15.18, 36,  0,  0,  3,  4,  0;
-Det 10 : unassigned , 78.7, 23.11, 40,  0,  0,  3,  4,  0;
-Det 11 : unassigned , 93.6, 39.25, 44,  0,  0,  3,  4,  0;
+Det 1 : unassigned , -42.5, 0.6997953, 4,  0,  0,  3,  4,  0;
+Det 2 : unassigned , -35.3, 0.7989084, 8,  0,  0,  3,  4,  0;
+Det 3 : unassigned , -26.7, 0.9650471, 12,  0,  0,  3,  4,  0;
+Det 4 : unassigned , -13.6, 1.338647, 16,  0,  0,  3,  4,  0;
+Det 5 : unassigned , 6.9, 2.391918, 20,  0,  0,  3,  4,  0;
+Det 6 : unassigned , 30, 4.813307, 24,  0,  0,  3,  4,  0;
+Det 7 : unassigned , 44.9, 7.648938, 28,  0,  0,  3,  4,  0;
+Det 8 : unassigned , 53, 9.885411, 32,  0,  0,  3,  4,  0;
+Det 9 : unassigned , 66.2, 15.1842, 36,  0,  0,  3,  4,  0;
+Det 10 : unassigned , 78.7, 23.11201, 40,  0,  0,  3,  4,  0;
+Det 11 : unassigned , 93.6, 39.24942, 44,  0,  0,  3,  4,  0;
 Det 12 : European settlement horizon , 250, 250, 68,  0,  0,  3,  4,  0;
 Det 13 : AA 41580 , 612, 37, 77,  0,  0,  3,  4,  1;
 Det 14 : unassigned , 926, 63, 91,  0,  0,  3,  4,  1;
@@ -28,7 +28,7 @@ Det 18 : NA , 1962, 1962000, 200,  0,  0,  3,  4,  1;
 
 ### Depths and priors for fixed hiatuses, in descending order 
 ##### cm  alpha beta      ha     hb
-Hiatus 0:  68,  1.5,  0.075,  0.1,  10;
+Hiatus 0:  68,  1.5,  0.075,  0.9,  10;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 15,  -1000,  1e+06,  -49,  -48,  5,  5,  1.5,  0.075, 0, 225, 908291;
+Bacon 0: FixT, 15,  -73,  1e+06,  -49,  -50,  5,  5,  1.5,  0.496688741721854, 0, 225, 543646;

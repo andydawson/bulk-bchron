@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 14:31:17 2023 
+## Ran on Wed Jun 28 14:47:52 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Biostratigraphic_ pollen , 80, 50, 0,  0,  0,  3,  4,  0;
@@ -12,4 +12,4 @@ Det 2 : Radiocarbon_ reservoir correction , 715, 80, 51,  0,  0,  3,  4,  1;
 Det 3 : Radiocarbon_ reservoir correction , 3350, 200, 173,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 13,  -170,  1e+06,  100,  101,  5,  5,  1.5,  0.075, 0, 195, 590113;
+Bacon 0: FixT, 13,  -73,  1e+06,  119,  128,  5,  5,  1.5,  0.03, 0, 195, 863360;

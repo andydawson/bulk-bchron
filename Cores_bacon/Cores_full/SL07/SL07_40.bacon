@@ -1,9 +1,9 @@
-## Ran on Mon Mar 13 19:02:16 2023 
+## Ran on Wed Jun 28 17:16:55 2023 
 
 Cal 0 : ConstCal;
-Cal 1 : IntCal20, 1;
-Cal 2 : Marine20;
-Cal 3 : SHCal20, 1;
+Cal 1 :  IntCal20 ,  1 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  1 ;
 
 ##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
 Det 0 : Core top , -57, 1, 0,  0,  0,  3,  4,  0;
@@ -37,14 +37,15 @@ Det 27 : unassigned , 112.6, 23.8, 15,  0,  0,  3,  4,  0;
 Det 28 : unassigned , 635, 35, 56.75,  0,  0,  3,  4,  1;
 Det 29 : unassigned , 1295, 45, 74.25,  0,  0,  3,  4,  1;
 Det 30 : unassigned , 1980, 60, 102,  0,  0,  3,  4,  1;
-Det 31 : unassigned , 2820, 30, 137.8,  0,  0,  3,  4,  1;
+Det 31 : unassigned , 2820, 30, 137.75,  0,  0,  3,  4,  1;
 Det 32 : unassigned , 3365, 30, 168,  0,  0,  3,  4,  1;
-Det 33 : unassigned , 4565, 35, 215.2,  0,  0,  3,  4,  1;
-Det 34 : unassigned , 5895, 35, 243.2,  0,  0,  3,  4,  1;
+Det 33 : unassigned , 4565, 35, 215.25,  0,  0,  3,  4,  1;
+Det 34 : unassigned , 5895, 35, 243.25,  0,  0,  3,  4,  1;
 Det 35 : unassigned , 6655, 30, 257,  0,  0,  3,  4,  1;
 Det 36 : unassigned , 8120, 60, 282,  0,  0,  3,  4,  1;
 Det 37 : unassigned , 8925, 35, 340.5,  0,  0,  3,  4,  1;
-Det 38 : unassigned , 9345, 50, 383.8,  0,  0,  3,  4,  1;
+Det 38 : unassigned , 9345, 50, 383.75,  0,  0,  3,  4,  1;
+Det 39 : NA , 9345, 9345000, 383.8,  0,  0,  3,  4,  1;
 
 ##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
-Bacon 0: FixT, 40,  -73,  1e+06,  -58,  -57,  5,  5,  1.5,  0.075, 0, 400, 333008;
+Bacon 0: FixT, 40,  -73,  1e+06,  -58,  -56,  5,  5,  1.5,  0.15, 0, 400, 423586;
