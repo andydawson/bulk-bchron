@@ -52,12 +52,25 @@ diffs = data.frame(dsid = numeric(0),
                    age_mean_b  = numeric(0),
                    age_sd_b  = numeric(0),
                    age_mean_w  = numeric(0),
-                   age_sd_b  = numeric(0),
+                   age_sd_w  = numeric(0),
                    age_mean_n  = numeric(0),
-                   age_sd_b  = numeric(0))
+                   age_sd_n = numeric(0))
+
+geo_diffs = data.frame(dsid = numeric(0),
+                   depths = numeric(0),
+                   geo_age_mean_b  = numeric(0),
+                   geo_age_sd_b  = numeric(0),
+                   geo_age_mean_w  = numeric(0),
+                   geo_age_sd_w = numeric(0),
+                   geo_age_mean_n  = numeric(0),
+                   geo_age_sd_n  = numeric(0))
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
+<<<<<<< HEAD
 for (i  in 1:N_datasetids){#N_datasetids){
+=======
+for (i  in 100:N_datasetids){#N_datasetids){#N_datasetids){
+>>>>>>> 9888082a5d87ce14ed718db865cefcefd637dfb5
   
   print(i)
   
@@ -111,7 +124,7 @@ for (i  in 1:N_datasetids){#N_datasetids){
   # # #  we want the weighted means from "calibrated"
   # wmean.date <- function(x) sum(x$ageGrid*x$densities / sum(x$densities))
   # control_young = wmean.date(cal)
-  
+   
   geochron_bacon_samples = sampleAges(geochron_bacon_cal)
   geochron_bacon_quants = t(apply(geochron_bacon_samples, 2, quantile, prob=c(0.025, 0.5, 0.975)))
   colnames(geochron_bacon_quants) = c('ylo', 'ymid', 'yhi')
@@ -418,20 +431,33 @@ ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_
 
 legend_1 = c("Bchron" = "blue", "Bacon" = "black")
 
-ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
+ggplot(data=subset(diffs, dsid==1136)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
   geom_line(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_line(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
-  labs(title = "Age Mean vs. SD: 15356", x = "age mean", y = "age sd", color = "Legend") +
+  labs(title = "Age Mean vs. SD: 1136", x = "age mean", y = "age sd", color = "Legend") +
   scale_colour_manual(values = legend_1)
 
 
-ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b, colour= factor(dsid))) +
+ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
   geom_abline(slope = 1, intercept = 0) +
   coord_equal() +
-  xlim(c(0,800)) + ylim(c(0,800))
+  xlim(c(0,800)) + ylim(c(0,800)) 
 
 
+ggplot(data=subset(diffs, dsid ==14680)) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
+  geom_abline(slope = 1, intercept = 0) +
+  coord_equal() +
+  xlim(c(0,800)) + ylim(c(0,800)) 
 
 
+goo = diffs$age_sd_b - diffs$age_sd_w
+bacon_bigger = which(goo<0)
+length(bacon_bigger)
+#I suspect this number is so large because of the errors with the memory strength 
+
+bchron_bigger = which (goo>0)
+length(bchron_bigger)
+
+same = which(goo == 0)
 
 
 dsid = datasetids[i]
