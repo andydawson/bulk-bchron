@@ -68,7 +68,9 @@ geo_diffs = data.frame(dsid = numeric(0),
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
 
-for (i  in 1:3){#N_datasetids){#N_datasetids){
+
+
+for (i  in 575:N_datasetids){#N_datasetids){#N_datasetids){
   print(i)
   
   dsid = datasetids[i]
