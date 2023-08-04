@@ -364,8 +364,10 @@ for (i  in 575:N_datasetids){#N_datasetids){#N_datasetids){
 diffs = diffs[order(diffs$dsid),]
 
 compare_sites_ids = diffs[!duplicated(diffs$dsid),]
+compare_sites_ids$visual_check = 1
 
-write.csv(compare_sites_ids[, c('dsid', 'name')], 'compare_sites_ids.csv', row.names = FALSE)
+
+write.csv(compare_sites_ids[, c('dsid', 'name','visual_check')], 'compare_sites_ids.csv', row.names = FALSE)
 
 
 fnames = list.files('figures', 'age_depth_compare_.*.pdf', recursive=TRUE)
@@ -492,6 +494,8 @@ n_depths = nrow(bchron_posts)
 olap = data.frame(datasetid = numeric(0),
                   depths = numeric(0),
                   overlap = numeric(0))
+
+
 
 pdf('figures/olap_figs.pdf', width=10, height=6)
 for (i in 1:n_depths){
