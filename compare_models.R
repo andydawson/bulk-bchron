@@ -363,11 +363,13 @@ for (i  in 575:N_datasetids){#N_datasetids){#N_datasetids){
 
 diffs = diffs[order(diffs$dsid),]
 
-compare_sites_ids = diffs[!duplicated(diffs$dsid),]
-compare_sites_ids$visual_check = 1
+
+##For creating subset of usable data. Don't overwrite data!!##
+#compare_sites_ids = diffs[!duplicated(diffs$dsid),]
+#compare_sites_ids$visual_check = 1
 
 
-write.csv(compare_sites_ids[, c('dsid', 'name','visual_check')], 'compare_sites_ids.csv', row.names = FALSE)
+#write.csv(compare_sites_ids[, c('dsid', 'name','visual_check')], 'compare_sites_ids.csv', row.names = FALSE)
 
 
 fnames = list.files('figures', 'age_depth_compare_.*.pdf', recursive=TRUE)
