@@ -383,7 +383,7 @@ system(sys_str)
 
 # 
 
-model_check = read.csv('compare_sites_ids_edited.csv', stringsAsFactors = FALSE)
+model_check = read.csv('compare_sites_ids.csv', stringsAsFactors = FALSE)
 dsid_pass = model_check[which(model_check$pass ==1), 'dsid']
 
 diffs = diffs[which(diffs$dsid %in% dsid),]
