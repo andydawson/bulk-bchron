@@ -70,7 +70,7 @@ geo_diffs = data.frame(dsid = numeric(0),
 
 
 
-for (i  in 575:N_datasetids){#N_datasetids){#N_datasetids){
+for (i  in 1:10){#N_datasetids){#N_datasetids){
   print(i)
   
   dsid = datasetids[i]
@@ -363,7 +363,7 @@ for (i  in 575:N_datasetids){#N_datasetids){#N_datasetids){
 
 diffs = diffs[order(diffs$dsid),]
 
-
+foo = diffs
 ##For creating subset of usable data. Don't overwrite data!!##
 #compare_sites_ids = diffs[!duplicated(diffs$dsid),]
 #compare_sites_ids$visual_check = 1
@@ -377,16 +377,16 @@ fnames = list.files('figures', 'age_depth_compare_.*.pdf', recursive=TRUE)
 fname_str = sapply(fnames, function(x) paste0('figures/', x))
 fname_str = paste(fname_str, collapse = ' ')
 
-sys_str = paste0("gs -sDEVICE=pdfwrite -o age_depth_compare_v", vers, ".pdf ", fname_str)
+#sys_str = paste0("gs -sDEVICE=pdfwrite -o age_depth_compare_v", vers, ".pdf ", fname_str)
 
-system(sys_str)
+#system(sys_str)
 
 # 
 
-model_check = read.csv('compare_sites_ids.csv', stringsAsFactors = FALSE)
-dsid_pass = model_check[which(model_check$pass ==1), 'dsid']
+model_check = read.csv('compare_sites_ids.csv', stringsAsFactors = FALSE, header = TRUE)
+dsid_pass = model_check[which(model_check$visual_check ==1), 'dsid']
 
-diffs = diffs[which(diffs$dsid %in% dsid),]
+diffs = diffs[which(diffs$dsid %in% dsid_pass),]
 
 
 
