@@ -70,7 +70,7 @@ geo_diffs = data.frame(dsid = numeric(0),
 
 
 
-for (i  in 1:10){#N_datasetids){#N_datasetids){
+for (i  in 1168:N_datasetids){#N_datasetids){#N_datasetids){
   print(i)
   
   dsid = datasetids[i]
@@ -390,8 +390,8 @@ diffs = diffs[which(diffs$dsid %in% dsid_pass),]
 
 
 
-diffs$diff_bb = abs(diffs$age_b - diffs$age_w)
-diffs$diff_bn = abs(diffs$age_b - diffs$age_n)
+diffs$diff_bb = abs(diffs$age_mean_b - diffs$age_mean_w)
+diffs$diff_bn = abs(diffs$age_mean_w - diffs$age_mean_n)
 
 med_diff = diffs[which(diffs$diff_bb >= 7000 & diffs$diff_bb <= 25000),]
 
@@ -406,11 +406,13 @@ low_diff = diffs[which(diffs$diff_bb >= 0 & diffs$diff_bb <=1),]
 #use these sites
 #use_diff = diffs[which(diffs$diff_bb <= 10000 & diffs$diff_bb >= 0),]
 
-ggplot(data = use_diff) +
-  geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
+use_diff = diffs
 
-ggplot(data = sml_diff) +
-  geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
+ggplot(data = use_diff) +
+  geom_histogram(aes(x=diff_bb, y=after_stat(density)), bins=100)
+
+#ggplot(data = sml_diff) +
+  #geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
 
 site_diffs = diffs %>% group_by(dsid) %>% summarize(site_diff_bb = mean(diff_bb),  site_diff_bn = mean(diff_bn))
 
@@ -442,13 +444,12 @@ ggplot(data=diffs) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour= factor(dsi
 
 ggplot(data=diffs) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour= factor(dsid)))
 
-
-
-ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
-  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='blue') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='black')
-
-
 legend_1 = c("Bchron" = "blue", "Bacon" = "black")
+
+ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
+  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='Bacon') +
+  
+
 
 ggplot(data=subset(diffs, dsid==1136)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
   geom_line(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_line(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
@@ -475,8 +476,6 @@ length(bacon_bigger)
 
 bchron_bigger = which (goo>0)
 length(bchron_bigger)
-
-same = which(goo == 0)
 
 
 dsid = datasetids[i]
