@@ -435,6 +435,10 @@ plot_idx = data.frame(radio$datasetid)
 
 
 #Compare age means and SDs
+diffs = subset(diffs, dsid != 14104)
+
+diffs[which((!is.na(diffs$age_sd_w))&(diffs$age_sd_w<30)),]
+
 
 bacon_comp = plot (diffs$age_mean_w, diffs$age_sd_w)
 
@@ -446,22 +450,30 @@ ggplot(data=diffs) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour= factor(dsi
 
 legend_1 = c("Bchron" = "blue", "Bacon" = "black")
 
+
+
 ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
-  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='Bacon') +
+  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='Bacon')
   
 
 
-ggplot(data=subset(diffs, dsid==1136)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
+ggplot(data=subset(diffs, dsid==983)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
   geom_line(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_line(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
-  labs(title = "Age Mean vs. SD: 1136", x = "age mean", y = "age sd", color = "Legend") +
+  labs(title = "Age Mean vs. SD: 983", x = "age mean", y = "age sd", color = "Legend") +
   scale_colour_manual(values = legend_1)
 
 
 ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
   geom_abline(slope = 1, intercept = 0) +
   coord_equal() +
-  xlim(c(0,800)) + ylim(c(0,800)) 
+  #xlim(c(0,800)) + ylim(c(0,800)) +
+  geom_abline(slope = 0.8096, intercept = 69.127, colour = 'red')
 
+#diffs[diffs$age_sd_w>2000,'age_sd_w']
+
+diffs[which((!is.na(diffs$age_sd_w))&(diffs$age_sd_w>2000)),]
+
+fit = lm(age_sd_b ~ age_sd_w, data=diffs)
 
 ggplot(data=subset(diffs, dsid ==14680)) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
   geom_abline(slope = 1, intercept = 0) +
