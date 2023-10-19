@@ -138,14 +138,24 @@ for (i  in 1168:N_datasetids){#N_datasetids){#N_datasetids){
   # wang_posts = data.frame(depths = wang_depths, wang_posts)
   wang_posts = data.frame(depths = wang_depths, wang_posts)#[,1:100])
   
+  wang_geo_posts = read.csv(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_geo_samples.csv'))
+  # wang_geo_posts = wang_geo_posts[,-1]
+  
   wang_posts_long = melt(wang_posts, id.vars = "depths")
   colnames(wang_posts_long) = c('depths', 'iter', 'age')
+  
+  wang_geo_posts_long = melt(wang_geo_posts, id.vars = c("depths"))
+  colnames(wang_geo_posts_long) = c('depths', 'iter', 'age')
 
   quantile(wang_posts$V1, c(0.025, 0.5, 0.975), na.rm = TRUE)
   
   wang_quants_row = apply(wang_posts[,2:ncol(wang_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
   wang_quants = data.frame(depths = wang_posts[,1], t(wang_quants_row))
   colnames(wang_quants) = c('depths', 'ylo', 'ymid', 'yhi')
+  
+  wang_geo_quants_row = apply(wang_geo_posts[,2:ncol(wang_geo_posts)], 1, function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
+  wang_geo_quants = data.frame(depths = wang_geo_posts[,1], t(wang_geo_quants_row))
+  colnames(wang_geo_quants) = c('depths', 'ylo', 'ymid', 'yhi')
   
   adjustcolor( "red", alpha.f = 0.2)
   
@@ -350,6 +360,12 @@ for (i  in 1168:N_datasetids){#N_datasetids){#N_datasetids){
                            age_mean_b = rowMeans(bchron_posts[,2:ncol(bchron_posts)]),
                            age_sd_b = apply(bchron_posts[,2:ncol(bchron_posts)], 1, sd, na.rm=TRUE))
   
+
+  neo_mean = data.frame(depths=neo_mean[,'depths'], 
+                            age_mean_n = neo_mean$age_mean_n,
+                            age_sd_n = neo_mean$age_sd_n)
+  
+  
   age_means = merge(bchron_mean, wang_mean, by = 'depths')
   age_means = merge(age_means, neo_mean, by = 'depths', all = TRUE)
 
@@ -358,9 +374,32 @@ for (i  in 1168:N_datasetids){#N_datasetids){#N_datasetids){
                           name = rep(wang_fc$handle[idx_dsid], nrow(age_means)),
                            age_means))
   
+  wang_mean_geo = data.frame(depths=wang_geo_posts[,'depths'], 
+                         geo_age_mean_w = rowMeans(wang_geo_posts[,2:ncol(wang_geo_posts)]),
+                         geo_age_sd_w = apply(wang_geo_posts[,2:ncol(wang_geo_posts)], 1, sd, na.rm=TRUE))
+  
+  bchron_mean_geo = data.frame(depths=bchron_geo_posts[,'depths'], 
+                           geo_age_mean_b = rowMeans(bchron_geo_posts[,2:ncol(bchron_geo_posts)]),
+                           geo_age_sd_b = apply(bchron_geo_posts[,2:ncol(bchron_geo_posts)], 1, sd, na.rm=TRUE))
+  
+  
+  neo_mean_geo = data.frame(depths=geochron[,'depth'], 
+                          age_mean_n = colMeans(geochron_samples),
+                          age_sd_n = apply(geochron_samples, 2, sd, na.rm=TRUE))
+  
+  geo_age_means = merge(bchron_mean_geo, wang_mean_geo, by = 'depths')
+  geo_age_means = merge(geo_age_means, neo_mean_geo, by = 'depths', all = TRUE)
+  
+  geo_diffs = rbind(geo_diffs,
+                data.frame(dsid = rep(dsid, nrow(geo_age_means)),
+                           name = rep(wang_fc$handle[idx_dsid], nrow(geo_age_means)),
+                           geo_age_means))
+  
  }
 # dev.off()
 
+saveRDS(diffs, 'diffs.RDS')
+saveRDS(geo_diffs, 'geo_diffs.RDS')
 diffs = diffs[order(diffs$dsid),]
 
 foo = diffs
@@ -377,9 +416,9 @@ fnames = list.files('figures', 'age_depth_compare_.*.pdf', recursive=TRUE)
 fname_str = sapply(fnames, function(x) paste0('figures/', x))
 fname_str = paste(fname_str, collapse = ' ')
 
-#sys_str = paste0("gs -sDEVICE=pdfwrite -o age_depth_compare_v", vers, ".pdf ", fname_str)
+sys_str = paste0("gs -sDEVICE=pdfwrite -o age_depth_compare_v", vers, ".pdf ", fname_str)
 
-#system(sys_str)
+system(sys_str)
 
 # 
 
