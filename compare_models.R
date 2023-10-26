@@ -69,8 +69,8 @@ geo_diffs = data.frame(dsid = numeric(0),
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
 
 
+for (i  in 1:N_datasetids){#N_datasetids){#N_datasetids){
 
-for (i  in 1168:N_datasetids){#N_datasetids){#N_datasetids){
   print(i)
   
   dsid = datasetids[i]
@@ -137,6 +137,8 @@ for (i  in 1168:N_datasetids){#N_datasetids){#N_datasetids){
   
   # wang_posts = data.frame(depths = wang_depths, wang_posts)
   wang_posts = data.frame(depths = wang_depths, wang_posts)#[,1:100])
+  
+  print(wang_fc$handle[idx_dsid])
   
   wang_geo_posts = read.csv(paste0('Cores_bacon/Cores_full/', wang_fc$handle[idx_dsid], '/', wang_fc$handle[idx_dsid], '_geo_samples.csv'))
   # wang_geo_posts = wang_geo_posts[,-1]
