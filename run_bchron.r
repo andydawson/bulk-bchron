@@ -87,6 +87,8 @@ do_core_bchron <- function(core.id, chron_control_types, mod_radio, mod_lead, ex
     stop('diff(range(depths)) is zero')
   }
   
+  geochron = geochron[order(geochron$depth),]
+  
   calCurves = rep(NA, nrow(geochron))
   calCurves[which(geochron$cc == 0)] = "normal"
   calCurves[which(geochron$cc == 1)] = "intcal20"
@@ -96,13 +98,13 @@ do_core_bchron <- function(core.id, chron_control_types, mod_radio, mod_lead, ex
   }
   
   #geochron$error[which(geochron$error == 0)] = 1
-  geochron = geochron[order(geochron$depth),]
+
   
-  out = Bchronology(ages    = geochron$age,
+  out = Bchronology(ages   = geochron$age,
                     ageSds = geochron$error, 
                     calCurves = calCurves,
                     positions = geochron$depth, 
-                    positionThicknesses = rep(4,nrow(geochron)),
+                    positionThicknesses = rep(0,nrow(geochron)),#rep(4,nrow(geochron)),
                     ids = geochron$chroncontrolid, 
                     predictPositions = depths,
                     allowOutside = TRUE)
@@ -124,6 +126,18 @@ do_core_bchron <- function(core.id, chron_control_types, mod_radio, mod_lead, ex
   post_geo = data.frame(labid=geochron$chroncontrolid, depths=geochron$depth, t(predict_geo))
   write.table(post_geo, paste0('.', '/Cores/', core.id, '/', 
                                core.id, '_bchron_geo_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
+  
+  depths_all = sort(c(depths, geochron$depth))
+  depth_min  = min(depths_all)
+  depth_max = max(depths_all)
+  depths_span = seq(depth_min, depth_max, length=50)
+  predict_span = predict(out, 
+                        newPositions = depths_span)
+  
+  post_span = data.frame(depths=depths_span, t(predict_span))
+  write.table(post_span, paste0('.', '/Cores/', core.id, '/', 
+                               core.id, '_bchron_span_samples.csv'), sep=',', col.names = TRUE, row.names = FALSE)
+  
   
   post_geo_means = rowMeans(t(predict_geo))
   post_geo_old = max(post_geo_means) + extrap
@@ -170,16 +184,19 @@ ncores = length(core.ids)
 bchron.report = data.frame(datasetid = numeric(0), sitename=character(0), success = numeric(0), reason=character(0))
 
 # do in chunks cause busted
-for (i in 1023:ncores) {
+for (i in 1388:ncores) {
   
   # check these
   # if (i==1429){next}
-  if (i==801){next} 
-  if (i==813){next}   
-  if (i==823){next} 
-  if (i==852){next}
-  if (i==853){next} 
-  if (i==1022){next} 
+  # if (i==801){next} 
+  # # if (i==813){next}   
+  # if (i==823){next} 
+  # if (i==852){next}
+  # if (i==853){next} 
+  # if (i==1022){next} 
+  # if (i==1321){next}
+  # if (i==1378){next}
+  # if (i==1431){next}
   
   core.id = core.ids[i]
   
