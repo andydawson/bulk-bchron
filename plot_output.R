@@ -77,14 +77,14 @@ diffs = diffs[which(diffs$dsid %in% dsid_pass),]
 diffs$diff_bb = abs(diffs$age_mean_b - diffs$age_mean_w)
 diffs$diff_bn = abs(diffs$age_mean_w - diffs$age_mean_n)
 
-med_diff = diffs[which(diffs$diff_bb >= 7000 & diffs$diff_bb <= 25000),]
-
-which(diffs$diff_bb >= 25000)
-lrg_diff = diffs[which(diffs$diff_bb >= 25000),]
-
-sml_diff = diffs[which(diffs$diff_bb <=7000),]
-
-low_diff = diffs[which(diffs$diff_bb >= 0 & diffs$diff_bb <=1),]
+# med_diff = diffs[which(diffs$diff_bb >= 7000 & diffs$diff_bb <= 25000),]
+# 
+# which(diffs$diff_bb >= 5000)
+# lrg_diff = diffs[which(diffs$diff_bb >= 25000),]
+# 
+# sml_diff = diffs[which(diffs$diff_bb <=7000),]
+# 
+# low_diff = diffs[which(diffs$diff_bb >= 0 & diffs$diff_bb <=1),]
 
 
 #use these sites
@@ -124,9 +124,9 @@ diffs = subset(diffs, dsid != 14104)
 diffs[which((!is.na(diffs$age_sd_w))&(diffs$age_sd_w<30)),]
 
 
-bacon_comp = plot (diffs$age_mean_w, diffs$age_sd_w)
+bacon_comp = plot(diffs$age_mean_w, diffs$age_sd_w)
 
-bchron_comp = plot (diffs$age_mean_b, diffs$age_sd_b)
+bchron_comp = plot(diffs$age_mean_b, diffs$age_sd_b)
 
 ggplot(data=diffs) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour= factor(dsid)))
 
@@ -136,9 +136,9 @@ legend_1 = c("Bchron" = "blue", "Bacon" = "black")
 
 
 
-ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
-  geom_line(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='Bacon')
-
+# ggplot(data=subset(diffs, dsid==15356)) + geom_point(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_point(aes(x=age_mean_w, y=age_sd_w), colour='black')+
+#   geom_line(aes(x=age_mean_b, y=age_sd_b), colour='Bchron') + geom_line(aes(x=age_mean_w, y=age_sd_w), colour='Bacon')
+# 
 
 
 ggplot(data=subset(diffs, dsid==983)) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour="Bchron")) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour="Bacon")) +
@@ -146,12 +146,16 @@ ggplot(data=subset(diffs, dsid==983)) + geom_point(aes(x=age_mean_b, y=age_sd_b,
   labs(title = "Age Mean vs. SD: 983", x = "age mean", y = "age sd", color = "Legend") +
   scale_colour_manual(values = legend_1)
 
+fit_sd = lm(age_sd_b ~ age_sd_w, data=diffs)
+summary(fit_sd)
+fit_intercept = coef(fit_sd)[1]
+fit_slope = coef(fit_sd)[2]
 
 ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
   geom_abline(slope = 1, intercept = 0) +
   coord_equal() +
   #xlim(c(0,800)) + ylim(c(0,800)) +
-  geom_abline(slope = 0.8096, intercept = 69.127, colour = 'red')
+  geom_abline(slope = fit_slope, intercept = fit_intercept, colour = 'red')
 
 #diffs[diffs$age_sd_w>2000,'age_sd_w']
 
