@@ -74,7 +74,7 @@ diffs = data.frame(dsid = numeric(0),
                    olap_bacon  = numeric(0))
 
 
-for (i in 1:N_datasetids){
+for (i in 1:20){#N_datasetids){
   
   print(i)
   
@@ -166,7 +166,9 @@ for (i in 1:N_datasetids){
     if (!is.na(match(geo_depth, bchron_quants$depths))){
       bchron_lo = bchron_quants[match(geo_depth, bchron_quants$depths), 2]
       bchron_hi = bchron_quants[match(geo_depth, bchron_quants$depths), 4]
-      olap_bchron = perc_overlap(bchron_lo, bchron_hi, geo_lo, geo_hi)
+      # olap_bchron = perc_overlap(bchron_lo, bchron_hi, geo_lo, geo_hi)
+      olap_bchron = perc_overlap(geo_lo, geo_hi, bchron_lo, bchron_hi)
+      
     } else {
       olap_bchron = NA
     }
@@ -174,7 +176,8 @@ for (i in 1:N_datasetids){
     if (!is.na(match(geo_depth, bacon_quants$depths))){
       bacon_lo = bacon_quants[match(geo_depth, bacon_quants$depths), 2]
       bacon_hi = bacon_quants[match(geo_depth, bacon_quants$depths), 4]
-      olap_bacon  = perc_overlap(bacon_lo, bacon_hi, geo_lo, geo_hi)
+      # olap_bacon  = perc_overlap(bacon_lo, bacon_hi, geo_lo, geo_hi)
+      olap_bacon  = perc_overlap(geo_lo, geo_hi, bacon_lo, bacon_hi)
     } else {
       olap_bacon = NA
     }
