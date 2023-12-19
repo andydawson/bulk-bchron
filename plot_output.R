@@ -74,11 +74,12 @@ diffs = diffs[which(diffs$dsid %in% dsid_pass),]
 geo_diffs = geo_diffs[which(geo_diffs$dsid %in% dsid_pass),]
 
 
-diffs$diff_bb = abs(diffs$age_mean_b - diffs$age_mean_w)
-diffs$diff_bn = abs(diffs$age_mean_w - diffs$age_mean_n)
+diffs$diff_bb = (diffs$age_mean_b - diffs$age_mean_w)
+diffs$diff_bn = (diffs$age_mean_w - diffs$age_mean_n)
 
-geo_diffs$geo_diff_bb = abs(geo_diffs$geo_age_mean_b - geo_diffs$geo_age_mean_w)
-geo_diffs$geo_diff_bn = abs(geo_diffs$geo_age_mean_w - geo_diffs$geo_age_mean_n)
+geo_diffs$geo_diff_bb = (geo_diffs$geo_age_mean_b - geo_diffs$geo_age_mean_w)
+
+#geo_diffs$geo_diff_bn = (geo_diffs$geo_age_mean_w - geo_diffs$geo_age_mean_n)
 
 
 # med_diff = diffs[which(diffs$diff_bb >= 7000 & diffs$diff_bb <= 25000),]
@@ -196,6 +197,14 @@ ggplot(data=subset(geo_diffs, dsid==1000)) + geom_point(aes(x=geo_age_mean_b, y=
 ggplot(data = geo_diffs) +
   geom_histogram(aes(x=geo_diff_bb, y=after_stat(density)), bins=100)
 
+ggplot(data = geo_diffs) +
+  geom_point (aes(x=geo_age_mean_b, y=geo_diff_bb)) +
+  labs(title = "Age Estimate Differences Between Models at Chronological Control", x = "Age Mean", y = "Difference")
+
+ggplot(data = diffs) +
+  geom_point (aes(x=age_mean_b, y=diff_bb)) +
+  labs(title = "Age Estimate Differences Between Models", x = "Age Mean", y = "Difference")
+
 geo_fit_sd = lm(geo_age_sd_b ~ geo_age_sd_w, data=geo_diffs)
 summary(geo_fit_sd)
 geo_fit_intercept = coef(geo_fit_sd)[1]
@@ -207,7 +216,7 @@ ggplot(data=geo_diffs) + geom_point(aes(x=geo_age_sd_w, y=geo_age_sd_b)) +
   #xlim(c(0,800)) + ylim(c(0,800)) +
   geom_abline(slope = geo_fit_slope, intercept = geo_fit_intercept, colour = 'red')
 
-geo_bw_diff = geo_diffs$age_sd_b - geo_diffs$age_sd_w
+geo_bw_diff = geo_diffs$geo_age_sd_b - geo_diffs$geo_age_sd_w
 
 geo_bchron_bigger = which (geo_bw_diff>0)
 length(geo_bchron_bigger)
