@@ -103,15 +103,19 @@ ggplot(data = use_diff) +
 #ggplot(data = sml_diff) +
 #geom_histogram(aes(x=diff_bb, y=..density..), bins=100)
 
-site_diffs = diffs %>% group_by(dsid) %>% summarize(site_diff_bb = mean(diff_bb),  site_diff_bn = mean(diff_bn))
+site_diffs = diffs %>% 
+  group_by(dsid) %>% 
+  summarize(site_diff_bb = mean(diff_bb),  
+            site_diff_bn = mean(diff_bn))
 
-
+ggplot(data = site_diffs) +
+  geom_histogram(aes(x=site_diff_bb, y=after_stat(density)), bins=100)
 
 summary(diffs$diff_bb)
 
+summary(site_diffs$site_diff_bb)
 
-
-plot_idx = data.frame(radio$datasetid)
+# plot_idx = data.frame(radio$datasetid)
 
 
 # ggplot(data = diffs) +
@@ -133,9 +137,15 @@ bacon_comp = plot(diffs$age_mean_w, diffs$age_sd_w)
 
 bchron_comp = plot(diffs$age_mean_b, diffs$age_sd_b)
 
-ggplot(data=diffs) + geom_point(aes(x=age_mean_b, y=age_sd_b, colour= factor(dsid)))
-
-ggplot(data=diffs) + geom_point(aes(x=age_mean_w, y=age_sd_w, colour= factor(dsid)))
+# ggplot(data=diffs) + 
+#   geom_point(aes(x=age_mean_b, 
+#                  y=age_sd_b, 
+#                  colour= factor(dsid)))
+# 
+# ggplot(data=diffs) + 
+#   geom_point(aes(x=age_mean_w, 
+#                  y=age_sd_w, 
+#                  colour= factor(dsid)))
 
 legend_1 = c("Bchron" = "blue", "Bacon" = "black")
 
@@ -151,27 +161,79 @@ ggplot(data=subset(diffs, dsid==983)) + geom_point(aes(x=age_mean_b, y=age_sd_b,
   labs(title = "Age Mean vs. SD: 983", x = "age mean", y = "age sd", color = "Legend") +
   scale_colour_manual(values = legend_1)
 
+diffs_melt = melt(diffs, 
+           id.vars=c('dsid', 'name', 'depths'), 
+           measure.vars=c('age_sd_b', 'age_sd_w'))
+
+ggplot(data=diffs_melt) +
+  geom_histogram(aes(x=value, y=after_stat(density), 
+                     colour=variable, fill=variable), bins=100)
+
+ggplot(data=diffs_melt) +
+  geom_histogram(aes(x=value, y=after_stat(density)), bins=100) +
+  facet_grid(variable~.)
+
 fit_sd = lm(age_sd_b ~ age_sd_w, data=diffs)
 summary(fit_sd)
 fit_intercept = coef(fit_sd)[1]
 fit_slope = coef(fit_sd)[2]
 
-ggplot(data=diffs) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
-  geom_abline(slope = 1, intercept = 0) +
+ggplot(data=diffs) + 
+  geom_point(aes(x=age_sd_w, y=age_sd_b)) +
+  geom_abline(slope = 1, intercept = 0, colour="blue") +
   coord_equal() +
   #xlim(c(0,800)) + ylim(c(0,800)) +
   geom_abline(slope = fit_slope, intercept = fit_intercept, colour = 'red')
 
+diffs$diff_sd_bb = diffs$age_sd_b - diffs$age_sd_w
+
+hist(diffs$diff_sd_bb)
+summary(diffs$diff_sd_bb)
+
+
+diffs_sd_small_w = diffs[which(diffs$age_sd_w<250), ]
+hist(diffs_sd_small_w$age_mean_w)
+
+diffs_sd_small_b = diffs[which(diffs$age_sd_b<250), ]
+hist(diffs_sd_small_b$age_mean_w)
+
+# hist(diffs_sd_small$diff_sd_bb)
+# hist(diffs_sd_small$age_mean_b)
+
+ggplot(data=diffs_sd_small_w) +
+  geom_point(aes(x=age_mean_w, y=age_mean_b)) +
+  geom_abline(slope = 1, intercept = 0, colour="blue") +
+  coord_equal() 
+
+ggplot(data=diffs_sd_small_b) +
+  geom_point(aes(x=age_mean_w, y=age_mean_b))
+
+
+diffs_sd_large_w = diffs[which(diffs$age_sd_w>250), ]
+hist(diffs_sd_large_w$age_mean_w)
+
+# diffs_sd_small_b = diffs[which(diffs$age_sd_b<250), ]
+# hist(diffs_sd_small_b$age_mean_w)
+
+# hist(diffs_sd_small$diff_sd_bb)
+# hist(diffs_sd_small$age_mean_b)
+
+ggplot(data=diffs_sd_large_w) +
+  geom_point(aes(x=age_mean_w, y=age_mean_b)) +
+  geom_abline(slope = 1, intercept = 0, colour="blue") +
+  coord_equal() 
+
+
 #diffs[diffs$age_sd_w>2000,'age_sd_w']
 
-diffs[which((!is.na(diffs$age_sd_w))&(diffs$age_sd_w>2000)),]
-
-fit = lm(age_sd_b ~ age_sd_w, data=diffs)
-
-ggplot(data=subset(diffs, dsid ==14680)) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
-  geom_abline(slope = 1, intercept = 0) +
-  coord_equal() +
-  xlim(c(0,800)) + ylim(c(0,800)) 
+# diffs[which((!is.na(diffs$age_sd_w))&(diffs$age_sd_w>2000)),]
+# 
+# fit = lm(age_sd_b ~ age_sd_w, data=diffs)
+# 
+# ggplot(data=subset(diffs, dsid ==14680)) + geom_point(aes(x=age_sd_w, y=age_sd_b)) +
+#   geom_abline(slope = 1, intercept = 0) +
+#   coord_equal() +
+#   xlim(c(0,800)) + ylim(c(0,800)) 
 
 
 goo = diffs$age_sd_b - diffs$age_sd_w
@@ -210,10 +272,12 @@ summary(geo_fit_sd)
 geo_fit_intercept = coef(geo_fit_sd)[1]
 geo_fit_slope = coef(geo_fit_sd)[2]
 
-ggplot(data=geo_diffs) + geom_point(aes(x=geo_age_sd_w, y=geo_age_sd_b)) +
+ggplot(data=geo_diffs) + 
+  geom_point(aes(x=geo_age_sd_w, y=geo_age_sd_b)) +
   geom_abline(slope = 1, intercept = 0) +
-  coord_equal() +
-  #xlim(c(0,800)) + ylim(c(0,800)) +
+  coord_fixed() +
+  # coord_equal() +
+  xlim(c(0,1000)) + ylim(c(0,1000)) +
   geom_abline(slope = geo_fit_slope, intercept = geo_fit_intercept, colour = 'red')
 
 geo_bw_diff = geo_diffs$geo_age_sd_b - geo_diffs$geo_age_sd_w
@@ -225,6 +289,7 @@ geo_bacon_bigger = which (geo_bw_diff<0)
 length(geo_bacon_bigger)
 
 
+i=1
 dsid = datasetids[i]
 idx_dsid = which(wang_fc$datasetid == dsid)
 

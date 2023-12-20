@@ -133,8 +133,10 @@ for (i in 1:20){#N_datasetids){
   # foo = apply(bacon_posts[, -1], 1, mean)
   # bar = apply(bacon_posts[, -1], 1, sd)
   # plot(foo, bar)
-  
-  bacon_quants_row = apply(bacon_posts[,2:ncol(bacon_posts)], 1, function(x) quantile(x, c(0.4, 0.5, 0.6), na.rm = TRUE))
+  bacon_quants_row = apply(bacon_posts[,2:ncol(bacon_posts)], 1, 
+                           function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
+  # bacon_quants_row = apply(bacon_posts[,2:ncol(bacon_posts)], 1, 
+  #                          function(x) quantile(x, c(0.4, 0.5, 0.6), na.rm = TRUE))
   bacon_quants = data.frame(depths = bacon_posts[,1], t(bacon_quants_row))
   colnames(bacon_quants) = c('depths', 'ylo', 'ymid', 'yhi')
   
@@ -150,7 +152,10 @@ for (i in 1:20){#N_datasetids){
   bchron_posts_long = melt(bchron_posts, id.vars = "depths")
   colnames(bchron_posts_long) = c('depths', 'iter', 'age')
   
-  bchron_quants_row = apply(bchron_posts[,2:ncol(bchron_posts)], 1, function(x) quantile(x, c(0.4, 0.5, 0.6), na.rm = TRUE))
+  bchron_quants_row = apply(bchron_posts[,2:ncol(bchron_posts)], 1, 
+                            function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
+  # bchron_quants_row = apply(bchron_posts[,2:ncol(bchron_posts)], 1, 
+  #                           function(x) quantile(x, c(0.4, 0.5, 0.6), na.rm = TRUE))
   bchron_quants = data.frame(depths = bchron_posts[,1], t(bchron_quants_row))
   colnames(bchron_quants) = c('depths', 'ylo', 'ymid', 'yhi')
   
