@@ -168,6 +168,9 @@ for (i in 1:20){#N_datasetids){
     geo_lo = geo_quants[n,2]
     geo_hi = geo_quants[n,4]
     
+    
+    # perc_overlap = function(x.start, x.end, y.start, y.end){
+      
     if (!is.na(match(geo_depth, bchron_quants$depths))){
       bchron_lo = bchron_quants[match(geo_depth, bchron_quants$depths), 2]
       bchron_hi = bchron_quants[match(geo_depth, bchron_quants$depths), 4]
@@ -206,7 +209,8 @@ plot(diffs_both$olap_bacon, diffs_both$olap_bchron)
 
 ggplot(data=diffs_both, aes(x=olap_bacon, y=olap_bchron)) +
   geom_point() +
-  geom_smooth(method='lm', formula = y~x)
+  geom_smooth(method='lm', formula = y~x) +
+  coord_fixed(xlim=c(0,100), ylim=c(0,100))
 
 diffs_melt = melt(diffs_both, id.vars = c('dsid', 'depth'))
 
