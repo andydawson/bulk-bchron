@@ -43,29 +43,6 @@ perc_overlap = function(x.start, x.end, y.start, y.end){
   return(perc_overlap)
 }
 
-# # bacon_age_posts(d=geo_wang$depth[j], b.depths=geo_wang$depth, out=output, sections=sections)
-# bacon_age_posts <- function(d, b.depths, out, sections)
-# { 
-#   its=out[,1:(ncol(out)-1)]
-#   
-#   dlo = min(b.depths)
-#   dhi = max(b.depths)
-#   thick = round_any((dhi - dlo) / sections, 5)
-#   
-#   elbows <- cbind(its[,1])
-#   accs <- its[,2:(ncol(its)-1)]
-#   for(i in 2:ncol(accs))
-#     elbows <- cbind(elbows, elbows[,ncol(elbows)] + (thick * accs[,i-1]))
-#   
-#   if (d %in% b.depths){
-#     ages <- elbows[,which(b.depths == d)] 
-#   } else {
-#     maxd <- max(which(b.depths < d))
-#     ages <- elbows[,maxd] + ((d-b.depths[maxd]) * accs[,maxd])
-#   }
-#   ages
-# }
-
 
 
 diffs = data.frame(dsid = numeric(0),
@@ -74,7 +51,7 @@ diffs = data.frame(dsid = numeric(0),
                    olap_bacon  = numeric(0))
 
 
-for (i in 1:20){#N_datasetids){
+for (i in 202:N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -130,9 +107,7 @@ for (i in 1:20){#N_datasetids){
   colnames(bacon_posts_long) = c('depths', 'iter', 'age')
   
   
-  # foo = apply(bacon_posts[, -1], 1, mean)
-  # bar = apply(bacon_posts[, -1], 1, sd)
-  # plot(foo, bar)
+ 
   bacon_quants_row = apply(bacon_posts[,2:ncol(bacon_posts)], 1, 
                            function(x) quantile(x, c(0.025, 0.5, 0.975), na.rm = TRUE))
   # bacon_quants_row = apply(bacon_posts[,2:ncol(bacon_posts)], 1, 
@@ -222,6 +197,23 @@ ggplot(data=diffs_melt, aes(x=depth, y=value)) +
 
 ggplot(data=diffs_melt, aes(x=value)) + 
   geom_histogram() + facet_grid(variable~.)
+
+ggplot(data = diffs_melt, aes(x = value)) +
+  geom_freqpoly(aes(color = variable)) +
+         theme_minimal() 
+  
+
+
+
+ggplot(diffs_melt, aes(x = value, fill = variable)) +
+  geom_density(aes(y = , alpha = 0.25))
+
+# ggplot(data = diffs_melt, aes( x = value)) +
+#   geom_density(aes(colour = variable))+
+#   labs(title="Density plot",
+#        subtitle="Overlap grouped by",
+#        x="Value",
+#        fill="variable")
 
 # 
 # ggplot(data = diffs) +
