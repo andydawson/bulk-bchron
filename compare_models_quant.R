@@ -45,7 +45,7 @@ perc_overlap = function(x.start, x.end, y.start, y.end){
 
 
 
-diffs = data.frame(dsid = numeric(0),
+o_diffs = data.frame(dsid = numeric(0),
                    depths = numeric(0),
                    olap_bchron = numeric(0),
                    olap_bacon  = numeric(0))
@@ -167,7 +167,7 @@ for (i in 202:N_datasetids){#N_datasetids){
     
     # fraction of individually calibrated date range that falls in age-depth model pred ages    
     
-    diffs = rbind(diffs,
+    o_diffs = rbind(o_diffs,
                   data.frame(dsid = dsid,
                              depth = geo_depth,
                              olap_bchron = olap_bchron,
@@ -178,61 +178,49 @@ for (i in 202:N_datasetids){#N_datasetids){
 }
 
 
-diffs_both = diffs[which((!is.na(diffs$olap_bacon)) & (!is.na(diffs$olap_bchron))),]
+o_diffs_both = o_diffs[which((!is.na(o_diffs$olap_bacon)) & (!is.na(o_diffs$olap_bchron))),]
 
-plot(diffs_both$olap_bacon, diffs_both$olap_bchron)
+plot(o_diffs_both$olap_bacon, o_diffs_both$olap_bchron)
 
-ggplot(data=diffs_both, aes(x=olap_bacon, y=olap_bchron)) +
+ggplot(data=o_diffs_both, aes(x=olap_bacon, y=olap_bchron)) +
   geom_point() +
   geom_smooth(method='lm', formula = y~x) +
+  geom_abline(intercept=0, slope=1) +
   coord_fixed(xlim=c(0,100), ylim=c(0,100))
 
-diffs_melt = melt(diffs_both, id.vars = c('dsid', 'depth'))
+o_diffs_melt = melt(o_diffs_both, id.vars = c('dsid', 'depth'))
 
-ggplot(data=diffs_melt, aes(x=variable, y=value)) + 
+ggplot(data=o_diffs_melt, aes(x=variable, y=value)) + 
   geom_violin()
 
-ggplot(data=diffs_melt, aes(x=depth, y=value)) + 
+ggplot(data=o_diffs_melt, aes(x=depth, y=value)) + 
   geom_point(aes(colour=variable))
 
-ggplot(data=diffs_melt, aes(x=value)) + 
+ggplot(data=o_diffs_melt, aes(x=value)) + 
   geom_histogram() + facet_grid(variable~.)
 
-ggplot(data = diffs_melt, aes(x = value)) +
+ggplot(data = o_diffs_melt, aes(x = value)) +
   geom_freqpoly(aes(color = variable)) +
          theme_minimal() 
   
 
 
 
-ggplot(diffs_melt, aes(x = value, fill = variable)) +
+ggplot(o_diffs_melt, aes(x = value, fill = variable)) +
   geom_density(aes(y = , alpha = 0.25))
 
-# ggplot(data = diffs_melt, aes( x = value)) +
-#   geom_density(aes(colour = variable))+
-#   labs(title="Density plot",
-#        subtitle="Overlap grouped by",
-#        x="Value",
-#        fill="variable")
+foo = subset(o_diffs_melt, dsid ==1000)
+  
+olap_dots = ggplot(data= foo, aes(x=depth, y=value, colour = variable)) +
+    geom_point()
+  
 
-# 
-# ggplot(data = diffs) +
-#   geom_point(aes(x = depths, y = age_b), color = 'blue', alpha = .2) +
-#   geom_point(aes(x = depths, y = age_w), color = 'red', alpha = .2)
+saveRDS(olap_dots, "olap_dots.RDS")
 
 
-# diffs$age_diff = diffs$age_b - diffs$age_w
-# 
-# ggplot(data=diffs) +
-#   geom_histogram(aes(x=age_diff, y=..density..), bins=100)
-# 
-# summary(diffs$age_diff)
-# 
-# 
-# 
-# dsid = datasetids[1]
-# idx_dsid = which(wang_fc$datasetid == dsid)
-# 
+ggplot(data= foo, aes(x=factor(depth), y=value, colour = variable)) +
+  geom_point()
+
 # files = list.files(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid]))                
 # idx_file = which(str_sub(files,-8,-1) == 'rout.csv')
 # wang_posts = read.csv(paste0('wang/Cores_full/', wang_fc$handle[idx_dsid], '/', files[idx_file]))
