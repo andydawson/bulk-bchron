@@ -8,6 +8,7 @@ library(mgcv)
 library(dplyr)
 
 
+
 vers = 1.0
 
 radio = read.csv('data/radiocarbon-dates-errors.csv')
@@ -57,7 +58,7 @@ diffs = data.frame(dsid = numeric(0),
                    age_sd_b  = numeric(0))
 
 # pdf('figures/age_depth_compare.pdf', width=10, height=6)
-for (i  in 645:N_datasetids){#N_datasetids){
+for (i  in 1:1){#N_datasetids){
   
   print(i)
   
@@ -390,23 +391,7 @@ for (i  in 645:N_datasetids){#N_datasetids){
   
   colors = c("Bchron" = "blue", "Bacon" = "red", "Neotoma" = "orange")
   
-  # p <- ggplot() +
-  #   geom_ribbon(data = bchron_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
-  #   geom_line(data = bchron_quants, aes(x = depths, y = ymid, color = "Bchron"), size = 1.5) +
-  #   geom_ribbon(data = wang_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#FF000033") +
-  #   geom_line(data = wang_quants, aes(x = depths, y = ymid, color = "Bacon"), size = 1.5) + 
-  #   geom_ribbon(data = neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), fill = '#FFA500AA') +
-  #   geom_line(data = neo_quants, aes(x = depth, y = ymid, colour = "Neotoma")) +
-  #   geom_point(data = geochron_quants, aes(x = depth-1, y = ymid), colour='#1F77B4', alpha=0.8) +
-  #   geom_linerange(data = geochron_quants, aes(x = depth-1, ymin = ylo, ymax = yhi), colour='#1F77B4', alpha=0.8, lwd=1) +
-  #   geom_point(data = geochron_bacon_quants, aes(x = depth+1, y = ymid), colour='#D62728', alpha=0.8) +
-  #   geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1) +
-  #   # geom_point(data = geochron_neo_quants, aes(x = depth, y = ymid), colour='#FF8C00', alpha=0.8) +
-  #   # geom_linerange(data = geochron_neo_quants, aes(x = depth, ymin = ylo, ymax = yhi), colour='#FF8C00', alpha=0.8, lwd=1) +
-  #   # # geom_point(data = controls, aes(x = depth, y = age)) +
-  #   labs(title = paste0(dsid, '; ',  wang_fc$handle[idx_dsid]), x = "Depths (cm)", y = "Age", color = "Legend") +
-  #   scale_color_manual(values = colors)
-  
+ add_olap = readRDS('olap_dots.RDS')
   
   p <- ggplot() +
     geom_ribbon(data = bchron_span_quants, aes(x = depths, ymin = ylo, ymax = yhi), fill = "#0000FF33") +
@@ -426,6 +411,8 @@ for (i  in 645:N_datasetids){#N_datasetids){
     scale_color_manual(values = colors)
   
   print(p)
+  
+
   
   ggsave(paste0('figures/age_depth_compare_', dsid, '.png'))
   ggsave(paste0('figures/age_depth_compare_', dsid, '.pdf'))
@@ -459,7 +446,7 @@ for (i  in 645:N_datasetids){#N_datasetids){
     geom_linerange(data = geochron_bacon_quants, aes(x = depth+1, ymin = ylo, ymax = yhi), colour='#D62728', alpha=0.8, lwd=1)+
     labs(title = "Bacon Ages Calibrated", x = "Depth (cm)", y = "Age Mean")
   
-  tri_plot = plot_grid(neo_plot, bchron_plot, bacon_plot) 
+  tri_plot = plot_grid(neo_plot, bchron_plot, bacon_plot, olap_dots) 
   
   print(tri_plot)
   
