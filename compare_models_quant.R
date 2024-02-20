@@ -203,8 +203,10 @@ ggplot(data = o_diffs_melt, aes(x = value)) +
   geom_freqpoly(aes(color = variable)) +
          theme_minimal() 
   
+goo = o_diffs %>% group_by(dsid) %>% summarize(olap_bacon_mean = mean(olap_bacon, na.rm = TRUE), olap_bchron_mean = mean(olap_bchron, na.rm = TRUE))
 
-
+ggplot(data=goo) + geom_point(aes(x=olap_bchron_mean, y=olap_bacon_mean)) + coord_fixed(xlim = c(0,100), ylim=c(0,100)) +
+  geom_abline(intercept=0, slope=1)
 
 ggplot(o_diffs_melt, aes(x = value, fill = variable)) +
   geom_density(aes(y = , alpha = 0.25))
