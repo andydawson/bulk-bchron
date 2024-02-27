@@ -208,6 +208,17 @@ goo = o_diffs %>% group_by(dsid) %>% summarize(olap_bacon_mean = mean(olap_bacon
 ggplot(data=goo) + geom_point(aes(x=olap_bchron_mean, y=olap_bacon_mean)) + coord_fixed(xlim = c(0,100), ylim=c(0,100)) +
   geom_abline(intercept=0, slope=1)
 
+one_site = subset(geochron, datasetid == 1000, select = c(chroncontrolid, age, limitolder, limityounger))
+one_site$control_num = c("Control 1", "Control 2", "Control 3")
+
+
+ggplot(data = one_site, aes(x = age, y = control_num))+
+  geom_pointrange(aes(xmin = limityounger, xmax = limitolder)) 
+
+
+
+
+
 ggplot(o_diffs_melt, aes(x = value, fill = variable)) +
   geom_density(aes(y = , alpha = 0.25))
 
