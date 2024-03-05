@@ -50,6 +50,14 @@ o_diffs = data.frame(dsid = numeric(0),
                    olap_bchron = numeric(0),
                    olap_bacon  = numeric(0))
 
+control_quants = data.frame(dsid = numeric(0),
+                     depths = numeric(0),
+                     type = character(0),
+                     ylo  = numeric(0),
+                     ymid = numeric(0),
+                     yhi = numeric(0))
+                  
+
 
 for (i in 202:N_datasetids){#N_datasetids){
   
@@ -78,7 +86,7 @@ for (i in 202:N_datasetids){#N_datasetids){
   geochron_samples = sampleAges(geochron_cal)
   geochron_quants = t(apply(geochron_samples, 2, quantile, prob=c(0.025, 0.5, 0.975)))
   colnames(geochron_quants) = c('ylo', 'ymid', 'yhi')
-  geo_quants = data.frame(depth = geochron$depth, geochron_quants)
+  geo_quants = data.frame(depths = geochron$depth, geochron_quants)
   
   if (length(idx_dsid) == 0){
     print(paste0('No Bacon age-depth model for dataset id: ', dsid))
@@ -173,6 +181,12 @@ for (i in 202:N_datasetids){#N_datasetids){
                              olap_bchron = olap_bchron,
                              olap_bacon = olap_bacon))
     
+    geo_df = data.frame(dsid = dsid, type = 'control', geo_quants)
+    bchron_df = data.frame(dsid = dsid, type = 'bchron', bchron_quants)
+    bacon_df = data.frame(dsid = dsid, type = 'bacon', bacon_quants)
+    
+  control_quants = do.call("rbind", list(control_quants, geo_df, bchron_df, bacon_df))
+    
   }
   
 }
@@ -212,11 +226,15 @@ one_site = subset(geochron, datasetid == 1000, select = c(chroncontrolid, age, l
 one_site$control_num = c("Control 1", "Control 2", "Control 3")
 
 
-ggplot(data = one_site, aes(x = age, y = control_num))+
+ggplot(data = control_quants, aes(x = age, y = control_num))+
   geom_pointrange(aes(xmin = limityounger, xmax = limitolder)) 
 
 
 
+one_quant_site = subset(control_quants, dsid == 238, select = c(dsid, type, depths, ylo, ymid, yhi))
+
+line_range = ggplot(data = one_quant_site, aes(x = ymid, y = factor(depths)))+
+  geom_pointrange(aes(xmin = ylo, xmax = yhi, color = type), position = position_dodge(width = 0.4))
 
 
 ggplot(o_diffs_melt, aes(x = value, fill = variable)) +
@@ -227,6 +245,11 @@ foo = subset(o_diffs_melt, dsid ==1000)
 olap_dots = ggplot(data= foo, aes(x=depth, y=value, colour = variable)) +
     geom_point()
   
+olap_dots
+
+
+olap_quant = plot_grid(olap_dots,line_range)
+olap_quant
 
 saveRDS(olap_dots, "olap_dots.RDS")
 
