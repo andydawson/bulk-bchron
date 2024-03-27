@@ -3,6 +3,7 @@ library(ggplot2)
 library(overlapping)
 library(reshape2)
 library(Bchron)
+library(cowplot)
 
 chron_control_types <- read.csv("chroncontrol_types-edited.csv")
 
@@ -231,10 +232,29 @@ ggplot(data = control_quants, aes(x = age, y = control_num))+
 
 
 
-one_quant_site = subset(control_quants, dsid == 238, select = c(dsid, type, depths, ylo, ymid, yhi))
+one_quant_site = subset(control_quants, dsid == 337, select = c(dsid, type, depths, ylo, ymid, yhi))
 
 line_range = ggplot(data = one_quant_site, aes(x = ymid, y = factor(depths)))+
   geom_pointrange(aes(xmin = ylo, xmax = yhi, color = type), position = position_dodge(width = 0.4))
+
+o_diffs_both[o_diffs_both$dsid == 337,]
+
+#center the values by subtracting ymid from both ylow and yhi
+# control_center = control_quants
+# 
+# control_center$subhi = control_center$yhi - control_center$ymid
+# control_center$sublo = abs(control_center$ylo - control_center$ymid)
+# 
+# 
+# one_quant_site_center = subset(control_center, dsid == 337, select = c(dsid, type, depths, sublo, ymid, subhi))
+# 
+# 
+# line_range_centered = ggplot(data = one_quant_site_center, aes(x = ymid, y = factor(depths)))+
+#   geom_pointrange(aes(xmin = sublo, xmax = subhi, color = type), position = position_dodge(width = 0.4))
+# 
+# line_range_centered
+
+
 
 
 ggplot(o_diffs_melt, aes(x = value, fill = variable)) +
