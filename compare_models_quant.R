@@ -4,6 +4,7 @@ library(overlapping)
 library(reshape2)
 library(Bchron)
 library(cowplot)
+library(dplyr)
 
 chron_control_types <- read.csv("chroncontrol_types-edited.csv")
 
@@ -232,12 +233,12 @@ ggplot(data = control_quants, aes(x = age, y = control_num))+
 
 
 
-one_quant_site = subset(control_quants, dsid == 337, select = c(dsid, type, depths, ylo, ymid, yhi))
+one_quant_site = subset(control_quants, dsid == 13047, select = c(dsid, type, depths, ylo, ymid, yhi))
 
 line_range = ggplot(data = one_quant_site, aes(x = ymid, y = factor(depths)))+
   geom_pointrange(aes(xmin = ylo, xmax = yhi, color = type), position = position_dodge(width = 0.4))
 
-o_diffs_both[o_diffs_both$dsid == 337,]
+o_diffs_both[o_diffs_both$dsid == 525,]
 
 #center the values by subtracting ymid from both ylow and yhi
 # control_center = control_quants
@@ -255,12 +256,19 @@ o_diffs_both[o_diffs_both$dsid == 337,]
 # line_range_centered
 
 
+##histogram by type for control_quants
+hist_quants = control_quants
+hist_quants %>%
+  group_by(type)
+
+ggplot(control_quants, aes(x= type, y = ymid)) + geom_boxplot()
+
 
 
 ggplot(o_diffs_melt, aes(x = value, fill = variable)) +
   geom_density(aes(y = , alpha = 0.25))
 
-foo = subset(o_diffs_melt, dsid ==1000)
+foo = subset(o_diffs_melt, dsid ==1138)
   
 olap_dots = ggplot(data= foo, aes(x=depth, y=value, colour = variable)) +
     geom_point()
