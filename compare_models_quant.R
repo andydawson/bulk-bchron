@@ -9,6 +9,9 @@ library(dplyr)
 chron_control_types <- read.csv("chroncontrol_types-edited.csv")
 
 wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
+wang_fc$handle[which(wang_fc$handle == '05-21-02')] = '05-21-2'
+wang_fc$handle[which(wang_fc$handle == '05-21-04')] = '05-21-4'
+wang_fc$handle[which(wang_fc$handle == '05-21-05')] = '05-21-5'
 
 wang_cores  = list.files('wang/Cores_full')
 wang_ncores = length(wang_cores)
@@ -61,7 +64,7 @@ control_quants = data.frame(dsid = numeric(0),
                   
 
 
-for (i in 202:N_datasetids){#N_datasetids){
+for (i in 1:N_datasetids){#N_datasetids){
   
   print(i)
   
@@ -195,6 +198,22 @@ for (i in 202:N_datasetids){#N_datasetids){
 
 
 o_diffs_both = o_diffs[which((!is.na(o_diffs$olap_bacon)) & (!is.na(o_diffs$olap_bchron))),]
+
+olap_site = o_diffs_both %>% 
+  group_by(dsid) %>%
+  summarize(n_controls = n(),
+            olap_bchron = mean(olap_bchron),
+            olap_bacon = mean(olap_bacon))
+summary(olap_site$n_controls)
+
+plot(olap_site$olap_bacon, olap_site$olap_bchron)
+
+ggplot(data=olap_site, aes(x=olap_bacon, y=olap_bchron)) +
+  geom_point() +
+  geom_smooth(method='lm', formula = y~x) +
+  geom_abline(intercept=0, slope=1) +
+  coord_fixed(xlim=c(0,100), ylim=c(0,100))
+
 
 plot(o_diffs_both$olap_bacon, o_diffs_both$olap_bchron)
 
