@@ -207,11 +207,23 @@ olap_site = o_diffs_both %>%
             sd_bchron = sd(unlist(cur_data(), olap_bchron)),
             sd_bacon = sd(unlist(cur_data(), olap_bacon)))
 
+
+olap_site = o_diffs_both %>% 
+  group_by(dsid) %>%
+  summarize(n_controls = n(),
+            mean_bchron = mean(olap_bchron),
+            mean_bacon = mean(olap_bacon),
+            sd_bchron = sd(olap_bchron),
+            sd_bacon = sd(olap_bacon),
+            cov_bchron = sd_bchron/mean_bchron,
+            cov_bacon = sd_bacon/mean_bacon)
+
+
 summary(olap_site$n_controls)
 
 plot(olap_site$olap_bacon, olap_site$olap_bchron)
 
-ggplot(data=olap_site, aes(x=olap_bacon, y=olap_bchron)) +
+ggplot(data=olap_site, aes(x=mean_bacon, y=mean_bchron)) +
   geom_point() +
   geom_smooth(method='lm', formula = y~x) +
   geom_abline(intercept=0, slope=1) +
@@ -221,8 +233,20 @@ ggplot(data=olap_site, aes(x=sd_bacon, y=sd_bchron)) +
   geom_point() +
   geom_smooth(method='lm', formula = y~x) +
   geom_abline(intercept=0, slope=1) +
-  coord_fixed(xlim=c(0,100), ylim=c(0,100))
+  coord_fixed(xlim=c(0,75), ylim=c(0,75))
 
+
+ggplot(data=olap_site, aes(x=cov_bacon, y=cov_bchron)) +
+  geom_point() +
+  geom_smooth(method='lm', formula = y~x) +
+  geom_abline(intercept=0, slope=1) +
+  coord_fixed(xlim=c(0,7), ylim=c(0,7))
+
+
+ggplot() +
+  geom_point(data=olap_site, aes (x = mean_bacon, y = sd_bacon))+
+  geom_point(data=olap_site, aes (x = mean_bchron, y = sd_bchron), color = 'blue')+
+  coord_fixed(xlim=c(0,100), ylim=c(0,100))
 
 plot(o_diffs_both$olap_bacon, o_diffs_both$olap_bchron)
 
