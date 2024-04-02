@@ -203,12 +203,21 @@ olap_site = o_diffs_both %>%
   group_by(dsid) %>%
   summarize(n_controls = n(),
             olap_bchron = mean(olap_bchron),
-            olap_bacon = mean(olap_bacon))
+            olap_bacon = mean(olap_bacon),
+            sd_bchron = sd(unlist(cur_data(), olap_bchron)),
+            sd_bacon = sd(unlist(cur_data(), olap_bacon)))
+
 summary(olap_site$n_controls)
 
 plot(olap_site$olap_bacon, olap_site$olap_bchron)
 
 ggplot(data=olap_site, aes(x=olap_bacon, y=olap_bchron)) +
+  geom_point() +
+  geom_smooth(method='lm', formula = y~x) +
+  geom_abline(intercept=0, slope=1) +
+  coord_fixed(xlim=c(0,100), ylim=c(0,100))
+
+ggplot(data=olap_site, aes(x=sd_bacon, y=sd_bchron)) +
   geom_point() +
   geom_smooth(method='lm', formula = y~x) +
   geom_abline(intercept=0, slope=1) +
