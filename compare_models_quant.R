@@ -6,6 +6,7 @@ library(Bchron)
 library(cowplot)
 library(dplyr)
 
+
 chron_control_types <- read.csv("chroncontrol_types-edited.csv")
 
 wang_fc = read.csv('wang/SiteInfo_fullcore.csv', stringsAsFactors = FALSE)
@@ -221,6 +222,9 @@ olap_site = o_diffs_both %>%
 
 summary(olap_site$n_controls)
 
+
+
+
 plot(olap_site$olap_bacon, olap_site$olap_bchron)
 
 ggplot(data=olap_site, aes(x=mean_bacon, y=mean_bchron)) +
@@ -240,7 +244,7 @@ ggplot(data=olap_site, aes(x=cov_bacon, y=cov_bchron)) +
   geom_point() +
   geom_smooth(method='lm', formula = y~x) +
   geom_abline(intercept=0, slope=1) +
-  coord_fixed(xlim=c(0,7), ylim=c(0,7))
+  coord_fixed(xlim=c(0,6), ylim=c(0,6))
 
 
 ggplot() +
@@ -258,6 +262,12 @@ ggplot(data=o_diffs_both, aes(x=olap_bacon, y=olap_bchron)) +
 
 o_diffs_melt = melt(o_diffs_both, id.vars = c('dsid', 'depth'))
 
+
+short_melt = subset(o_diffs_melt, dsid == 1000, 1001, 1002, 1008, select = c(dsid, variable, value))
+ggplot(short_melt, aes(x = factor(dsid), y = value, fill = variable, colour = variable)) + 
+  geom_bar(stat = "identity", position = "dodge")
+
+ 
 ggplot(data=o_diffs_melt, aes(x=variable, y=value)) + 
   geom_violin()
 
@@ -273,6 +283,7 @@ ggplot(data = o_diffs_melt, aes(x = value)) +
   
 goo = o_diffs %>% group_by(dsid) %>% summarize(olap_bacon_mean = mean(olap_bacon, na.rm = TRUE), olap_bchron_mean = mean(olap_bchron, na.rm = TRUE))
 
+
 ggplot(data=goo) + geom_point(aes(x=olap_bchron_mean, y=olap_bacon_mean)) + coord_fixed(xlim = c(0,100), ylim=c(0,100)) +
   geom_abline(intercept=0, slope=1)
 
@@ -281,7 +292,7 @@ one_site$control_num = c("Control 1", "Control 2", "Control 3")
 
 
 ggplot(data = control_quants, aes(x = age, y = control_num))+
-  geom_pointrange(aes(xmin = limityounger, xmax = limitolder)) 
+  geom_pointrange(aes(xmin = ylo, xmax = yhi)) 
 
 
 
@@ -312,6 +323,8 @@ o_diffs_both[o_diffs_both$dsid == 525,]
 hist_quants = control_quants
 hist_quants %>%
   group_by(type)
+
+
 
 ggplot(control_quants, aes(x= type, y = ymid)) + geom_boxplot()
 
