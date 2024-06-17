@@ -246,6 +246,9 @@ ggplot(data=olap_site, aes(x=cov_bacon, y=cov_bchron)) +
   geom_abline(intercept=0, slope=1) +
   coord_fixed(xlim=c(0,6), ylim=c(0,6))
 
+olap_site$mean_diff = olap_site$mean_bchron - olap_site$mean_bacon
+hist(olap_site$mean_diff)
+
 
 ggplot() +
   geom_point(data=olap_site, aes (x = mean_bacon, y = sd_bacon))+
@@ -262,20 +265,70 @@ ggplot(data=o_diffs_both, aes(x=olap_bacon, y=olap_bchron)) +
 
 o_diffs_melt = melt(o_diffs_both, id.vars = c('dsid', 'depth'))
 
+#Doesn"t work, not sure what was trying to be shown in this one
+# short_melt = subset(o_diffs_melt, dsid == 1000, 1001, 1002, 1008, select = c(dsid, variable, value))
+# ggplot(short_melt, aes(x = factor(dsid), y = value, fill = variable, colour = variable)) + 
+#   geom_bar(stat = "identity", position = "dodge")
 
-short_melt = subset(o_diffs_melt, dsid == 1000, 1001, 1002, 1008, select = c(dsid, variable, value))
-ggplot(short_melt, aes(x = factor(dsid), y = value, fill = variable, colour = variable)) + 
-  geom_bar(stat = "identity", position = "dodge")
-
- 
 ggplot(data=o_diffs_melt, aes(x=variable, y=value)) + 
   geom_violin()
 
 ggplot(data=o_diffs_melt, aes(x=depth, y=value)) + 
   geom_point(aes(colour=variable))
 
+
+mean(subset(o_diffs_melt, variable == 'olap_bchron')$value)
+mean(subset(o_diffs_melt, variable == 'olap_bacon')$value)
+
 ggplot(data=o_diffs_melt, aes(x=value)) + 
-  geom_histogram() + facet_grid(variable~.)
+  geom_histogram() + facet_grid(variable~.) 
+
+#histograms of olap value for bchron and bacon with mean lines
+o_diffs_melt %>%
+  group_by(variable) %>%
+  mutate(mean= mean(value)) %>%
+  ungroup %>%
+  ggplot(aes(x=value))+
+  geom_histogram()+
+  geom_vline(aes(xintercept = mean), color="red")+
+  facet_wrap(~variable)
+  
+
+#50 sites with highest number of controls,  mean values of olap 
+most_controls = top_n(olap_site, 50, n_controls)
+
+bchron_most_controls = ggplot(data=most_controls, aes(x=mean_bchron)) +
+  geom_histogram() 
+
+bacon_most_controls = ggplot(data=most_controls, aes(x=mean_bacon)) +
+  geom_histogram() 
+
+plot_grid(bchron_most_controls, bacon_most_controls)
+
+
+#50 sites with lowest number of controls,  mean values of olap 
+least_controls = top_n(olap_site, -50, n_controls)
+
+bchron_least_controls = ggplot(data=least_controls, aes(x=mean_bchron)) +
+  geom_histogram() 
+
+bacon_least_controls = ggplot(data=least_controls, aes(x=mean_bacon)) +
+  geom_histogram() 
+
+plot_grid(bchron_least_controls, bacon_least_controls)
+
+
+#deepest samples
+deep_olap = top_n(o_diffs_melt, 50, depth)
+
+deep_olap %>%
+  group_by(variable) %>%
+  mutate(mean= mean(value)) %>%
+  ungroup %>%
+  ggplot(aes(x=value))+
+  geom_histogram()+
+  geom_vline(aes(xintercept = mean), color="red")+
+  facet_wrap(~variable)
 
 ggplot(data = o_diffs_melt, aes(x = value)) +
   geom_freqpoly(aes(color = variable)) +
